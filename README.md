@@ -1,1 +1,1 @@
-iptv listelerim# txt
+iptv listelerim
