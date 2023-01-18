@@ -78,6 +78,8 @@ http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CANKIRI TV
+https://59cba4d34b678.streamlock.net/canlitv/cankiritv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.afyonturktv.com/wp-content/uploads/2018/10/afyoturktv.jpg"                   ,AFYONTURK
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.viyana.tv/uploads/logo/viyanatvbu.png"                                       ,VIYANA TV
@@ -204,6 +206,8 @@ https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/gokkusagi-tv/chunklist_w197338593.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EGE TURK
 https://iptv.egeturk.tv/iptv/canliyayin/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,METROPOL TV
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id"TRTKurdi.tr"             tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id"TRTAlArabiya.tr"         tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
