@@ -46,17 +46,17 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV EUROPA
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="SHOWTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TURK
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ShowTurk.tr"            tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TURK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="STAR.tr"                tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EURO STAR
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,T G R T EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KANAL7.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,KANAL 7 EURO
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KANAL7int.tr"           tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,KANAL 7 EURO
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 EURO
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV8int.tr"              tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 EURO
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,EURO D
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png"                             ,TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
@@ -89,7 +89,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,AHABER
-https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TURK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABER TURK
@@ -223,7 +223,7 @@ http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KABE TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MEDINE TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BERAT TV
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAMIA TV
@@ -508,7 +508,6 @@ http://baharturktv.radyotvyayini.com:1935/baharturktv/baharturktv/playlist.m3u8
 http://cdn1-gunedogustv.yayin.com.tr/gunedogustv/ngrp:gunedogustv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FETHIYE TV
 https://host.onlineradyotv.net:8081/marmaratv/index.m3u8
-
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MESAJ TV
 http://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ON4 TV
@@ -1840,36 +1839,691 @@ https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
 https://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Hayrantv.tr" ,HAYRAN TV
 http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_logosuz/playlist.m3u8
+#####################################################################################################################################################################################################
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,2x2
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,8 канал
+http://mfe.cliptv.az/dash/8_kanal_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Amedia 1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Amedia 2
+http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,BRIDGE TV
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Da Vinci Learning
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Disney
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,FASHION TV
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Gulli Girl
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,HD Life
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,MTV DANCE
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,MTV HITS
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,MTV RUSSIA
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Mama
+http://mfe.cliptv.az/dash/Mama_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Mezzo Live
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Nickelodeon
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,NİCK JR
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,OCEAN TV
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,PARAMOUNT COMEDY
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,RTG TV
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Show
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Sony Turbo
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Spike
+http://mfe.cliptv.az/dash/Spike_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TMB TV
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT 1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT Belgesel
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT Haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT Spor
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TRT World
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,TV1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Teve 2
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Travel Channel
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,VH1 CLASSIC
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,VH1 EUROPE
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,VIP Megahit
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Viasat History
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Viasat Nature
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Vip Comedy
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Vip Premiere
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,XXI
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,t.me/tvlab MGM
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,АВТО 24
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Авто Плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Детский Мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Дикий
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Европа Плюс
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Индийское Кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОМИКС
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОПРЕМЬЕРА
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОСЕМЬЯ
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОСЕРИЯ
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Кино ТВ
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Любимое Кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,МИР 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,МУЗ
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Мир
+http://mfe.cliptv.az/dash/Mir_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Мир Сериала
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Мультимания
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,НАШЕ НОВОЕ КИНО
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,НСТВ
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Наш Футбол
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Охота и Рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Первый Канал
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Пятница!
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,РОДНОЕ КИНО
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Русский Детектив
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Русский Роман
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,СТС love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ТВ Центр
+http://mfe.cliptv.az/dash/TV_Center_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,ТЕЛЕКАФЕ
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Че
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,Шансон
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                       ,360
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#####################################################################################################################################################################################################
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/aksutv.png" ,AKSU TV
+https://waw1.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/astv.png" ,AS TV
+https://waw1.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/brtv.png" ,BRTV
+https://waw1.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/ciftcitv.png" ,CIFTCI TV
+https://waw1.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/dehatv.png" ,DEHA TV
+https://waw1.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/denizpostasitv.png" ,DENIZPOSTASI TV
+https://waw1.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/dimtv.png" ,DIM TV
+https://waw1.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/diyartv.png" ,DIYAR TV
+https://waw1.artiyerelmedya.net/diyartv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/ertv.png" ,ERTV
+https://waw1.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/estv.png" ,ES TV
+https://waw1.artiyerelmedya.net/estv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/etv.png" ,E TV
+https://waw1.artiyerelmedya.net/etv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/olaytv.png" ,OLAY TV
+https://waw1.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/grt.png" ,GRT
+https://waw1.artiyerelmedya.net/grt/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/guneytv.png" ,GUNEY TV
+https://waw1.artiyerelmedya.net/guneytv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/hunattv.png" ,HUNAT TV
+https://waw1.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[AZ] AZERBAYCAN CH" tvg-logo="https://yerelmedya.tv/logosTV/interaz.png" ,INTER AZ
+https://waw1.artiyerelmedya.net/interaz/bant1/playlist.m3u8
+#EXTINF:0 group-title="[AZ] AZERBAYCAN CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal12.png" ,KANAL 12
+https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal15.png" ,KANAL 15
+https://waw1.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal16.png" ,ON 6
+https://waw1.artiyerelmedya.net/kanal16/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal23.png" ,KANAL 23
+https://waw1.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal26.png" ,KANAL 26
+https://waw1.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal3.png" ,KANAL 3
+https://waw1.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal58.png" ,KANAL 58
+https://waw1.artiyerelmedya.net/kanal58/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal65.png" ,KANAL 65
+https://waw1.artiyerelmedya.net/kanal65/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal68.png" ,KANAL 68
+https://waw1.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanalfirat.png" ,KANAL FIRAT
+https://waw1.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanalz.png" ,KANAL Z
+https://waw1.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanalv.png" ,KANAL V
+https://waw1.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kaytv.png" ,KAY TV
+https://waw1.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/38kenttv.png" ,KENT TV
+https://waw1.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/lifetv.png" ,LIFE TV
+https://waw1.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/mavikaradeniz.png" ,MAVI KARADENIZ
+https://waw1.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/mercantv.png" ,MERCAN TV
+https://waw1.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/kanal2000.png" ,KANAL 2000
+https://waw1.artiyerelmedya.net/kanal2000/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/olayturk.png" ,OLAY TURK
+https://waw1.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] MUZIK CH" tvg-logo="https://yerelmedya.tv/logosTV/powerturktv.png" ,POWERTURK
+https://waw1.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] MUZIK CH" tvg-logo="https://yerelmedya.tv/logosTV/powertv.png" ,POWER TV
+https://waw1.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/sat7turk.png" ,SAT 7 TURK
+https://waw1.artiyerelmedya.net/sat7turk/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/sunrtv.png" ,SUN TV
+https://waw1.artiyerelmedya.net/sunrtv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] MUZIK CH" tvg-logo="https://yerelmedya.tv/logosTV/tatlisestv.png" ,TATLISES TV
+https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/tempotv.png" ,TEMPO TV
+https://waw1.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/tivi6.png" ,TIVI 6
+https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/tontv.png" ,TON TV
+https://waw1.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/tv41.png" ,TV 41
+https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/urfanatiktv.png" ,URFANATIK TV
+https://waw1.artiyerelmedya.net/urfanatiktv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/vizyon58.png" ,VIZYON 58
+https://waw1.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/vuslattv.png" ,VUSLAT TV
+https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8
+#EXTINF:0 group-title="[TR] YEREL CH" tvg-logo="https://yerelmedya.tv/logosTV/worldturk.png" ,WORLD TURK
+https://waw1.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
+###################################################################################################################################################################################################
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001247/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001247&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001248/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001248&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT AVAZ
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001249/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001249&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT TURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001256/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001256&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TV 4
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BEYAZ TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,KANAL 7
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TV 8
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TV 8,5
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FOX TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SHOW TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,ATV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,A 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TEVE 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,KANAL D
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FX
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001168/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001168&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,360 TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DMAX
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001139/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001139&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TLC
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001246/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001246&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BBC EARTH
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001141/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001141&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NAT GEO
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001195/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001195&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NAT GEO WILD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001213/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001213&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HISTORY
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001173/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001173&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HISTORY VIASAT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001771/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001771&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DISCOVERY
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001355/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001355&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DISCOVERY SIENCE SCI
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001136/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001136&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,ID
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001205/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001205&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TARIH TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002067/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002067&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,STAR TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 1001
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001227/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001227&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 1002
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001231/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001231&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001242/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001242&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001228/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001228&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AKSIYON
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001232/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001232&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AKSIYON 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001229/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001229&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA KOMEDI
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001230/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001230&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA KOMEDI 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001241/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001241&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AILE
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001233/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001233&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AILE 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001234/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001234&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA YERLI
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001243/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001243&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA YERLI 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001235/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001235&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,24 TV HABER
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001013/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001013&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,24 KITCHEN
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001014/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001014&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,A HABER
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,A PARA
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001018/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001018&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,A SPOR
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001019/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001019&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DA VINCI
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001042/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001042&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT EBA ILK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001044/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001044&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,AKIT TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001124/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001124&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,A NEWS
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001127/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001127&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,aL JAZEERE
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001131/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001131&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DW
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001134/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001134&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DISCOVERY
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001135/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001135&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DISNEY JUNIOR
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001138/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001138&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,CNN TURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DREAM TURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001154/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001154&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,DIYANET TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001155/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001155&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FN NEWS 
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001156/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001156&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,EUROSPORT 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001162/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001162&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,EUROSPORT 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001163/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001163&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FRANCE 24
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001167/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001167&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HABER GLOBAL
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HABER TURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HABITAT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001172/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001172&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BBC FIRST
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001175/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001175&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BENGUTURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001176/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001176&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BOOMERANG
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001179/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001179&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BBC NEWS WORLD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001181/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001181&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT EBA ORTA
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001182/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001182&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT MUZIK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001183/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001183&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BLOOMBERG HT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001191/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001191&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,CNN INT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001192/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001192&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NBA TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001196/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001196&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NHK WORLD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001197/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001197&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,CNBC
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001204/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001204&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NTV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,POWER TURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001219/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001219&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,POWER TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001220/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001220&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,RT ARABIC
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001221/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001221&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,S SPORT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001222&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,S SPORT 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001223&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,KABE TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001224/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001224&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SEMERKANT TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001225/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001225&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT KURDI
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001240/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001240&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TGRT HABER
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001245/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001245&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT COCUK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001258/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001258&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT WORLD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001257/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001257&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT EBA LISE
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001250/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001250&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT HABER
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TV 100
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001259/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001259&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TV5 MONDE EUROPA
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001261/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001261&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TVNET
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001262/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001262&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TIVIBU TANITIM
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 group-title="[TUR] ULUSAL CH" ,Tivibu Spor 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001265&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] ULUSAL CH" ,Tivibu Spor 2
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001273&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] ULUSAL CH" ,Tivibu Spor 3
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001291&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] ULUSAL CH" ,Tivibu Spor 4
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001266&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] ULUSAL CH" ,Tivibu Spor 5
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001841&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,ULKE TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001304/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001304&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,VAV TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001305/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001305&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT BELGESEL
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001307/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001307&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HISTORY
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001342/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001342&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BBC EARTH
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001352/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001352&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BBC FIRST
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001353/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001353&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FX
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001356/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001356&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NTV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001357/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001357&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,NAT GEO WILD
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001358/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001358&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HABITAT
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001371/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001371&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT SPOR
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001381/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001381&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT SPOR *
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001391/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001391&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,EKOTURK
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001401/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001401&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,EDDE
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001711/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001711&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,AL JAZEERE STREAM
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001731/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001731&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,EPIC DRAMA
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001751/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001751&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,LOVE NATURE
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001761/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001761&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,MEDINE TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001801/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001801&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,HALK TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001945/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001945&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,BELIRSIZ KANAL
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002027/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002027&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TARIH TV
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002057/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002057&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TIVIBU TANITIM
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002097/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002097&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TRT 1
+http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002107/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002107&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA YERLİ
+http://bit.ly/3N3z7Yk
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA YERLİ 2
+http://bit.ly/3LXuptR
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA TV
+http://bit.ly/3GytGyk
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 2
+http://bit.ly/3GwxVu7
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AKSIYON
+http://bit.ly/3a93XjP
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AKSIYON 2
+http://bit.ly/3wXhGTL
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA KOMEDİ
+http://bit.ly/3N2PnbW
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA KOMEDİ 2
+http://bit.ly/3PR0I0A
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AİLE
+http://bit.ly/3N1fKiq
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA AİLE 2
+http://bit.ly/38uoJdb
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 1001
+http://bit.ly/3lWMTjI
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,SINEMA 1002
+http://bit.ly/3a7nIYL
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,FX
+http://bit.ly/38XSbZ5
+#EXTINF:-1 group-title="[TUR] TIVIBU CH"  ,TARİH TV
+https://bit.ly/3e6ppYK
 
+###################################################################################################################################################################################################
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747038.png" group-title="turkey", 1TRSPOR HD 1
 http://37.221.121.137:6060/trspor.ts
 #EXTINF: -1 tvg-name="TRT World" tvg-logo="http://luginaiptv.com/TRTWorld.png" group-title="turkey", TRT World
@@ -1984,3 +2638,4 @@ http://premium.luginaiptv.com:8000/Armendi/123456/11956
 http://premium.luginaiptv.com:8000/Armendi/123456/11948
 #EXTINF: -1 tvg-name="a Haber" group-title="turkey", a Haber
 http://premium.luginaiptv.com:8000/Armendi/123456/11951
+
