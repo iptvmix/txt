@@ -60,6 +60,8 @@ https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png"                             ,TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://teleon.at.ua/uzmanmedya.png"                                                     ,TELEON
+https://is.gd/3YnkFN.ts
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX
@@ -159,13 +161,9 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV
 http://adana01.ozelip.com:26258/isvicretv/isvicretv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 1
-https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+https://is.gd/d1T8gY.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 2
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 3
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 4
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+https://is.gd/daUbT5.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YANSINA TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YANSIMA PREMIUM
@@ -3650,5 +3648,54 @@ https://eu.divan.tv:8081/tv54/preview.mp4
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="atv.de" ,a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 
+
+#EXTINF:-1,KANAL D DRAMA
+http://balkanika.club:2082/shoku/shoku/437
+#EXTINF:-1,beIN Sports 1 TR
+http://balkanika.club:2082/shoku/shoku/31
+#EXTINF:-1,beIN Sports 2 TR
+http://balkanika.club:2082/shoku/shoku/32
+#EXTINF:-1,beIN Sports 3 TR
+http://balkanika.club:2082/shoku/shoku/33
+#EXTINF:-1,beIN Sports 4 TR
+http://balkanika.club:2082/shoku/shoku/34
+
+#EXTINF:-1,FOX
+http://balkanika.club:2082/shoku/shoku/93
+#EXTINF:-1,Discovery Channel
+http://balkanika.club:2082/shoku/shoku/95
+#EXTINF:-1,Disney Channel
+http://balkanika.club:2082/shoku/shoku/96
+#EXTINF:-1,TRT 1 FHD
+http://balkanika.club:2082/shoku/shoku/97
+#EXTINF:-1,TRT 2 FHD
+http://balkanika.club:2082/shoku/shoku/98
+#EXTINF:-1,SHOW TV FHD
+http://balkanika.club:2082/shoku/shoku/101
+#EXTINF:-1,Star Tv HD
+http://balkanika.club:2082/shoku/shoku/549
+#EXTINF:-1,KANAL 7 FHD
+http://balkanika.club:2082/shoku/shoku/102
+#EXTINF:-1,Kanal 24 FHD
+http://balkanika.club:2082/shoku/shoku/103
+#EXTINF:-1,KANAL D FHD
+http://balkanika.club:2082/shoku/shoku/104
+
+#EXTINF:-1,RTL
+http://balkanika.club:2082/shoku/shoku/392
+#EXTINF:-1,Super RTL
+http://balkanika.club:2082/shoku/shoku/445
+#EXTINF:-1,Pro7
+http://balkanika.club:2082/shoku/shoku/393
+#EXTINF:-1,VOX
+http://balkanika.club:2082/shoku/shoku/394
+#EXTINF:-1,Sat 1 Gold
+http://balkanika.club:2082/shoku/shoku/396
+#EXTINF:-1,PRO 7 MAX
+http://balkanika.club:2082/shoku/shoku/397
+#EXTINF:-1,ZDF
+http://balkanika.club:2082/shoku/shoku/398
+#EXTINF:-1,KIKA
+http://balkanika.club:2082/shoku/shoku/399
 
 
