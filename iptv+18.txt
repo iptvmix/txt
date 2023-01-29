@@ -1,0 +1,181 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Anal         
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Asian        
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Ass      
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Dick     
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Tits     
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blonde       
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blowjob      
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Brunette     
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,cuckold      
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Compilation  
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Fetish       
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gang Bang    
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Hardcore     
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Interracial  
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Latina       
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Live Cams    
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Milf         
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pron Star    
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pov          
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Russian      
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Rough        
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Teen         
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Threesome    
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Trans        
+http://cdn.adultiptv.net/trans.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Lesbian      
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gay          
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Ast Tv 1     
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Ast Tv 2     
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Visit XTV    
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,A3 Bikini    
+https://ch.iptvmate.net/5e9350f079fed15e9d592220.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,vxtv         
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Miami  Ch    
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Miami  Ch    
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Miami  Ch Jenny
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,FTV Global   
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,FTV Paris    
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,FTV Screets  
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Anal         
+http://play.iptvxxx.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Asian        
+http://play.iptvxxx.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Ass      
+http://play.iptvxxx.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Dick     
+http://play.iptvxxx.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Tits     
+http://play.iptvxxx.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blonde       
+http://play.iptvxxx.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blowjob      
+http://play.iptvxxx.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Brunette     
+http://play.iptvxxx.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,cuckold      
+http://play.iptvxxx.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Compilation  
+http://play.iptvxxx.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Fetish       
+http://play.iptvxxx.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gang Bang    
+http://play.iptvxxx.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Hardcore     
+http://play.iptvxxx.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Interracial  
+http://play.iptvxxx.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Latina       
+http://play.iptvxxx.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Live Cams    
+http://play.iptvxxx.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Milf         
+http://play.iptvxxx.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pron Star    
+http://play.iptvxxx.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pov          
+http://play.iptvxxx.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Russian      
+http://play.iptvxxx.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Rough        
+http://play.iptvxxx.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Teen         
+http://play.iptvxxx.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Threesome    
+http://play.iptvxxx.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Trans        
+http://play.iptvxxx.net/trans.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Lesbian      
+http://play.iptvxxx.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gay          
+http://play.iptvxxx.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Anal         
+http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Asian        
+http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Ass      
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Dick     
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Big Tits     
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blonde       
+http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blowjob      
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Brunette     
+http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,cuckold      
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Compilation  
+http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Fetish       
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gang Bang    
+http://live.redtraffic.xyz/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Hardcore     
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Interracial  
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Latina       
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Live Cams    
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Milf         
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pron Star    
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Pov          
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Russian      
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Rough        
+http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Teen         
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Threesome    
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Trans        
+http://live.redtraffic.xyz/trans.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Lesbian      
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gay          
+http://live.redtraffic.xyz/gay.m3u8
