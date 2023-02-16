@@ -92,7 +92,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,AHABER
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+https://59c7ea6bec1c6.streamlock.net/filboxlive/ahaber.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TURK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABER TURK
@@ -3119,212 +3119,6 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="ANIXE.de" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png" ,ANIXE TV
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKGermany.de" tvg-logo="https://i.imgur.com/7krfGOy.jpg" ,RK Germany
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Comedy Movies
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKActionMovies.de" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" ,RK Action Movies
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Action Movies Germany
-https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Comedy Movies Germany
-https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Drama Germany
-https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Family Germany
-https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Spotlight Germany
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Spotlight EU
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TOP FREE
-https://a6fa08d757884cf9994344c24b948fc6.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TopFree/5da538aa-46a3-4123-b1f6-d445e5a66a67/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKActionMovies.de" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" ,RK Action Movies
-https://d35b7cc78d1349babeb4c5f015699464.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenActionMovies/d03d7045-c9db-4ef8-9b55-9c75d1a1dafe/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Comedy Movies
-https://ef43576fea7e4475bafdedc078f5738b.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenComedyMovies/04990a1d-dae6-4eb8-9305-a0598b2b3471/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK Drama 
-https://67d66914daeb4e91ae8564deea8ce2af.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenTVShows/0cd1b8e2-f829-4a95-9d22-5e8dbba7ba43/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK SPORTLIGHT
-https://36bfede34da14ed1b5c385e80893a316.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenSpotlight/63b638e5-1079-4304-bf45-6c5ca4f78924/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK LOCAL
-https://b5715cbbaaed49ac85d3f98043f11a33.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_Local/b3acce7e-836c-41ad-a3de-c4c7c75cc81b/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK THRILLER
-https://5bcd094bbfe94b3390cab03bef63bee5.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenThriller/f10fbb41-9adb-4d9f-a4b2-b7d5dd4c8d2c/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK ROMANCE
-https://8bd243f0856747b4aa9ae0716bc2c79e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_RakutenRomance/f4e75c5d-d35c-4a58-8722-347ae03e932e/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK FILMSTREAM
-https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/b98a321c-cb36-4e7f-b7d4-a7fe89c23479/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK CRACTION TV
-https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=22f740f8-c630-4d1b-950c-6c1b5962d2d6&ads_amagi_channel=786&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3807&ads_user_type=visitor&ads_content_classification=16&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25k7shb-ebe5-ub-md1y-dk7jy2rvt7b/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/960x540_2340800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STITCHED
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e4c042fb-e74b-4110-a6c7-76cae23f4359/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BINGE WATCH
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ac4250db-fa3d-462c-8ae6-b13039742f6b/4.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK VIKI
-https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/e64c173b-0951-4bcc-90a8-f0147132a142/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BBC HISTORY
-https://1135fd3b6de44a48a336dea65beb7626.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BBCHistory/d1bd1a84-00f9-40e7-8ede-0ea99017bbab/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK THE PED COLLECTIVE
-https://6d185bb7400e446f89481c43da8a579c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ThePetCollective/893c2ec8-9e0f-466a-9b0a-04516329c206/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK FAIL ARMY
-https://4b1a614d2fbc47b5843ee545489fc197.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FailArmy/a73fb2ae-cae0-4b26-98e3-f618d0c41d5a/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK PEOPLE ARE AWESOME
-https://3f01356fd70c4daba7be812b88108d0e.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome/95b38506-5d7d-4ee9-b3ab-e4921194875b/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK PEOPLE
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9b7717c1-6314-413c-b0af-2ca4a27358b4/3.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK INSIGHT TV
-https://insighttv-ger-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=ced952d0-4672-43c3-9106-4bf0319877fd&ads_amagi_channel=703&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=1968&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25kdtvp-1tu0-tm-hp4s-d3r9keyjieh/hls/amagi_hls_data_rakutenAA-insighttv-ger-rakuten/CDN/640x360_985600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK AMERICAN FUNN HOME 
-https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/b5db489d-08a7-4965-b7b6-8773f251fe73/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK INWONDER
-https://inwonder-ger-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=a20ff0a2-94e0-4092-ac90-e66c59d9d9ed&ads_amagi_channel=706&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=1955&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25kr9fe-9vti-eg-m32v-74pcrrr6o5/hls/amagi_hls_data_rakutenAA-inwonder-ger-rakuten/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK GAGS
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ad04ff86-fa30-4237-af1b-4fcf17a3fe84/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK REVRY
-https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/d61de403-3db4-4d6e-bbbc-297887dcf621/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK WIRED
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/a4b22300-9b88-4662-99a8-5024d5f7c2be/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TENIS CH
-https://tennischanneldeu-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=0c8982bf-265a-4a7b-a88d-831e63f05f5d&ads_amagi_channel=738&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3279&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25ku6pc-dfqd-t78-s09p-kpptnpd4ac/hls/amagi_hls_data_rakutenAA-tennischannel-deutschland/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK MAV MOTORSPORT
-https://1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/b63398d5-573f-4560-9333-d5345512bbbb/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK WPT
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/86150332-3a3e-48ef-850a-1d00e293585c/4.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK FUEL TV
-https://b4208a07e52a4a4a8fc67d390ca70848.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FuelTV/cfb2fc8a-fe94-48da-b763-11cb77cb10fc/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BILLIARDS
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/a2dcaade-750c-4c65-879a-f29c730f8d38/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK EU FOOTBALL
-https://amg01378-efl-europeanfoo-efl-rakuten-0efrv.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=9eb68255-cf14-4000-84e5-0edf60b8fa91&ads_amagi_channel=773&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3642&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25l2d3j-eji0-e3g-bj69-0e3vmgq9xypn/hls/amagi_hls_data_rakutenAA-europeanfootballleague-rakuten/CDN/1280x720_2961200/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK ESTV
-https://estv-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=a318f26e-77ce-4812-bb92-52e1c8438efb&ads_amagi_channel=708&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2450&ads_user_type=visitor&ads_content_classification=12&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25l3dpe-b601-6s-ghj6-8l9h1ft2xfx/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/1920x1080_5420800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK HARD KNOCS
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/17460157-a2ef-4357-935a-f37985426714/4.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK POWER NATION
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/72c09561-1cd4-4b96-90a7-b8de50eba08a/3.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK USGA
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/16cd73bd-e3a4-45aa-80c0-5c15612708a8/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK SPORT OUTDOOR
-https://91b5799a3e214962a772b63035002827.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SportOutdoorTV/666ad45f-e458-4927-99f0-a20b22f73212/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK MOTORVISION
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c7bd5fdf-1ec0-4396-9abf-bce3e7f39861/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK FASHION TV
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/c4cb7d7c-df48-4fef-ae54-3c3f9f377bb3/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK GLAMOUR
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/e36b5af4-92e1-4da0-af8e-991e9f94b333/5.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK GQ
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b9e646b2-d42a-4237-b0e4-5658a6baca43/1.m3u8
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK MARCO POLLO
-https://amg01528-motorpressestut-marcopolotv-rakuten-zrl3v.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=b707e6e4-9c08-4b1b-8214-b3fa6ce76240&ads_amagi_channel=777&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3736&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25ldofu-jnvq-l58-149i-0idr61rxxgsn/hls/amagi_hls_data_rakutenAA-motorpresse-marcopolotv-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK DESING
-https://a7f0dfe917e848a0acfebf5be36b5abd.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TheDesignNetwork/602feab4-abcb-4e8c-8bd8-f443273dfd0c/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TRAVEL XP
-https://0368faf6defc416796cb89a530ffae2b.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TravelXP/cf2ae6d6-5daa-4e97-8c16-cd1d450c8823/3.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK VANITY FAIR
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9b5b44fc-768e-49d7-9a30-319759f83daf/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK VOGUE
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6f900903-27a1-4720-ad2d-ee5c1f8bea4d/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BBC TRAVEL
-https://545684dd11594f4c826312ac52ef3c7d.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BBCTravel/03fcc497-f81b-42c7-81fa-a91d8aaf41bb/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK HALLO ELTERN
-https://e3755425d5b742c49636c35216ac3950.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_HALLOELTERN/2d039fef-a967-430e-8b58-098217280873/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK AUTOMOTORSPORT
-https://amg01528-motorpressestut-automotorsport-rakuten-xq8kq.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=c9bbac38-ca0e-4484-bdbd-77fca61e1a57&ads_amagi_channel=778&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3735&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25lipv5-lmjo-qs8-cozs-0m8b3ta3d75/hls/amagi_hls_data_rakutenAA-motorpresse-automotorundsport-rakuten/CDN/640x360_985600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TASTE MADE
-https://tastemade-tdgmn-rakuten.amagi.tv/amRdirect/ads_amagi_channel=745&ads_content_classification=6&ads_device_lmt=0&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=de&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtv_content_id=3484&ads_rtvid=271862&ads_streaming_id=dad1d0c5-6f09-4a29-aaad-34173f92238e&ads_user_type=visitor/hls/amagi_hls_data_rakutenAA-tm-germany-rakuten-ger/CDN/1280x720_2855600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK GUSTO TV
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/1c18a444-ecd4-410e-990d-c7a8d58bcebe/4.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK I FOOD
-https://ac84a060d6fd4f7eae260e2b21e468f5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_iFoodTV/9b7a5bce-88d4-4d88-88c2-86a5a54347c1/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BBC FOOD
-https://3677af34632f44889487b66a868cf8bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BBCFood/5b1ab14f-a674-47af-b6c8-37ef37cedf77/0.m3u8
-
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK XITE
-https://xite-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=bfa6098f-2a98-4247-96ef-ea5c8edb8ddf&ads_amagi_channel=736&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2970&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25lmooo-bc58-eko-j97t-otkoj0c2ig/hls/amagi_hls_data_rakutenAA-xite-rakuten/CDN/960x540_2340800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK GOLDSTAR
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/5c8a89c2-d422-4e1c-a39a-f41f7e6c6b18/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK CLUBBING
-https://clubbingtv-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=8aecc63a-a861-4f1e-ac37-5e55c4c79509&ads_amagi_channel=717&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2485&ads_user_type=visitor&ads_content_classification=12&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25logse-uenc-hc-6l4v-55a11kpssyh/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK QWEST
-https://qwestjazz-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=022cee3d-ac52-4b04-98cf-87cd07d7c709&ads_amagi_channel=711&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2270&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25lp8jp-l8ai-grg-ovxn-xneyke14urq/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/640x360_985600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK QWEST MIX
-https://qwestmix-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=d7032e40-5dd0-4cb9-9586-d6815bf4675f&ads_amagi_channel=713&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2341&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25lq12i-tk9j-hio-djr9-mqd6j87yqmc/hls/amagi_hls_data_rakutenAA-qwestmix-rakuten/CDN/960x540_2340800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK QWEST CLASSIC
-https://qwestclassic-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=8457b2d4-3144-42ac-b9a0-bb648c0f94d1&ads_amagi_channel=712&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2306&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25m11ue-6fdo-ul8-spbg-2u170j3em/hls/amagi_hls_data_rakutenAA-qwestclassic-rakuten/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/5b99590c-be48-427f-80c2-dbc94e3a24b6/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY HITS
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ec583ab8-9308-4807-aa09-069f29506a0c/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY HOT
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/4a2eb7f1-dad7-4663-b3ec-21b8feb9ade5/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY KARAOKE
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/78a00c1c-f485-4a3e-8388-75c811018608/3.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY SOUL
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6cd7dce5-a021-4700-a435-f17f76948288/0.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK STINGRAY QELLO
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/caf489df-491e-461a-b835-9d6eef255a13/1.m3u8
-
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK FAMILYY
-https://25355b9a6c3d470c85a0d52372ba20cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_RakutenFamily/898739a7-9fd0-47f3-95ff-5ef3f51b613b/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK DUCK TV
-https://ef3d941a9095450e888b479dc77bc037.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_DuckTV/18378e94-dcd5-47c1-b713-362b09b90b25/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK KIDZ POP
-https://amg00377-kidzbop-kidzbop-rakuten-ur4iu.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=0cfb1acf-7ccd-44de-beae-264252b29886&ads_amagi_channel=782&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3777&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25m45p6-t2k2-6go-rddi-w61yl012t6c/hls/amagi_hls_data_rakutenAA-kidzbop-rakuten/CDN/768x432_1425600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BABY SHARK
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/a6f03929-b931-4c28-bed4-d93d0d0608b7/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BRAT TV
-https://brat-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=f93f18b8-3ca1-48d2-8c46-6f6689d53161&ads_amagi_channel=710&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=2414&ads_user_type=visitor&ads_content_classification=0&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25m69gn-affp-gd-cc7x-afpq55zdnmj/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/848x480_1205600/chunklist.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK COOL SCHOOL
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7fcc48bc-2c98-476e-935c-5d4f16bd013e/4.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TELETUBBIES
-https://f3be034af1de4bc9b3cd57ae858758a3.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-de_Teletubbies/e4671337-b2f3-4e36-8821-5fe331ca6877/0.m3u8
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK NATUR ESCAPE
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/5df0db13-bc1b-464a-93d4-5fd16ccd1df5/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK WEATHER SPY
-https://288cf8bdd0784900b402d3ae8bb4807a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Weatherspy/92aade17-5639-47c2-baef-6e6497ebe1da/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK EURONEWS
-https://dd8e01a6dbf3466f93ec6046be873fca.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_EuroNewsLive/4d21fd95-eba6-48d7-97ec-cf146c32b7cd/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK AFRICA NEWS
-https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/cd7942a8-b08a-4e15-95db-6eb1d500233a/2.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK REUTERS
-https://bbc982df73cf41ceb5511c0aba6df6c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ReutersNow/39a4e7a3-5947-482c-a18a-2abbd36e1d2a/6.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK REVRYNEWS
-https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/9301c130-f852-433e-99f4-453fc8549d59/3.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK TICKER NEWS
-https://amg01486-tickernews-tickernews-rakuten-u0ffa.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=4ac7b639-e5d5-4484-90c1-169265ff76f2&ads_rtvid=271862&ads_streaming_id=c4de6393-c2de-44c3-baaf-ef0506a3b8e5&ads_amagi_channel=795&ads_device_type=web&ads_device_year=1970&ads_player_width=1920&ads_market=de&ads_rtv_content_id=3948&ads_user_type=visitor&ads_content_classification=12&ads_gdpr_consent=CPYZGUAPYZGUAADABBENCNCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_device_lmt=0&ads_player_height=1080&uid=1g25mdglg-ff9e-9h8-5fxp-prdwto5uv3f/hls/amagi_hls_data_rakutenAA-tickernews-rakuten/CDN/1280x720_2560800/chunklist.m3u8
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK ICTV
-https://ictv-ukraine-rakuten.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK 1+1
-https://1plus1-rakuten.amagi.tv/playlist1080pl.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BLOOMBERG QUICKTAKE
-https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/324de38f-f297-45fe-8b54-d03bf9e44ea4/1.m3u8
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK BLOOMBERG
-https://afda8ca41e7a407eb97239803281b088.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Bloomberg/8fea9c2f-bd6f-46dc-b02f-53f5a81d176b/3.m3u8
-
-#EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKComedyMovies.de" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,RK THE GUARDIAN
-https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/77f26522-9d6e-4a55-b4d7-5b00568ef5fd/2.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RKDram.de" tvg-logo="https://i.imgur.com/dWNxCqp.png" ,RK Drama
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -3332,10 +3126,15 @@ https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 http://stream.tvtap.live:8081/live/de-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="orf1.at" ,ORF 1
 https://tvpotti.com/embed/orf1.php
+
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RTL.de" tvg-logo="https://download.avm.de/tv/logos/rtl.png" ,RTL
-https://tvpotti.com/embed/rtl.php
+#https://tvpotti.com/embed/rtl.php
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RTL2.de" tvg-logo="https://download.avm.de/tv/logos/rtl2.png" ,RTL II
-https://tvpotti.com/embed/rtl2.php
+#https://tvpotti.com/embed/rtl2.php
+https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="RTLNitro.de" tvg-logo="https://download.avm.de/tv/logos/rtlnitro.png" ,RTL NITRO
 https://tvpotti.com/embed/rtlnitro.php
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="Vox.de" tvg-logo="https://download.avm.de/tv/logos/vox.png" ,VOX
@@ -3353,7 +3152,9 @@ https://tvpotti.com/embed/kabel-eins.php
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="Sat1Gold.de" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png" ,SAT 1 GOLD
 https://tvpotti.com/embed/sat1gold.php
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="Sat1.de" tvg-logo="https://download.avm.de/tv/logos/sat1.png" ,SAT 1
-https://tvpotti.com/embed/sat1.php
+#https://tvpotti.com/embed/sat1.php
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="dmax.de" tvg-logo="https://download.avm.de/tv/logos/dmax.png" ,DMAX
 https://tvpotti.com/embed/dmax.php
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="disneychannel.de" tvg-logo="https://download.avm.de/tv/logos/disney_channel.png" ,DISNEY CH
