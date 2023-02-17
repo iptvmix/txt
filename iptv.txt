@@ -60,9 +60,10 @@ https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png"                             ,TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/playlist.m3u8
-
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="FX.tr"                  tvg-logo=""                                                                                        ,TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://teleon.at.ua/uzmanmedya.png"                                                     ,TELEON
-https://is.gd/3YnkFN
+https://is.gd/C5SvQJ/teleontv.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX
@@ -249,6 +250,8 @@ http://dost.stream.emsal.im/tv/live.m3u8
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 5
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
+https://59c7ea6bec1c6.streamlock.net/filboxlive/vavtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KABE TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MEDINE TV
@@ -548,8 +551,6 @@ https://host.onlineradyotv.net:8081/marmaratv/index.m3u8
 http://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/vavtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MINBER TV
 http://hd9994.4kradyotv.com:26606/minbertv/minbertv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TAKVIM TV
