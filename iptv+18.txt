@@ -179,3 +179,14 @@ http://live.redtraffic.xyz/trans.m3u8
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Gay          
 http://live.redtraffic.xyz/gay.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Blue Hustler
+http://185.236.229.31:9981/play/a03o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Brazzers HD
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Dorcel TV HD
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Hustler HD
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Private  HD
+http://185.236.229.31:9981/play/a03p
