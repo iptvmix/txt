@@ -580,6 +580,60 @@ https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
 https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DISNEY CH
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2085
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="zdf.de"                 tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                ,ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="WDR.de"                 tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                ,WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="mdr.de"                 tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                ,MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ndr.de"                 tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                             ,NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="rbb.de"                 tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                ,RBB
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="SWR.de"                 tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                             ,SWR
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="One.de"                 tvg-logo="https://download.avm.de/tv/logos/ard_one_hd.png"                                         ,ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="BR.de"                  tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                              ,BR
+https://brcdn.vo.llnwd.net/bfs_sued/de/profile3/3.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="HR.de"                  tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                              ,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="sr.de"                  tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                 ,SR
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ARD-alpha.de"           tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                          ,ARD-Alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="RadioBremen.de"         tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                       ,Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="3sat.de"                tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                               ,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="zdfinfo.de"             tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                           ,ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="zdfneo.de"              tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                            ,ZDF neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ARTE.de"                tvg-logo="https://download.avm.de/tv/logos/arte.png"                                               ,arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ServusHD.de"            tvg-logo="https://download.avm.de/tv/logos/servus.png"                                             ,SERVUS TV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="phoenix.de"             tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                            ,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="tagesschau24.de"        tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                       ,tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="DW.de"                  tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                     ,DW
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="WELT.de"                tvg-logo=""                                                                                        ,WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="euronews.de"            tvg-logo="https://download.avm.de/tv/logos/euronews.png"                                           ,EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,WETTER
+https://streaming.meteonews.net/hls/stream.m3u8
+
+
+
+
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ilkokul.png"                                      ,TRT eba Ilk
 https://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ortaokul.png"                                     ,TRT eba Orta
@@ -3128,6 +3182,8 @@ http://stream.atr.ua/lale/live/index.m3u8
 https://eu.divan.tv:8081/tv63/preview.mp4
 #EXTINF:-1 group-title="[AZE] ULUSAL CH" ,IMEDI TV
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+
+
 
 
 
