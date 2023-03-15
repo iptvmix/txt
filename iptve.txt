@@ -19,15 +19,15 @@ h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://www.canlitv.me/poster/tv8-5.png"                                                 ,T V 8 Bucuk
 h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Star.tr"                tvg-logo="https://www.canlitv.me/poster/star-tv.png"                                               ,STAR TV
 https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D
-https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://www.canlitv.me/poster/show-max.png"                                              ,SHOW MAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&m3u8
+h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,A T V
 h     8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A 2 T V
