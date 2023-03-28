@@ -11,7 +11,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                                 ,Cine 5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="tivi6.tr"               tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6
-https://waw3.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://www.canlitv.me/poster/tv8.png"                                                   ,T V 8
@@ -27,7 +27,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://www.canlitv.me/poster/show-max.png"                                              ,SHOW MAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&m3u8
+#http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin&m3u8
+http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6890/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,A T V
 http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A 2 T V
@@ -175,20 +176,31 @@ https://is.gd/NdDhgK.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KONYA OLAY TV
 #https://bit.ly/3wA62wY
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 1
-https://is.gd/d1T8gY.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 2
-https://is.gd/daUbT5.m3u8
+
+
+
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YANSINA TV
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YANSIMA PREMIUM
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YANSIMA CLASSIC
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w18062564.m3u8
+https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TİMUR MEDYA TV HD
+https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TİMUR MEDYA TV SD
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/timurmedyatvs/chunklist_w471215078.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 1
+https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 2
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 3
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,Sinema TBR 4
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SUPER TURK HD
-http://157.230.106.252:3923/hybrid/play.m3u8
+http://192.248.176.242:3923/stream/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,OA TV
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.ntnhd.com/wp-content/uploads/2022/03/1647289546761-1-300x300.png"            ,NTN HD YESILCAM
@@ -196,12 +208,8 @@ https://tv.ntnhd.com:3588/multi_web/play.m3u8
 #https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,BEYAZ YESiLCAM
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,BEYAZ SiNEMA
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,BEYAZ DIZI
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CINE 1 TV
-https://h59.artiyerelmedya.net/cine1/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİL TV
 https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİLMAX
@@ -225,13 +233,14 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SABAN TV
 https://bit.ly/406KoxS?m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://yerelmedya.tv/logosTV/denizpostasitv.png"                                        ,DENIZPOSTASI
-http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_denizpostasitv/denizpostasitv/chunks.m3u8
+
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.kanalistanbultv.net/img/logo.png"                                            ,KNL ISTANBUL
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="http://www.istanbultvkanal.com/Pictures/logo.png"                                        ,ISTANBUL TV
 http://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://yerelmedya.tv/logosTV/aksutv.png"                                                ,AKSU TV
-https://waw3.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TURKUVAZ TV
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ANKA TV
@@ -245,7 +254,7 @@ https://59cba4d34b678.streamlock.net/live/marmaratv/chunklist_w167234788.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ANADOLU DOST TV
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w6034721.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"                                  tvg-logo="https://yerelmedya.tv/logosTV/birtv.png"                                                 ,BIRTV
-https://waw1.artiyerelmedya.net/birtv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/diyanet-tv.png"                                          ,DIYANET TV
 https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SEMERKAND TV
@@ -278,7 +287,7 @@ https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRALPOP TV     
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MAVIKARADENIZ  
-https://waw3.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FINEST TV      
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/milyon-tv.png"                                           ,MILON TV
@@ -359,9 +368,9 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TEMPO TV
-https://waw3.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TON TV
-https://waw3.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL ALANYA
 http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ALANYA TV
@@ -469,7 +478,7 @@ http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ILKE TV        
 http://yayin3.canlitv.com:1935/canlitv/ilketv/iptvdelisi.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TATLISES TV    
-http://waw2.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DEMO TV        
 http://snmtv.ozelip.com:2052/demotv/demotv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GENC KRAL TV   
@@ -521,17 +530,17 @@ https://bursadegisimtv.ozelip.com:3906/hybrid/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 1          
 http://stream.taksimbilisim.com:1935/tv1/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,E TV          
-https://waw3.artiyerelmedya.net/etv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KAY TV        
-https://waw3.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KENT TV       
-https://waw3.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,LIFE TV
-https://waw3.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,OLAY TURK TV
-https://waw3.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,HUNAT TV
-https://waw3.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 38
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ERCIYES TV
@@ -557,7 +566,7 @@ http://cdn1-gunedogustv.yayin.com.tr/gunedogustv/ngrp:gunedogustv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FETHIYE TV
 https://host.onlineradyotv.net:8081/marmaratv/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MESAJ TV
-http://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_mesajtv/mesajtv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MINBER TV
@@ -697,11 +706,11 @@ http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ADD TV
 https://broadcasttr.com:446/addlive/bant1/chunklist_w175037243.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SAT 7 TURK
-https://waw3.artiyerelmedya.net/sat7turk/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABANT TV
-https://waw3.artiyerelmedya.net/abanttv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_abanttv/abanttv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRT 1
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRT 2
@@ -727,25 +736,27 @@ http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EURO GENC
 hhttps://dcunilive258-lh.akamaihd.net/i/dclive_1@126972/index_150_av-p.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRTV
-https://waw3.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DEHA TV
-https://waw3.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DIM TV
-https://waw3.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL V
-https://waw3.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL Z
-https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MERCAN TV
-https://waw3.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ANADOLU NET
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRIC & SANTR
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ICEL TV
 http://stream.taksimbilisim.com:1935/iceltv/smil:iceltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 2000
-https://waw3.artiyerelmedya.net/kanal2000/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal2000/kanal2000/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 3
-https://waw3.artiyerelmedya.net/kanal3/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MUGLA TURK
 http://stream.taksimbilisim.com:1935/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 5
@@ -761,15 +772,15 @@ http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,On Medya
 http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 12
-https://waw3.artiyerelmedya.net/kanal12/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BODRUM TV
 https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ON4
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 15
-https://waw3.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ON6
-https://waw3.artiyerelmedya.net/kanal16/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ERZURUM TV
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARAS TV
@@ -781,17 +792,17 @@ https://59cba4d34b678.streamlock.net/canlitv/bitlistv/chunklist_w2141962564.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOZTEPE TV
 https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 23
-https://waw3.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal23/Kanal23/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL FIRAT
-https://waw3.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ES TV
-https://waw3.artiyerelmedya.net/estv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 26
-https://waw3.artiyerelmedya.net/kanal26/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GRT
-https://waw3.artiyerelmedya.net/grt/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GAZIANTEPOLAY
-https://waw3.artiyerelmedya.net/olaytv/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_olaytv/olaytv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAN ERZINCAN
 https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/chunklist_w1996358919.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Cekmekoy Bel
@@ -811,13 +822,14 @@ http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ELMAS TV
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,AS TV
-https://waw3.artiyerelmedya.net/astv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/nFdcyfiYkqH0X_2.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 35
 https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 41
-https://waw3.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 42
 https://istanbul.tvizlehd.com/kanal42.m3u8=token
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ERT Erbaa
@@ -835,13 +847,13 @@ https://yayin.manisatv.com.tr/live/stream.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,METRO TV
 http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SUN RTV
-https://waw3.artiyerelmedya.net/sunrtv/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/Kanal56TV/Kanal56TV/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 58
 https://broadcasttr.com:446/kanal58/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,VIZYON 58
-https://waw3.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SIVAS BEL
 https://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_tv1/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,tvDEN
@@ -849,7 +861,7 @@ http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,URFANATIK
 https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 68
-https://waw3.artiyerelmedya.net/kanal68/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL URFA
 http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/iptvdelisi.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DUGUN TV
@@ -864,7 +876,7 @@ https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist.m3u8
 https://fortunawow1.socialsmart.tv/kent77/smil:kent77.smil/chunklist_w665993486_b2096000_sltur.m3u8
 
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CINE 1 TV
-https://h59.artiyerelmedya.net/cine1/bant1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CINE 1 TV
 https://is.gd/8nnZlr/cıne1.m3u8
 
@@ -938,6 +950,10 @@ https://mn-nl.mncdn.com/blutv_edgesport_drm/edgesportdrm_hd.smil/playlist.m3u8
 http://146.59.19.1/5062/mpegts
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D World
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,BEYAZ SiNEMA
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png"                                       ,BEYAZ DIZI
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
 
 #####################################################################################################################################################################################################
 
@@ -1183,6 +1199,8 @@ http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
 https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+https://trt1.persona.video/master.m3u8?hls=1
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://www.canlitv.me/poster/trt-2.png"                                                 ,T R T 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
@@ -1384,6 +1402,8 @@ http://167.114.116.217:1935/live/mayistv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="tivi6.tr"              tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6
 https://waw3.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="tivi6.tr"              tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="tivi6.tr"              tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6
 https://59cba4d34b678.streamlock.net/canlitv/tivi6/playlist.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
@@ -1406,12 +1426,17 @@ http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
 http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
+https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="A2.tr"                 tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                ,A2TV
 https://edge02.smart.az/o8/a2/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="A2.tr"                 tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                ,A2TV
 http://iptvmasterlink.dyndns.org:8080/Entry/a2hd_yeni/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="A2.tr"                 tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                ,A2TV
+http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
+
+
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ATVAvrupa.tr"          tvg-logo="https://www.canlitv.me/poster/atv-avrupa.png"                                           ,ATV AVRUPA
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
@@ -1476,6 +1501,8 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin&m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="Fox.tr"                tvg-logo="https://www.canlitv.me/poster/fox.png"                                                 ,FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="Fox.tr"                tvg-logo="https://www.canlitv.me/poster/fox.png"                                                 ,FOX TV
+https://live.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="KANAL7.tr"             tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                             ,KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
@@ -1802,6 +1829,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showtv.com.tr/canli
 https://edge02.smart.az/o8/showtv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ShowTV.tr"             tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                             ,SHOW TV
 http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ShowTV.tr"             tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                             ,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH"    tvg-id="ShowTurk.tr"           tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                             ,SHOWTURK
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
@@ -2873,121 +2902,6 @@ https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
 
 ###################################################################################################################################################################################################
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747038.png" group-title="turkey", 1TRSPOR HD 1
-http://37.221.121.137:6060/trspor.ts
-#EXTINF: -1 tvg-name="TRT World" tvg-logo="http://luginaiptv.com/TRTWorld.png" group-title="turkey", TRT World
-http://premium.luginaiptv.com:8000/Armendi/123456/8669
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747228.png" group-title="turkey", 2 TRSPOR HD 2
-http://37.221.121.137:6060/trspor.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747039.png" group-title="turkey", 3SPORTS HD 1
-http://37.221.121.137:6060/hls/trspor/index.m3u8
-#EXTINF: -1 tvg-name="A2 HD" tvg-logo="http://luginaiptv.com/a2.png" group-title="turkey", A2 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8667
-#EXTINF: -1 tvg-name="Cartoon Network TR" tvg-logo="http://luginaiptv.com/logo/cartoonnetwork.png" group-title="turkey", Cartoon Network TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8799
-#EXTINF: -1 tvg-name="Disney Channel TR" tvg-logo="http://luginaiptv.com/logo/Disneychannel.png" group-title="turkey", Disney Channel TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8800
-#EXTINF: -1 tvg-name="History Channel TR" tvg-logo="http://luginaiptv.com/logo/History.png" group-title="turkey", History Channel TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8663
-#EXTINF: -1 tvg-name="KRAL Pop" tvg-logo="http://luginaiptv.com/logo/kralpop.png" group-title="turkey", KRAL Pop
-http://premium.luginaiptv.com:8000/Armendi/123456/8802
-#EXTINF: -1 tvg-name="Minika Cocuk" tvg-logo="http://luginaiptv.com/logo/minikacocuk.png" group-title="turkey", Minika Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/8798
-#EXTINF: -1 tvg-name="Nat Geo Wild TR" tvg-logo="http://luginaiptv.com/logo/NatGeoWild.png" group-title="turkey", Nat Geo Wild TR
-http://premium.luginaiptv.com:8000/Armendi/123456/8662
-#EXTINF: -1 tvg-name="Planet Cocuk" tvg-logo="http://luginaiptv.com/logo/planetcocuk.png" group-title="turkey", Planet Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/8801
-#EXTINF: -1 tvg-name="Power Turk HD" tvg-logo="http://luginaiptv.com/logo/PowerTurkHD.jpg" group-title="turkey", Power Turk HD
-http://premium.luginaiptv.com:8000/Armendi/123456/9189
-#EXTINF: -1 tvg-name="Salon 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747240.png" group-title="turkey", Sinema 1
-http://premium.luginaiptv.com:8000/Armendi/123456/8673
-#EXTINF: -1 tvg-name="Salon 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747241.jpeg" group-title="turkey", Sinema 2
-http://premium.luginaiptv.com:8000/Armendi/123456/8674
-#EXTINF: -1 tvg-name="TRT Avaz HD" tvg-logo="http://luginaiptv.com/logo/trtavaz.png" group-title="turkey", TRT Avaz HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8796
-#EXTINF: -1 tvg-name="Yaban TV" tvg-logo="http://luginaiptv.com/logo/yabantv.png" group-title="turkey", Yaban TV
-http://premium.luginaiptv.com:8000/Armendi/123456/8928
-#EXTINF: -1 tvg-name="Euro D" tvg-logo="http://luginaiptv.com/logo/EuroStar.png" group-title="turkey", Euro D
-http://premium.luginaiptv.com:8000/Armendi/123456/8651
-#EXTINF: -1 tvg-name="Kanal 7 HD" tvg-logo="http://luginaiptv.com/logo/Kanal7.png" group-title="turkey", Kanal 7 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8652
-#EXTINF: -1 tvg-name="NR 1 Turk TV HD" tvg-logo="http://luginaiptv.com/logo/nr1turk.png" group-title="turkey", NR 1 Turk TV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8658
-#EXTINF: -1 tvg-name="Power HD" tvg-logo="http://luginaiptv.com/logo/PowerHD.png" group-title="turkey", Power HD
-http://premium.luginaiptv.com:8000/Armendi/123456/8659
-#EXTINF: -1 tvg-name="Salon 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/96ad1fd0-846d-11ed-a5b4-07ec0c740778/4087139/723747248.png" group-title="turkey", Sinema 3
-http://premium.luginaiptv.com:8000/Armendi/123456/8675
-#EXTINF: -1 tvg-name="TRT Belgesel." tvg-logo="http://luginaiptv.com/logo/TGRT%20Belgesel.png" group-title="turkey", TRT Belgesel.
-http://premium.luginaiptv.com:8000/Armendi/123456/8656
-#EXTINF: -1 tvg-name="TGRT Haber" tvg-logo="http://luginaiptv.com/logo/TGRT%20Haber.png" group-title="turkey", TGRT Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/8657
-#EXTINF: -1 tvg-name="TV 8.5" tvg-logo="http://luginaiptv.com/logo/TV8.5.png" group-title="turkey", TV 8.5
-http://premium.luginaiptv.com:8000/Armendi/123456/8654
-#EXTINF: -1 tvg-name="TRT 1 HD" group-title="turkey", TRT 1 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5994
-#EXTINF: -1 tvg-name="TRT Arapca" group-title="turkey", TRT Arapca
-http://premium.luginaiptv.com:8000/Armendi/123456/6067
-#EXTINF: -1 tvg-name="TRT Cocuk" group-title="turkey", TRT Cocuk
-http://premium.luginaiptv.com:8000/Armendi/123456/6064
-#EXTINF: -1 tvg-name="TRT Diyanet" group-title="turkey", TRT Diyanet
-http://premium.luginaiptv.com:8000/Armendi/123456/6071
-#EXTINF: -1 tvg-name="TRT Haber HD" group-title="turkey", TRT Haber HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5995
-#EXTINF: -1 tvg-name="TRT MUZIK" group-title="turkey", TRT MUZIK
-http://premium.luginaiptv.com:8000/Armendi/123456/5996
-#EXTINF: -1 tvg-name="TRT Turk" group-title="turkey", TRT Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/6063
-#EXTINF: -1 tvg-name="ATV HD" group-title="turkey", ATV HD
-http://premium.luginaiptv.com:8000/Armendi/123456/5997
-#EXTINF: -1 tvg-name="KRAL TV" group-title="turkey", KRAL TV
-http://premium.luginaiptv.com:8000/Armendi/123456/6004
-#EXTINF: -1 tvg-name="Show TV" group-title="turkey", Show TV
-http://premium.luginaiptv.com:8000/Armendi/123456/5999
-#EXTINF: -1 tvg-name="TV 8 HD" group-title="turkey", TV 8 HD
-http://premium.luginaiptv.com:8000/Armendi/123456/6003
-#EXTINF: -1 tvg-name="KANAL 7 AVRUPA" group-title="turkey", KANAL 7 AVRUPA
-http://premium.luginaiptv.com:8000/Armendi/123456/6006
-#EXTINF: -1 tvg-name="KANAL D" group-title="turkey", KANAL D
-http://premium.luginaiptv.com:8000/Armendi/123456/6005
-#EXTINF: -1 tvg-name="HABER TURK" group-title="turkey", HABER TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/6009
-#EXTINF: -1 tvg-name="FOX TURK" group-title="turkey", FOX TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/5998
-#EXTINF: -1 tvg-name="Dream Turk" group-title="turkey", Dream Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/6008
-#EXTINF: -1 tvg-name="CNN TURK" group-title="turkey", CNN TURK
-http://premium.luginaiptv.com:8000/Armendi/123456/6002
-#EXTINF: -1 tvg-name="24 TV" group-title="turkey", TV24 TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7709
-#EXTINF: -1 tvg-name="Bengu Turk" group-title="turkey", Bengu Turk
-http://premium.luginaiptv.com:8000/Armendi/123456/7708
-#EXTINF: -1 tvg-name="Beyaz TV" group-title="turkey", Beyaz TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7705
-#EXTINF: -1 tvg-name="Cem TV" group-title="turkey", Cem TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7710
-#EXTINF: -1 tvg-name="Discovery" group-title="turkey", Discovery
-http://premium.luginaiptv.com:8000/Armendi/123456/7711
-#EXTINF: -1 tvg-name="Semerkand TV" group-title="turkey", Semerkand TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7742
-#EXTINF: -1 tvg-name="Halk TV" group-title="turkey", Halk TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7715
-#EXTINF: -1 tvg-name="Teve 2" group-title="turkey", Teve 2
-http://premium.luginaiptv.com:8000/Armendi/123456/7723
-#EXTINF: -1 tvg-name="Ulke TV" group-title="turkey", Ulke TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7743
-#EXTINF: -1 tvg-name="360 TV" group-title="turkey", TV360 TV
-http://premium.luginaiptv.com:8000/Armendi/123456/7713
-#EXTINF: -1 tvg-name="NTV Haber" group-title="turkey", NTV Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/7716
-#EXTINF: -1 tvg-name="Star TV" group-title="turkey", Star TV
-http://premium.luginaiptv.com:8000/Armendi/123456/11955
-#EXTINF: -1 tvg-name="NTV" group-title="turkey", NTV
-http://premium.luginaiptv.com:8000/Armendi/123456/11956
-#EXTINF: -1 tvg-name="Rumeli TV" group-title="turkey", Rumeli TV
-http://premium.luginaiptv.com:8000/Armendi/123456/11948
-#EXTINF: -1 tvg-name="a Haber" group-title="turkey", a Haber
-http://premium.luginaiptv.com:8000/Armendi/123456/11951
-
 
 
 
@@ -3808,8 +3722,7 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 
 
 
-#EXTM3U
-#EXTM3U
+
 #EXTINF:-1,### DEUTSCHLAND ###
 http://viptv.me:80/TUWspsr4KhmC/Cd9LtuZ9jRr6s/115
 #EXTINF:-1,DE: Das Erste HD
@@ -25697,5 +25610,408 @@ http://viptv.me:80/movie/TUWspsr4KhmC/Cd9LtuZ9jRr6s/117715.mkv
 http://viptv.me:80/movie/TUWspsr4KhmC/Cd9LtuZ9jRr6s/117716.mp4
 #EXTINF:-1,Crisis (2021)
 http://viptv.me:80/movie/TUWspsr4KhmC/Cd9LtuZ9jRr6s/117717.mkv
+
+
+#EXTINF:-1,1
+http://195.142.1.211:4022/udp/224.2.2.1:10001
+#EXTINF:-1,2
+http://195.142.1.211:4022/udp/224.2.2.2:10001
+#EXTINF:-1,3
+http://195.142.1.211:4022/udp/224.2.2.3:10001
+#EXTINF:-1,4
+http://195.142.1.211:4022/udp/224.2.2.4:10001
+#EXTINF:-1,5
+http://195.142.1.211:4022/udp/224.2.2.5:10001
+#EXTINF:-1,6
+http://195.142.1.211:4022/udp/224.2.2.6:10001
+#EXTINF:-1,7
+http://195.142.1.211:4022/udp/224.2.2.7:10001
+#EXTINF:-1,8
+http://195.142.1.211:4022/udp/224.2.2.8:10001
+#EXTINF:-1,9
+http://195.142.1.211:4022/udp/224.2.2.9:10001
+#EXTINF:-1,10
+http://195.142.1.211:4022/udp/224.2.2.10:10001
+#EXTINF:-1,11
+http://195.142.1.211:4022/udp/224.2.2.11:10001
+#EXTINF:-1,12
+http://195.142.1.211:4022/udp/224.2.2.12:10001
+#EXTINF:-1,13
+http://195.142.1.211:4022/udp/224.2.2.13:10001
+#EXTINF:-1,14
+http://195.142.1.211:4022/udp/224.2.2.14:10001
+#EXTINF:-1,15
+http://195.142.1.211:4022/udp/224.2.2.15:10001
+#EXTINF:-1,16
+http://195.142.1.211:4022/udp/224.2.2.16:10001
+#EXTINF:-1,17
+http://195.142.1.211:4022/udp/224.2.2.17:10001
+#EXTINF:-1,18
+http://195.142.1.211:4022/udp/224.2.2.18:10001
+#EXTINF:-1,19
+http://195.142.1.211:4022/udp/224.2.2.19:10001
+#EXTINF:-1,20
+http://195.142.1.211:4022/udp/224.2.2.20:10001
+#EXTINF:-1,21
+http://195.142.1.211:4022/udp/224.2.2.21:10001
+#EXTINF:-1,22
+http://195.142.1.211:4022/udp/224.2.2.22:10001
+#EXTINF:-1,23
+http://195.142.1.211:4022/udp/224.2.2.23:10001
+#EXTINF:-1,24
+http://195.142.1.211:4022/udp/224.2.2.24:10001
+#EXTINF:-1,25
+http://195.142.1.211:4022/udp/224.2.2.25:10001
+#EXTINF:-1,26
+http://195.142.1.211:4022/udp/224.2.2.26:10001
+#EXTINF:-1,27
+http://195.142.1.211:4022/udp/224.2.2.27:10001
+#EXTINF:-1,28
+http://195.142.1.211:4022/udp/224.2.2.28:10001
+#EXTINF:-1,29
+http://195.142.1.211:4022/udp/224.2.2.29:10001
+#EXTINF:-1,30
+http://195.142.1.211:4022/udp/224.2.2.30:10001
+#EXTINF:-1,31
+http://195.142.1.211:4022/udp/224.2.2.31:10001
+#EXTINF:-1,32
+http://195.142.1.211:4022/udp/224.2.2.32:10001
+#EXTINF:-1,33
+http://195.142.1.211:4022/udp/224.2.2.33:10001
+#EXTINF:-1,34
+http://195.142.1.211:4022/udp/224.2.2.34:10001
+#EXTINF:-1,35
+http://195.142.1.211:4022/udp/224.2.2.35:10001
+#EXTINF:-1,36
+http://195.142.1.211:4022/udp/224.2.2.36:10001
+#EXTINF:-1,37
+http://195.142.1.211:4022/udp/224.2.2.37:10001
+#EXTINF:-1,38
+http://195.142.1.211:4022/udp/224.2.2.38:10001
+#EXTINF:-1,39
+http://195.142.1.211:4022/udp/224.2.2.39:10001
+#EXTINF:-1,40
+http://195.142.1.211:4022/udp/224.2.2.40:10001
+#EXTINF:-1,41
+http://195.142.1.211:4022/udp/224.2.2.41:10001
+#EXTINF:-1,42
+http://195.142.1.211:4022/udp/224.2.2.42:10001
+#EXTINF:-1,43
+http://195.142.1.211:4022/udp/224.2.2.43:10001
+#EXTINF:-1,44
+http://195.142.1.211:4022/udp/224.2.2.44:10001
+#EXTINF:-1,45
+http://195.142.1.211:4022/udp/224.2.2.45:10001
+#EXTINF:-1,46
+http://195.142.1.211:4022/udp/224.2.2.46:10001
+#EXTINF:-1,47
+http://195.142.1.211:4022/udp/224.2.2.47:10001
+#EXTINF:-1,48
+http://195.142.1.211:4022/udp/224.2.2.48:10001
+#EXTINF:-1,49
+http://195.142.1.211:4022/udp/224.2.2.49:10001
+#EXTINF:-1,50
+http://195.142.1.211:4022/udp/224.2.2.50:10001
+#EXTINF:-1,51
+http://195.142.1.211:4022/udp/224.2.2.51:10001
+#EXTINF:-1,52
+http://195.142.1.211:4022/udp/224.2.2.52:10001
+#EXTINF:-1,53
+http://195.142.1.211:4022/udp/224.2.2.53:10001
+#EXTINF:-1,54
+http://195.142.1.211:4022/udp/224.2.2.54:10001
+#EXTINF:-1,55
+http://195.142.1.211:4022/udp/224.2.2.55:10001
+#EXTINF:-1,56
+http://195.142.1.211:4022/udp/224.2.2.56:10001
+#EXTINF:-1,57
+http://195.142.1.211:4022/udp/224.2.2.57:10001
+#EXTINF:-1,58
+http://195.142.1.211:4022/udp/224.2.2.58:10001
+#EXTINF:-1,59
+http://195.142.1.211:4022/udp/224.2.2.59:10001
+#EXTINF:-1,60
+http://195.142.1.211:4022/udp/224.2.2.60:10001
+#EXTINF:-1,61
+http://195.142.1.211:4022/udp/224.2.2.61:10001
+#EXTINF:-1,62
+http://195.142.1.211:4022/udp/224.2.2.62:10001
+#EXTINF:-1,63
+http://195.142.1.211:4022/udp/224.2.2.63:10001
+#EXTINF:-1,64
+http://195.142.1.211:4022/udp/224.2.2.64:10001
+#EXTINF:-1,65
+http://195.142.1.211:4022/udp/224.2.2.65:10001
+#EXTINF:-1,66
+http://195.142.1.211:4022/udp/224.2.2.66:10001
+#EXTINF:-1,67
+http://195.142.1.211:4022/udp/224.2.2.67:10001
+#EXTINF:-1,68
+http://195.142.1.211:4022/udp/224.2.2.68:10001
+#EXTINF:-1,69
+http://195.142.1.211:4022/udp/224.2.2.69:10001
+#EXTINF:-1,70
+http://195.142.1.211:4022/udp/224.2.2.70:10001
+#EXTINF:-1,71
+http://195.142.1.211:4022/udp/224.2.2.71:10001
+#EXTINF:-1,72
+http://195.142.1.211:4022/udp/224.2.2.72:10001
+#EXTINF:-1,73
+http://195.142.1.211:4022/udp/224.2.2.73:10001
+#EXTINF:-1,74
+http://195.142.1.211:4022/udp/224.2.2.74:10001
+#EXTINF:-1,75
+http://195.142.1.211:4022/udp/224.2.2.75:10001
+#EXTINF:-1,76
+http://195.142.1.211:4022/udp/224.2.2.76:10001
+#EXTINF:-1,77
+http://195.142.1.211:4022/udp/224.2.2.77:10001
+#EXTINF:-1,78
+http://195.142.1.211:4022/udp/224.2.2.78:10001
+#EXTINF:-1,79
+http://195.142.1.211:4022/udp/224.2.2.79:10001
+#EXTINF:-1,80
+http://195.142.1.211:4022/udp/224.2.2.80:10001
+#EXTINF:-1,81
+http://195.142.1.211:4022/udp/224.2.2.81:10001
+#EXTINF:-1,82
+http://195.142.1.211:4022/udp/224.2.2.82:10001
+#EXTINF:-1,83
+http://195.142.1.211:4022/udp/224.2.2.83:10001
+#EXTINF:-1,84
+http://195.142.1.211:4022/udp/224.2.2.84:10001
+#EXTINF:-1,85
+http://195.142.1.211:4022/udp/224.2.2.85:10001
+#EXTINF:-1,86
+http://195.142.1.211:4022/udp/224.2.2.86:10001
+#EXTINF:-1,87
+http://195.142.1.211:4022/udp/224.2.2.87:10001
+#EXTINF:-1,88
+http://195.142.1.211:4022/udp/224.2.2.88:10001
+#EXTINF:-1,89
+http://195.142.1.211:4022/udp/224.2.2.89:10001
+#EXTINF:-1,90
+http://195.142.1.211:4022/udp/224.2.2.90:10001
+#EXTINF:-1,91
+http://195.142.1.211:4022/udp/224.2.2.91:10001
+#EXTINF:-1,92
+http://195.142.1.211:4022/udp/224.2.2.92:10001
+#EXTINF:-1,93
+http://195.142.1.211:4022/udp/224.2.2.93:10001
+#EXTINF:-1,94
+http://195.142.1.211:4022/udp/224.2.2.94:10001
+#EXTINF:-1,95
+http://195.142.1.211:4022/udp/224.2.2.95:10001
+#EXTINF:-1,96
+http://195.142.1.211:4022/udp/224.2.2.96:10001
+#EXTINF:-1,97
+http://195.142.1.211:4022/udp/224.2.2.97:10001
+#EXTINF:-1,98
+http://195.142.1.211:4022/udp/224.2.2.98:10001
+#EXTINF:-1,99
+http://195.142.1.211:4022/udp/224.2.2.99:10001
+#EXTINF:-1,100
+http://195.142.1.211:4022/udp/224.2.2.100:10001
+
+
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
+#EXTINF:-1 channel-id="samsung-DEAJ3500002EO" tvg-id="DEAJ3500002EO" tvg-chno="4004" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20221109T010520SQUARE.png_20221109010521.png" group-title="Filme" , Komödien - Rakuten TV
+https://d69cd6f2ab304e228ebea8afc7420983.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=432&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC35000020P" tvg-id="DEBC35000020P" tvg-chno="4950" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC35000020P_20221012T015939SQUARE.png_20221012015939.png" group-title="Filme" , Filmgold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgold-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA3300034HH" tvg-id="DEBA3300034HH" tvg-chno="4954" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20220323T075300SQUARE.png_20220323075303.png" group-title="Filme" , wedo movies
+https://videosolu-watch4movies-samsunguk-tfgq4.amagi.tv/playlist/videosolu-watch4movies-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&is_lat=REPLACEME&gdpr=REPLACEME
+#EXTINF:-1 channel-id="samsung-DEBA15000130L" tvg-id="DEBA15000130L" tvg-chno="4957" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20220323T074933SQUARE.png_20220323074936.png" group-title="Filme" , Fabella
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500419A" tvg-id="DEAJ0500419A" tvg-chno="4960" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20220323T075046SQUARE.png_20220323075049.png" group-title="Filme" , Netzkino
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300040CR" tvg-id="DEBA3300040CR" tvg-chno="4963" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20220323T075034SQUARE.png_20220323075036.png" group-title="Filme" , Moviedome Family
+https://samsunguk-kochmedia-moviedomefamily-samsunguk-vl9ot.amagi.tv/playlist/samsunguk-kochmedia-moviedomefamily-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEAK3504517A" tvg-id="DEAK3504517A" tvg-chno="4966" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504517A_20220323T075105SQUARE.png_20220323075108.png" group-title="Filme" , Pluto TV Movies
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0a1f73654db655a9274428/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBA1500011RJ" tvg-id="DEBA1500011RJ" tvg-chno="4969" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20220323T074945SQUARE.png_20220323074948.png" group-title="Filme" , Fantasja
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK0500449A" tvg-id="DEAK0500449A" tvg-chno="4972" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20221123T010236SQUARE.png_20221123010237.png" group-title="Filme" , Grjngo
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/11edf121-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1500024PZ" tvg-id="DEBA1500024PZ" tvg-chno="4975" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20220323T075003SQUARE.png_20220323075006.png" group-title="Filme" , Heimatkino
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300017VV" tvg-id="DEBA3300017VV" tvg-chno="4976" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300017VV_20230322T075315SQUARE.png_20230322075315.png" group-title="Filme" , Deutsches Kino - Rakuten TV
+https://ef2cc38dcb4840cf98fcfb225a1a494b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_DeutschesKino/playlist.m3u8?ads.wurl_channel=796&ads.wurl_name=DeutschesKino&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300039TT" tvg-id="DEBA3300039TT" tvg-chno="4978" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300039TT_20220810T012638SQUARE.png_20220810012639.png" group-title="Filme" , Moviedome
+https://samsunguk-kochmedia-moviedome-samsunguk-j5440.amagi.tv/playlist/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA2200009C1" tvg-id="DEBA2200009C1" tvg-chno="4984" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200009C1_20220323T075135SQUARE.png_20220323075138.png" group-title="Filme" , Sofy.tv
+https://samsunguk-sofytv-samsung-de-9autv.amagi.tv/playlist/samsunguk-sofytv-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEAK0500448A" tvg-id="DEAK0500448A" tvg-chno="4987" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500448A_20221123T010235SQUARE.png_20221123010236.png" group-title="Filme" , Charlie
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300032UV" tvg-id="DEBA3300032UV" tvg-chno="4993" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20220323T075317SQUARE.png_20220323075320.png" group-title="Filme" , MyTime Movie Network
+https://amg00500-studiocitypictu-mytimegerman-samsungde-mpqro.amagi.tv/playlist/amg00500-studiocitypictu-mytimegerman-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA3300015ZU" tvg-id="DEBA3300015ZU" tvg-chno="4994" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300015ZU_20221012T015945SQUARE.png_20221012015945.png" group-title="Filme" , Top Filme - Rakuten TV
+https://e15c6d5cc3f240df98d3bf8e1531ca1c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_TopFree/playlist.m3u8?ads.wurl_channel=837&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC1000001LB" tvg-id="DEBC1000001LB" tvg-chno="4997" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC1000001LB_20230308T021609SQUARE.png_20230308021610.png" group-title="Filme" , Cine Mix
+https://d25ai5zwjx4rs9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o79t9b0wedtb0-prod/amgcinemix/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ3500003YF" tvg-id="DEAJ3500003YF" tvg-chno="4998" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500003YF_20220323T074908SQUARE.png_20220323074911.png" group-title="Filme" , Drama Filme - Rakuten TV
+https://2937ba9c0c3e46babadc32c327b710b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenTVShows/playlist.m3u8?ads.wurl_channel=433&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ3500001Q1" tvg-id="DEAJ3500001Q1" tvg-chno="4999" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500001Q1_20220323T074838SQUARE.png_20220323074840.png" group-title="Filme" , Actionfilme - Rakuten TV
+https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=431&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1000003IM" tvg-id="DEBA1000003IM" tvg-chno="4003" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png" group-title="News" , Euronews Live
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBD800001S4" tvg-id="DEBD800001S4" tvg-chno="4005" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20230308T021608SQUARE.png_20230308021608.png" group-title="News" , CNN
+https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300027ZJ" tvg-id="DEBA3300027ZJ" tvg-chno="4320" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300027ZJ_20221026T004408SQUARE.png_20221026004409.png" group-title="News" , Bloomberg TV+
+https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300020Y3" tvg-id="DEBA3300020Y3" tvg-chno="4324" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300020Y3_20220323T072225SQUARE.png_20220323072228.png" group-title="News" , Reuters
+https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300029HT" tvg-id="DEBA3300029HT" tvg-chno="4330" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300029HT_20230322T075311SQUARE.png_20230322075312.png" group-title="News" , Euronews Stories
+https://amg00712-alchimie-euronewsde-samsungde-rx0y1.amagi.tv/playlist/amg00712-alchimie-euronewsde-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEAJ0500413A" tvg-id="DEAJ0500413A" tvg-chno="4336" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500413A_20221026T004328SQUARE.png_20221026004329.png" group-title="News" , Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK0500441A" tvg-id="DEAK0500441A" tvg-chno="4342" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500441A_20230208T012848SQUARE.png_20230208012849.png" group-title="News" , SPIEGEL TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK3504502A" tvg-id="DEAK3504502A" tvg-chno="4110" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" group-title="Unterhaltung" , MTV Catfish
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b855972c36600076b7ddd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ3200004UF" tvg-id="DEAJ3200004UF" tvg-chno="4114" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200004UF_20221026T004402SQUARE.png_20221026004403.png" group-title="Unterhaltung" , FailArmy
+https://799e1e65b6954f11b65eba4ce0d6b8ae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK3504508A" tvg-id="DEAK3504508A" tvg-chno="4118" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20221026T004401SQUARE.png_20221026004401.png" group-title="Unterhaltung" , Pluto TV Sitcoms
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ3200005JH" tvg-id="DEAJ3200005JH" tvg-chno="4120" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200005JH_20230222T012111SQUARE.png_20230222012112.png" group-title="Unterhaltung" , The Pet Collective
+https://7e317da828ea423886a65e2693b23248.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK3504501A" tvg-id="DEAK3504501A" tvg-chno="4126" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504501A_20221026T004356SQUARE.png_20221026004356.png" group-title="Unterhaltung" , Comedy Central Made in Germany
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBA3300038NO" tvg-id="DEBA3300038NO" tvg-chno="4128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20220323T071910SQUARE.png_20220323071913.png" group-title="Unterhaltung" , Craction TV
+https://samsunguk-palatin-cractiontv-samsunguk-t8lgw.amagi.tv/playlist/samsunguk-palatin-cractiontv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEAK3504500A" tvg-id="DEAK3504500A" tvg-chno="4130" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20221026T004354SQUARE.png_20221026004355.png" group-title="Unterhaltung" , Comedy Central Pluto TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ7000105I" tvg-id="DEAJ7000105I" tvg-chno="4132" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000105I_20220323T072040SQUARE.png_20220323072043.png" group-title="Unterhaltung" , MTV Teen Mom
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6041236542d13a0007c600f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ3500005RK" tvg-id="DEAJ3500005RK" tvg-chno="4134" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500005RK_20220323T072130SQUARE.png_20220323072133.png" group-title="Unterhaltung" , People Are Awesome
+https://20f120ffdbfd4b5e928df7c47a2862a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ7000033P" tvg-id="DEAJ7000033P" tvg-chno="4136" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000033P_20220323T072034SQUARE.png_20220323072037.png" group-title="Unterhaltung" , MTV Pluto TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcebe53d352330009e56f5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBC2200002E7" tvg-id="DEBC2200002E7" tvg-chno="4138" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200002E7_20220914T041110SQUARE.png_20220914041110.png" group-title="Unterhaltung" , Comedy & Shows
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBC2200003Z3" tvg-id="DEBC2200003Z3" tvg-chno="4139" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20221012T015941SQUARE.png_20221012015942.png" group-title="Unterhaltung" , Stars in Gefahr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA3300023IR" tvg-id="DEBA3300023IR" tvg-chno="4610" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20220323T075159SQUARE.png_20220323075202.png" group-title="Kinder" , Teletubbies
+https://39abeaa9edff457a8d0fda45c0f64e29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=669&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300025TK" tvg-id="DEBA3300025TK" tvg-chno="4613" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300025TK_20220824T005411SQUARE.png_20220824005411.png" group-title="Kinder" , SuperToons TV
+https://050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8?ads.wurl_channel=660&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA33000212C" tvg-id="DEBA33000212C" tvg-chno="4615" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20230308T021555SQUARE.png_20230308021556.png" group-title="Kinder" , Family - Rakuten TV
+https://558441307ee2441fbd0f67ae40a04646.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenFamily/playlist.m3u8?ads.wurl_channel=721&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ70000561" tvg-id="DEAJ70000561" tvg-chno="4616" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20221026T004351SQUARE.png_20221026004351.png" group-title="Kinder" , SpongeBob Schwammkopf
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2c4e501f18000788d8e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ700004BT" tvg-id="DEAJ700004BT" tvg-chno="4619" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20221026T004349SQUARE.png_20221026004350.png" group-title="Kinder" , Nick Rewind
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ700002N8" tvg-id="DEAJ700002N8" tvg-chno="4622" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20221026T004347SQUARE.png_20221026004348.png" group-title="Kinder" , Nick Pluto TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ700006MR" tvg-id="DEAJ700006MR" tvg-chno="4625" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700006MR_20221026T004353SQUARE.png_20221026004353.png" group-title="Kinder" , iCarly
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-chno="4628" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" group-title="Kinder" , duckTV
+https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBB3100001AR" tvg-id="DEBB3100001AR" tvg-chno="4160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3100001AR_20230208T012900SQUARE.png_20230208012900.png" group-title="Drama" , Crime Mix
+https://d1gkt8v6hadmy7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MysteryKrimi-DE-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ700007OT" tvg-id="DEAJ700007OT" tvg-chno="4166" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700007OT_20220323T072201SQUARE.png_20220323072203.png" group-title="Drama" , Pluto TV Serie
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBC2200001EO" tvg-id="DEBC2200001EO" tvg-chno="4169" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20221214T045035SQUARE.png_20221214045036.png" group-title="Drama" , Spannung & Emotionen
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBC220000422" tvg-id="DEBC220000422" tvg-chno="4007" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20230308T021615SQUARE.png_20230308021615.png" group-title="Dokus" , The Wicked Tuna Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunade-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBC3000003IG" tvg-id="DEBC3000003IG" tvg-chno="4200" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20230308T021613SQUARE.png_20230308021614.png" group-title="Dokus" , Terra X
+https://d1zs2gj7tbptpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ghu9x4dfp5gx4-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ700008WL" tvg-id="DEAJ700008WL" tvg-chno="4210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" group-title="Dokus" , Pluto TV Paranormal
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6041222727dfcf000786e954/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBA1000007UF" tvg-id="DEBA1000007UF" tvg-chno="4216" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000007UF_20220323T071820SQUARE.png_20220323071823.png" group-title="Dokus" , BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK0500450A" tvg-id="DEAK0500450A" tvg-chno="4219" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500450A_20221026T004342SQUARE.png_20221026004342.png" group-title="Dokus" , Tempora
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ7000096L" tvg-id="DEAJ7000096L" tvg-chno="4222" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20220323T072004SQUARE.png_20220323072007.png" group-title="Dokus" , Ice Pilots
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/604123023ece0b0007a43049/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAK3504506A" tvg-id="DEAK3504506A" tvg-chno="4228" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504506A_20220914T041104SQUARE.png_20220914041105.png" group-title="Dokus" , Pluto TV Science
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b73efd87eb3a2717ccde/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAJ35000044V" tvg-id="DEAJ35000044V" tvg-chno="4229" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ35000044V_20221214T045017SQUARE.png_20221214045018.png" group-title="Dokus" , Dokumentarfilme - Rakuten TV
+https://e9937d5e420843fd89b67166d91331f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=434&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA2200002AN" tvg-id="DEBA2200002AN" tvg-chno="4231" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200002AN_20230125T022359SQUARE.png_20230125022359.png" group-title="Dokus" , INWONDER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA15000298V" tvg-id="DEBA15000298V" tvg-chno="4234" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000298V_20220323T071839SQUARE.png_20220323071841.png" group-title="Dokus" , Bergblick Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA2200001LP" tvg-id="DEBA2200001LP" tvg-chno="4237" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200001LP_20230125T022357SQUARE.png_20230125022357.png" group-title="Dokus" , INFAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA1500009ZY" tvg-id="DEBA1500009ZY" tvg-chno="4240" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20221123T010238SQUARE.png_20221123010239.png" group-title="Dokus" , Moconomy
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300042XG" tvg-id="DEBA3300042XG" tvg-chno="4006" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20230308T021601SQUARE.png_20230308021601.png" group-title="Natur" , Wilder Planet
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500423A" tvg-id="DEAJ0500423A" tvg-chno="4263" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500423A_20221026T004331SQUARE.png_20221026004331.png" group-title="Natur" , Tierwelt
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5a7fe3dd-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK3504503A" tvg-id="DEAK3504503A" tvg-chno="4266" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20221026T004359SQUARE.png_20221026004359.png" group-title="Natur" , Pluto TV Animals
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEBA15000227H" tvg-id="DEBA15000227H" tvg-chno="4269" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20220323T072117SQUARE.png_20220323072120.png" group-title="Natur" , One Terra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1000009TT" tvg-id="DEBA1000009TT" tvg-chno="4402" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png" group-title="Lifestyle" , BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500428A" tvg-id="DEAJ0500428A" tvg-chno="4406" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20230222T012109SQUARE.png_20230222012110.png" group-title="Lifestyle" , just.fishing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500422A" tvg-id="DEAJ0500422A" tvg-chno="4410" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20230208T012843SQUARE.png_20230208012844.png" group-title="Lifestyle" , Xplore
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1000006W2" tvg-id="DEBA1000006W2" tvg-chno="4412" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000006W2_20220324T011819SQUARE.png_20220324011821.png" group-title="Lifestyle" , Hallo:Eltern
+https://9b76b74987e54141b85aa9b3226b9612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_HALLOELTERN/playlist.m3u8?ads.wurl_channel=909&ads.wurl_name=HALLOELTERN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500424A" tvg-id="DEAJ0500424A" tvg-chno="4418" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20220323T071957SQUARE.png_20220323072000.png" group-title="Lifestyle" , Hip Trips
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA100000404" tvg-id="DEBA100000404" tvg-chno="4422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png" group-title="Lifestyle" , Travelxp
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300022IF" tvg-id="DEBA3300022IF" tvg-chno="4424" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png" group-title="Lifestyle" , Fashion TV
+https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?ads.wurl_channel=689&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1000010YG" tvg-id="DEBA1000010YG" tvg-chno="4435" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000010YG_20220713T034436SQUARE.png_20220713034437.png" group-title="Essen & Trinken" , BBC Food
+https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA2200006XB" tvg-id="DEBA2200006XB" tvg-chno="4438" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200006XB_20220323T072243SQUARE.png_20220323072246.png" group-title="Essen & Trinken" , Tastemade
+https://tastemade-tastemade-germany-samsung-ukaa-cznnv.amagi.tv/playlist/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA3300001L9" tvg-id="DEBA3300001L9" tvg-chno="4441" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20220323T072142SQUARE.png_20220323072145.png" group-title="Essen & Trinken" , Pluto TV Food
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/617bca50434b280007bbf97b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-DEAK0500439A" tvg-id="DEAK0500439A" tvg-chno="4447" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20230208T012847SQUARE.png_20230208012847.png" group-title="Essen & Trinken" , Just Cooking
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC2100001ZJ" tvg-id="DEBC2100001ZJ" tvg-chno="4710" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20220608T011433SQUARE.png_20220608011436.png" group-title="Musik" , Vevo Pop
+https://d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC21000022L" tvg-id="DEBC21000022L" tvg-chno="4716" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20220608T011439SQUARE.png_20220608011441.png" group-title="Musik" , Vevo Schlager Pop
+https://d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2kpqrzfxhh0ys/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA2200003I0" tvg-id="DEBA2200003I0" tvg-chno="4719" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200003I0_20220323T075123SQUARE.png_20220323075126.png" group-title="Musik" , Qwest TV Jazz and Beyond
+https://qwestaaaa-qwestjazz-uk-samsungtv-lew0b.amagi.tv/playlist/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA2200007V6" tvg-id="DEBA2200007V6" tvg-chno="4722" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Musik" , XITE Hits
+https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBB3900001NE" tvg-id="DEBB3900001NE" tvg-chno="4725" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3900001NE_20221026T004412SQUARE.png_20221026004412.png" group-title="Musik" , Stingray Karaoke
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_de_stingraykaraoke_001.m3u8?ads.caid=stingraykaraoke&ads.csid=samsungtvplus_de_stingraykaraoke_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=DE&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1824&ads.xumo_contentName=stingraykaraoke&ads.xumo_providerId=1824&ads.xumo_providerName=stingraykaraoke&ads.xumo_channelId=9992450&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=stingraykaraoke_de&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 channel-id="samsung-DEBA150003050" tvg-id="DEBA150003050" tvg-chno="4728" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20220323T075311SQUARE.png_20220323075313.png" group-title="Musik" , Deluxe Deutschpop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBB3900002V9" tvg-id="DEBB3900002V9" tvg-chno="4731" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3900002V9_20221026T004410SQUARE.png_20221026004411.png" group-title="Musik" , Qello Concerts by Stingray
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_de_stingrayqello_001.m3u8?ads.caid=stingrayqello&ads.csid=samsungtvplus_de_stingrayqello_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=DE&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=187&ads.xumo_contentName=stingray&ads.xumo_providerId=187&ads.xumo_providerName=stingray&ads.xumo_channelId=9992451&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=qelloconcertsbystingray_de&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 channel-id="samsung-DEAH3904006A" tvg-id="DEAH3904006A" tvg-chno="4734" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20220323T074902SQUARE.png_20220323074905.png" group-title="Musik" , Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK0500445A" tvg-id="DEAK0500445A" tvg-chno="4737" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20221026T004339SQUARE.png_20221026004340.png" group-title="Musik" , GoldStar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300030O1" tvg-id="DEBA3300030O1" tvg-chno="4740" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20220713T034441SQUARE.png_20220713034442.png" group-title="Musik" , Trace Urban
+https://amg01131-tracetv-traceurbande-samsungde-jxa3n.amagi.tv/playlist/amg01131-tracetv-traceurbande-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA3300031Q8" tvg-id="DEBA3300031Q8" tvg-chno="4743" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Musik" , XITE Rock On
+https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBB1900001Z6" tvg-id="DEBB1900001Z6" tvg-chno="4752" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB1900001Z6_20220323T074850SQUARE.png_20220323074852.png" group-title="Musik" , Clubbing TV
+https://d3v9jn0ncs1ra2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9iy7jv4hjjike-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBC2300001EU" tvg-id="DEBC2300001EU" tvg-chno="4510" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20220608T011422SQUARE.png_20220608011424.png" group-title="Sport" , Red Bull TV
+https://dcaugt012swzs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx2plzkkcowte-ssai-prd/hls/live/2004294/RBTVDACHPri/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA1000008OY" tvg-id="DEBA1000008OY" tvg-chno="4516" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000008OY_20220323T072344SQUARE.png_20220323072346.png" group-title="Sport" , World Poker Tour
+https://e22c2098b9ac42adbbf965b46f869046.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA33000419P" tvg-id="DEBA33000419P" tvg-chno="4519" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000419P_20220324T011824SQUARE.png_20220324011827.png" group-title="Sport" , Horse & Country
+https://samsunguk-hnc-free-samsung-germany-7q8cw.amagi.tv/playlist/samsunguk-hnc-free-samsung-germany/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEAJ0500429A" tvg-id="DEAJ0500429A" tvg-chno="4522" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20230208T012845SQUARE.png_20230208012846.png" group-title="Sport" , Sportdigital Free
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4525" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20220323T075206SQUARE.png_20220323075209.png" group-title="Sport" , Tennis Channel Deutschland
+https://samsunguk-tennischannel-int-samsunguk-w5aqh.amagi.tv/playlist/samsunguk-tennischannel-int-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-DEBA1500026EV" tvg-id="DEBA1500026EV" tvg-chno="4528" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500026EV_20220323T075022SQUARE.png_20220323075025.png" group-title="Sport" , More Than Sports TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAK0500452A" tvg-id="DEAK0500452A" tvg-chno="4485" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20221026T004343SQUARE.png_20221026004343.png" group-title="Auto & Motor" , auto motor und sport
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAH3904004A" tvg-id="DEAH3904004A" tvg-chno="4491" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904004A_20221026T004323SQUARE.png_20221026004323.png" group-title="Auto & Motor" , Motorvision
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEAJ0500425A" tvg-id="DEAJ0500425A" tvg-chno="4494" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500425A_20221026T004332SQUARE.png_20221026004333.png" group-title="Auto & Motor" , Motorvision Classic
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA3300016EV" tvg-id="DEBA3300016EV" tvg-chno="4557" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20230125T022401SQUARE.png_20230125022401.png" group-title="Extremsport" , Strongman Champions League
+https://c303ebf661a74c40b3ec71ee07072176.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1203&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-DEBA10000051Z" tvg-id="DEBA10000051Z" tvg-chno="4566" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA10000051Z_20230125T022355SQUARE.png_20230125022356.png" group-title="Extremsport" , FUEL TV
+https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8?ads.wurl_channel=585&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 
