@@ -193,6 +193,14 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 TURK	
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FORA MUZIK	
 http://91.134.203.253:30124/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIAMOND	
@@ -792,18 +800,6 @@ http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/bitlistv/chunklist_w2141962564.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOZTEPE TV
 https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 23
-https://live.artidijitalmedya.com/artidijital_kanal23/Kanal23/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL FIRAT
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ES TV
-https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 26
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GRT
-https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GAZIANTEPOLAY
-https://live.artidijitalmedya.com/artidijital_olaytv/olaytv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAN ERZINCAN
 https://cdn10-cantv24.yayin.com.tr/cantv24/cantv24/chunklist_w1996358919.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Cekmekoy Bel
@@ -822,17 +818,11 @@ https://59cba4d34b678.streamlock.net/canlitv/duzcetv/chunklist_w1290797849.m3u8
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ELMAS TV
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,AS TV
-https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/nFdcyfiYkqH0X_2.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 35
 https://59cba4d34b678.streamlock.net/canlitv/tv35/playlist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 41
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
 
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 42
-https://istanbul.tvizlehd.com/kanal42.m3u8=token
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ERT Erbaa
 https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist_w2051378804.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ALTSO WEB TV
