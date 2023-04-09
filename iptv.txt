@@ -106,7 +106,7 @@ http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK	
-http://192.248.176.242:3923/stream/play.m3u8
+http://70.34.214.187:3923/stream/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
 https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",ADA TV	
@@ -291,6 +291,10 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CRI BELGESEL	
 https://www.guventechnology.com:19360/CriturkTVBelgesel/CriturkTVBelgesel.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo="https://rt1turk.com/wp-content/uploads/2022/08/cropped-rt1turk-logo-yeni.png"            ,RT1 TURK
+https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPER TV
+http://90.84.231.143:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKTUEL TV	
 https://cdn-aktueltv.yayin.com.tr/aktueltv/aktueltv/chunklist_w1976272754.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALANYA TV	
@@ -1833,6 +1837,8 @@ http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Ulusalkanal.tr" tvg-logo="https://www.canlitv.mobi/kanallar/ulusal-kanal.png" ,ULUSAL KANAL
 https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Ulusalkanal.tr" tvg-logo="https://www.canlitv.mobi/kanallar/ulusal-kanal.png" ,ULUSAL KANAL
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Halktv.tr" tvg-logo="https://www.canlitv.me/poster/halk-tv.png" ,HALK TV
 http://iptvmasterlink.dyndns.org:8080/Entry/halktv_yeni/index.m3u8
@@ -1842,6 +1848,9 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Halktv.tr" tvg-logo="https://www.canlitv.me/poster/halk-tv.png" ,HALK TV
 https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="[TUR] FILBOX"     tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:-1 group-title="[TUR] YEDEK CH" tvg-id="Artitv.tr" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_200px.jpg" ,ARTI TV
 http://iptvmasterlink.dyndns.org:8080/Entry/artitv_yeni/index.m3u8
