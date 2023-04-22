@@ -280,6 +280,8 @@ https://mtulqxgomrllive3.mediatriple.net/mtulqxgomrllive/broadcast_59f9c12387f12
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DHA 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,REUTERS
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="nasa.tr"                tvg-logo="https://www.canlitv.me/poster/nasa-tv.png"                                               ,NASA TV	
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ntrtv.tr"               tvg-logo="https://ntrtv.com.tr/wp-content/uploads/2021/09/ntr-site-1.png"                          ,NTR TV	
@@ -821,6 +823,11 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo=""                                                                                        ,MZ | 4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo=""                                                                                        ,MZ | MIX TV
+https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
 
 
 #####################################################################################################################################################################################################
@@ -3298,4 +3305,1263 @@ https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 https://eu.divan.tv:8081/tv54/preview.mp4
 #EXTINF:-1 group-title="[DEU] DEUTSCH CH" tvg-id="atv.de" ,a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,DE: 123 TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18446
+#EXTINF:-1,DE: 13th Street
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3498
+#EXTINF:-1,DE: 3sat
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/892
+#EXTINF:-1,DE: Adult Swim Daily Animated
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296942
+#EXTINF:-1,DE: Allgau TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18445
+#EXTINF:-1,DE: ANIMAL PLANET
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/14370
+#EXTINF:-1,DE: ANIXE Serie
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296372
+#EXTINF:-1,DE: ANIXE+
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5987
+#EXTINF:-1,DE: ARD (FIFA WM 2022)
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297010
+#EXTINF:-1,DE: ARD Alpha
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/34799
+#EXTINF:-1,DE: Aristo TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/275960
+#EXTINF:-1,DE: Arte
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/893
+#EXTINF:-1,DE: Astro TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/195789
+#EXTINF:-1,DE: Augsburg TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/60393
+#EXTINF:-1,DE: Auto Motor Sport
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296227
+#EXTINF:-1,DE: Auto Motor und Sport
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2385
+#EXTINF:-1,DE: Baby TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/31389
+#EXTINF:-1,DE: Baden TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18449
+#EXTINF:-1,DE: Bayerisches Fernsehen Nord
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18454
+#EXTINF:-1,DE: Bayerisches Fernsehen Sud
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163105
+#EXTINF:-1,DE: bergblick
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281754
+#EXTINF:-1,DE: Bibel TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/195787
+#EXTINF:-1,DE: Bild TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290769
+#EXTINF:-1,DE: Bon Gusto
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/191957
+#EXTINF:-1,DE: Boomerang
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/411
+#EXTINF:-1,DE: Cartoon Network
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2089
+#EXTINF:-1,DE: Channel 21
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/70117
+#EXTINF:-1,DE: Chemnitz Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286545
+#EXTINF:-1,DE: Cine Max Jurassic Park
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/266438
+#EXTINF:-1,DE: Comedy Central
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1670
+#EXTINF:-1,DE: Crime+ Investigation
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5181
+#EXTINF:-1,DE: Das Erste
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2386
+#EXTINF:-1,DE: DAZN 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/48355
+#EXTINF:-1,DE: DAZN 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2387
+#EXTINF:-1,DE: Del Sport 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8214
+#EXTINF:-1,DE: Deluxe Lounge
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290381
+#EXTINF:-1,DE: Deluxe Music
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2111
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163081
+#EXTINF:-1,DE: Die Neue Zeit TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173526
+#EXTINF:-1,DE: Discovery World
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/410
+#EXTINF:-1,DE: Disney Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2085
+#EXTINF:-1,DE: Disney Junior
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2099
+#EXTINF:-1,DE: Disney+
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/169904
+#EXTINF:-1,DE: DMAX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/895
+#EXTINF:-1,DE: DW Arabic
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1256
+#EXTINF:-1,DE: DW Deutsch
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10941
+#EXTINF:-1,DE: DW English
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/19276
+#EXTINF:-1,DE: DW Español
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/9149
+#EXTINF:-1,DE: E!
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2114
+#EXTINF:-1,DE: Erz TV Stollberg
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286549
+#EXTINF:-1,DE: euronews
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4421
+#EXTINF:-1,DE: EUROSPORT 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/412
+#EXTINF:-1,DE: EUROSPORT 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2082
+#EXTINF:-1,DE: Filmes Suspense
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286561
+#EXTINF:-1,DE: Filstalwelle TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/199642
+#EXTINF:-1,DE: Fix & Foxi
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173515
+#EXTINF:-1,DE: FOLX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/168933
+#EXTINF:-1,DE: Franken Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2144
+#EXTINF:-1,DE: FS1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280085
+#EXTINF:-1,DE: Genius Plus TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/120507
+#EXTINF:-1,DE: Geo TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/266963
+#EXTINF:-1,DE: Hauptstadt TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286552
+#EXTINF:-1,DE: Health TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279766
+#EXTINF:-1,DE: Heimat kanal
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1668
+#EXTINF:-1,DE: HGTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/172308
+#EXTINF:-1,DE: History
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/413
+#EXTINF:-1,DE: HR Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8187
+#EXTINF:-1,DE: HSE
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/166259
+#EXTINF:-1,DE: HSE Extra
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/166269
+#EXTINF:-1,DE: HSE Trend
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/275924
+#EXTINF:-1,DE: Jukebox
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/12613
+#EXTINF:-1,DE: Junior
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/12314
+#EXTINF:-1,DE: K-TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18477
+#EXTINF:-1,DE: Kabel Eins
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/891
+#EXTINF:-1,DE: Kabel Eins Classics
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10026
+#EXTINF:-1,DE: Kabel Eins Doku
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290259
+#EXTINF:-1,DE: Kiel TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/165485
+#EXTINF:-1,DE: KIKA
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2101
+#EXTINF:-1,DE: Kinowelt TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2127
+#EXTINF:-1,DE: Kultur MD
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173538
+#EXTINF:-1,DE: KW TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297039
+#EXTINF:-1,DE: Light Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/171827
+#EXTINF:-1,DE: Luxe TV (Luxembourg)
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290407
+#EXTINF:-1,DE: Magenta Sport 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290686
+#EXTINF:-1,DE: Magenta Sport 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290687
+#EXTINF:-1,DE: Magenta Sport 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281748
+#EXTINF:-1,DE: Magenta Sport 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290688
+#EXTINF:-1,DE: Magenta Sport 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290689
+#EXTINF:-1,DE: Magenta Sport 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290690
+#EXTINF:-1,DE: Magenta Sport 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281749
+#EXTINF:-1,DE: Magenta Sport 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290691
+#EXTINF:-1,DE: Magenta Sport 9
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290692
+#EXTINF:-1,DE: Magenta Sport 10
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295566
+#EXTINF:-1,DE: Magenta Sport 11
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295567
+#EXTINF:-1,DE: Magenta Sport 12
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295568
+#EXTINF:-1,DE: Magenta Sport 13
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295569
+#EXTINF:-1,DE: Magenta Sport 14
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295570
+#EXTINF:-1,DE: Magenta Sport 15
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295571
+#EXTINF:-1,DE: Magenta Sport 16
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295572
+#EXTINF:-1,DE: Magenta Sport 17
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295573
+#EXTINF:-1,DE: Magenta Sport 18
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297337
+#EXTINF:-1,DE: Magenta Sport 19
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297338
+#EXTINF:-1,DE: Magenta Sport 20
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297325
+#EXTINF:-1,DE: Max Select 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/67435
+#EXTINF:-1,DE: Max Select 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279250
+#EXTINF:-1,DE: Max Select 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278609
+#EXTINF:-1,DE: Max Select 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148176
+#EXTINF:-1,DE: Max Select 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/67437
+#EXTINF:-1,DE: MDF 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/60392
+#EXTINF:-1,DE: MDR Fernsehen Sachsen Anhalt
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3483
+#EXTINF:-1,DE: Motorvision TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4480
+#EXTINF:-1,DE: Movies CH
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286563
+#EXTINF:-1,DE: MR Bean
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/197513
+#EXTINF:-1,DE: MTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3486
+#EXTINF:-1,DE: MyTVplus (Dresden)
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294831
+#EXTINF:-1,DE: München TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/6811
+#EXTINF:-1,DE: n-tv
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2080
+#EXTINF:-1,DE: N24 Doku
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/47558
+#EXTINF:-1,DE: nahe TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/226105
+#EXTINF:-1,DE: NAT GEO
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2095
+#EXTINF:-1,DE: NAT GEO Wild
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1666
+#EXTINF:-1,DE: NDR Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2113
+#EXTINF:-1,DE: Nick Emma einfach magisch
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286565
+#EXTINF:-1,DE: Nick Junior
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/63288
+#EXTINF:-1,DE: nickelodeon
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280087
+#EXTINF:-1,DE: Nicktoons
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/191983
+#EXTINF:-1,DE: Niederbayern TV Satellit
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18474
+#EXTINF:-1,DE: Nitro
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2104
+#EXTINF:-1,DE: Noa 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278512
+#EXTINF:-1,DE: Noa 4 Hamburg
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294940
+#EXTINF:-1,DE: Nrwision
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/196328
+#EXTINF:-1,DE: Oberpfalz TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281752
+#EXTINF:-1,DE: Oe24 TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18492
+#EXTINF:-1,DE: OF TV Offenbach
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286556
+#EXTINF:-1,DE: Offener Kanal Magdeburg
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18498
+#EXTINF:-1,DE: OK 54
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287733
+#EXTINF:-1,DE: OK Kaiserslautern
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287759
+#EXTINF:-1,DE: OK Kassel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287760
+#EXTINF:-1,DE: OK Konzert
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173530
+#EXTINF:-1,DE: OK Ludwigshafen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287761
+#EXTINF:-1,DE: OK Merseburg
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/182603
+#EXTINF:-1,DE: OK Rhein Main
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286557
+#EXTINF:-1,DE: OK Suedwestpfalz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287762
+#EXTINF:-1,DE: OK Weinstrasse
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/199647
+#EXTINF:-1,DE: OKD
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278481
+#EXTINF:-1,DE: oldenburg eins
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173525
+#EXTINF:-1,DE: One
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5185
+#EXTINF:-1,DE: Paranormal
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286568
+#EXTINF:-1,DE: Parlaments Fernsehen 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/196330
+#EXTINF:-1,DE: Pearl TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18509
+#EXTINF:-1,DE: Phoenix
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1663
+#EXTINF:-1,DE: Pluto TV MTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294835
+#EXTINF:-1,DE: Pluto TV N24 Doku
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294836
+#EXTINF:-1,DE: Pluto TV Nick
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294838
+#EXTINF:-1,DE: ProSieben
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/887
+#EXTINF:-1,DE: ProSieben Fun
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2079
+#EXTINF:-1,DE: ProSieben Maxx
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2077
+#EXTINF:-1,DE: Punktum
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280354
+#EXTINF:-1,DE: QVC Live
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/17156
+#EXTINF:-1,DE: QVC Style
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157175
+#EXTINF:-1,DE: Radio Bremen TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290260
+#EXTINF:-1,DE: Rambo Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279802
+#EXTINF:-1,DE: RAN 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173527
+#EXTINF:-1,DE: RBB
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/41991
+#EXTINF:-1,DE: RBW
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/173528
+#EXTINF:-1,DE: Regio TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163107
+#EXTINF:-1,DE: Regionalfernsehen Harz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192656
+#EXTINF:-1,DE: RFO
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18517
+#EXTINF:-1,DE: Rhein-Neckar Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5010
+#EXTINF:-1,DE: Rockland Radio
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286786
+#EXTINF:-1,DE: Rocky Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279796
+#EXTINF:-1,DE: Romance TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1662
+#EXTINF:-1,DE: RTL
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/890
+#EXTINF:-1,DE: RTL Crime
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2103
+#EXTINF:-1,DE: RTL Living
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3477
+#EXTINF:-1,DE: RTL Passion
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2411
+#EXTINF:-1,DE: RTL Up
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4402
+#EXTINF:-1,DE: RTL Zwei
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/888
+#EXTINF:-1,DE: RTL+
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294841
+#EXTINF:-1,DE: RTL+ Sport Event 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298029
+#EXTINF:-1,DE: RTL+ Sport Event 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298030
+#EXTINF:-1,DE: RTL+ Sport Event 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298031
+#EXTINF:-1,DE: RTL+ Sport Event 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298032
+#EXTINF:-1,DE: RTL+ Sport Event 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298033
+#EXTINF:-1,DE: RTL+ Sport Event 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298034
+#EXTINF:-1,DE: RTL+ Sport Event 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298035
+#EXTINF:-1,DE: RTL+ Sport Event 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298036
+#EXTINF:-1,DE: RTL+ Sport Event 9
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298037
+#EXTINF:-1,DE: RTL+ Sport Event 10
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/298038
+#EXTINF:-1,DE: RWE Erfurt
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290450
+#EXTINF:-1,DE: Saarland Fernsehen 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286787
+#EXTINF:-1,DE: Saarland Fernsehen 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286788
+#EXTINF:-1,DE: Sachsen fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/41982
+#EXTINF:-1,DE: Sat 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2107
+#EXTINF:-1,DE: Sat 1 Emotions
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2121
+#EXTINF:-1,DE: Sat 1 Gold
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2412
+#EXTINF:-1,DE: Schlager Deluxe
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278321
+#EXTINF:-1,DE: Servus TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2073
+#EXTINF:-1,DE: SilverLine
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148067
+#EXTINF:-1,DE: Sixx
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2072
+#EXTINF:-1,DE: Sky 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2115
+#EXTINF:-1,DE: Sky Arts
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/120514
+#EXTINF:-1,DE: Sky Atlantic
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1661
+#EXTINF:-1,DE: Sky Cinema
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291082
+#EXTINF:-1,DE: Sky Cinema +1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1660
+#EXTINF:-1,DE: Sky Cinema +24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4458
+#EXTINF:-1,DE: Sky Cinema 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281887
+#EXTINF:-1,DE: Sky Cinema 24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281888
+#EXTINF:-1,DE: Sky Cinema Action
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1659
+#EXTINF:-1,DE: Sky Cinema Best Of
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2119
+#EXTINF:-1,DE: Sky Cinema Classics
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/91126
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2120
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2138
+#EXTINF:-1,DE: Sky Cinema Family
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2118
+#EXTINF:-1,DE: Sky Cinema Fun
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/91120
+#EXTINF:-1,DE: Sky Cinema Hits
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281886
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2116
+#EXTINF:-1,DE: Sky Cinema Premiere
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2117
+#EXTINF:-1,DE: Sky Cinema Premieren +24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2414
+#EXTINF:-1,DE: Sky Cinema Premieren 24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280330
+#EXTINF:-1,DE: Sky Cinema Special
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29070
+#EXTINF:-1,DE: Sky Cinema Thriller
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/91116
+#EXTINF:-1,DE: Sky Comedy
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4461
+#EXTINF:-1,DE: Sky Crime
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291078
+#EXTINF:-1,DE: Sky Documentaries
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291080
+#EXTINF:-1,DE: Sky Krimi
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2122
+#EXTINF:-1,DE: Sky Movies Select 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2422
+#EXTINF:-1,DE: Sky Nature
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291079
+#EXTINF:-1,DE: Sky Replay
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/407
+#EXTINF:-1,DE: Sky Select 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281693
+#EXTINF:-1,DE: Sky Select 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2139
+#EXTINF:-1,DE: Sky Select 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2419
+#EXTINF:-1,DE: Sky Select 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/858
+#EXTINF:-1,DE: Sky Select 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279837
+#EXTINF:-1,DE: Sky Select 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281442
+#EXTINF:-1,DE: Sky Select 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/263996
+#EXTINF:-1,DE: Sky Select 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281443
+#EXTINF:-1,DE: Sky Select 9
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2425
+#EXTINF:-1,DE: Sky Serien & Shows
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/120872
+#EXTINF:-1,DE: Sky Sport 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/202100
+#EXTINF:-1,DE: Sky Sport 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8215
+#EXTINF:-1,DE: Sky Sport 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/72238
+#EXTINF:-1,DE: Sky Sport 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32708
+#EXTINF:-1,DE: Sky Sport 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/13497
+#EXTINF:-1,DE: Sky Sport 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/31445
+#EXTINF:-1,DE: Sky Sport 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2133
+#EXTINF:-1,DE: Sky Sport 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4489
+#EXTINF:-1,DE: Sky Sport 9
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/147341
+#EXTINF:-1,DE: Sky Sport 10
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/147342
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2431
+#EXTINF:-1,DE: Sky Sport Bundesliga 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4493
+#EXTINF:-1,DE: Sky Sport Bundesliga 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2135
+#EXTINF:-1,DE: Sky Sport Bundesliga 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3513
+#EXTINF:-1,DE: Sky Sport Bundesliga 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2136
+#EXTINF:-1,DE: Sky Sport Bundesliga 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/12638
+#EXTINF:-1,DE: Sky Sport Bundesliga 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2433
+#EXTINF:-1,DE: Sky Sport Bundesliga 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2434
+#EXTINF:-1,DE: Sky Sport Bundesliga 9
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10051
+#EXTINF:-1,DE: Sky Sport Bundesliga 10
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2432
+#EXTINF:-1,DE: Sky Sport F1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/174563
+#EXTINF:-1,DE: Sky Sport News
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1658
+#EXTINF:-1,DE: Sky Sport Tennis
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297552
+#EXTINF:-1,DE: Sky Sport Top Event
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297551
+#EXTINF:-1,DE: Slow TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286569
+#EXTINF:-1,DE: Sofy TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286789
+#EXTINF:-1,DE: Sonnenklar TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/24698
+#EXTINF:-1,DE: Sonus FM Alemania
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294844
+#EXTINF:-1,DE: Sony AXN
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2091
+#EXTINF:-1,DE: Sony Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2128
+#EXTINF:-1,DE: Spiegel Geschichte
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1657
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3506
+#EXTINF:-1,DE: Sport 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290571
+#EXTINF:-1,DE: Sport 1+
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2100
+#EXTINF:-1,DE: Sportdigital Fussball
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3509
+#EXTINF:-1,DE: SR Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18524
+#EXTINF:-1,DE: Star Wars Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/169907
+#EXTINF:-1,DE: Stingray Classica
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2088
+#EXTINF:-1,DE: Super RTL
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/896
+#EXTINF:-1,DE: SWR Fernsehen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7513
+#EXTINF:-1,DE: SYFY
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/408
+#EXTINF:-1,DE: Tagesschau 24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1656
+#EXTINF:-1,DE: Tastemade
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/284590
+#EXTINF:-1,DE: Teen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286572
+#EXTINF:-1,DE: Tele 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2439
+#EXTINF:-1,DE: The Story of Beatclub
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286573
+#EXTINF:-1,DE: TLC
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2108
+#EXTINF:-1,DE: Toggo Plus
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2145
+#EXTINF:-1,DE: Totally Turtles
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286574
+#EXTINF:-1,DE: Transformers Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279799
+#EXTINF:-1,DE: TRP 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/187989
+#EXTINF:-1,DE: TV Bayern
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10506
+#EXTINF:-1,DE: TV Halle
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18535
+#EXTINF:-1,DE: TV Ingolstadt
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/166289
+#EXTINF:-1,DE: TV MainFranken
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/47596
+#EXTINF:-1,DE: TV Oberfranken
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/18493
+#EXTINF:-1,DE: TVA Ostbayern
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8217
+#EXTINF:-1,DE: Universal TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1654
+#EXTINF:-1,DE: Victorious
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/285594
+#EXTINF:-1,DE: Vox
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/894
+#EXTINF:-1,DE: Vox Up
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/151889
+#EXTINF:-1,DE: Waidwerk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/193759
+#EXTINF:-1,DE: Warner TV Comedy
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281763
+#EXTINF:-1,DE: Warner TV Film
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2087
+#EXTINF:-1,DE: Warner TV serie
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1655
+#EXTINF:-1,DE: WDR
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1653
+#EXTINF:-1,DE: Welt
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2093
+#EXTINF:-1,DE: Welt der Wunder TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29008
+#EXTINF:-1,DE: Wettin TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297502
+#EXTINF:-1,DE: XITE
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281767
+#EXTINF:-1,DE: ZDF
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/409
+#EXTINF:-1,DE: ZDF Info
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2069
+#EXTINF:-1,DE: ZDF Neo
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2070
+
+
+
+
+
+#EXTINF:-1,TR: 24 Kitchen
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1808
+#EXTINF:-1,TR: 24 TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/636
+#EXTINF:-1,TR: 360
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/615
+#EXTINF:-1,TR: 90 Plus
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/275953
+#EXTINF:-1,TR: A Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/666
+#EXTINF:-1,TR: A News
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/284578
+#EXTINF:-1,TR: A Spor
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/529
+#EXTINF:-1,TR: A2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/523
+#EXTINF:-1,TR: Afyon Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163242
+#EXTINF:-1,TR: Agro TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281360
+#EXTINF:-1,TR: Akilli TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16809
+#EXTINF:-1,TR: Akit TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/631
+#EXTINF:-1,TR: Aksu TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/659
+#EXTINF:-1,TR: Aktif TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146675
+#EXTINF:-1,TR: Altas TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/656
+#EXTINF:-1,TR: Anadolu Dernek TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36065
+#EXTINF:-1,TR: ANIMAUX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32592
+#EXTINF:-1,TR: Arabesk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/174397
+#EXTINF:-1,TR: Arti TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1820
+#EXTINF:-1,TR: AS TV Bursa
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58133
+#EXTINF:-1,TR: ATV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/521
+#EXTINF:-1,TR: ATV ALANYA
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280341
+#EXTINF:-1,TR: ATV Avrupa
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296360
+#EXTINF:-1,TR: ATV Para
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10153
+#EXTINF:-1,TR: Baby TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/634
+#EXTINF:-1,TR: BBC Earth
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8238
+#EXTINF:-1,TR: beIN Box Office 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/536
+#EXTINF:-1,TR: beIN Box Office 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281863
+#EXTINF:-1,TR: beIN Box Office 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/538
+#EXTINF:-1,TR: beIN Box Office Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/539
+#EXTINF:-1,TR: beIN Gurme
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1807
+#EXTINF:-1,TR: beIN Iz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1806
+#EXTINF:-1,TR: beIN Movies Action
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1761
+#EXTINF:-1,TR: beIN Movies Action 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278527
+#EXTINF:-1,TR: beIN Movies Family
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1763
+#EXTINF:-1,TR: beIN Movies Premiere
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1764
+#EXTINF:-1,TR: beIN Movies Premiere 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1765
+#EXTINF:-1,TR: beIN Movies Stars
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1766
+#EXTINF:-1,TR: beIN Movies Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1767
+#EXTINF:-1,TR: beIN Series Comedy
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1768
+#EXTINF:-1,TR: beIN Series Drama
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1769
+#EXTINF:-1,TR: beIN Series sci-fi
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8231
+#EXTINF:-1,TR: beIN Series Vice
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1771
+#EXTINF:-1,TR: beIN Sports 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1735
+#EXTINF:-1,TR: beIN Sports 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1737
+#EXTINF:-1,TR: beIN Sports 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1739
+#EXTINF:-1,TR: beIN Sports 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7450
+#EXTINF:-1,TR: beIN Sports Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7448
+#EXTINF:-1,TR: beIN Sports Max 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8224
+#EXTINF:-1,TR: beIN Sports Max 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16878
+#EXTINF:-1,TR: Bengu Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/611
+#EXTINF:-1,TR: Berat TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291146
+#EXTINF:-1,TR: Beyaz TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/524
+#EXTINF:-1,TR: Beykent TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36067
+#EXTINF:-1,TR: Bloomberg HT
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/664
+#EXTINF:-1,TR: Boomerang
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/672
+#EXTINF:-1,TR: BRTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58143
+#EXTINF:-1,TR: Bursa TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/655
+#EXTINF:-1,TR: Caillou
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192581
+#EXTINF:-1,TR: Can TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/648
+#EXTINF:-1,TR: Cartoon Network
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8261
+#EXTINF:-1,TR: Cay TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7710
+#EXTINF:-1,TR: CBeebies
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1844
+#EXTINF:-1,TR: Cem TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/663
+#EXTINF:-1,TR: Chasse & Peche
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/21246
+#EXTINF:-1,TR: Ciftci TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76684
+#EXTINF:-1,TR: Cine 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297035
+#EXTINF:-1,TR: CNN Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/628
+#EXTINF:-1,TR: Da Vinci
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1850
+#EXTINF:-1,TR: Deha TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36073
+#EXTINF:-1,TR: Dim TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58152
+#EXTINF:-1,TR: Discovery Science
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5693
+#EXTINF:-1,TR: Discovery World
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8236
+#EXTINF:-1,TR: Disney Channel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278570
+#EXTINF:-1,TR: Disney Junior
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/633
+#EXTINF:-1,TR: Diyanet TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7711
+#EXTINF:-1,TR: DiziSmart Max
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32147
+#EXTINF:-1,TR: DiziSmart Premium
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/15714
+#EXTINF:-1,TR: DMAX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1805
+#EXTINF:-1,TR: DocuBox
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/532
+#EXTINF:-1,TR: Dost TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/7712
+#EXTINF:-1,TR: Dream Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/669
+#EXTINF:-1,TR: DRT Denizli
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36070
+#EXTINF:-1,TR: EBA TV Ilkokul
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148006
+#EXTINF:-1,TR: EBA TV Lise
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148008
+#EXTINF:-1,TR: EBA TV Ortaokul
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148007
+#EXTINF:-1,TR: Edessa TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29844
+#EXTINF:-1,TR: Ege Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281381
+#EXTINF:-1,TR: Ekin Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/267866
+#EXTINF:-1,TR: Ekoturk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5712
+#EXTINF:-1,TR: EM TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/604
+#EXTINF:-1,TR: Ert Sah TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296632
+#EXTINF:-1,TR: ERTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/621
+#EXTINF:-1,TR: ES TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/593
+#EXTINF:-1,TR: Euro D
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/39324
+#EXTINF:-1,TR: EUROSPORT 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1755
+#EXTINF:-1,TR: EUROSPORT 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1756
+#EXTINF:-1,TR: EuroStar
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5038
+#EXTINF:-1,TR: Fast & FunBox
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/576
+#EXTINF:-1,TR: Fenerbahce TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/575
+#EXTINF:-1,TR: FilmBox
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/533
+#EXTINF:-1,TR: FilmBox Action
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192414
+#EXTINF:-1,TR: FilmBox Family
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192417
+#EXTINF:-1,TR: Flash Haber TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/148308
+#EXTINF:-1,TR: FM TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146678
+#EXTINF:-1,TR: FOX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/514
+#EXTINF:-1,TR: Fox Crime
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/579
+#EXTINF:-1,TR: FX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/580
+#EXTINF:-1,TR: Galatasaray TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/618
+#EXTINF:-1,TR: Gonca TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146677
+#EXTINF:-1,TR: Guneydogu TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32611
+#EXTINF:-1,TR: Haber 61
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/596
+#EXTINF:-1,TR: Haber Global
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/652
+#EXTINF:-1,TR: Haberturk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/651
+#EXTINF:-1,TR: Halk TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/617
+#EXTINF:-1,TR: History
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1801
+#EXTINF:-1,TR: HRT Akdeniz TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36075
+#EXTINF:-1,TR: Hunat TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/186993
+#EXTINF:-1,TR: IBB TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/166861
+#EXTINF:-1,TR: Icel TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280338
+#EXTINF:-1,TR: Investigation Discovery
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8237
+#EXTINF:-1,TR: Istanbul TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/284471
+#EXTINF:-1,TR: Kadirga TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/645
+#EXTINF:-1,TR: Kanal 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/603
+#EXTINF:-1,TR: Kanal 7
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/525
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/4777
+#EXTINF:-1,TR: Kanal 15
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58132
+#EXTINF:-1,TR: Kanal 23
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58139
+#EXTINF:-1,TR: Kanal 26
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/11052
+#EXTINF:-1,TR: Kanal 32
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76641
+#EXTINF:-1,TR: Kanal 33
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/15697
+#EXTINF:-1,TR: Kanal 34
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/89930
+#EXTINF:-1,TR: Kanal 58
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/609
+#EXTINF:-1,TR: Kanal 68
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/19203
+#EXTINF:-1,TR: Kanal Avrupa
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16813
+#EXTINF:-1,TR: Kanal B
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/605
+#EXTINF:-1,TR: Kanal D
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/510
+#EXTINF:-1,TR: Kanal Firat
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/19242
+#EXTINF:-1,TR: Kanal Urfa
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286752
+#EXTINF:-1,TR: Kanal V
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/657
+#EXTINF:-1,TR: Kanal Z
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58173
+#EXTINF:-1,TR: Kardelen TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/199174
+#EXTINF:-1,TR: Kay TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16832
+#EXTINF:-1,TR: Kent Türk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58163
+#EXTINF:-1,TR: Kibris Kanal T
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32625
+#EXTINF:-1,TR: Kocaeli TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/36112
+#EXTINF:-1,TR: Kon TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/667
+#EXTINF:-1,TR: Kral Pop
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/194621
+#EXTINF:-1,TR: Kral TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1838
+#EXTINF:-1,TR: KRT
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1826
+#EXTINF:-1,TR: Kudüs TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163248
+#EXTINF:-1,TR: Köy TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/586
+#EXTINF:-1,TR: Line TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29833
+#EXTINF:-1,TR: Love Nature
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/837
+#EXTINF:-1,TR: Luys TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/90236
+#EXTINF:-1,TR: Lâlegül TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/613
+#EXTINF:-1,TR: Manisa TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286869
+#EXTINF:-1,TR: Mavi Karadeniz TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/590
+#EXTINF:-1,TR: MC EU
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76648
+#EXTINF:-1,TR: Med Muzik
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/14709
+#EXTINF:-1,TR: Medine TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76652
+#EXTINF:-1,TR: Medya Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/72562
+#EXTINF:-1,TR: Meltem TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/73228
+#EXTINF:-1,TR: Mercan TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163235
+#EXTINF:-1,TR: Merkez TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/600
+#EXTINF:-1,TR: Metro Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/162296
+#EXTINF:-1,TR: Milyon TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/647
+#EXTINF:-1,TR: Minika Cocuk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/671
+#EXTINF:-1,TR: Minika Go
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/662
+#EXTINF:-1,TR: Moviesmart Classic
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1773
+#EXTINF:-1,TR: Moviesmart Premium
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1778
+#EXTINF:-1,TR: Moviesmart Premium 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1777
+#EXTINF:-1,TR: Moviesmart Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1780
+#EXTINF:-1,TR: MSBC
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296852
+#EXTINF:-1,TR: NAT GEO
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278566
+#EXTINF:-1,TR: NAT GEO Wild
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/838
+#EXTINF:-1,TR: Nick Junior
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/675
+#EXTINF:-1,TR: nickelodeon
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278469
+#EXTINF:-1,TR: NTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/668
+#EXTINF:-1,TR: Number 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1842
+#EXTINF:-1,TR: Number 1 Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5714
+#EXTINF:-1,TR: Olay Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/174382
+#EXTINF:-1,TR: On 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/44751
+#EXTINF:-1,TR: On 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146680
+#EXTINF:-1,TR: Pamukkale TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76647
+#EXTINF:-1,TR: Power Dance
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291168
+#EXTINF:-1,TR: Power Love
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291169
+#EXTINF:-1,TR: Power Plus
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/296298
+#EXTINF:-1,TR: Power Turk TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1840
+#EXTINF:-1,TR: Power TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/830
+#EXTINF:-1,TR: PowerTurk Akustik
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291166
+#EXTINF:-1,TR: PowerTurk En İyiler
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291167
+#EXTINF:-1,TR: PowerTurk Slow
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291165
+#EXTINF:-1,TR: PowerTurk Taptaze
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291164
+#EXTINF:-1,TR: Rehber TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/15676
+#EXTINF:-1,TR: Rumeli TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76644
+#EXTINF:-1,TR: S Sport
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1753
+#EXTINF:-1,TR: S Sport 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/10167
+#EXTINF:-1,TR: Sat 7 Türk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76639
+#EXTINF:-1,TR: Science & Vie TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32593
+#EXTINF:-1,TR: Semerkand TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/834
+#EXTINF:-1,TR: SHOW MAX
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/534
+#EXTINF:-1,TR: SHOW TURK
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278466
+#EXTINF:-1,TR: SHOW TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/516
+#EXTINF:-1,TR: Sinema 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1774
+#EXTINF:-1,TR: Sinema 1001
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1789
+#EXTINF:-1,TR: Sinema 1002
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76722
+#EXTINF:-1,TR: Sinema Aile
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1794
+#EXTINF:-1,TR: Sinema Aksiyon
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1793
+#EXTINF:-1,TR: Sinema Aksiyon 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1772
+#EXTINF:-1,TR: Sinema Komedi
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1795
+#EXTINF:-1,TR: Sinema Komedi 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/43541
+#EXTINF:-1,TR: Sinema TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1790
+#EXTINF:-1,TR: Sinema Yerli
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1791
+#EXTINF:-1,TR: Sinema Yerli 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163186
+#EXTINF:-1,TR: Spor Smart
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1750
+#EXTINF:-1,TR: Spor Smart 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/50121
+#EXTINF:-1,TR: Sports TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/89846
+#EXTINF:-1,TR: Star TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/512
+#EXTINF:-1,TR: Sun RTV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/162297
+#EXTINF:-1,TR: Tarim TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/174433
+#EXTINF:-1,TR: Tarim Türk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281364
+#EXTINF:-1,TR: Tatlises TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280103
+#EXTINF:-1,TR: TAY TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16887
+#EXTINF:-1,TR: TBMM TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192558
+#EXTINF:-1,TR: Tele 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/654
+#EXTINF:-1,TR: Tempo TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/29841
+#EXTINF:-1,TR: Teve 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/535
+#EXTINF:-1,TR: TGRT Belgesel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16828
+#EXTINF:-1,TR: TGRT EU
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32907
+#EXTINF:-1,TR: TGRT Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/616
+#EXTINF:-1,TR: Thaqalayn TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/166209
+#EXTINF:-1,TR: Tivi 6
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291159
+#EXTINF:-1,TR: TIVI TÜRK
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/192597
+#EXTINF:-1,TR: Tivibu Spor
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1746
+#EXTINF:-1,TR: Tivibu Spor 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1748
+#EXTINF:-1,TR: Tivibu Spor 3
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1749
+#EXTINF:-1,TR: Tivibu Spor 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/286778
+#EXTINF:-1,TR: TJK TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/594
+#EXTINF:-1,TR: TLC
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/585
+#EXTINF:-1,TR: TMB
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76692
+#EXTINF:-1,TR: TOKAT SUPER TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/291162
+#EXTINF:-1,TR: Ton TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58134
+#EXTINF:-1,TR: Toprak TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281365
+#EXTINF:-1,TR: TRT 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/507
+#EXTINF:-1,TR: TRT 2
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/635
+#EXTINF:-1,TR: TRT 4K
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1810
+#EXTINF:-1,TR: TRT Avaz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/622
+#EXTINF:-1,TR: TRT Belgesel
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/577
+#EXTINF:-1,TR: TRT Cocuk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/629
+#EXTINF:-1,TR: TRT Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/627
+#EXTINF:-1,TR: TRT Muzik
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/630
+#EXTINF:-1,TR: TRT Spor
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/528
+#EXTINF:-1,TR: TRT Spor Yildiz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32095
+#EXTINF:-1,TR: TRT Turk
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/831
+#EXTINF:-1,TR: TRT World
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/11025
+#EXTINF:-1,TR: Turkmenli TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283082
+#EXTINF:-1,TR: TV 1
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76645
+#EXTINF:-1,TR: TV 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/646
+#EXTINF:-1,TR: TV 5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/599
+#EXTINF:-1,TR: TV 8
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278465
+#EXTINF:-1,TR: TV 8 International
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/43500
+#EXTINF:-1,TR: TV 100
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1776
+#EXTINF:-1,TR: TV 41
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/6857
+#EXTINF:-1,TR: TV 52
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/162300
+#EXTINF:-1,TR: TV 8.5
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/518
+#EXTINF:-1,TR: TV Den
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/19257
+#EXTINF:-1,TR: TV Kayseri
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/269641
+#EXTINF:-1,TR: TV Net
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1822
+#EXTINF:-1,TR: TürkHaber TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/19202
+#EXTINF:-1,TR: Ulusal Kanal
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/5699
+#EXTINF:-1,TR: Uzay Haber
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/76673
+#EXTINF:-1,TR: UçanKus TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/625
+#EXTINF:-1,TR: Vatan TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/624
+#EXTINF:-1,TR: Viasat Explore
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/197561
+#EXTINF:-1,TR: Viasat History
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/32589
+#EXTINF:-1,TR: Viasat Nature
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/284470
+#EXTINF:-1,TR: Vizyon 58
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/665
+#EXTINF:-1,TR: Vuslat TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/597
+#EXTINF:-1,TR: Woman TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/527
+#EXTINF:-1,TR: Yaban
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/582
+#EXTINF:-1,TR: Yol TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/583
+#EXTINF:-1,TR: Zarok TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/14893
+#EXTINF:-1,TR: Çocuk Smart
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1851
+#EXTINF:-1,TR: Ülke TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/626
+#EXTINF:-1,AZ: Alvin Channel TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/285954
+#EXTINF:-1,AZ: ARB
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16529
+#EXTINF:-1,AZ: ARB 24
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16535
+#EXTINF:-1,AZ: ARB Gunes
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/295492
+#EXTINF:-1,AZ: Az Star TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278505
+#EXTINF:-1,AZ: Az TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16526
+#EXTINF:-1,AZ: Azad TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/681
+#EXTINF:-1,AZ: Azad TV 4
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/285958
+#EXTINF:-1,AZ: Azerbaijan News TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/199097
+#EXTINF:-1,AZ: Baku TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280129
+#EXTINF:-1,AZ: CBC
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/682
+#EXTINF:-1,AZ: CBC Sport
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/290202
+#EXTINF:-1,AZ: Dunya TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/683
+#EXTINF:-1,AZ: El TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/194303
+#EXTINF:-1,AZ: Ictimai TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/684
+#EXTINF:-1,AZ: Idman TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/685
+#EXTINF:-1,AZ: InterAz
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/678
+#EXTINF:-1,AZ: Kepez TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58976
+#EXTINF:-1,AZ: Medeniyyet TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/676
+#EXTINF:-1,AZ: Mugan TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/285961
+#EXTINF:-1,AZ: Muz TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/58974
+#EXTINF:-1,AZ: Qabala TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279670
+#EXTINF:-1,AZ: Real TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/680
+#EXTINF:-1,AZ: Space TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/686
+#EXTINF:-1,AZ: Turan TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163789
+#EXTINF:-1,AZ: Xezer TV
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/23531
+
 
