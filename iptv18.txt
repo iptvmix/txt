@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,XX 0
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297872
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,XX 1
+http://62.176.77.22:9781/play/a00m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,XX 2
+http://62.176.77.22:9781/play/a00n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,XX 4
+http://62.176.77.22:9781/play/a00l
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAÝ_C.png"  group-title="[ERO] ADULT CH"  ,Anal         
 http://cdn.adultiptv.net/anal.m3u8
