@@ -516,8 +516,8 @@ http://1985h.pw:80/live/sefa/123456/236549.ts
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GUNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SKY HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARTS
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL ANTALYA
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Bursa TV
@@ -542,6 +542,8 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/ngrp:cekmekoybeltv/chunklis
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,YUSUFELI BEL
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,365 TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAY TV
@@ -592,6 +594,8 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 https://embedlp.b-cdn.net/womantv.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/ucankus-tv.png"                                          ,UCANKUS TV	
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SHOW PLUS
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİL TV
 https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİLMAX
@@ -744,6 +748,9 @@ http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,VRT
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,AGRI KULTUR
+https://ssh101.bozztv.com/ssh101/agrikulturtv/chunks.m3u8
+
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BRT 2
@@ -1058,24 +1065,65 @@ https://m.egm.gov.tr:8093/stream/1/
 
 
 #####################################################################################################################################################################################################
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT 1
+
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT 1
 http://77.92.139.136:8200/bysid/10500
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT HABER
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT HABER
 http://77.92.139.136:8200/bysid/10501
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT TÜRK
-http ://77.92.139.136:8200/bysid/10502
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT ÇOCUK
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT TURK
+http://77.92.139.136:8200/bysid/10502
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT COCUK
 http://77.92.139.136:8200/bysid/10504
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT BELGESEL
-http://77.92.139.136:8200/bysid /10505
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT2 HD
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT BELGESEL
+http://77.92.139.136:8200/bysid/10505
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT2 HD
 http://77.92.139.136:8200/bysid/10506
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT MÜZİK
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT MUZIK
 http://77.92.139.136:8200/bysid/10507
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT SPOR YILDIZ
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT SPOR YILDIZ
 http://77.92.139.136:8200/bysid/10525
-#EXTINF:-1 group-title="[TUR] YEDEK CH"   TRT 3-SPOR
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT 3-SPOR
 http://77.92.139.136:8200/bysid/10503
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT FM
+http://77.92.139.136:8200/bysid/10511
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,RADYO 3
+http://77.92.139.136:8200/bysid/10509
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT NAGME
+http://77.92.139.136:8200/bysid/10519
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT TURKU
+http://77.92.139.136:8200/bysid/10521
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT Radyo Haber
+http://77.92.139.136:8200/bysid/10512
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,Meteorolojinin Sesi
+http://77.92.139.136:8200/bysid/10516
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,RADYO GAP
+http://77.92.139.136:8200/bysid/10510
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,Antalya Radyosu
+http://77.92.139.136:8200/bysid/10526
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,Cukurova Radyosu
+http://77.92.139.136:8200/bysid/10527
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,Erzurum Radyosu
+http://77.92.139.136:8200/bysid/10528
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,Trabzon Radyosu
+http://77.92.139.136:8200/bysid/10529
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,VOT WORLD
+http://77.92.139.136:8200/bysid/10514
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,VOT EAST
+http://77.92.139.136:8200/bysid/10523
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,VOT WEST
+http://77.92.139.136:8200/bysid/10517
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT Kurdi Radyo
+http://77.92.139.136:8200/bysid/10513
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,TRT Memleketim FM
+http://77.92.139.136:8200/bysid/10520
+#EXTINF:-1 group-title="[TUR] YEDEK CH"   ,RADYO 1
+http://77.92.139.136:8200/bysid/10508
+
+
+
+
+
+
 
 
 
