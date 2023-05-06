@@ -1,41 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 ᵁᴴᴰ⁺
 https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://www.canlitv.me/poster/trt-2.png"                                                 ,TRT 2
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://www.canlitv.me/poster/trt-2.png"                                                 ,TRT 2 ᵁᴴᴰ⁺
 http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png"                                              ,BEYAZ TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png"                                              ,BEYAZ TV ᵁᴴᴰ⁺
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://www.canlitv.me/poster/tv4.png"                                                   ,TV 4
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://www.canlitv.me/poster/tv4.png"                                                   ,TV 4 ᵁᴴᴰ⁺
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                                 ,Cine 5
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                                 ,Cine 5 ᵁᴴᴰ⁺
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="tivi6.tr"               tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="tivi6.tr"               tvg-logo="http://yerelmedya.tv/logosTV/tivi6.png"                                                  ,Tivi 6 ᵁᴴᴰ⁺
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,Kanal 7
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,Kanal 7 ᵁᴴᴰ⁺
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://www.canlitv.me/poster/tv8.png"                                                   ,TV 8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://www.canlitv.me/poster/tv8.png"                                                   ,TV 8 ᵁᴴᴰ⁺
 http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://www.canlitv.me/poster/tv8-5.png"                                                 ,TV 8 Bucuk
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://www.canlitv.me/poster/tv8-5.png"                                                 ,TV 8 Bucuk ᵁᴴᴰ⁺
 http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,FOX TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,FOX TV ᵁᴴᴰ⁺
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Star.tr"                tvg-logo="https://www.canlitv.me/poster/star-tv.png"                                               ,STAR TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Star.tr"                tvg-logo="https://www.canlitv.me/poster/star-tv.png"                                               ,STAR TV ᵁᴴᴰ⁺
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D ᵁᴴᴰ⁺
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TV ᵁᴴᴰ⁺
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://www.canlitv.me/poster/show-max.png"                                              ,SHOW MAX
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://www.canlitv.me/poster/show-max.png"                                              ,SHOW MAX ᵁᴴᴰ⁺
 http://1985h.pw:80/live/sefa/123456/129789.ts
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,A TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,A TV ᵁᴴᴰ⁺
 http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 TV ᵁᴴᴰ⁺
 #https://edge02.smart.az/o8/a2/playlist.m3u8
 https://edge02.odtv.az/o8/a2/playlist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://www.canlitv.me/poster/teve2.png"                                                 ,TEVE 2
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://www.canlitv.me/poster/teve2.png"                                                 ,TEVE 2 ᵁᴴᴰ⁺
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://www.canlitv.me/poster/tv-360.png"                                                ,360 TV
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://www.canlitv.me/poster/tv-360.png"                                                ,360 TV ᵁᴴᴰ⁺
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="trt4k.tr"               tvg-logo="https://www.canlitv.me/poster/trt4k.png"                                                 ,TRT 4K
 h        8
@@ -89,10 +89,6 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="Discovery.tr"           tvg-logo="https://www.discovery.com/etc/designs/discoverycom/favicons/favicon-192x192.png"         ,DISCOVERY
-https://mn-nl.mncdn.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="YabanTV.tr"             tvg-logo="https://www.canlitv.me/poster/yaban-tv.png"                                              ,YABAN TV
-https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w1718563918.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="kanalistanbul.tr"       tvg-logo="https://www.kanalistanbultv.net/img/logo.png"                                            ,KANAL ISTANBUL	
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="istanbultv.tr"          tvg-logo="http://www.istanbultvkanal.com/Pictures/logo.png"                                        ,ISTANBUL TV	
@@ -109,6 +105,8 @@ https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZIMAX
+http://livestream.zazerconer.workers.dev/channel/UCsRzd5DMZQqe00m_SM6BKzw.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK	
 http://70.34.214.187:3923/stream/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
@@ -130,21 +128,25 @@ https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA TV	
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA MUZIK	
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA CL1	
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+https://stream.mylive.in.th/live/yansimatv/yansimatv.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA CL2 
 https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",TIMUR MEDYA	
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 1	
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 2	
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 3	
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 4	
-https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
+https://live-server-2.splitstream.io/2ae3bf08-20eb-4dcb-83ea-38d1088180e7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 5	
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 6	
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",TURKUVAZ TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",ANKA TV	
@@ -161,8 +163,6 @@ http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRAL POP	
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MILYON TV	
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM TURK	
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,PT POWER TURK	
@@ -263,6 +263,8 @@ https://bit.ly/ARTITV_bysimba?/chunklist.m3u8
 https://cdn-mektv.yayin.com.tr/mektv/mektv/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/a-para.png"                                              ,A PARA
 h     8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100 EKONOMI
+http://livestream.zazerconer.workers.dev/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bloomberght.png"                                           ,BLOOMBERG HT
 https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo="https://tr.canlitvizle.mobi/kanallar/kucuk/ekoturk-tv.png"                               ,EKOTURK
@@ -593,6 +595,8 @@ http://1985h.pw:80/live/sefa/123456/236540.ts
 http://1985h.pw:80/live/sefa/123456/236549.ts
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PALA TV
 http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MILYON TV	
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SLOW KARADENIZ TV HD
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RIZE TURK HD
@@ -4675,3 +4679,211 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/163789
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/23531
 
 
+#EXTM3U
+
+#EXTINF: -1 ,STAR TV
+http://195.142.1.211:4022/udp/224.2.2.1:10001
+#EXTINF: -1 ,NTV
+http://195.142.1.211:4022/udp/224.2.2.2:10001
+#EXTINF: -1 ,D MAX
+http://195.142.1.211:4022/udp/224.2.2.3:10001
+#EXTINF: -1 ,RADYO
+http://195.142.1.211:4022/udp/224.2.2.4:10001
+#EXTINF: -1 ,RADYO
+http://195.142.1.211:4022/udp/224.2.2.5:10001
+#EXTINF: -1 ,RADYO
+http://195.142.1.211:4022/udp/224.2.2.6:10001
+#EXTINF: -1 ,TLC
+http://195.142.1.211:4022/udp/224.2.2.7:10001
+#EXTINF: -1 ,KANAL D
+http://195.142.1.211:4022/udp/224.2.2.9:10001
+#EXTINF: -1 ,CNN TURK
+http://195.142.1.211:4022/udp/224.2.2.10:10001
+#EXTINF: -1 ,TEVE 2
+http://195.142.1.211:4022/udp/224.2.2.11:10001
+#EXTINF: -1 ,DREAM TURK
+http://195.142.1.211:4022/udp/224.2.2.12:10001
+#EXTINF: -1 ,LIDER HABER
+http://195.142.1.211:4022/udp/224.2.2.13:10001
+#EXTINF: -1 ,D TAY
+http://195.142.1.211:4022/udp/224.2.2.14:10001
+#EXTINF: -1 ,BOS
+http://195.142.1.211:4022/udp/224.2.2.15:10001
+#EXTINF: -1 ,KOCAELI TV
+http://195.142.1.211:4022/udp/224.2.2.16:10001
+#EXTINF: -1 ,MINIKA COCUK
+http://195.142.1.211:4022/udp/224.2.2.17:10001
+#EXTINF: -1 ,MINIKA GO
+http://195.142.1.211:4022/udp/224.2.2.18:10001
+#EXTINF: -1 ,ATV
+http://195.142.1.211:4022/udp/224.2.2.19:10001
+#EXTINF: -1 ,A HABER
+http://195.142.1.211:4022/udp/224.2.2.20:10001
+#EXTINF: -1 ,A SPOR
+http://195.142.1.211:4022/udp/224.2.2.21:10001
+#EXTINF: -1 ,RADYO
+http://195.142.1.211:4022/udp/224.2.2.22:10001
+#EXTINF: -1 ,RADYO
+http://195.142.1.211:4022/udp/224.2.2.23:10001
+#EXTINF: -1 ,RADYO VAV
+http://195.142.1.211:4022/udp/224.2.2.24:10001
+#EXTINF: -1 ,FOX TV
+http://195.142.1.211:4022/udp/224.2.2.25:10001
+#EXTINF: -1 ,TV 8
+http://195.142.1.211:4022/udp/224.2.2.33:10001
+#EXTINF: -1 ,TV 8 BUCUK
+http://195.142.1.211:4022/udp/224.2.2.34:10001
+#EXTINF: -1 ,AKIT TV
+http://195.142.1.211:4022/udp/224.2.2.41:10001
+#EXTINF: -1 ,KON TV
+http://195.142.1.211:4022/udp/224.2.2.42:10001
+#EXTINF: -1 ,TV KAYSERI
+http://195.142.1.211:4022/udp/224.2.2.43:10001
+#EXTINF: -1 ,BENGUTURK
+http://195.142.1.211:4022/udp/224.2.2.44:10001
+#EXTINF: -1 ,HABER GLOBAL
+http://195.142.1.211:4022/udp/224.2.2.45:10001
+#EXTINF: -1 ,TVDEN
+http://195.142.1.211:4022/udp/224.2.2.46:10001
+#EXTINF: -1 ,BEINSPORTS HABER
+http://195.142.1.211:4022/udp/224.2.2.49:10001
+#EXTINF: -1 ,KANAL 24
+http://195.142.1.211:4022/udp/224.2.2.57:10001
+#EXTINF: -1 ,360 TV
+http://195.142.1.211:4022/udp/224.2.2.58:10001
+#EXTINF: -1 ,TV 4
+http://195.142.1.211:4022/udp/224.2.2.59:10001
+#EXTINF: -1 ,MUZIK 
+http://195.142.1.211:4022/udp/224.2.2.65:10001
+#EXTINF: -1 ,RADYO 66
+http://195.142.1.211:4022/udp/224.2.2.66:10001
+#EXTINF: -1 ,RADYO 67
+http://195.142.1.211:4022/udp/224.2.2.67:10001
+#EXTINF: -1 ,RADYO 68
+http://195.142.1.211:4022/udp/224.2.2.68:10001
+#EXTINF: -1 ,RADYO 69
+http://195.142.1.211:4022/udp/224.2.2.69:10001
+#EXTINF: -1 ,RADYO 70
+http://195.142.1.211:4022/udp/224.2.2.70:10001
+#EXTINF: -1 ,BEYAZ TV
+http://195.142.1.211:4022/udp/224.2.2.73:10001
+#EXTINF: -1 ,DIYANET TV
+http://195.142.1.211:4022/udp/224.2.2.74:10001
+#EXTINF: -1 ,TGRT HABER
+http://195.142.1.211:4022/udp/224.2.2.81:10001
+#EXTINF: -1 ,RADYO 82
+http://195.142.1.211:4022/udp/224.2.2.82:10001
+#EXTINF: -1 ,TGRT BELGESEL
+http://195.142.1.211:4022/udp/224.2.2.83:10001
+#EXTINF: -1 ,TGRT EU
+http://195.142.1.211:4022/udp/224.2.2.84:10001
+#EXTINF: -1 ,STAR SHOPING
+http://195.142.1.211:4022/udp/224.2.2.89:10001
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam 1" tvg-logo="http://myserveriptv.com:2082/images/2ae09b8d270bbd3827f7d936ecea7a7a.png" group-title="Turkey",TR: Yesilcam 1
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/208378
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal" tvg-logo="http://myserveriptv.com:2082/images/91a45e93a822e8f055dddb2cd6a488b9.png" group-title="Turkey",TR: Kemal Sunal
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/215668
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam 2" tvg-logo="http://myserveriptv.com:2082/images/2ae09b8d270bbd3827f7d936ecea7a7a.png" group-title="Turkey",TR: Yesilcam 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/215667
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="Turkey",TR: beIN Movies Action
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77284
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="Turkey",TR: beIN Movies Action 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="Turkey",TR: beIN Movies Family
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77285
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77281
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="Turkey",TR: beIN Movies Premier 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77282
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="Turkey",TR: beIN Movies Stars
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77283
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="Turkey",TR: beIN Movies Turk
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77286
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Comedy" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="Turkey",TR: beIN Series Comedy
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/144690
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Drama" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="Turkey",TR: beIN Series Drama
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/144691
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Vice" tvg-logo="http://myserveriptv.com:2082/images/c0b680bf25fc72160f3d3028aa8ac520.png" group-title="Turkey",TR: beIN Series Vice
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/144692
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="http://myserveriptv.com:2082/images/94f04d79e092c746787c7410e3488fd9.png" group-title="Turkey",TR: Sinema TV 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/138654
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aksiyon 2" tvg-logo="http://myserveriptv.com:2082/images/0e45bd8297a3a89153a960aa73b606ec.png" group-title="Turkey",TR: Sinema TV Aksiyon 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/138659
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="http://myserveriptv.com:2082/images/0d849171f2f5937936bafc4a363276ae.png" group-title="Turkey",TR: Sinema TV Yerli
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77419
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi" tvg-logo="http://myserveriptv.com:2082/images/28277dd9d204e029009f2ad3546408b0.png" group-title="Turkey",TR: Sinema Komedi
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/113593
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://myserveriptv.com:2082/images/36dcd79ad66d8d23fe8d51622652907a.png" group-title="Turkey",TR: Sinema Komedi 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/138658
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="http://myserveriptv.com:2082/images/47685c68748efcc06f7cf97fb615f605.png" group-title="Turkey",TR: Sinema TV 1001
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/138657
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="http://myserveriptv.com:2082/images/e34350893eb1457f7c9476f6308bab45.png" group-title="Turkey",TR: Sinema TV 1002
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/113590
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Premium" tvg-logo="http://myserveriptv.com:2082/images/e0b0d0f97c885aa2094a94890645a1b6.png" group-title="Turkey",TR: DiziSmart Premium
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/129145
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic" tvg-logo="http://myserveriptv.com:2082/images/75dcb86a0f25925f6f57cea0780ccfee.png" group-title="Turkey",TR: Moviesmart Classic
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77297
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Turk" tvg-logo="http://myserveriptv.com:2082/images/49c2fd3180b99fbc7f91f2fea3914854.png" group-title="Turkey",TR: Moviesmart Turk
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/138651
+
+-------------------ÇOCUK-----------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://myserveriptv.com:2082/images/baf9de9c28fc83e02a855636615b4dab.png" group-title="Turkey",TR: Nick Junior
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/139342
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon" tvg-logo="http://myserveriptv.com:2082/images/cce585460ae0a79d61b104664fd4ad89.png" group-title="Turkey",TR: Nickelodeon
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77387
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg" tvg-logo="http://myserveriptv.com:2082/images/1869c8bd48f7e1ee884d0a2c0f23bf34.png" group-title="Turkey",TR: Bloomberg
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77397
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Turkey",TR: Boomerang
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77379
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Junior" tvg-logo="http://myserveriptv.com:2082/images/56ea68604747cd9d2f29655fc8465f45.png" group-title="Turkey",TR: Disney Junior
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77383
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Cocuc" tvg-logo="http://myserveriptv.com:2082/images/073bed7701dd2e95c35c29b7f79c1a67.png" group-title="Turkey",TR: TRT Cocuc
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77388
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA Ilkokul" tvg-logo="http://myserveriptv.com:2082/images/90058eef314448c3c89b5b65a4669649.png" group-title="Turkey",TR: TRT EBA Ilkokul
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77391
+--------------BELGESEL------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://myserveriptv.com:2082/images/04986cd5e5a89bb92c1a7cb28342f1a2.png" group-title="Turkey",TR: TRT Belgesel
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77312
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="Turkey",TR: National Geographic
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77311
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" group-title="Turkey",TR: Nat Geo Wild
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77310
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" group-title="Turkey",TR: Discovery Channel
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77303
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="http://myserveriptv.com:2082/images/eaab6a745c5fec4eb018f891720266d4.png" group-title="Turkey",TR: Discovery Science
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77304
+
+----------------Spor----------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart 2" tvg-logo="http://myserveriptv.com:2082/images/a44d668deacbea6b0e33ed875ffe6361.png" group-title="Turkey",TR: SporSmart 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77255
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor" tvg-logo="http://myserveriptv.com:2082/images/546f23ee37f8862a1d99fc33076b3fca.png" group-title="Turkey",TR: TRT Spor
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77274
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor 2" tvg-logo="http://myserveriptv.com:2082/images/6127a41e8ee30716c817fc7b479cbb48.png" group-title="Turkey",TR: TRT Spor 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77275
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 1" tvg-logo="http://myserveriptv.com:2082/images/a56b375decdf31dd9bdb340f4bbba879.png" group-title="Turkey",TR: Eurosport 1
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77270
+#EXTINF:-1 tvg-id="" tvg-name="TR: Eurosport 2" tvg-logo="http://myserveriptv.com:2082/images/cef51f2de50295b33af5bc872ed9ead6.png" group-title="Turkey",TR: Eurosport 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77271
+#EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart HD" tvg-logo="http://myserveriptv.com:2082/images/0c8904c64e3a265a15874b82636e9316.png" group-title="Turkey",TR: SporSmart HD
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77268
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports TV" tvg-logo="http://myserveriptv.com:2082/images/0b65e662e40a68723215fcf13b55b252.png" group-title="Turkey",TR: Sports TV
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77269
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 1
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77258
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 2
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77260
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://myserveriptv.com:2082/images/f93f0027ad46cea702e081df35aa8038.png" group-title="Turkey",TR: Tivibu Spor 3
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77262
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="http://myserveriptv.com:2082/images/4836c1f7a40cff78a56a2858cfbe39f3.png" group-title="Turkey",TR: beIN Sports 4 FHD
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77249
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sports Haber" tvg-logo="http://myserveriptv.com:2082/images/4836c1f7a40cff78a56a2858cfbe39f3.png" group-title="Turkey",TR: Bein Sports Haber
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77252
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV" tvg-logo="http://myserveriptv.com:2082/images/6a2d87037cb50511ea5cdb8e44adb643.png" group-title="Turkey",TR: NBA TV
+http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77273
