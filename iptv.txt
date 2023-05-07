@@ -468,6 +468,24 @@ https://yayin1.canlitv.day/canlitv/tvkayseri.stream/playlist.m3u8
 https://yayin1.canlitv.day/canlitv/tv38.stream/playlist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGO TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGO TV
+https://yayin30.haber100.com/live/agrotv2/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beykenttv HD
+https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,diyartv HD
+https://yayin30.haber100.com/live/diyartv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,kardestv HD
+https://yayin30.haber100.com/live/kardestv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,kudustv
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,rehbertv HD
+https://yayin30.haber100.com/live/rehbertv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,sehirekrani HD
+https://yayin30.haber100.com/live/sehirekrani/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,womanlifetv HD
+https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
+#EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,yasamtv HD
+https://yayin30.haber100.com/live/yasamtv/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,OSB TV
 https://broadcasttr.com:446/kayseriosb/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CIFTCI TV
