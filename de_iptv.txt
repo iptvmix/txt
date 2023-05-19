@@ -1,0 +1,338 @@
+#EXTM3U 
+
+#EXTINF:-1 channel-id="ARD.de"                         tvg-id="ARD.de"                   tvg-chno="0001" tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                           group-title="DE | Deutsch " , ARD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="DE | Deutsch " , ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="DE | Deutsch " , MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="DE | Deutsch " , NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
+#EXTINF:-1 channel-id="RBBBerlin.de"                   tvg-id="rbb.de"                   tvg-chno="0007" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB BERLIN
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:-1 channel-id="SWR.de"                         tvg-id="SWR.de"                   tvg-chno="0008" tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                              group-title="DE | Deutsch " , SWR
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1 channel-id="ONE.de"                         tvg-id="one.de"                   tvg-chno="0009" tvg-logo="https://download.avm.de/tv/logos/ard_one_hd.png"                                          group-title="DE | Deutsch " , ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 channel-id="BR.de"                          tvg-id="BR.de"                    tvg-chno="0010" tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                               group-title="DE | Deutsch " , BR
+https://brcdn.vo.llnwd.net/bfs_sued/de/profile3/3.m3u8
+#EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="DE | Deutsch " , HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 channel-id="SR.de"                          tvg-id="sr.de"                    tvg-chno="0012" tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                  group-title="DE | Deutsch " , SR
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
+#EXTINF:-1 channel-id="ARD-Alpha.de"                   tvg-id="ARD-alpha.de"             tvg-chno="0013" tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                           group-title="DE | Deutsch " , ARD-Alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 channel-id="RadioBremen.de"                 tvg-id="RadioBremen.de"           tvg-chno="0014" tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                        group-title="DE | Deutsch " , Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 channel-id="3sat.de"                        tvg-id="3sat.de"                  tvg-chno="0015" tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                                group-title="DE | Deutsch " , 3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 channel-id="zdfinfo.de"                     tvg-id="zdfinfo.de"               tvg-chno="0016" tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                            group-title="DE | Deutsch " , ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 channel-id="zdfneo.de"                      tvg-id="zdfneo.de"                tvg-chno="0017" tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                             group-title="DE | Deutsch " , ZDF neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="DE | Deutsch " , arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="DE | Deutsch " , ZDF
+https://s@s6.hopslan.com:443/zdff1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf1.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="DE | Deutsch " , ORF 1
+https://s6.hopslan.com/orf1/index.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="DE | Deutsch " , RTL
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="RTL2.de"                        tvg-id="RTL2.de"                  tvg-chno="0022" tvg-logo="https://download.avm.de/tv/logos/rtl2.png"                                                group-title="DE | Deutsch " , RTL II
+https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="RTLplus.de"                     tvg-id="RTLplus.de"               tvg-chno="0023" tvg-logo="https://download.avm.de/tv/logos/rtlplus.png"                                             group-title="DE | Deutsch " , RTL+
+h    8
+#EXTINF:-1 channel-id="RTLup.de"                       tvg-id="RTLup.de"                 tvg-chno="0024" tvg-logo="https://download.avm.de/tv/logos/rtlup.png"                                               group-title="DE | Deutsch " , RTL UP
+h    8
+#EXTINF:-1 channel-id="RTLNitro.de"                    tvg-id="RTLNitro.de"              tvg-chno="0025" tvg-logo="https://download.avm.de/tv/logos/rtlnitro.png"                                            group-title="DE | Deutsch " , RTL NITRO
+https://s6.hopslan.com/nitrov/index.m3u8
+#EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="DE | Deutsch " , SUPER RTL
+https://s6.hopslan.com/superc/index.m3u8
+#EXTINF:-1 channel-id="Vox.de"                         tvg-id="Vox.de"                   tvg-chno="0027" tvg-logo="https://download.avm.de/tv/logos/vox.png"                                                 group-title="DE | Deutsch " , VOX
+https://s6.hopslan.com/voxq1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="VOXup.de"                       tvg-id="VOXup.de"                 tvg-chno="0028" tvg-logo="https://download.avm.de/tv/logos/voxup.png"                                               group-title="DE | Deutsch " , VOX UP
+h    8
+#EXTINF:-1 channel-id="RKDram.de"                      tvg-id="RKDram.de"                tvg-chno="0029" tvg-logo="https://i.imgur.com/dWNxCqp.png"                                                          group-title="DE | Deutsch " , RK Drama
+https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="Kabeleins.de"                   tvg-id="Kabeleins.de"             tvg-chno="0030" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="DE | Deutsch " , KABEL eins
+https://s6.hopslan.com/kabel1q1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="Sat1.de"                        tvg-id="Sat1.de"                  tvg-chno="0031" tvg-logo="https://download.avm.de/tv/logos/sat1.png"                                                group-title="DE | Deutsch " , SAT 1
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="Sat1Gold.de"                    tvg-id="Sat1Gold.de"              tvg-chno="0032" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png"                                            group-title="DE | Deutsch " , SAT 1 GOLD
+https://s6.hopslan.com/goldc/index.m3u8
+#EXTINF:-1 channel-id="bibeltv.de"                     tvg-id="bibeltv.de"               tvg-chno="0033" tvg-logo=""                                                                                         group-title="DE | Deutsch " ,BIBEL TV
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 channel-id="bibel2tv.de"                    tvg-id="bibel2tv.de"              tvg-chno="0034" tvg-logo=""                                                                                         group-title="DE | Deutsch " ,BIBEL 2 TV
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 channel-id="Tele5.de"                       tvg-id="Tele5.de"                 tvg-chno="0035" tvg-logo="https://download.avm.de/tv/logos/tele5.png"                                               group-title="DE | Deutsch " , TELE 5
+https://s6.hopslan.com/tele5c/index.m3u8
+#EXTINF:-1 channel-id="Sixx.de"                        tvg-id="sixx.de"                  tvg-chno="0036" tvg-logo="https://download.avm.de/tv/logos/sixx.png"                                                group-title="DE | Deutsch " , SIXX
+https://s6.hopslan.com/sixxc/index.m3u8
+#EXTINF:-1 channel-id="Pro7.de"                        tvg-id="Pro7.de"                  tvg-chno="0037" tvg-logo="https://download.avm.de/tv/logos/pro7.png"                                                group-title="DE | Deutsch " , PRO 7
+https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="DE | Deutsch " , PRO 7 MAXX
+https://s6.hopslan.com/pro7maxxv/index.m3u8
+#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0039" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="DE | Deutsch " , ANIXE TV
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="DE | Deutsch " , Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="DE | Deutsch " , tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="DE | Deutsch " , DW
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="DE | Deutsch " , DW
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 channel-id="WELT.de"                        tvg-id="WELT.de"                  tvg-chno="0044" tvg-logo="https://www.welt.de/favicon-76.png"                                                       group-title="DE | Deutsch " , WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 channel-id="WELT.de"                        tvg-id="WELT.de"                  tvg-chno="0044" tvg-logo="https://www.welt.de/favicon-76.png"                                                       group-title="DE | Deutsch " , WELT
+https://s6.hopslan.com/n24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="NTV.de"                         tvg-id="NTV.de"                   tvg-chno="0045" tvg-logo="https://www.n-tv.de/resources/21505688/adaptive/images/logo.svg"                          group-title="DE | Deutsch " , NTV
+https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="euronews.de"                    tvg-id="euronews.de"              tvg-chno="0046" tvg-logo="https://download.avm.de/tv/logos/euronews.png"                                            group-title="DE | Deutsch " , EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 channel-id="wetter.de"                      tvg-id="wetter.de"                tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"                                              group-title="DE | Deutsch " , WETTER
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 channel-id="Bundestagtv1.de"                tvg-id="Bundestagtv1.de"          tvg-chno="0048" tvg-logo=""                                                                                         group-title="DE | Deutsch " , ,Bundestag TV 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , ,Bundestag TV 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="DE | Deutsch " , KABELeins DOKU
+https://s6.hopslan.com/doku/index.m3u8
+#EXTINF:-1 channel-id="dmax.de"                        tvg-id="dmax.de"                  tvg-chno="0051" tvg-logo="https://download.avm.de/tv/logos/dmax.png"                                                group-title="DE | Deutsch " , DMAX
+https://s6.hopslan.com/dmaxb/index.m3u8
+#EXTINF:-1 channel-id="TLC.de"                         tvg-id="TLC.de"                   tvg-chno="0052" tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                 group-title="DE | Deutsch " , TLC
+https://s6.hopslan.com/tlc/index.m3u8
+#EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0053" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="DE | Deutsch " , SERVUS TV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
+#EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0054" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="DE | Deutsch " , SERVUS TV
+https://s6.hopslan.com/servus2/index.m3u8
+#EXTINF:-1 channel-id="nrwvision.de"                   tvg-id="nrwvision.de"             tvg-chno="0055" tvg-logo=""                                                                                         group-title="DE | Deutsch " , NRW VISION
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1 channel-id="kika.de"                        tvg-id="kika.de"                  tvg-chno="0056" tvg-logo="https://download.avm.de/tv/logos/kika.png"                                                group-title="DE | Deutsch " , KIKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1 channel-id="kika.de"                        tvg-id="kika.de"                  tvg-chno="0056" tvg-logo="https://download.avm.de/tv/logos/kika.png"                                                group-title="DE | Deutsch " , KIKA
+https://s4.hopslan.com/kika/index.m3u8
+#EXTINF:-1 channel-id="disneychannel.de"               tvg-id="disneychannel.de"         tvg-chno="0057" tvg-logo="https://download.avm.de/tv/logos/disney_channel.png"                                      group-title="DE | Deutsch " , DISNEY CH
+https://s6.hopslan.com/disneyc/index.m3u8
+#EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="DE | Deutsch " , SUPER RTL
+https://s6.hopslan.com/superc/index.m3u8
+#EXTINF:-1 channel-id="Nick.de"                        tvg-id="Nick.de"                  tvg-chno="0058" tvg-logo="https://download.avm.de/tv/logos/nickelodeon.png"                                         group-title="DE | Deutsch " , NICK
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 channel-id="Nick.de"                        tvg-id="Nick.de"                  tvg-chno="0058" tvg-logo="https://download.avm.de/tv/logos/nickelodeon.png"                                         group-title="DE | Deutsch " , NICK
+https://s6.hopslan.com/nick/index.m3u8
+#EXTINF:-1 channel-id="ComedyCentral.de"               tvg-id="ComedyCentral.de"         tvg-chno="0059" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"                                       group-title="DE | Deutsch " , Comedy Central
+https://s6.hopslan.com/vivac/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="oe24.at" tvg-logo="https://www.oe24.at/misc/bane/images/logos/logo-oe24Video.svg" ,OE24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="skysportsnews.de" ,SKYSPORTNEWS
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RKSportlight.de" tvg-logo="https://i.imgur.com/vbb3bjW.png" ,RK Sportlight
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="eotv.de" ,EO TV
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Healttv.de" ,HEALT TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="mytvplus.de" ,MyTV plus
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="DeutscheMusik.de" ,Deutsche Musik
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="LightChannel.de" ,Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="telebasel.ch" ,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="qvc.de" ,QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="123tv.de" ,123 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Saarlandtv1.de" ,Saarland 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Saarlamdtv2.de" ,Saarland 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Okkoblenz.de" ,OK koblenz
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OkLudwigshafen.de" ,OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKsudwestplatz.de" ,OK SWP
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKnahetv.de" ,OK Nahe TV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKrheinlokaltv.de" ,OK Rhein lokal TV
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKtriertv.de" ,OK Trier TV
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKDessau.de" tvg-logo="https://www.ok-dessau.de/fileadmin/layout/logo_okdessau.jpg" ,OK Dessau
+http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKMagdeburg.de" ,OK Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKMerseburg.de" ,OK Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKSalzwedel.de" ,OK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKStendal.de" ,OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKWernigerode.de" ,OK Wernigerode
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OKWettin.de" ,OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="kulturmdtv.de" tvg-logo="https://kulturmd.de/images/2018_KMDLogo.png" ,Kultur MD tv
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="elbekanal.de" ,ELBE KANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="mdf1tv.de" ,MDF 1 TV
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="ran1tv,de" ,RAN 1 TV
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="BLK.de" ,BLK TV
+http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Punktumtv.de" ,PUNKTUM TV
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RBW.de                    tvg-logo=" ,RBW TV
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RFH.de" ,RFH TV
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Kieltv.de" tvg-logo="https://www.oksh.de/ki/wp-content/uploads/sites/2/2017/08/okkiel-logo.png" ,KIEL TV
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Flensburgtv.de" ,Flensburg TV
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Badentv.de" ,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="BWFamilyTV.de" tvg-logo="https://www.bwfamily.tv/bilder/elemente/header_logo.png" ,BW|Family TV
+https://cdn.icu.de/rtplive/bwf.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="noa4.de" tvg-logo="http://www.noa4.de/fileadmin/noa4-Pictures/nao4-Logo-Web.png" ,noa4
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="noa4.de" tvg-logo="http://www.noa4.de/fileadmin/noa4-Pictures/nao4-Logo-Web.png" ,noa4
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="muxxtv.de" tvg-logo="https://www.muxx.tv/img/header.png" ,MUXX TV
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Alextv.de" ,Alex TV
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Chemnitz TV" ,Chemnitz TV
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Dresden Tv" ,Dresden TV
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="ERZ TV" ,ERZ TV
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w585202401.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="filstalwelle" ,filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Frankenfernsehen" ,Franken Fernsehen
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="FRF1" ,FRF 1
+https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Lausitzwelle" ,Lausitzwelle
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd10/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Niederbayern.de" ,Niederbayern
+https://stream03.stream.welocal.world/stream/nde/ngrp:nde.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Regiotv.de" ,Regio TV 1
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Regiotv2.de" ,Regio TV 2
+https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Regiotv3.de" ,Regio TV 3
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RFO TV" ,RFO TV
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Rheinmaintv.de" ,Rhein Main TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RNF.de" ,RNF Tv
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="SYLT1.de" ,SYLT 1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="TVAktuel.de" ,TVAktuel
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="tv.berlin.de" ,tv.berlin
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="TVOberfranken.de" ,tv.oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="tv.ingolstadt.de" ,tv.ingolstadt
+https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/chunklist_w1661334302_b946000.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Wesertv.de" ,Weser tv
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/chunklist_w1389213573.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="seenluft 24" ,seenluft 24
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Dorftv.de" ,Dorf TV
+http://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="oktotv.de" ,OKTO TV
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="TeleBielingue" ,TeleBielingue
+https://edge5.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Oldenburg" ,Oldenburg
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="ausburgtv.de" ,Ausburg Tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="telebasel.ch" tvg-logo="https://telebasel.ch/wp-content/themes/telebasel-theme/img/menu-open.svg" ,Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Teins.at" ,T eins
+https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="47Duisburg.de" tvg-logo="https://www.studio47.de/images/logos/s47-logo-weiss-ou-homepage.png" ,47 Duisburg
+https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="OberpfalzTV.de" ,Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="gotv.at" tvg-logo="http://www.gotv.at/stream/anime_solo.png" ,GO TV
+https://nstream17.gotv.at:1443/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="TV38.de" ,TV 38
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="W24.at" tvg-logo="https://www.w24.at/assets/img/logos/w24-400.png" ,W24
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="FS1Salzburgtv.at" tvg-logo="https://fs1.tv/wp-content/uploads/FS1-Logo-Claim-NEG-RGB-rund.svg" ,FS1 Salzburg TV
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="antennetv.de" ,Antenne Tv
+http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Deluxemusic.de" ,Deluxe Music
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="musicTop" ,MusicTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="1music.hu" ,1Music TV
+http://1music.hu/1music.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="MTV" ,MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="fox mix tv" ,FoX MiX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Radio Contac" ,Radio Contac
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="SWR Dasding Studio" ,SWR Dasding Studio
+https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="21tv" ,21 TV
+http://player-api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="ROCK TV" ,ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Sonus FM" ,SONUS FM
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="skyfolk.tv" ,SKY FOLK
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="Unserding" ,Unserding
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="utv.gr" ,u tv
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="qmusik.de" ,q Musik
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="tvm.ch" ,tv M
+https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1 group-title="DE | Deutsch " tvg-id="atv.de" ,a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
