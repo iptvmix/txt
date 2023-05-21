@@ -97,9 +97,9 @@ https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="wetter.de"                      tvg-id="wetter.de"                tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"                                              group-title="DE | Deutsch " , WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 channel-id="Bundestagtv1.de"                tvg-id="Bundestagtv1.de"          tvg-chno="0048" tvg-logo=""                                                                                         group-title="DE | Deutsch " , ,Bundestag TV 1
+#EXTINF:-1 channel-id="Bundestagtv1.de"                tvg-id="Bundestagtv1.de"          tvg-chno="0048" tvg-logo=""                                                                                         group-title="DE | Deutsch " , Bundestag TV 1
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
-#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , ,Bundestag TV 2
+#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , Bundestag TV 2
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="DE | Deutsch " , KABELeins DOKU
 https://s6.hopslan.com/doku/index.m3u8
@@ -127,15 +127,32 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 https://s6.hopslan.com/nick/index.m3u8
 #EXTINF:-1 channel-id="ComedyCentral.de"               tvg-id="ComedyCentral.de"         tvg-chno="0059" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"                                       group-title="DE | Deutsch " , Comedy Central
 https://s6.hopslan.com/vivac/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVComedyMoviesGermany.de"         tvg-chno="0061" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK COMEDY DE
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVComedyMoviesAustria.de"         tvg-chno="0062" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK COMEDY AT
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaGermany.de"                tvg-chno="0063" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK DRAM DE
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaSchweiz.ch"                tvg-chno="0064" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK DRAM CH
+https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaAustria.at"                tvg-chno="0065" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK DRAM AT
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVActionMoviesGermany.de"         tvg-chno="0066" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK ACTIONS DE
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVActionMoviesSchweiz.ch"         tvg-chno="0067" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK ACTIONS CH
+https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVActionMoviesAustria.at"         tvg-chno="0068" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK ACTIONS AT
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVTopFreeGermany.de"              tvg-chno="0069" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK TOP FREE DE
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVthrillerGermany.de"             tvg-chno="0070" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK THRILLER DE
+https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVFamilyGermany.de"               tvg-chno="0071" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK FAMILY DE
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVSportlichtGermany.de"           tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK SPORTLIGHT DE
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVSportlichtGermany.de"           tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK SPORTLIGHT DE
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -150,8 +167,6 @@ https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 
 
-#EXTINF:-1 group-title="DE | Deutsch " tvg-id="RKSportlight.de" tvg-logo="https://i.imgur.com/vbb3bjW.png" ,RK Sportlight
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="DE | Deutsch " tvg-id="eotv.de" ,EO TV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
