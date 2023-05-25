@@ -76,8 +76,6 @@ https://s6.hopslan.com/sixxc/index.m3u8
 https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="DE | Deutsch " , PRO 7 MAXX
 https://s6.hopslan.com/pro7maxxv/index.m3u8
-
-
 #EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="DE | Deutsch " , Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="DE | Deutsch " , tagesschau24
@@ -128,7 +126,6 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 https://s6.hopslan.com/nick/index.m3u8
 #EXTINF:-1 channel-id="ComedyCentral.de"               tvg-id="ComedyCentral.de"         tvg-chno="0059" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png"                                       group-title="DE | Deutsch " , Comedy Central
 https://s6.hopslan.com/vivac/index.m3u8
-
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVComedyMoviesGermany.de"         tvg-chno="0061" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK COMEDY DE
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVComedyMoviesAustria.de"         tvg-chno="0062" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK COMEDY AT
@@ -141,7 +138,7 @@ https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-drama-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaAustria.at"                tvg-chno="0065" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK DRAM AT
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaAustria.at"                tvg-chno="0065" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK Kino
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVDramaAustria.at"                tvg-chno="0065" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK KINO
 https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVActionMoviesGermany.de"         tvg-chno="0066" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK ACTIONS DE
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
@@ -159,7 +156,7 @@ https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVFamilyaustria.at"               tvg-chno="0071" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK FAMILY AT
 https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVRomancegermany.de"              tvg-chno="0071" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK Romance DE
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVRomancegermany.de"              tvg-chno="0071" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK ROMANCE DE
 https://rakuten-romance-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVSportlichtGermany.de"           tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK SPORTLIGHT DE
 https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
@@ -173,6 +170,11 @@ https://rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://bbceu-bbctravel-1-de.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVBBCTrawelGermany.de"            tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , RK BBC Food
 https://bbceu-food-1-de.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVInsighttvGermany.de"            tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , Insight TV
+https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="rakuten"         tvg-id="RakutenTVinwonderGermany.de"             tvg-chno="0021" tvg-logo="https://static.giga.de/wp-content/uploads/2014/11/Rakuten-TV-Logo-rcm625x413.jpg"         group-title="DE | Deutsch " , Inwonder
+https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
+
 
 
 
@@ -729,7 +731,7 @@ https://dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://dhx-caillou-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Baby Shark TV (EU)
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ,Travel XP (EU)
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Travel XP (EU)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Viki (EU) 
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -755,10 +757,7 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Inwonder (English)
 https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Insight TV (German)
-https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Inwonder (German)
-https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , InTrouble
 https://introuble-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Qwest jazz
