@@ -1,8 +1,4 @@
-#EXTM3U https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml.gz
-#EXTM3U https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml.gz
-#EXTM3U https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml.gz
-#EXTM3U https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml.gz
-#EXTM3U https://iptv-org.github.io/epg/guides/tr/ziggogo.tv.xml.gz
+#EXTM3U https://raw.githubusercontent.com/iptvmix/txt/main/digiturk.com.tr.xml.gz
 
 #EXTINF:-1 group-title="[TUR] ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
