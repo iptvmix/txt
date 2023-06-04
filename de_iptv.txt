@@ -13,19 +13,19 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 #EXTINF:-1 channel-id="RBBBerlin.de"                   tvg-id="rbb.de"                   tvg-chno="0007" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB BERLIN
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 #EXTINF:-1 channel-id="SWR.de"                         tvg-id="SWR.de"                   tvg-chno="0008" tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                              group-title="DE | Deutsch " , SWR
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 channel-id="ONE.de"                         tvg-id="one.de"                   tvg-chno="0009" tvg-logo="https://download.avm.de/tv/logos/ard_one_hd.png"                                          group-title="DE | Deutsch " , ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 channel-id="BR.de"                          tvg-id="BR.de"                    tvg-chno="0010" tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                               group-title="DE | Deutsch " , BR
-https://brcdn.vo.llnwd.net/bfs_sued/de/profile3/3.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="DE | Deutsch " , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 channel-id="SR.de"                          tvg-id="sr.de"                    tvg-chno="0012" tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                  group-title="DE | Deutsch " , SR
-https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-subs-01.m3u8
 #EXTINF:-1 channel-id="ARD-Alpha.de"                   tvg-id="ARD-alpha.de"             tvg-chno="0013" tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                           group-title="DE | Deutsch " , ARD-Alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8?set-segment-duration=responsive
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_audio1_128.m3u8
 #EXTINF:-1 channel-id="RadioBremen.de"                 tvg-id="RadioBremen.de"           tvg-chno="0014" tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                        group-title="DE | Deutsch " , Radio Bremen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 channel-id="3sat.de"                        tvg-id="3sat.de"                  tvg-chno="0015" tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                                group-title="DE | Deutsch " , 3sat
@@ -35,7 +35,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 channel-id="zdfneo.de"                      tvg-id="zdfneo.de"                tvg-chno="0017" tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                             group-title="DE | Deutsch " , ZDF neo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="DE | Deutsch " , arte
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
 #EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="DE | Deutsch " , ZDF
 https://s@s6.hopslan.com:443/zdff1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf1.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="DE | Deutsch " , ORF 1
@@ -79,7 +79,7 @@ https://s6.hopslan.com/pro7maxxv/index.m3u8
 #EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="DE | Deutsch " , Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="DE | Deutsch " , tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?set-segment-duration=responsive
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-360p-1328.m3u8
 #EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="DE | Deutsch " , DW
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
 #EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="DE | Deutsch " , DW
