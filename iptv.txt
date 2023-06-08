@@ -1,4 +1,4 @@
-#EXTM3U https://raw.githubusercontent.com/iptvmix/txt/main/digiturk.com.tr.xml.gz
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/iptvmix/txt/main/digiturk.com.tr.xml" refresh="3600"
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
