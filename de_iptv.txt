@@ -23,9 +23,9 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="DE | Deutsch " , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 channel-id="SR.de"                          tvg-id="sr.de"                    tvg-chno="0012" tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                  group-title="DE | Deutsch " , SR
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-subs-01.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
 #EXTINF:-1 channel-id="ARD-Alpha.de"                   tvg-id="ARD-alpha.de"             tvg-chno="0013" tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                           group-title="DE | Deutsch " , ARD-Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_audio1_128.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 channel-id="RadioBremen.de"                 tvg-id="RadioBremen.de"           tvg-chno="0014" tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                        group-title="DE | Deutsch " , Radio Bremen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 channel-id="3sat.de"                        tvg-id="3sat.de"                  tvg-chno="0015" tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                                group-title="DE | Deutsch " , 3sat
