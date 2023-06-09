@@ -2678,69 +2678,69 @@ http://195.142.1.211:4022/udp/224.2.2.89:10001
 
 
 
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,CLARITY 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,CLARITY 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,BLOOMBERG 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,BLOOMBERG 4K
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,LOVE NATURE 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,LOUPE 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,LOUPE 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,FASHION 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,FASHION 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,ARES CINEMA 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,ARES CINEMA 4K
 http://nadxxy.com:8008/doru_matei/andrei2019/80107
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,ASIA 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,ASIA 4K
 http://1.255.204.45:9981/stream/channelid/38708974
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,DREAM 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,DREAM 4K
 http://1.255.204.45:9981/stream/channelid/1911924344
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,UMAX 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,UMAX 4K
 http://1.255.204.45:9981/stream/channelid/481289914
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,ADVENTURA 4K
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,ADVENTURA 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Beaches
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Beaches
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Tropics
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Tropics
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Sunset
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Sunset
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Rivers
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Rivers
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Mountain
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Mountain
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Lake
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Lake
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Forest
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Forest
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Aurora
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Aurora
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Animal
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Animal
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Nature Water
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Nature Water
 https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Relax
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Relax
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Fireside
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Fireside
 https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Loupe TV
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Loupe TV
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Screen Dreams
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Screen Dreams
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Fireplace Loung
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Fireplace Loung
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Fish Tank
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Fish Tank
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Island Escape
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Island Escape
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,WORLD HD
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,??????????
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,??????????
 http://iptv.prosto.tv:7000/ch312/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,??????????
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,??????????
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Stream CITY
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Stream CITY
 http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
-#EXTINF:-1 group-title="[UHD] GLOBAL CH" ,Akwarium
+#EXTINF:-1 group-title="4K | GLOBAL CH" ,Akwarium
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 
