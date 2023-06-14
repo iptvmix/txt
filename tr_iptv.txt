@@ -1098,6 +1098,58 @@ https://m.egm.gov.tr:8093/stream/1/
 
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT1
+http://77.92.139.136:8100/bysid/1
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT TURK
+http://77.92.139.136:8100/bysid/9
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT MUZIK
+http://77.92.139.136:8100/bysid/12
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT HABER
+http://77.92.139.136:8100/bysid/5
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT AVAZ HD
+http://77.92.139.136:8100/bysid/21
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT COCUK
+http://77.92.139.136:8100/bysid/16
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT SPOR
+http://77.92.139.136:8100/bysid/25
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT ARABI
+http://77.92.139.136:8100/bysid/24
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT ARABI HD
+http://77.92.139.136:8100/bysid/23
+
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT KURDI
+http://77.92.139.136:8100/bysid/26
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,RADYO 1
+http://77.92.139.136:8100/bysid/2
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT FM
+http://77.92.139.136:8100/bysid/6
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT NAGME
+http://77.92.139.136:8100/bysid/13
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT TURKU
+http://77.92.139.136:8100/bysid/14
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,Antalya Radyosu
+http://77.92.139.136:8100/bysid/17
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,Cukurova Radyosu
+http://77.92.139.136:8100/bysid/18
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,Erzurum Radyosu
+http://77.92.139.136:8100/bysid/19
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,Trabzon Radyosu
+http://77.92.139.136:8100/bysid/20
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,DIS YAY ORTA DALGA ARAPCA
+http://77.92.139.136:8100/bysid/28
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,RADYO 3
+http://77.92.139.136:8100/bysid/3
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT Kurdi Radyo
+http://77.92.139.136:8100/bysid/8
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,VOT WORLD
+http://77.92.139.136:8100/bysid/10
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,TSR TURKCE
+http://77.92.139.136:8100/bysid/11
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,VOT EAST
+http://77.92.139.136:8100/bysid/15
+#EXTINF:-1 group-title="TR | YEDEK CH"   ,VOT WEST
+http://77.92.139.136:8100/bysid/22
+
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT 1
 http://77.92.139.136:8200/bysid/10500
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT HABER
@@ -1116,6 +1168,7 @@ http://77.92.139.136:8200/bysid/10507
 http://77.92.139.136:8200/bysid/10525
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT 3-SPOR
 http://77.92.139.136:8200/bysid/10503
+
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT FM
 http://77.92.139.136:8200/bysid/10511
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,RADYO 3
@@ -2008,7 +2061,7 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Halktv.tr" tvg-logo="https://www.canlitv.me/poster/halk-tv.png" ,HALK TV
 https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
+#EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Artitv.tr" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_200px.jpg" ,ARTI TV
