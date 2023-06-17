@@ -51,7 +51,8 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+http://195.142.1.211:4022/udp/224.2.2.84:10001
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KANAL7int.tr"           tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,KANAL 7 EU
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8int.tr"              tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 INT
@@ -111,53 +112,47 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 http://34.107.124.147:3942/stream/play.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
 https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",ADA TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ADA TV	
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanal19.tr"             tvg-logo="https://canlitv.center/channels/kanal-19.png"                                            ,KANAL 19	
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cankiritv.tr"           tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",FILM TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cankiritv.tr"           tvg-logo=""                                                                                        ,FILM TV
 https://film.ozelip.com:3344/stream/play.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK	
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.ntnhd.com/wp-content/uploads/2022/03/1647289546761-1-300x300.png"            ,NTN YESILCAM	
 https://tv.ntnhd.com:3588/multi_web/play.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CLC MEDYA TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CLC MEDYA TV	
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",OA TV	
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA TV	
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA MUZIK	
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA CL1	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 90
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI MAX
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA TV	
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA MUZIK	
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA CL1	
 https://stream.mylive.in.th/live/yansimatv/yansimatv.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",YANSIMA CL2 
-https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",TIMUR MEDYA	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TIMUR MEDYA	
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 1	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 1	
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 2	
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 3	
-https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 4	
-https://live-server-2.splitstream.io/2ae3bf08-20eb-4dcb-83ea-38d1088180e7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 5	
-https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",CINE TBR 6	
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",TURKUVAZ TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 2	
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,OA TV	
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKUVAZ TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",ANKA TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKA TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",MISKET TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MISKET TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",WESTERN TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,WESTERN TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",GOPSEN TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GOPSEN TV	
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tv-logos-design-template-d817e79df7cae137b31275a86b853744_screen.jpg",BASKAN TV	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BASKAN TV	
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK	
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
@@ -220,15 +215,17 @@ https://ntv.blutv.com/blutv_ntv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 TV
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER
-https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+http://195.142.1.211:4022/udp/224.2.2.81:10001
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tvnet-izle.png"                                          ,TVNET
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/akit-tv.png"                                               ,AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ULKE TV
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGUTURK TV
-https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+http://195.142.1.211:4022/udp/224.2.2.44:10001
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bbn-turk-tv.png"                                           ,BBN TURK
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
@@ -825,36 +822,85 @@ https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,UYGUR TV
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
-https://59c7ea6bec1c6.streamlock.net/filboxlive/beinsporthaber.stream/playlist.m3u8
+http://195.142.1.211:4022/udp/224.2.2.49:10001
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+http://77.92.139.136:8100/bysid/25
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 2
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+http://77.92.139.136:8200/bysid/10525
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 3
-https://tv-trt3.live.trt.com.tr/master.m3u8
+http://77.92.139.136:8200/bysid/10503
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10&m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,A SPOR TV
 http://66.160.192.241/aspor/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,A SPOR TV
-https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TJK TV
-http://mugla.tvizlehd.com/live/tjktv.m3u8
-
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,D TAY TV
-https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,NTV SPOR
 http://37.221.121.137:6060/hls/trspor/index.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TJK TV
+http://mugla.tvizlehd.com/live/tjktv.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,D TAY TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPORT 1 HD [BLU]
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPORT 2 HD [BLU]
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EPT Sports 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EPT Sports 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 1
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tvs Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Super Sport
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MMA M1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 1
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 11
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D Dram
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D World
