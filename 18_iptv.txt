@@ -1,190 +1,190 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAY_C.png"  group-title="[ERO] ADULT CH"  ,VIVID RED
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,VIVID RED
 http://62.176.77.22:9781/play/a00m
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAY_C.png"  group-title="[ERO] ADULT CH"  ,PASSION XXX
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,PASSION XXX
 http://62.176.77.22:9781/play/a00n
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/TRAY_C.png"  group-title="[ERO] ADULT CH"  ,XXX
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,XXX
 http://62.176.77.22:9781/play/a00l
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Anal         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Anal         
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Asian        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Asian        
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Ass      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Ass      
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Dick     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Dick     
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Tits     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Tits     
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blonde       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blonde       
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blowjob      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blowjob      
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Brunette
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,cuckold      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,cuckold      
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Compilation  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Compilation  
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Fetish       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Fetish       
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gang Bang    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gang Bang    
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Hardcore     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Hardcore     
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Interracial  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Interracial  
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Latina       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Latina       
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Live Cams    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Live Cams    
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Milf         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Milf         
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pron Star    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pron Star    
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pov          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pov          
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Russian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Russian      
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Rough        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Rough        
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Teen         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Teen         
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Threesome    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Threesome    
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Trans        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Trans        
 http://cdn.adultiptv.net/trans.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Lesbian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Lesbian      
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gay          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gay          
 http://cdn.adultiptv.net/gay.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Ast Tv 1     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Ast Tv 1     
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Ast Tv 2     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Ast Tv 2     
 https://www.ast.tv/stream/2/ultra.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Visit XTV    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Visit XTV    
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,A3 Bikini    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,A3 Bikini    
 https://ch.iptvmate.net/5e9350f079fed15e9d592220.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,vxtv         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,vxtv         
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Miami  Ch    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Miami  Ch    
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Miami  Ch    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Miami  Ch    
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Miami  Ch Jenny
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Miami  Ch Jenny
 https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,FTV Global   
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,FTV Global   
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,FTV Paris    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,FTV Paris    
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,FTV Screets  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,FTV Screets  
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Anal         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Anal         
 http://play.iptvxxx.net/anal.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Asian        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Asian        
 http://play.iptvxxx.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Ass      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Ass      
 http://play.iptvxxx.net/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Dick     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Dick     
 http://play.iptvxxx.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Tits     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Tits     
 http://play.iptvxxx.net/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blonde       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blonde       
 http://play.iptvxxx.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blowjob      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blowjob      
 http://play.iptvxxx.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Brunette     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Brunette     
 http://play.iptvxxx.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,cuckold      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,cuckold      
 http://play.iptvxxx.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Compilation  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Compilation  
 http://play.iptvxxx.net/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Fetish       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Fetish       
 http://play.iptvxxx.net/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gang Bang    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gang Bang    
 http://play.iptvxxx.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Hardcore     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Hardcore     
 http://play.iptvxxx.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Interracial  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Interracial  
 http://play.iptvxxx.net/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Latina       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Latina       
 http://play.iptvxxx.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Live Cams    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Live Cams    
 http://play.iptvxxx.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Milf         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Milf         
 http://play.iptvxxx.net/milf.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pron Star    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pron Star    
 http://play.iptvxxx.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pov          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pov          
 http://play.iptvxxx.net/pov.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Russian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Russian      
 http://play.iptvxxx.net/russian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Rough        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Rough        
 http://play.iptvxxx.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Teen         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Teen         
 http://play.iptvxxx.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Threesome    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Threesome    
 http://play.iptvxxx.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Trans        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Trans        
 http://play.iptvxxx.net/trans.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Lesbian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Lesbian      
 http://play.iptvxxx.net/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gay          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gay          
 http://play.iptvxxx.net/gay.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Anal         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Anal         
 http://live.redtraffic.xyz/anal.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Asian        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Asian        
 http://live.redtraffic.xyz/asian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Ass      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Ass      
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Dick     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Dick     
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Big Tits     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Big Tits     
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blonde       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blonde       
 http://live.redtraffic.xyz/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Blowjob      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Blowjob      
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Brunette     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Brunette     
 http://live.redtraffic.xyz/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,cuckold      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,cuckold      
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Compilation  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Compilation  
 http://live.redtraffic.xyz/compilation.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Fetish       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Fetish       
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gang Bang    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gang Bang    
 http://live.redtraffic.xyz/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Hardcore     
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Hardcore     
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Interracial  
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Interracial  
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Latina       
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Latina       
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Live Cams    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Live Cams    
 http://live.redtraffic.xyz/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Milf         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Milf         
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pron Star    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pron Star    
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Pov          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Pov          
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Russian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Russian      
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Rough        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Rough        
 http://live.redtraffic.xyz/rough.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Teen         
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Teen         
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Threesome    
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Threesome    
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Trans        
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Trans        
 http://live.redtraffic.xyz/trans.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Lesbian      
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Lesbian      
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtukisaretler.gov.tr/img/symbols/18yas80.gif"  group-title="18+| ADULT CH"  ,Gay          
+#EXTINF:-1 group-title="18+| ADULT CH"   tvg-id=""                       tvg-logo="https://i.imgur.com/Sv8jPXXb.jpg"          ,Gay          
 http://live.redtraffic.xyz/gay.m3u8
