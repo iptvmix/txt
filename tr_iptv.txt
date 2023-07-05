@@ -118,6 +118,8 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cankiritv.tr"           tvg-logo=""                                                                                        ,FILM TV
 https://film.ozelip.com:3344/stream/play.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cankiritv.tr"           tvg-logo=""                                                                                        ,TELEON
+https://tgn.bozztv.com/ssh101/ssh101/teleontv/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK	
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.ntnhd.com/wp-content/uploads/2022/03/1647289546761-1-300x300.png"            ,NTN YESILCAM	
@@ -139,9 +141,13 @@ https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TIMUR MEDYA	
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 1	
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 2	
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 2
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 3	
 https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 4
+https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,OA TV	
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKUVAZ TV	
