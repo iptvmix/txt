@@ -138,6 +138,8 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FD TV YERLI
 https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FD TV SINEMA
+https://ssh101.bozztv.com/ssh101/fdtvvsinema/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TIMUR MEDYA	
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 1	
@@ -164,9 +166,11 @@ http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 1
-https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
+#https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 2
-https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
+#https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKU SESI
 https://ssh101.bozztv.com/ssh101/turkutv/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM
