@@ -902,3 +902,301 @@ https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 channel-id="ARD.de"                         tvg-id="ARD.de"                   tvg-chno="0001" tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                           group-title="DE | Deutsch " , ARD
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 channel-id="ONE.de"                         tvg-id="one.de"                   tvg-chno="0009" tvg-logo="https://download.avm.de/tv/logos/ard_one_hd.png"                                          group-title="DE | Deutsch " , ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 channel-id="ARD-Alpha.de"                   tvg-id="ARD-alpha.de"             tvg-chno="0013" tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                           group-title="DE | Deutsch " , ARD-Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="DE | Deutsch " , ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 channel-id="zdfneo.de"                      tvg-id="zdfneo.de"                tvg-chno="0017" tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                             group-title="DE | Deutsch " , ZDF neo
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 channel-id="zdfinfo.de"                     tvg-id="zdfinfo.de"               tvg-chno="0016" tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                            group-title="DE | Deutsch " , ZDF info
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="DE | Deutsch " , MDR Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="DE | Deutsch " , MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="DE | Deutsch " , MDR#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="DE | Deutsch " , MDR Thüringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+
+
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DW
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , PHOENIX
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD Tagesschau
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+
+#EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB Berlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="DE | Deutsch " , RBB Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 channel-id="BR.de"                          tvg-id="BR.de"                    tvg-chno="0010" tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                               group-title="DE | Deutsch " , BR Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 channel-id="BR.de"                          tvg-id="BR.de"                    tvg-chno="0010" tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                               group-title="DE | Deutsch " , BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="DE | Deutsch " , HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 channel-id="SR.de"                          tvg-id="sr.de"                    tvg-chno="0012" tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                  group-title="DE | Deutsch " , SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 channel-id="SWR.de"                         tvg-id="SWR.de"                   tvg-chno="0008" tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                              group-title="DE | Deutsch " , SWR BW
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 channel-id="SWR.de"                         tvg-id="SWR.de"                   tvg-chno="0008" tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                              group-title="DE | Deutsch " , SWR RP
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="DE | Deutsch " , NDR Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="DE | Deutsch " , NDR Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="DE | Deutsch " , NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="DE | Deutsch " , NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR (Deutschland)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Südwestfalen
+https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Münsterland
+https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Düsseldorf
+https://wdrlokalzeit.akamaized.net/hls/live/2018023/wdrlz_duesseldorf/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Duisburg
+https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Ruhr
+https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Bergisches Land
+https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Köln
+https://wdrlokalzeit.akamaized.net/hls/live/2023550/wdrlz_koeln/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Bonn
+https://wdrlokalzeit.akamaized.net/hls/live/2018021/wdrlz_bonn/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Dortmund
+https://wdrlokalzeit.akamaized.net/hls/live/2018022/wdrlz_dortmund/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Aachen
+https://wdrlokalzeit.akamaized.net/hls/live/2018019/wdrlz_aachen/index.m3u8
+#EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="DE | Deutsch " , WDR Lokalzeit Ostwestfalen Lippe
+https://wdrlokalzeit.akamaized.net/hls/live/2018026/wdrlz_bielefeld/index.m3u8
+
+#EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="DE | Deutsch " , arte DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="DE | Deutsch " , arte FR
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 channel-id="3sat.de"                        tvg-id="3sat.de"                  tvg-chno="0015" tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                                group-title="DE | Deutsch " , 3sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-Sport
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD 640x360
+http://mcdn.daserste.de/daserste/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD ONE 640x360
+https://mcdn.one.ard.de/ardone/hls/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD Alpha 640x360
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD Tagesschau 640x360
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF low
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF neo low
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF info low
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Sachsen-Anhalt 640x360
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Sachsen 640x360
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Thüringen 640x360
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , PHOENIX low
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Berlin 640x360
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Brandenburg 640x360
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Nord 640x360
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Süd 640x360
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , HR 640x360
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-360p-1028.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SR 640x360
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR BW 640x360
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR RP 640x360
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Schleswig-Holstein 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Mecklenburg-Vorpommern 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Niedersachsen 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Hamburg 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DW 640x360
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/stream01/streamPlaylist.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE DE 640x360
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE FR 640x360
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , 3Sat low
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , kika 640x360
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-3 640x360
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_2.m3u8?m=1634534422ed.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , PHOENIX
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Berlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR BW
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR RP
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DW
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Südwestfalen
+https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Münsterland
+https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Düsseldorf
+https://wdrlokalzeit.akamaized.net/hls/live/2018023/wdrlz_duesseldorf/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR (weltweit)
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Duisburg
+https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Ruhr
+https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Bergisches Land
+https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Köln
+https://wdrlokalzeit.akamaized.net/hls/live/2023550/wdrlz_koeln/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR (Deutschland)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Bonn
+https://wdrlokalzeit.akamaized.net/hls/live/2018021/wdrlz_bonn/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Dortmund
+https://wdrlokalzeit.akamaized.net/hls/live/2018022/wdrlz_dortmund/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Aachen
+https://wdrlokalzeit.akamaized.net/hls/live/2018019/wdrlz_aachen/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , WDR Lokalzeit Ostwestfalen Lippe
+https://wdrlokalzeit.akamaized.net/hls/live/2018026/wdrlz_bielefeld/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE FR
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , 3Sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-Sport
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD 640x360
+http://mcdn.daserste.de/daserste/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD ONE 640x360
+https://mcdn.one.ard.de/ardone/hls/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD Alpha 640x360
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARD Tagesschau 640x360
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF low
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF neo low
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ZDF info low
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Sachsen-Anhalt 640x360
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Sachsen 640x360
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MDR Thüringen 640x360
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_640x360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , PHOENIX low
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Berlin 640x360
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RBB Brandenburg 640x360
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Nord 640x360
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , BR Süd 640x360
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_640p_1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , HR 640x360
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-360p-1028.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SR 640x360
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR BW 640x360
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , SWR RP 640x360
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Schleswig-Holstein 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Mecklenburg-Vorpommern 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Niedersachsen 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , NDR Hamburg 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DW 640x360
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/stream01/streamPlaylist.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE DE 640x360
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ARTE FR 640x360
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v360.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , 3Sat low
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , kika 640x360
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master-360p-1328.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , ORF-3 640x360
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_2.m3u8
