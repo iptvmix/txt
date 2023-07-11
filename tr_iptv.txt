@@ -166,11 +166,11 @@ http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 1
-#https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
+https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
+#https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 2
-#https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
+https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
+#https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKU SESI
 https://ssh101.bozztv.com/ssh101/turkutv/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM
