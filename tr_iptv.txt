@@ -182,8 +182,12 @@ https://ssh101.bozztv.com/ssh101/tvvip/chunks.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GOZDE TV
+https://yayin1.canlitv.day/canlitv/gozdetv.stream/chunklist_w1927068650.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ART
+https://yayin1.canlitv.day/canlitv/arttv.stream/chunklist_w992639366.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AANADOLU DOST
+https://yayin1.canlitv.day/canlitv/dosttv.stream/chunklist_w1703321562.m3u8
 
 
 
@@ -294,6 +298,8 @@ https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM TURK	
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,PT POWER TURK	
 https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2542.png"  ,PT AKUSTIK	
@@ -949,10 +955,15 @@ https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo=""                                                                                        ,MZ | 4FUN TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo=""                                                                                        ,MZ | MIX TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | MIX TV
 https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Biz Music
+https://st.biztv.uz/hls/m_hi/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 #####################################################################################################################################################################################################
