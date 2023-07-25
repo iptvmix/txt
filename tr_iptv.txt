@@ -21,7 +21,7 @@ http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,Star TV HD
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,Kanal D HD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV
@@ -59,7 +59,7 @@ https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
-http://51.15.2.151/hls/kanalavrupa.m3u8
+https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tvavrupa.tr"            tvg-logo="https://www.tvavrupa.com/uploads/logo/tva6-Kopie-3.png"                                  ,TV AVRUPA	
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="brukselturk.tr"         tvg-logo=""                                                                                        ,BRUKSEL TURK	
@@ -608,6 +608,8 @@ http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,365 TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SAM TV
+http://win4.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CAY TV
@@ -888,7 +890,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,A SPOR TV
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,NTV SPOR
-http://37.221.121.137:6060/hls/trspor/index.m3u8
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TJK TV
 http://mugla.tvizlehd.com/live/tjktv.m3u8
@@ -2148,6 +2150,12 @@ https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m
 https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Ulusalkanal.tr" tvg-logo="https://www.canlitv.mobi/kanallar/ulusal-kanal.png" ,ULUSAL KANAL
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/szctv.m3u8
+
 
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Halktv.tr" tvg-logo="https://www.canlitv.me/poster/halk-tv.png" ,HALK TV
 http://iptvmasterlink.dyndns.org:8080/Entry/halktv_yeni/index.m3u8
