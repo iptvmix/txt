@@ -108,10 +108,7 @@ https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK	
-http://34.107.124.147:3942/stream/play.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
-https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ADA TV	
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanal19.tr"             tvg-logo="https://canlitv.center/channels/kanal-19.png"                                            ,KANAL 19	
@@ -142,16 +139,29 @@ https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/fdtvvsinema/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TIMUR MEDYA	
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 1	
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 3	
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CINE TBR 4
-https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 1	
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 2
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 3	
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR 4
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
+#https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,OA TV	
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKARA TV
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w99125218_b3268000_sltur.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL URFA
+https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKTUEL TV
+http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKUVAZ TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKA TV	
@@ -291,6 +301,12 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI	
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK	
+http://34.107.124.147:3942/stream/play.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
+https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK	
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
