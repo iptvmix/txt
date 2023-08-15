@@ -4,7 +4,8 @@
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
 https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2
-http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
+#http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
+http://77.92.139.136:8200/bysid/10506
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
