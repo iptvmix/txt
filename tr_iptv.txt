@@ -759,9 +759,11 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"trtcocuk.tr"             tvg-logo="https://canlitv.center/channels/trt-cocuk.png"                                           ,TRT DIYANET COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MINIKA GO
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+http://195.142.1.211:4022/udp/224.2.2.18:10001
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MINIKA COCUK
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+http://195.142.1.211:4022/udp/224.2.2.17:10001
+#EXTINF:0, BiZİM ÇOCUK TV
+http://tv56245.ozelip.com:2052/bilsem/bilsem/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CARTOONNETWORK
 https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOOMERANG
@@ -975,6 +977,8 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 11
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_ _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", MMN TV
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 
 
@@ -1334,11 +1338,18 @@ http://77.92.139.136:8200/bysid/10520
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,RADYO 1
 http://77.92.139.136:8200/bysid/10508
 
-
-
-
-
-
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,TRT 1
+http://116.202.238.88/TRT1_TR/index.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,A2
+http://116.202.238.88/A2_TR/index.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,STAR TV
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,FOX
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    ,SHOWTV
+http://116.202.238.88/SHOWTV_TR/index.m3u8
 
 
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
@@ -3025,6 +3036,12 @@ https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8
 #EXTGRP:BLUTV
 #EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://www.ertv.com.tr/images/banner/ertv-logo_1.png"                                    ,ERTV
 https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
+
+#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330"                                   ,BOOMERANG HD
+https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40"                                     ,Cartoon Network HD
+https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+
 
 #EXTGRP:BLUTV
 #EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo=""                                                                                        ,SCI
