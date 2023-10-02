@@ -21,7 +21,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                         ,TV8 HD
 http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                         ,TV 8 Bucuk
-http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
+#http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,FOX TV
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,Star TV HD
