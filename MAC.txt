@@ -1,6 +1,4 @@
-[playlist]
-NumberOfEntries=1
-File1=https://g.trgoals517.xyz/yayin1.m3u8
-Title1=MAC YAYIN
-Length1=-1
-Version=2
+#EXTM3U
+
+#EXTINF:-1 ,M A C 0
+https://g.trgoals517.xyz/yayin1.m3u8
