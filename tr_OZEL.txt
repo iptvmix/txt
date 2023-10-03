@@ -3,9 +3,13 @@
 #EXTINF:-1 ,M A C 0
 https://g.trgoals517.xyz/yayin1.m3u8
 #EXTINF:-1 ,M A C 1
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/36269
 #EXTINF:-1 ,M A C 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/188557
 #EXTINF:-1 ,M A C 3
+hthttp://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/188557
 #EXTINF:-1 ,M A C 4
+tp://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/37842
 #EXTINF:-1 ,M A C 5
 #EXTINF:-1 ,M A C 6
 #EXTINF:-1 ,M A C 7
