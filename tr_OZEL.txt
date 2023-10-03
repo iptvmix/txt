@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 ,M A C 0
+https://g.trgoals517.xyz/yayin1.m3u8
+#EXTINF:-1 ,M A C 1
+#EXTINF:-1 ,M A C 2
+#EXTINF:-1 ,M A C 3
+#EXTINF:-1 ,M A C 4
+#EXTINF:-1 ,M A C 5
+#EXTINF:-1 ,M A C 6
+#EXTINF:-1 ,M A C 7
+#EXTINF:-1 ,M A C 8
+#EXTINF:-1 ,M A C 9
