@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U https://www.bevy.be/bevyfiles/turkey.xml
 #https://raw.githubusercontent.com/iptvmix/feed/main/NoSignal.mp4
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
@@ -1724,6 +1724,11 @@ http://195.142.1.211:4022/udp/224.2.2.33:10001
 http://135.125.234.9:8081/tv8/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV85.tr"               tvg-logo="https://i.imgur.com/QuelSsc.png"                                               ,TV 8 Bucuk
 http://195.142.1.211:4022/udp/224.2.2.34:10001
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV85.tr"               tvg-logo="https://i.imgur.com/QuelSsc.png"                                               ,TV 8 Bucuk
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV85.tr"               tvg-logo="https://i.imgur.com/QuelSsc.png"                                               ,TV 8 Bucuk
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
+
 
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                               ,TV 8 Geo
 https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin?m3u8
