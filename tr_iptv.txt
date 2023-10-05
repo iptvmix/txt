@@ -1,7 +1,7 @@
 #EXTM3U https://www.bevy.be/bevyfiles/turkey.xml
 #https://raw.githubusercontent.com/iptvmix/feed/main/NoSignal.mp4
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 #https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
 http://77.92.139.136:8100/bysid/1
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2
