@@ -1,12 +1,9 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
-#https://raw.githubusercontent.com/iptvmix/feed/main/NoSignal.mp4
+#EXTM3U  x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-#https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
-http://77.92.139.136:8100/bysid/1
+https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
-#http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
-http://77.92.139.136:8200/bysid/10506
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV HD
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
@@ -16,12 +13,10 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tivi6.tr"               tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_133.png"             ,Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 HD
-#https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                         ,TV8 HD
 http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                         ,TV8,5 HD
-#http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,FOX HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -38,41 +33,37 @@ http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 https://edge02.odtv.az/o8/a2/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2 HD
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://i.imgur.com/agn47sQ.png"                                                         ,360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="trt4k.tr"               tvg-logo="https://www.canlitv.me/poster/trt4k.png"                                                 ,TRT 4K
 https://raw.githubusercontent.com/iptvmix/feed/main/NoSignal.mp4
+########################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTTURK.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV EUROPA
-#http://62.182.82.104/atv_turk/index.m3u8?token=test
-#http://116.202.238.88/ATV_TR/index.m3u8
-http://nimplus3.bozztv.com/atvavrupa/atvavrupa/playlist.m3u8
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
-#https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="interSTAR.tr"           tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,INTERSTAR
-http://137.116.95.87/inter_star_tv_hd/index.m3u8
+https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EUROSTAR
 #https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
+h        8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,TGRT EU
 https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KANAL7int.tr"           tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 EU
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8int.tr"              tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+h        8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,EURO D
 #https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-https://bozztv.com/inim03/live1/eurod/playlist.m3u8
+https://demiroren-live.daioncdn.net/eurod/eurod.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
 https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tvavrupa.tr"            tvg-logo="https://www.tvavrupa.com/uploads/logo/tva6-Kopie-3.png"                                  ,TV AVRUPA	
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="brukselturk.tr"         tvg-logo=""                                                                                        ,BRUKSEL TURK	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="brukselturk.tr"         tvg-logo=""                                                                                        ,BALKAN TURK	
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="aktivturk.tr"           tvg-logo="https://www.aktif.be/wp-content/uploads/2020/09/yeni-logo-1.png"                         ,AKTIV TURK	
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
@@ -83,6 +74,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV	
 https://is.gd/NdDhgK.m3u8
+########################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX HD
@@ -99,6 +91,58 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
 https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
+########################################################
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
+http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
+https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
+https://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tvnet-izle.png"                                          ,TVNET HD
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/akit-tv.png"                                               ,AKİT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ÜLKE TV HD
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGÜTÜRK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bbn-turk-tv.png"                                           ,BBN TÜRK TV
+#https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
+h       8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SÖZCÜ TV
+http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SKY HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
@@ -184,57 +228,8 @@ http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV100
-
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
-
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
-https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
-#https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
-https://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tvnet-izle.png"                                          ,TVNET HD
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/akit-tv.png"                                               ,AKIT TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ÜLKE TV HD
-https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGÜTÜRK
-#https://ensonhaber-live.ercdn.net/benguturk/index.m3u8
-https://canli.haber365.com.tr/tr/benguturk/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bbn-turk-tv.png"                                           ,BBN TÜRK TV
-#https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
-https://bbnturk.blutv.com/blutv_bbnturk2/live_720p2000000kbps/index.m3u8
 
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
-#https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SÖZCÜ TV
-#https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalB.tr"              tvg-logo="https://canlitv.center/channels/kanal-b.png"                                             ,KANAL B	
 https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="cantv.tr"               tvg-logo="https://canlitv.center/channels/can-tv.png"                                              ,CAN TV
@@ -380,7 +375,7 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/deha-tv.png"                                             ,DEHA TV	
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-lologo="https://canlitv.center/channels/deniz-postasi-tv.png"                                    ,DENIZPOSTASI	
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/deniz-postasi-tv.png"                                    ,DENIZPOSTASI	
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/dim-tv.png"                                              ,DIM TV	
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
@@ -474,6 +469,8 @@ https://yayin1.canlitv.day/canlitv/egelivetv.stream/chunklist_w2122402643.m3u8
 https://yayin1.canlitv.day/canlitv/kanalege.stream/chunklist_w1988577151.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/beykent-tv.png"                                          ,BEA	
 https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPRIZ TV
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kanal-13.png"                                            ,KANAL 13	
 https://inter.kanal13.net/player/m3u8/087d135db27ab73be785ca82d2c3f4ca/chunklist_w816585679.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPER TV	
@@ -980,30 +977,23 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 11
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", MMN TV
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6"                                                ,MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                               ,KANAL D Dram
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D Dram
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                               ,KANAL D World
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D World
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="afyonturk.tr"           tvg-logo="https://canlitv.center/channels/afyon-turktv.png"                                        ,AFYON TURK
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | MIX TV
 https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Biz Music
 https://st.biztv.uz/hls/m_hi/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 
 #####################################################################################################################################################################################################
 
@@ -1286,7 +1276,7 @@ http://77.92.139.136:8100/bysid/15
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,VOT WEST
 http://77.92.139.136:8100/bysid/22
 
-#EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT 1
+#EXTINF:-1 group-title="TR | YEDEK CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 http://77.92.139.136:8200/bysid/10500
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,TRT HABER
 http://77.92.139.136:8200/bysid/10501
@@ -1340,7 +1330,7 @@ http://77.92.139.136:8200/bysid/10520
 #EXTINF:-1 group-title="TR | YEDEK CH"   ,RADYO 1
 http://77.92.139.136:8200/bysid/10508
 
-#EXTINF:-1 group-title="TR | YEDEK CH"    ,TRT 1
+#EXTINF:-1 group-title="TR | YEDEK CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    ,ATV
 http://116.202.238.88/ATV_TR/index.m3u8
@@ -2223,9 +2213,6 @@ https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Halktv.tr" tvg-logo="https://www.canlitv.me/poster/halk-tv.png" ,HALK TV
 https://59c7ea6bec1c6.streamlock.net/filbox/halktv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Artitv.tr" tvg-logo="https://artitv.tv/wp-content/uploads/ARTI_TV_LOGO_200px.jpg" ,ARTI TV
 http://iptvmasterlink.dyndns.org:8080/Entry/artitv_yeni/index.m3u8
 
@@ -2380,7 +2367,7 @@ http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TMB TV
 http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT 1
+#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT 1 HD
 http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT Belgesel
 http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
