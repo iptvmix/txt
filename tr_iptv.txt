@@ -1,10 +1,9 @@
-#EXTM3U  x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" refresh="3600"
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-#https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
-http://77.92.139.136:8200/bysid/10506
+http://167.114.115.233:8080/trt2fhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV HD
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
@@ -38,7 +37,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://i.imgur.com/agn47sQ.png"                                                         ,360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="trt4k.tr"               tvg-logo="https://www.canlitv.me/poster/trt4k.png"                                                 ,TRT 4K
-https://raw.githubusercontent.com/iptvmix/feed/main/NoSignal.mp4
+h     4
 ########################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -162,6 +161,8 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CLC MEDYA TV	
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 55
+https://cdn-tv55.yayin.com.tr/tv55/tv55/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 70
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 90
@@ -174,8 +175,6 @@ https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1997994159.m3u
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w99125218_b3268000_sltur.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL URFA
 https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                      ,TELEON                                                
-http://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKTUEL TV
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tv48.tr"                tvg-logo="https://www.tv48.com.tr/images/genel/sociallogo_1.png"                                   ,TV 48	
@@ -279,7 +278,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK	
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRAL POP	
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM TURK	
@@ -882,8 +881,19 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_
 
 
 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 4
+https://stream.ayas.ir/hls2/bein4.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
 https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR
 http://77.92.139.136:8100/bysid/25
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 2
@@ -2293,849 +2303,6 @@ https://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
 http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_logosuz/playlist.m3u8
 #####################################################################################################################################################################################################
 
-
-
-
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,A Haber
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,A Spor
-http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,AKILLI TV
-http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,AL ZAHRA TV
-http://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,ATV
-http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Animal Planet
-http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Cartoon Network
-http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,DMAX
-http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Da Vinci Learning
-http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Disney
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,HABERTÜRK
-http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,HD Life
-http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,History
-http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Ictimai
-http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Kanal 7
-http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Kanal D
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Minika Cocuk
-http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Minika Go
-http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Nat Geo Wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,National Geographic Channel
-http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Nickelodeon
-http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,NİCK JR
-http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,STAR TV SD
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Show
-http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Star
-http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TMB TV
-http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT 1 HD
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT Belgesel
-http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT Cocuk
-http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT Haber
-http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT Spor
-http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TRT World
-http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,TV 8.5
-http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,Teve 2
-http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | CLIP CH"    tvg-id""                        tvg-logo=""                                       ,360
-http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
-#####################################################################################################################################################################################################
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT 1
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001247/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001247&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001248/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001248&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT AVAZ
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001249/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001249&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT TURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001256/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001256&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TV 4
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BEYAZ TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001177/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001177&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,KANAL 7
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001207/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001207&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TV 8
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001271/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001271&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TV 8,5
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001260/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001260&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FOX TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001043/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001043&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SHOW TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001199/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001199&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,ATV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001174/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001174&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,A 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001020/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001020&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TEVE 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001244/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001244&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,KANAL D
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001208/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001208&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FX
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001168/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001168&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,360 TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001341/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001341&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DMAX
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001139/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001139&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TLC
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001246/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001246&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BBC EARTH
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001141/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001141&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NAT GEO
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001195/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001195&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NAT GEO WILD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001213/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001213&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HISTORY
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001173/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001173&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HISTORY VIASAT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001771/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001771&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DISCOVERY
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001355/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001355&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DISCOVERY SIENCE SCI
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001136/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001136&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,ID
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001205/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001205&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TARIH TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002067/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002067&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,STAR TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001226/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001226&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 1001
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001227/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001227&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 1002
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001231/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001231&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001242/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001242&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001228/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001228&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AKSIYON
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001232/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001232&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AKSIYON 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001229/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001229&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA KOMEDI
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001230/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001230&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA KOMEDI 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001241/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001241&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AILE
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001233/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001233&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AILE 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001234/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001234&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA YERLI
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001243/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001243&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA YERLI 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001235/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001235&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,24 TV HABER
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001013/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001013&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,24 KITCHEN
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001014/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001014&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,A HABER
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,A PARA
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001018/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001018&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,A SPOR
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001019/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001019&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DA VINCI
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001042/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001042&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT EBA ILK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001044/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001044&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,AKIT TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001124/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001124&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,A NEWS
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001127/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001127&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,aL JAZEERE
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001131/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001131&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DW
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001134/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001134&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DISCOVERY
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001135/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001135&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DISNEY JUNIOR
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001138/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001138&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,CNN TURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DREAM TURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001154/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001154&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,DIYANET TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001155/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001155&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FN NEWS 
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001156/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001156&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,EUROSPORT 1
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001162/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001162&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,EUROSPORT 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001163/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001163&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FRANCE 24
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001167/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001167&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HABER GLOBAL
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HABER TURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HABITAT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001172/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001172&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BBC FIRST
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001175/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001175&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BENGUTURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001176/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001176&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BOOMERANG
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001179/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001179&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BBC NEWS WORLD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001181/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001181&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT EBA ORTA
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001182/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001182&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT MUZIK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001183/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001183&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BLOOMBERG HT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001191/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001191&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,CNN INT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001192/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001192&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NBA TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001196/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001196&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NHK WORLD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001197/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001197&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,CNBC
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001204/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001204&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NTV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001215/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001215&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,POWER TURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001219/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001219&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,POWER TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001220/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001220&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,RT ARABIC
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001221/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001221&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,S SPORT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001222/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001222&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,S SPORT 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001223/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001223&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,KABE TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001224/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001224&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SEMERKANT TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001225/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001225&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT KURDI
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001240/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001240&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TGRT HABER
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001245/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001245&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT COCUK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001258/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001258&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT WORLD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001257/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001257&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT EBA LISE
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001250/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001250&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT HABER
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TV 100
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001259/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001259&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TV5 MONDE EUROPA
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001261/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001261&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TVNET
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001262/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001262&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TIVIBU TANITIM
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 group-title="TR | ULUSAL CH" ,Tivibu Spor 1
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001265/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001265&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH" ,Tivibu Spor 2
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001273/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001273&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH" ,Tivibu Spor 3
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001291/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001291&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH" ,Tivibu Spor 4
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001266/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001266&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH" ,Tivibu Spor 5
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
-#http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001841/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001841&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,ULKE TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001304/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001304&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,VAV TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001305/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001305&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT BELGESEL
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001307/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001307&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HISTORY
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001342/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001342&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BBC EARTH
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001352/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001352&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BBC FIRST
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001353/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001353&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FX
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001356/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001356&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NTV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001357/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001357&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,NAT GEO WILD
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001358/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001358&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HABITAT
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001371/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001371&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT SPOR
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001381/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001381&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT SPOR *
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001391/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001391&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,EKOTURK
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001401/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001401&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,EDDE
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001711/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001711&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,AL JAZEERE STREAM
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001731/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001731&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,EPIC DRAMA
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001751/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001751&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,LOVE NATURE
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001761/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001761&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,MEDINE TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001801/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001801&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,HALK TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001945/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001945&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,BELIRSIZ KANAL
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002027/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002027&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TARIH TV
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002057/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002057&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TIVIBU TANITIM
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002097/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002097&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TRT 1
-http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000002107/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000002107&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA YERLİ
-http://bit.ly/3N3z7Yk
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA YERLİ 2
-http://bit.ly/3LXuptR
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA TV
-http://bit.ly/3GytGyk
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 2
-http://bit.ly/3GwxVu7
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AKSIYON
-http://bit.ly/3a93XjP
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AKSIYON 2
-http://bit.ly/3wXhGTL
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA KOMEDİ
-http://bit.ly/3N2PnbW
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA KOMEDİ 2
-http://bit.ly/3PR0I0A
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AİLE
-http://bit.ly/3N1fKiq
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA AİLE 2
-http://bit.ly/38uoJdb
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 1001
-http://bit.ly/3lWMTjI
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,SINEMA 1002
-http://bit.ly/3a7nIYL
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,FX
-http://bit.ly/38XSbZ5
-#EXTINF:-1 group-title="TR | TIVIBU CH"  ,TARİH TV
-https://bit.ly/3e6ppYK
-
-
-
-
-
-###################################################################################################################################################################################################
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trt1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,A T V
-https://59c7ea6bec1c6.streamlock.net/filboxlive/atv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="Star.tr"                tvg-logo="https://www.canlitv.me/poster/star-tv.png"                                               ,STAR TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/startv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                               ,SHOW TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/showtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                              ,BEYAZ TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/beyaztv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,FOX TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/foxtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                               ,KANAL D
-https://59c7ea6bec1c6.streamlock.net/filboxlive/kanald.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                 ,TEVE 2
-https://59c7ea6bec1c6.streamlock.net/filboxlive/teve2.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX
-https://59c7ea6bec1c6.streamlock.net/filboxlive/dmax.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tlc.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/vavtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE 1
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tele1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/flashtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,TV 5
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tv5.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tgrtbelgesel.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tgrthaber.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/ntv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TURK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/cnnturk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,AHABER
-https://59c7ea6bec1c6.streamlock.net/filboxlive/ahaber.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABER TURK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/haberturk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tv100.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL
-https://59c7ea6bec1c6.streamlock.net/filboxlive/haberglobal.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGUTURK TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/benguturk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
-https://59c7ea6bec1c6.streamlock.net/filboxlive/ulusalkanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/halktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo="https://www.canlitv.me/poster/akit-tv.png"                                               ,AKIT TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/akittv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,CEM TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/cemtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
-https://59c7ea6bec1c6.streamlock.net/filboxlive/beinsporthaber.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FB TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/fbtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtspor.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR YILDIZ
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtsporyildiz.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtbelgesel.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id"TRTMUZIK.TR"             tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtmuzik.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,T R T AVAZ
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtavaz.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TRTTURK.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,T R T TURK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtturk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id"trtcocuk.tr"             tvg-logo="https://canlitv.center/channels/trt-cocuk.png"                                           ,TRT COCUK
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trtcocuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
-https://59c7ea6bec1c6.streamlock.net/filboxlive/trthaber.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,A SPOR TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/aspor.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,HABITAT TV
-https://59c7ea6bec1c6.streamlock.net/filboxlive/habitattv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TV8.tr"                 tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                   ,T V 8
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tv8.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                 ,T V 8 Bucuk
-https://59c7ea6bec1c6.streamlock.net/filboxlive/tv8-5.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                               ,Kanal 7
-https://59c7ea6bec1c6.streamlock.net/filboxlive/kanal7.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id="360.tr"                 tvg-logo="https://i.imgur.com/agn47sQ.png"                                                ,360 T V
-https://59c7ea6bec1c6.streamlock.net/filboxlive/360tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FİL TV
-https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FİLMAX
-https://umt02.videobulut.com/1/3811/wX1Zs5npRVfn/wX1Zs5npRVfn.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB
-https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB AKSİYON 
-https://umt02.videobulut.com/35/3811/dp7893us5bAh/dp7893us5bAh.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB KOMEDİ
-https://umt02.videobulut.com/1/3811/RXEsE1nTwVd5/RXEsE1nTwVd5.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB FAMILY
-https://umt02.videobulut.com/1/3811/9Edss8dRhbh9/9Edss8dRhbh9.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"     tvg-id""                        tvg-logo=""                                                                                        ,FİLODİ
-https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
-
-
-###################################################################################################################################################################################################
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,KANAL D
-https://kanald.blutv.com/blutv_kanald_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="ShowTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="Star.tr"                tvg-logo="https://www.canlitv.me/poster/star-tv.png"                                               ,STAR TV
-https://startv.blutv.com/blutv_startv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TV2.tr"                 tvg-logo="https://www.canlitv.me/poster/teve2.png"                                                 ,TEVE 2
-https://teve2.blutv.com/blutv_teve2_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="Kanal7.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-7.png"                                               ,KANAL 7
-https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="BEYAZTV.tr"             tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png"                                              ,BEYAZ TV
-https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal-b.png"                                             ,KANAL B
-https://kanalb.blutv.com/blutv_kanalb_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal-b.png"                                             ,KANAL B
-https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TV4.tr"                 tvg-logo="https://www.canlitv.me/poster/tv4.png"                                                   ,TV 4
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="360.tr"                 tvg-logo="https://www.canlitv.me/poster/tv-360.png"                                                ,360 TV
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TRTTURK.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
-https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="KanalD.tr"              tvg-logo="https://www.canlitv.me/poster/kanal-d.png"                                               ,EURO D
-https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="SHOWTV.tr"              tvg-logo="https://www.canlitv.me/poster/show-tv.png"                                               ,SHOW TURK
-https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="STAR.tr"                tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EURO STAR
-https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TV8.tr"                 tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/diyanet-tv.png"                                          ,DIYANET TV
-https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
-https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TURK
-https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV
-https://ntv.blutv.com/blutv_ntv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ULKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTURK
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABERGLOBAL
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER
-https://tgrthaber.blutv.com/blutv_tgrthaber_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://tr.canlitvizle.mobi/kanallar/kucuk/ekoturk-tv.png"                               ,EKOTURK
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bloomberght.png"                                           ,BLOMBERG HT
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE 1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://www.discovery.com/etc/designs/discoverycom/favicons/favicon-192x192.png"         ,ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,D MAX
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
-https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ilkokul.png"                                      ,TRT EBA ILK
-https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ortaokul.png"                                     ,TRT EBA ORTA
-https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-lise.png"                                         ,TRT EBA LISE
-https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"TRTWorldHD.tr"           tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD
-https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"TRTAlArabiya.tr"         tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
-https://trtarapca.blutv.com/blutv_trtarapca_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"TRTKurdi.tr"             tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI
-https://trtkurdi.blutv.com/blutv_trtkurdi_live/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"trtcocuk.tr"             tvg-logo="https://canlitv.center/channels/trt-cocuk.png"                                           ,TRT COCUK
-https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/trt-spor-izle.png"                                       ,TRT SPOR
-https://mn-nl.mncdn.com/blutv_trtspor/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ
-https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/sports-tv.png"                                           ,SPORT TV
-https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tay-tv-izle.png"                                         ,D TAY
-https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 1
-http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
-http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/bizimev-tv.png"                                          ,BIZIM EM TV
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/woman-tv"                                                         ,WOMAN TV
-https://mn-nl.mncdn.com/blutv_woman2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ucankus-tv.png"                                          ,UCANKUS TV
-https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/milyon-tv.png"                                           ,MILYON TV
-https://mn-nl.mncdn.com/blutv_milyontv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id"TRTMUZIK.TR"             tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK
-https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/number-one-tv.png"                                       ,NR1
-https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/number-one-turk.png"                                     ,NR1 TURK
-https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/dream-turk.png"                                          ,DREAM TURK
-https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,POWER TURK
-https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_44.png"    ,POWER
-https://mn-nl.mncdn.com/blutv_power2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kon-tv.png"                                              ,KON TV
-https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="https://canlitv.center/channels/vuslat-tv-izle.png"                                      ,VUSLAT TV
-https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://www.ertv.com.tr/images/banner/ertv-logo_1.png"                                    ,ERTV
-https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
-
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330"                                   ,BOOMERANG HD
-https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40"                                     ,Cartoon Network HD
-https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo=""                                                                                        ,SCI
-h      8
-
-#EXTGRP:BLUTV
-#EXTINF:-1 group-title="TR | BLU TV"  tvg-id""                        tvg-logo=""                                                                                        ,DISCOVERY
-h      8
-###################################################################################################################################################################################################
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,STAR TV
-http://195.142.1.211:4022/udp/224.2.2.1:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,NTV
-http://195.142.1.211:4022/udp/224.2.2.2:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,D MAX
-http://195.142.1.211:4022/udp/224.2.2.3:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 4
-http://195.142.1.211:4022/udp/224.2.2.4:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 5
-http://195.142.1.211:4022/udp/224.2.2.5:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 6
-http://195.142.1.211:4022/udp/224.2.2.6:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TLC
-http://195.142.1.211:4022/udp/224.2.2.7:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,KANAL D
-http://195.142.1.211:4022/udp/224.2.2.9:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,CNN TURK
-http://195.142.1.211:4022/udp/224.2.2.10:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TEVE 2
-http://195.142.1.211:4022/udp/224.2.2.11:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,DREAM TURK
-http://195.142.1.211:4022/udp/224.2.2.12:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,LIDER HABER
-http://195.142.1.211:4022/udp/224.2.2.13:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,D TAY
-http://195.142.1.211:4022/udp/224.2.2.14:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,BOS
-http://195.142.1.211:4022/udp/224.2.2.15:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,KOCAELI TV
-http://195.142.1.211:4022/udp/224.2.2.16:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,MINIKA COCUK
-http://195.142.1.211:4022/udp/224.2.2.17:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,MINIKA GO
-http://195.142.1.211:4022/udp/224.2.2.18:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,ATV
-http://195.142.1.211:4022/udp/224.2.2.19:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,A HABER
-http://195.142.1.211:4022/udp/224.2.2.20:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,A SPOR
-http://195.142.1.211:4022/udp/224.2.2.21:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 22
-http://195.142.1.211:4022/udp/224.2.2.22:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 23
-http://195.142.1.211:4022/udp/224.2.2.23:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO VAV
-http://195.142.1.211:4022/udp/224.2.2.24:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,FOX TV
-http://195.142.1.211:4022/udp/224.2.2.25:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TV 8
-http://195.142.1.211:4022/udp/224.2.2.33:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TV 8 BUCUK
-http://195.142.1.211:4022/udp/224.2.2.34:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,AKIT TV
-http://195.142.1.211:4022/udp/224.2.2.41:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,KON TV
-http://195.142.1.211:4022/udp/224.2.2.42:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TV KAYSERI
-http://195.142.1.211:4022/udp/224.2.2.43:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,BENGUTURK
-http://195.142.1.211:4022/udp/224.2.2.44:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,HABER GLOBAL
-http://195.142.1.211:4022/udp/224.2.2.45:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TVDEN
-http://195.142.1.211:4022/udp/224.2.2.46:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,BEINSPORTS HABER
-http://195.142.1.211:4022/udp/224.2.2.49:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,KANAL 24
-http://195.142.1.211:4022/udp/224.2.2.57:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,360 TV
-http://195.142.1.211:4022/udp/224.2.2.58:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TV 4
-http://195.142.1.211:4022/udp/224.2.2.59:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,MUZIK 
-http://195.142.1.211:4022/udp/224.2.2.65:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 66
-http://195.142.1.211:4022/udp/224.2.2.66:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 67
-http://195.142.1.211:4022/udp/224.2.2.67:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 68
-http://195.142.1.211:4022/udp/224.2.2.68:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 69
-http://195.142.1.211:4022/udp/224.2.2.69:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 70
-http://195.142.1.211:4022/udp/224.2.2.70:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,BEYAZ TV
-http://195.142.1.211:4022/udp/224.2.2.73:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,DIYANET TV
-http://195.142.1.211:4022/udp/224.2.2.74:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TGRT HABER
-http://195.142.1.211:4022/udp/224.2.2.81:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,RADYO 82
-http://195.142.1.211:4022/udp/224.2.2.82:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TGRT BELGESEL
-http://195.142.1.211:4022/udp/224.2.2.83:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,TGRT EU
-http://195.142.1.211:4022/udp/224.2.2.84:10001
-#EXTINF:-1 group-title="TR | PUHUTV CH"     tvg-id""                        tvg-logo=""                                                                                        ,STAR SHOPING
-http://195.142.1.211:4022/udp/224.2.2.89:10001
-
-
-
-
-
-
-#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,
-
-
-
 #EXTINF:-1 group-title="4K | GLOBAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,INSIGHT TV
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="4K | GLOBAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,INWILD HD
@@ -3213,21 +2380,42 @@ https://qebele.tv/live/stream/index.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEDENIYET
 https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEDENIYET
+http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,INTER AZ
 https://live.artidijitalmedya.com/artidijital_interaz/interaz/chunks.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,UMUD TV
 https://cdn-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARB 24
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ICTIMAITV
+http://edge02.odtv.az/o1/ictimai/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IDMAN TV
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IDMAN TV
+http://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALVIN CH
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKMENELI TV
 https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IMEDI TV
 https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,XAZER TV
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SPACE TV
+http://edge02.odtv.az/o1/space/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,REAL TV
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DISCOVERY TV
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,XEZER TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DUNYA TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GUNAZ TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,LIDER TV
@@ -3237,10 +2425,1001 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CBC TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CBC SPORT
 
+
+
+
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
+
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мир 24
+https://sc.id-tv.kz:443/Mir24.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ-Мир
+https://sc.id-tv.kz:443/NTV_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый канал
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Перец
+http://88.216.83.245/perec/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятница
+http://88.216.83.245/friday/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятница HD
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZcx0Vz9/images-1.jpg" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятница International
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РБК
+https://sc.id-tv.kz:443/RBK_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Рен ТВ International
+https://sc.id-tv.kz:443/RenTV_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2975.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия К
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия РТР
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,САРАФАН
+http://138.201.67.145:8081/sarafan/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ HD
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tsargrad.tv/img/logo-tsargrad_134x134.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Царьград
+https://live.kinescopecdn.net/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ю
+http://88.216.83.245/u/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,CNN
+http://88.216.83.245/cnn/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2129.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Euronews
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Euronews
+http://88.216.83.245/euronews/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RTG int.
+http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый HD
+http://tv.relaxtv.fun/pervyhd50/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый канал +7
+http://tv.relaxtv.fun/Pervyy_kanal_+7/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый канал +9
+http://tv.relaxtv.fun/Pervyy_kanal_+9/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ HD
+http://tv.relaxtv.fun/NTV_HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ +4
+http://tv.relaxtv.fun/NTV_+4/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ +7
+http://tv.relaxtv.fun/NTV_+7/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия 24
+http://tv.relaxtv.fun/Russia24!/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятый канал
+http://tv.relaxtv.fun/Pyatyy_kanal/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЕН ТВ HD
+http://tv.relaxtv.fun/Ren_TV_HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЕН ТВ
+http://tv.relaxtv.fun/REN_TV/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,National Geographic HD
+http://tv.relaxtv.fun/National-Geographic-CEE-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Travel Channel HD
+http://tv.relaxtv.fun/Travel-Channel-HD-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Travel+Adventure HD
+http://tv.relaxtv.fun/Travel-Adventure-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Рыболов
+http://tv.relaxtv.fun/Rybolov/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Action
+http://tv.relaxtv.fun/relax-action/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Драма
+http://tv.relaxtv.fun/relax-drama/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Комедия
+http://tv.relaxtv.fun/relax-comedy/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Триллер
+http://tv.relaxtv.fun/relax-thriller/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Russian
+http://tv.relaxtv.fun/relax-russian/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Фантастика
+http://tv.relaxtv.fun/relax-fantasy/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Relax Ужасы
+http://tv.relaxtv.fun/relax-horror/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Карусель
+http://tv.relaxtv.fun/Karusel/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мульт HD
+http://tv.relaxtv.fun/Mul-t-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,FilmBox Arthouse
+http://tv.relaxtv.fun/FilmBox-Arthouse/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Русский Иллюзион HD
+http://tv.relaxtv.fun/Russkiy-Illyuzion-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Иллюзион +
+http://tv.relaxtv.fun/Illyuzion-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Еврокино HD
+http://tv.relaxtv.fun/Evrokino-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Премиальное HD
+http://tv.relaxtv.fun/Premial-noe-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Русский Роман HD
+http://tv.relaxtv.fun/Russkiy-Roman-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НСТ
+http://tv.relaxtv.fun/NST/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Дорама
+http://tv.relaxtv.fun/Dorama/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.Red
+http://tv.relaxtv.fun/Red/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.Sci-Fi
+http://tv.relaxtv.fun/Sci-Fi/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.Black
+http://tv.relaxtv.fun/Black/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Kino World
+http://tv.relaxtv.fun/TV-1000-World-Kino/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Kino
+http://tv.relaxtv.fun/TV-1000-HD-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Kino World HD
+http://tv.relaxtv.fun/TV-1000-World-Kino-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Kino Comedy
+http://tv.relaxtv.fun/ViP-Comedy-HD-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Kino Megahit
+http://tv.relaxtv.fun/ViP-Megahit-HD-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Индийское кино
+http://tv.relaxtv.fun/Indiyskoe-kino/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киномикс
+http://tv.relaxtv.fun/Kinomiks/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киномикс HD
+http://tv.relaxtv.fun/Kinomiks-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносемья
+http://tv.relaxtv.fun/Kinosem-ya/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносемья HD
+http://tv.relaxtv.fun/Kinosem-ya-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносвидание
+http://tv.relaxtv.fun/Kinosvidanie/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносвидание HD
+http://tv.relaxtv.fun/Kinosvidanie-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинохит
+http://tv.relaxtv.fun/Kinohit/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинохит HD
+http://tv.relaxtv.fun/Kinohit-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мужское кино HD
+http://tv.relaxtv.fun/Muzhskoe-kino-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мужское кино
+http://tv.relaxtv.fun/Muzhskoe-kino/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Наше новое кино
+http://tv.relaxtv.fun/Nashe-novoe-kino/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МИР
+http://tv.relaxtv.fun/MIR/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТВЦ
+http://tv.relaxtv.fun/TVCT/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОТР
+http://tv.relaxtv.fun/OTR/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Звезда
+http://tv.relaxtv.fun/Zvezda/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЧЕ
+http://tv.relaxtv.fun/Che/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТВ3
+http://tv.relaxtv.fun/TV3/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятница
+http://tv.relaxtv.fun/Pyatnica!/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Суббота
+http://tv.relaxtv.fun/Subbota!/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Домашний
+http://tv.relaxtv.fun/Domashniy/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,1+1 HD
+http://tv.relaxtv.fun/1_1/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ICTV HD
+http://tv.relaxtv.fun/Ivc/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Перший HD
+http://tv.relaxtv.fun/Persh/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Фреехом
+http://tv.relaxtv.fun/Freehom/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Прямий
+http://tv.relaxtv.fun/Premi/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МУЗВАР
+http://tv.relaxtv.fun/Muzvar/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Дiм HD
+http://tv.relaxtv.fun/Dim/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Суспiльне Культура
+http://tv.relaxtv.fun/Suskult/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Розпакуй. ТВ
+http://tv.relaxtv.fun/Ruzpak/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Рада
+http://tv.relaxtv.fun/Rada/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,5 канал HD
+http://tv.relaxtv.fun/5ua/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,24 канал HD
+http://tv.relaxtv.fun/24hd/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РБК
+http://tv.relaxtv.fun/rbkhd/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЛДПР ТВ
+http://tv.relaxtv.fun/ldpr/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,В гостях у сказки
+http://tv.relaxtv.fun/Vgost/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Лёва
+http://tv.relaxtv.fun/Liva/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,EU Music
+http://tv.relaxtv.fun/EU-Music/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Mezzo
+http://tv.relaxtv.fun/Mezzo/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MTV Hits
+http://tv.relaxtv.fun/MTV-Hits-Int/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MTV Club
+http://tv.relaxtv.fun/MTV-Club-Int/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MTV 90s
+http://tv.relaxtv.fun/MTV-90s-Int/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MTV Live HD
+http://tv.relaxtv.fun/MTV-Live-HD-Int/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОНТ HD
+http://tv.relaxtv.fun/onthd/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТВ HD
+http://tv.relaxtv.fun/stv/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РТР-Беларусь HD
+http://tv.relaxtv.fun/rtrbeleruss/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ-Беларусь HD
+http://tv.relaxtv.fun/ntvbelaruss/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,БУГ-ТВ
+http://tv.relaxtv.fun/bygtv/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Лагуна ТВ
+http://tv.relaxtv.fun/lahunatv/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Витебск
+http://tv.relaxtv.fun/bitebsk/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Варяг
+http://tv.relaxtv.fun/varag/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 1 HD
+http://tv.relaxtv.fun/Belarus1/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 2 HD
+http://tv.relaxtv.fun/Belarus2/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 3 HD
+http://tv.relaxtv.fun/Belarus3/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 4
+http://tv.relaxtv.fun/Belarus4/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 5 HD
+http://tv.relaxtv.fun/Belarus5/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 1 CEE
+http://tv.relaxtv.fun/Eurosport-1-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 2 CEE
+http://tv.relaxtv.fun/Eurosport-2-CEE/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Спортивный HD
+http://tv.relaxtv.fun/Sportivnyy-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Игра HD
+http://tv.relaxtv.fun/Match-Igra-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Арена HD
+http://tv.relaxtv.fun/Match-Arena-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Планета
+http://tv.relaxtv.fun/Match-Planeta/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 1
+http://tv.relaxtv.fun/Match-Futbol-1/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 1 HD
+http://tv.relaxtv.fun/Match-Futbol-1-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 2 HD
+http://tv.relaxtv.fun/Match-Futbol-2-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 3 HD
+http://tv.relaxtv.fun/Match-Futbol-3-HD/index.m3u8?token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Авто плюс
+http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3b715VR/2023-05-29-233224593.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Байкал Универ ТВ
+https://stream01.bgu.ru/1/1/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,БОЛЬШАЯ АЗИЯ
+rtmp://5.182.231.251//2117
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,БСТ
+rtmp://5.182.231.251//2108
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,БСТ HD
+rtmp://5.182.231.251//2115
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,В МИРЕ ЖИВОТНЫХ HD
+rtmp://5.182.231.251//2089
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ВМЕСТЕ-РФ
+rtmp://5.182.231.251//2073
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ВОЛГА
+rtmp://5.182.231.251//2113
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ВОПРОСЫ И ОТВЕТЫ
+rtmp://5.182.231.251//2026
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ГЛАЗАМИ ТУРИСТА HD
+rtmp://5.182.231.251//2104
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ДИКАЯ ОХОТА
+rtmp://5.182.231.251//2004
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ДИКАЯ РЫБАЛКА
+rtmp://5.182.231.251//2005
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Дикий
+http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ДОЖДЬ
+rtmp://5.182.231.251//2030
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Дом Кино
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Дом Кино Премиум HD
+http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Домашний
+http://mfe01.cliptv.az/dash/Domashniy_SDdppq23v.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Домашний
+http://streamer1.ruslanatv.ru/russia/domashniy_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ДОРАМА HD
+rtmp://5.182.231.251//2131
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ДРАЙВ
+rtmp://5.182.231.251//2021
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Еврокино
+http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЕГЭ ТВ
+rtmp://5.182.231.251//2020
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЖАР ПТИЦА
+rtmp://5.182.231.251//2142
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Жара
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЖАРА
+rtmp://5.182.231.251//2129
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЖИВАЯ ПЛАНЕТА
+rtmp://5.182.231.251//2101
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЖИВАЯ ПРИРОДА HD
+rtmp://5.182.231.251//2074
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЗАГОРОДНЫЙ
+rtmp://5.182.231.251//2099
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЗАГОРОДНЫЙ HD
+rtmp://5.182.231.251//2124
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Звезда
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЗДОРОВОЕ ТВ
+rtmp://5.182.231.251//2022
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЗОО ТВ
+rtmp://5.182.231.251//2100
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Известия
+http://streamer1.ruslanatv.ru/russia/izvestiya_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ИЗВЕСТИЯ
+rtmp://5.182.231.251//2008
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ИЛЛЮЗИОН +
+rtmp://5.182.231.251//2038
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Индийское кино
+http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КАПИТАН ФАНТАСТИКА HD
+rtmp://5.182.231.251//2098
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КВН ТВ
+http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кино ТВ
+http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кино ТВ HD
+http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КИНО ТВ HD
+rtmp://5.182.231.251//2097
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинокомедия
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киномикс
+http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киномикс
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносат
+rtmp://5.182.231.251//2121
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносвидание
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Киносерия
+http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КИНОУЖАС HD
+rtmp://5.182.231.251//2056
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинохит
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Комедия
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КРАСНАЯ ЛИНИЯ
+rtmp://5.182.231.251//2147
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КРЫМ 24
+rtmp://5.182.231.251//2143
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КТО ЕСТЬ КТО
+rtmp://5.182.231.251//2042
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КТО КУДА
+rtmp://5.182.231.251//2112
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КУРАЙ ТВ
+rtmp://5.182.231.251//2061
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,КУРАЙ ТВ HD
+rtmp://5.182.231.251//2144
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Кухня ТВ
+http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЛДПР ТВ
+rtmp://5.182.231.251//2110
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Любимое кино
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SDtytghfgs.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЛЮБИМОЕ КИНО HD
+rtmp://5.182.231.251//2106
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЛЯ-МИНОР
+rtmp://5.182.231.251//2043
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мама
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/mamatv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мама
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч ТВ
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Арена
+http://streamer1.ruslanatv.ru/russia/match_arena_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Боец
+http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Премьер
+http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Страна
+http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 1
+http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 2
+http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 3
+http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мир
+http://streamer1.ruslanatv.ru/russia/mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МИР
+rtmp://5.182.231.251//2122
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мир 24
+http://streamer1.ruslanatv.ru/russia/mir24_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МИР HD
+rtmp://5.182.231.251//2107
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мир Баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МИР ВОКРУГ HD
+rtmp://5.182.231.251//2134
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мир сериала
+http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Москва 24
+http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МОТОРСПОРТ ТВ
+rtmp://5.182.231.251//2145
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Моя планета
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МОЯ ПЛАНЕТА HD
+rtmp://5.182.231.251//2090
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Мужское кино
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Муз Союз
+rtmp://5.182.231.251//2137
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МузТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/muztv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МузТВ
+http://streamer1.ruslanatv.ru/russia/muz_tv_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НАНО ТВ
+rtmp://5.182.231.251//2081
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НАНО ТВ HD
+rtmp://5.182.231.251//2135
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НАУКА HD
+rtmp://5.182.231.251//2155
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НАША ТЕМА
+rtmp://5.182.231.251//2118
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Наше новое кино
+http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НОСТАЛЬГИЯ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ностальгия
+http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ HD
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ Право
+http://streamer1.ruslanatv.ru/russia/ntv_pravo_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ Хит
+http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТВ-Мир
+http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,НТК
+rtmp://5.182.231.251//2066
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,О!2
+rtmp://5.182.231.251//2068
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,О!2 HD
+rtmp://5.182.231.251//214
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОНТ HD
+rtmp://5.182.231.251//2182
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОРУЖИЕ
+rtmp://5.182.231.251//2087
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОТКРЫТЫЙ МИР
+rtmp://5.182.231.251//2078
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ОХОТА И РЫБАЛКА
+rtmp://5.182.231.251//2019
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый канал HD
+http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Первый крымский
+rtmp://5.182.231.251//2139
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Победа
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ПОБЕДА
+rtmp://5.182.231.251//2003
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ПСИХОЛОГИЯ 21
+rtmp://5.182.231.251//2025
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Пятница
+http://mfe02.cliptv.az/dash/Pyatnica_SDqdhk68w3.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2470.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ратник
+rtmp://5.182.231.251//2119
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РБК
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/rbktv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЕН ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Рен ТВ
+http://mfe01.cliptv.az/dash/Ren_SD0204opts.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЕН ТВ HD
+rtmp://5.182.231.251//2024
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЕТРО
+rtmp://5.182.231.251//2018
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Родное кино
+http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РОССИЯ 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/rossiya24/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Россия 24
+http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Русский бестселлер
+http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РУССКИЙ ИЛЛЮЗИОН HD
+rtmp://5.182.231.251//2114
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РУССКИЙ РОМАН HD
+rtmp://5.182.231.251//2076
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,РЫЖИЙ
+rtmp://5.182.231.251//2052
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Санкт-Петербург
+http://streamer1.ruslanatv.ru/russia/sankt_peterburg_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Сапфир
+http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СМАЙЛИК ТВ HD
+rtmp://5.182.231.251//2157
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Смрадная Каракатица
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/167188.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СОВЕРШЕННО СЕКРЕТНО
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Солнце
+http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СОЮЗ
+rtmp://5.182.231.251//2016
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТАРТ HD
+rtmp://5.182.231.251//2154
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТБ HD
+rtmp://5.182.231.251//2172
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТВ HD
+rtmp://5.182.231.251//2184
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Страх HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/202127.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТС
+http://mfe02.cliptv.az/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТС KIDS
+rtmp://5.182.231.251//2001
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СТС Love
+http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,СуперГерои
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТАЙНА
+rtmp://5.182.231.251//2059
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТВ3
+http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТВЦ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТВЦ
+http://streamer1.ruslanatv.ru/russia/tvc_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Телеканал Футбол
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТЕЛЕПУТЕШЕСТВИЯ
+rtmp://5.182.231.251//2051
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТЕХНО 24
+rtmp://5.182.231.251//2023
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2477.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНОМЕР
+rtmp://5.182.231.251//2149
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o8/tnt/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ HD
+http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ Music
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ Music
+http://streamer1.ruslanatv.ru/russia/tntmusic_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Толк
+rtmp://5.182.231.251//2140
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Тонус ТВ
+rtmp://5.182.231.251//2054
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Точка ТВ
+rtmp://5.182.231.251//2053
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ТРИ АНГЕЛА
+rtmp://5.182.231.251//2116
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,УДАР HD
+rtmp://5.182.231.251//2000
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ФЕНИКС+КИНО
+rtmp://5.182.231.251//2039
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ХУЗУР ТВ
+rtmp://5.182.231.251//2150
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЦЕНТРАЛЬНОЕ ТВ
+rtmp://5.182.231.251//2064
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Че
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/chetv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Че
+http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ШАНСОН ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/shansontv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ю
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/utv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvr.susu.ru/pictures/Kadr67.jpg" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ЮУрГУ-ТВ
+https://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.Black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.RED HD
+rtmp://5.182.231.251//2062
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,.Sci-Fi
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,AIVA HD
+rtmp://5.182.231.251//2156
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Amedia 1
+http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Amedia 2
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Amedia 2 HD
+rtmp://5.182.231.251//2046
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Amedia Premium HD
+http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ani
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ARB 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/arb24/playlist.m3u8
+#EXTINF:-1 tvg-id="7368" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ARB TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/arbtv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Arirang
+rtmp://5.182.231.251//2071
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Armenia H1
+http://138.201.67.145:8081/ArmeniaH1/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,BABY TV
+rtmp://5.182.231.251//2084
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Bein Sports 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/beinsport/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o8/bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Bolt
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Cartoon network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="2158" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,CBC AZ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/cbc/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 tvg-id="2549" tvg-logo="http://epg.it999.ru/img/2549.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Cinema Космос ТВ HD BY
+rtmp://5.182.231.251//2185
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Discovery
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Discovery Science
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,DTX
+rtmp://5.182.231.251//2006
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2435.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Dunya TV AZ
+rtmp://5.182.231.251//2192
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 2
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Extreme Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Extreme sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,FASHION TV HD
+rtmp://5.182.231.251//2045
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,FOX
+rtmp://5.182.231.251//2055
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Galaxy
+http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,GALAXY
+rtmp://5.182.231.251//2010
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,H2 HD
+rtmp://5.182.231.251//2033
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,History HD
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,History HD
+http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Hollywood
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Ictimai TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Idman
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/idman/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Investigation Discovery
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Investigation Discovery
+rtmp://5.182.231.251//2085
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Investigation Discovery HD
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Investigation Discovery HD
+rtmp://5.182.231.251//2102
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Jimjam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Leomax
+rtmp://5.182.231.251//2123
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,LUXURY HD
+rtmp://5.182.231.251//2072
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Mafi2a TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/147714.m3u8
+#EXTINF:-1 tvg-id="2557" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Medeniyyet
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MTV
+rtmp://5.182.231.251//2130
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Nick Jr
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/nickjr/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Nickelodeon
+http://streamer1.ruslanatv.ru/russia/nickelodeon_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Real TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/realtv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RTG TV
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RTVI
+rtmp://5.182.231.251//2086
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RU.TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/rutv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RU.TV
+http://streamer1.ruslanatv.ru/russia/rutv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Russian Extreme HD
+rtmp://5.182.231.251//2077
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,RUSSIAN MUSIC BOX
+rtmp://5.182.231.251//2048
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Sever TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Shant Music HD
+rtmp://5.182.231.251//2167
+#EXTINF:-1 tvg-id="2553" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Space TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/space/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TLC HD
+http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TMF RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TV XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TV1000
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TV1000 Русское кино
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat History
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Nature
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Sport
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,VIASAT SPORT
+rtmp://5.182.231.251//2007
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,VIP Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,VIP Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,VIP Premiere HD
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,2x2
+http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,9 ВОЛНА
+rtmp://5.182.231.251//2070
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,360 HD
+rtmp://5.182.231.251//2065
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,360 НОВОСТИ
+rtmp://5.182.231.251//2138
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,365 ДНЕЙ
+rtmp://5.182.231.251//2040
+#EXTINF:-1 tvg-logo="https://pobeda.tv/images/logo_header.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Победа
+#EXTVLCOPT:http-referrer=https://pobeda.tv/
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,A Spor TV Canlı
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ABU DHABI SPORT 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ABU DHABI SPORT 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,ABU DHABI SPORT 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/23.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/24.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottglanz.tv/icon/6904.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Eurosport 2 HD
+http://91.233.215.250:7272/4TViUcJR91U6Lzr
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2053.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Extreme Sports
+https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/fsn-logo-white.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Fubo Sports Network
+https://playout.fubo.tv/plex/3.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/17.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/khl/index.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottglanz.tv/icon/9596.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,KHL Prime
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,KOK Fights TV
+http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2326.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,M-1 Global
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MAVTV GLOBAL
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MMA-TV.COM
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2476
+#EXTINF:-1 tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Moto America TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,MySports 1 HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/okko.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Okko sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est6.varcdn.top/1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/32.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,QazSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/KazSportKZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/31.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Setanta Qazaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est3.varcdn.top/rpl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/828.png?62879e8995c3b" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est5.varcdn.top/setanta1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/8.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Setanta Ukraine HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est5.varcdn.top/setantasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6860.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Setanta Ukraine Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est8.varcdn.top/setantaplusukraina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/25.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/sport1/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Sport 1 HD LT
+http://88.216.83.245/sport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/33.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/sport2/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TV RI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,TVS Boxing
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/34.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/ViasatSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5951.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,XSPORT Plus HD UA
+http://45.143.108.104:80/XSPORT_SD/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/b5.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Бокс ТВ
+https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Бокс ТВ
+http://88.216.83.245/bokstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/km.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Конный мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est5.varcdn.top/ua3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/5m.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est3.varcdn.top/mp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/m.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est3.varcdn.top/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2017.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/19.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/marena/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/21.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/matchboec/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/18.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/matchigra/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Планета
+http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Планета
+http://88.216.83.245/match/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/20.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://bal.varcdn.top/lb/matchstrana/index.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/1m.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est1.varcdn.top/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/1m.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est1.varcdn.top/m2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://varplatform.top/logo/3m.png" group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""     ,Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://est1.varcdn.top/m3/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,24 TV
 https://www.youtube.com/watch?v=FqtkGpsPXO4
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT 1
-https://www.youtube.com/watch?v=EHNxgCiZH2o
+https://www.youtube.com/watch?v=XcdeBgf3zQs
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT HABER
 https://www.youtube.com/watch?v=-Lrxv1_i3qc
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,ATV
@@ -3309,6 +3488,8 @@ https://www.youtube.com/watch?v=Y8rQ1z9Nwg0
 https://www.youtube.com/watch?v=lN0HQYA5Yg4
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT Diyanet Cocuk
 https://www.youtube.com/watch?v=Gg7xrk2tiHs
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,CARTON NETWORK
+https://www.youtube.com/live/6g2Qt1Bzs0Q
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,EkoTurk
 https://www.youtube.com/watch?v=2krqIJ9B2_o
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kanal 7 hz Yusuf
@@ -3337,8 +3518,11 @@ https://www.youtube.com/watch?v=3hAK77Ci1H8
 https://www.youtube.com/watch?v=NLa1Vzu_LmY
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT WORLD
 https://www.youtube.com/watch?v=5VF4aor94gw
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,A NEWS
+https://www.youtube.com/watch?v=mMc_4NjTlx0
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,WELT
 https://www.youtube.com/watch?v=RFe4DK-Ut2k
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,DW
-
-
+https://www.youtube.com/watch?v=pqabxBKzZ6M
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,AL JAZEERA
+https://www.youtube.com/watch?v=bNyUyrR0PHo
