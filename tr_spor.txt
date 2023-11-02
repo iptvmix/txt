@@ -1,8 +1,7 @@
 #EXTM3U
-************************  05/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-
-*****************************************  https://raw.githubusercontent.com/ARIEL0202/SPORTS/main/README.md  ********************
+#************************  05/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+#************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
+#*****************************************  https://raw.githubusercontent.com/ARIEL0202/SPORTS/main/README.md  ********************
 
 #EXTINF:-1 group-title="TR | SPORTS CH"  ,SPORTS
 https://yok.trgoals536.xyz/yayin1.m3u8
