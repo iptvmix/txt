@@ -821,6 +821,79 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,6+ CH
+https://s6.hopslan.com/6plus/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,3+ CH
+https://s6.hopslan.com/3plus/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,4+ CH
+https://s6.hopslan.com/4plus/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF INFO
+https://s6.hopslan.com/srfinfo/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF 1
+https://s6.hopslan.com/srf1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF 2
+https://s6.hopslan.com/srf2/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL
+https://s6.hopslan.com/rtlq1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL 2
+https://s6.hopslan.com/rtl2x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL NITRO
+https://s6.hopslan.com/nitrox1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,VOX
+https://s6.hopslan.com/voxx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SUPER RTL
+https://s6.hopslan.com/superx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,NTV DE
+https://s6.hopslan.com/ntvx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,TLC DE
+https://s6.hopslan.com/tlcx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,DMAX DE
+https://s6.hopslan.com/dmax1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,PRO 7
+https://s6.hopslan.com/pro7x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KABEL 1
+https://s6.hopslan.com/kabel1x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SAT 1
+https://s6.hopslan.com/sat1x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SIXX
+https://s6.hopslan.com/sixx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,PRO 7MAXX
+https://s6.hopslan.com/pro7maxx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KABEL 1 DOKU
+https://s6.hopslan.com/dokux1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SAT 1 GOLD
+https://s6.hopslan.com/goldx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,TELE 5
+https://s6.hopslan.com/tele5x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,DISNEY CH 
+https://s6.hopslan.com/disneyx1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,COMEDY CENTRAL
+https://s6.hopslan.com/vivax1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,WELD
+https://s6.hopslan.com/n24x1/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,NICK
+https://s6.hopslan.com/nick/index.m3u8
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KASTAMONU TV
+http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,ASKER TV
+https://canliyayin.tv.tr/askertv/askertv/chunklist_w1458546861.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ilkokul.png"                                      ,TRT eba Ilk
 https://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-ortaokul.png"                                     ,TRT eba Orta
@@ -941,9 +1014,9 @@ https://cakal.click/yayintv8.m3u8
 https://cakal.click/yayintv85.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,STAR
 https://cakal.click/yayinstar.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPOR 1
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPOR 1 HD
 https://cakal.click/yayineu1.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPOR 2
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPOR 2 HD
 https://cakal.click/yayineu2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,NBA TV
 https://cakal.click/yayinnbatv.m3u8
@@ -1001,24 +1074,25 @@ http://cdn-ntvspor.yayin.com.tr/ntvspor/ntvspor/playlist.m3u8
 http://mugla.tvizlehd.com/live/tjktv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,D TAY TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPORT 1 HD [BLU]
-https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EUROSPORT 2 HD [BLU]
-https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EPT Sports 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EPT Sports 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 1
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+h        8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tvs Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Super Sport
