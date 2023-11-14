@@ -978,6 +978,43 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
 
 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/609?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4101?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4102?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4103?.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4105?.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN SPORTS 1
 https://cakal.click/yayin1.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 2
@@ -1082,18 +1119,18 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EPT Sports 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ABU DHABI SPORT 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 1
-h        8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai Racing 2 
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Dubai sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tvs Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
@@ -1124,6 +1161,38 @@ https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/ind
 https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ARGENTINA EVENTOS TyC SPORT PLAY 11
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,SPORTS 2
+http://37.17.14.149:8905/play/a014
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TNT Sports 4 
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TNT Sports 5 
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Trace Sport Stars 
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,MAROC SPORTS 
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Sharjah Sports TV 
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TELETRAK 
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Hipódromo de las Américas 
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ATG Tv 
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,POPSUGAR Fitness 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ATG Tv 
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6"                                                ,MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
@@ -3761,6 +3830,35 @@ https://www.youtube.com/watch?v=3hAK77Ci1H8
 https://www.youtube.com/watch?v=NLa1Vzu_LmY
 
 
-
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,ATV
+https://stream2.filbox.com.tr/live/0.../8/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,SHOW TV
+https://stream2.filbox.com.tr/live/0.../11/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,STAR TV
+https://stream2.filbox.com.tr/live/0.../14/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,KANAL D
+https://stream2.filbox.com.tr/live/0.../17/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FOX
+https://stream2.filbox.com.tr/live/0.../20/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,BEYAZ
+https://stream2.filbox.com.tr/live/0.../31/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,TEVE 2
+https://stream2.filbox.com.tr/live/0.../34/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,360 TV
+https://stream2.filbox.com.tr/live/0.../37/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,A HABER
+https://stream2.filbox.com.tr/live/0.../51/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,HABERTURK
+https://stream2.filbox.com.tr/live/0.../54/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,BLOOMBERG
+https://stream2.filbox.com.tr/live/0.../58/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,N TV
+https://stream2.filbox.com.tr/live/0.../60/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,CNN TURK
+https://stream2.filbox.com.tr/live/0.../62/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,HALK TV
+https://stream2.filbox.com.tr/live/0.../68/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,TELE 1
+https://stream2.filbox.com.tr/live/0.../70/index.m3u8
 
 
