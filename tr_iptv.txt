@@ -203,16 +203,13 @@ https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 1	
 https://raw.githubusercontent.com/iptvmix/feed/main/teber1.m3u8
-#https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 2
 https://raw.githubusercontent.com/iptvmix/feed/main/teber2.m3u8
-#https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 3	
 https://raw.githubusercontent.com/iptvmix/feed/main/teber3.m3u8
-#https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 4
 https://raw.githubusercontent.com/iptvmix/feed/main/teber4.m3u8
-#https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURKUVAZ TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKA TV	
