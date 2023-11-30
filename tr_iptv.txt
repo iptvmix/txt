@@ -140,6 +140,9 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://raw.githubusercontent.com/iptvmix/feed/main/superturk1.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 2
 https://raw.githubusercontent.com/iptvmix/feed/main/superturk2.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 3
+https://raw.githubusercontent.com/iptvmix/feed/main/superturk3.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELEON
 https://github.com/iptvmix/feed/raw/main/teleon.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tvem.tr"                tvg-logo="https://canlitv.center/channels/tv-em.png"                                               ,TV EM	
