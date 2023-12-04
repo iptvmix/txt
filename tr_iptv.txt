@@ -31,7 +31,8 @@ http://1985h.pw:80/live/sefa/123456/129789.ts
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
 http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
-https://edge02.odtv.az/o8/a2/playlist.m3u8
+#https://edge02.odtv.az/o8/a2/playlist.m3u8
+http://116.202.238.88/A2_TR/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://i.imgur.com/agn47sQ.png"                                                         ,360 HD
@@ -140,9 +141,6 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://raw.githubusercontent.com/iptvmix/feed/main/superturk1.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 2
 https://raw.githubusercontent.com/iptvmix/feed/main/superturk2.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 3
-https://raw.githubusercontent.com/iptvmix/feed/main/superturk3.m3u8
-
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELEON
 https://github.com/iptvmix/feed/raw/main/teleon.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tvem.tr"                tvg-logo="https://canlitv.center/channels/tv-em.png"                                               ,TV EM	
@@ -562,6 +560,11 @@ https://broadcasttr.com:446/oncurtv/bant1/chunklist.m3u8
 https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,A TURK
 https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,5 OCAK TV
+https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1597550234.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,GORELE TV
+https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kanal 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
@@ -1083,6 +1086,9 @@ https://cakal.click/yayinatv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT 1
 https://cakal.click/yayintrt1.m3u8
 
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TIVIBU SPORT 1
+https://bozztv.com/inim03/live1/gt-tivibuspor/chunks.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 1
 https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEIN sports 2
@@ -1093,7 +1099,7 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
-https://ythls.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+https://bozztv.com/inim03/live1/beinsportshaber/chunks.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
 https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-haber.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BEINSPOR HBR
@@ -1854,7 +1860,7 @@ https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
-https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c6b0f
+http://gineu8.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="ATV.tr"                tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV
 #https://edge02.smart.az/o8/atv/playlist.m3u8
 https://edge02.odtv.az/o8/atv/playlist.m3u8
