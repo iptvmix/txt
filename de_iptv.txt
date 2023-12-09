@@ -100,6 +100,13 @@ https://broadcast.bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , Bundestag TV 2
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , Bundestag TV 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="DE | Deutsch " , Bundestag TV 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+
+
+
 #EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="DE | Deutsch " , KABELeins DOKU
 https://s6.hopslan.com/doku/index.m3u8
 #EXTINF:-1 channel-id="dmax.de"                        tvg-id="dmax.de"                  tvg-chno="0051" tvg-logo="https://download.avm.de/tv/logos/dmax.png"                                                group-title="DE | Deutsch " , DMAX
@@ -179,6 +186,10 @@ https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 channel-id="münchentv.de"                   tvg-id="münchentv.de"             tvg-chno="0082" tvg-logo=""         group-title="DE | Deutsch " , münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 channel-id="KabelJournal.de"                tvg-id="KabelJournal.de"          tvg-chno="0082" tvg-logo=""         group-title="DE | Deutsch " , KabelJournal
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 
 #EXTINF:-1 channel-id="oe24.at"                        tvg-id="oe24.at"                  tvg-chno="0081" tvg-logo="https://www.oe24.at/misc/bane/images/logos/logo-oe24Video.svg"         group-title="DE | Deutsch " , OE24
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
@@ -256,8 +267,8 @@ https://cdn.icu.de/rtplive/bwf.stream/playlist.m3u8
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , noa4
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MUXX TV
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
+
+
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Alex TV
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Chemnitz TV
@@ -330,8 +341,27 @@ https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Antenne Tv
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , Deluxe Music
-https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX SCHLAGER
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , DLX RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , RADIO ITALIA
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MUXX TV
+http://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/master.m3u8
+
+
+
+
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , MusicTOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="DE | Deutsch " , 1Music TV
