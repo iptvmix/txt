@@ -1106,6 +1106,8 @@ https://raw.githubusercontent.com/ZazerConer/YouTube-to-M3U8/main/beinsports-hab
 https://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR
 http://77.92.139.136:8100/bysid/25
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 2
@@ -2706,7 +2708,12 @@ http://edge02.odtv.az/o2/realtv/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DISCOVERY TV
 http://edge02.odtv.az/o5/discovery/playlist.m3u8
 
-
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MUZ TV
+https://az2.canlitvplayer.com/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GUNES TV
+https://az2.canlitvplayer.com/azerbaijan/gunes/chunks.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DUNYA TV
+https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
 
 
 
@@ -2715,7 +2722,7 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 
 
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,XEZER TV
-#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DUNYA TV
+
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GUNAZ TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,LIDER TV
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DALGA TV
