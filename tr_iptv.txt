@@ -68,13 +68,17 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="aktifturk.tr"           tvg-logo="https://www.aktif.be/wp-content/uploads/2020/09/yeni-logo-1.png"                         ,AKTIF TURK	
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
+http://palatv34.ozelip.com:22372/aktif/aktif/playlist.m3u8
+
+
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tiviturk.tr"            tvg-logo="http://tivitürk.de/wp-content/uploads/2019/01/logo.png"                                  ,TIVI TURK	
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="viyanatv.tr"            tvg-logo="https://www.viyana.tv/uploads/logo/viyanatvbu.png"                                       ,VIYANA TV	
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV	
-https://is.gd/NdDhgK.m3u8
+http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
+
 ########################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
@@ -189,8 +193,7 @@ https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SANCAK TV	
-https://2.rtmp.org/tv219/yayin.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKARA TV
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w99125218_b3268000_sltur.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL URFA
@@ -221,8 +224,101 @@ http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,WESTERN TV	
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GOPSEN TV	
-http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FARK TÜRK TV
+http://palatv34.ozelip.com:22372/farkturktv/farkturktv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DEMİRCİ TV
+https://demircitv.ozelip.com:3892/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SÜPRÜZ TV
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Neftv  
+http://palatv34.ozelip.com:22372/neftv/neftv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Gopsen tv
+http://palatv34.ozelip.com:22372/gopsentv/gopsentv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ÇAĞRI TV 
+http://palatv34.ozelip.com:22372/cagritv/cagritv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL 28
+http://palatv34.ozelip.com:22372/kanal28/kanal28/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,A52 TV
+http://palatv34.ozelip.com:22372/a52tv/a52tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,İSVİÇRE TV
+http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,İLKGÜN TV
+http://palatv34.ozelip.com:22372/ilkguntv/ilkguntv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nil Rtv  
+http://palatv34.ozelip.com:22372/nilrtv/nilrtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Aldosa tv 
+http://palatv34.ozelip.com:22372/aldosatv/aldosatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALMANYA TV
+http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FORA MÜZİK TV
+http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SEDA TV
+http://palatv34.ozelip.com:22372/tvoncu/tvoncu/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GENÇ KRAL TV
+http://palatv34.ozelip.com:22372/genckraltv/genckraltv/chunklist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PSM TV
+http://palatv34.ozelip.com:22372/psmtv/psmtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YAĞMUR TV
+http://palatv34.ozelip.com:22372/yagmur/yagmur/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CEYHAN TV
+http://palatv34.ozelip.com:22372/ceyhantv/ceyhantv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KARAPINAR TV
+http://palatv34.ozelip.com:22372/karapinar/karapinar/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKTÜEL TV
+http://palatv34.ozelip.com:22372/aktuel/aktuel/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DEMİRCİ TV
+http://palatv34.ozelip.com:22372/demircitv/demircitv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BİLSEM TV
+http://palatv34.ozelip.com:22372/bilsem/bilsem/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Adana
+http://palatv34.ozelip.com:22372/adana/adana/chunklist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AJANS EXPRESS TV
+http://palatv34.ozelip.com:22372/ajans/ajans/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEGA TV
+http://palatv34.ozelip.com:22372/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ULUSLAR TV
+http://palatv34.ozelip.com:22372/uluslar/uluslar/playlist.m3u8
+
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SÜPER7 TV
+http://palatv34.ozelip.com:22372/super/super/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BASKAN TV	
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 
@@ -3716,179 +3812,512 @@ https://est1.varcdn.top/m3/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,ATV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,SHOW TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/11/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,STAR TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/14/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,KANAL D
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/17/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FOX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/20/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,BEYAZ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/31/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,TEVE 2
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/34/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,360 TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/37/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,A HABER
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,HABERTURK
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,BLOOMBERG
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/58/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,N TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/60/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,CNN TURK
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/62/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,HALK TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/68/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,TELE 1
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/70/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,ULUSAL
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/85/index.m3u8
 
 
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT 1
-https://youtube.com/trt1/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,ATV
-https://www.youtube.com/atvturkiye/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SHOW TV
-https://youtube.com/showtv/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,STAR TV
-https://www.youtube.com/user/STARTVSTAR/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,FOX
+#https://www.youtube.com/@trt1/live
+#http://www.youtube.com/channel/UCvFudBDDILdDljN4VIZ4Msw/live
+#https://livestream.zazerconer.workers.dev/channel/UCvFudBDDILdDljN4VIZ4Msw.m3u8
+http://new.cache-stream.workers.dev/stream/UCvFudBDDILdDljN4VIZ4Msw/live.m3u8
 
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a TV
+#https://www.youtube.com/@atvturkiye/live
+#http://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live
+#https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+http://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a2 TV
+#https://www.youtube.com/@a2/live
+#http://www.youtube.com/channel/UCHqu50_C2U2h_rpzhygs4aA/live
+#https://livestream.zazerconer.workers.dev/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
+http://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a PARA
+#https://www.youtube.com/@apara/live
+#http://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA/live
+#https://livestream.zazerconer.workers.dev/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
+http://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a SPOR
+#https://www.youtube.com/@aspor/live
+#http://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live
+#https://livestream.zazerconer.workers.dev/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a HABER
+#https://www.youtube.com/@ahaber/live
+#http://www.youtube.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA/live
+#https://livestream.zazerconer.workers.dev/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,a NEWS
+#https://www.youtube.com/@anewsglobal/live
+#http://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live
+#https://livestream.zazerconer.workers.dev/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
+http://new.cache-stream.workers.dev/stream/UC-LRBEUet4xX2fRB3JitFxg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,VAV TV
+#https://www.youtube.com/@vavtv/live
+#http://www.youtube.com/channel/UCmMPdW0rtbEI_XyIsMlMnqg/live
+#https://livestream.zazerconer.workers.dev/channel/UCmMPdW0rtbEI_XyIsMlMnqg.m3u8
+http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,FOX
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/
+#https://livestream.zazerconer.workers.dev/channel/
+http://new.cache-stream.workers.dev/stream/ /live.m3u8
+
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SHOW TV
+#https://www.youtube.com/@showtv/live
+#http://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live
+#https://livestream.zazerconer.workers.dev/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
+http://new.cache-stream.workers.dev/stream/UC9JMe_We017gYrRc7kZHgmg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,SHOWTURK
-https://www.youtube.com/watch?v=XnvS-RZa4Qw
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SHOWMAX
-https://www.youtube.com/watch?v=Y3vGHFrsqrs
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/
+#https://livestream.zazerconer.workers.dev/channel/
+http://new.cache-stream.workers.dev/stream/ /live.m3u8
 
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SHOWMAX
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/
+#https://livestream.zazerconer.workers.dev/channel/
+http://new.cache-stream.workers.dev/stream/ /live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Haber Turk
+#https://www.youtube.com/@haberturktv/live
+#http://www.youtube.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA/live
+#https://livestream.zazerconer.workers.dev/channel/UCn6dNfiRE_Xunu7iMyvD7AA.m3u8
+http://new.cache-stream.workers.dev/stream/UCn6dNfiRE_Xunu7iMyvD7AA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Bloomberg HT
+#https://www.youtube.com/@bloomberght/live
+#http://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCApLxl6oYQafxvykuoC2uxQ/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,STAR TV
+#https://www.youtube.com/@startvresmi/live
+#http://www.youtube.com/channel/UCsFINj3y7SjBaeUxiSdRjlA/live
+#https://livestream.zazerconer.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA.m3u8
+http://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT HABER
-https://www.youtube.com/user/trthaber/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Haber Turk
-https://www.youtube.com/user/TVhaberturk/live
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
+#https://livestream.zazerconer.workers.dev/channel/UCBgTP2LOFVPmq15W-RH-WXA.m3u8
+http://new.cache-stream.workers.dev/stream/UCBgTP2LOFVPmq15W-RH-WXA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,CNN TURK
-https://www.youtube.com/user/cnnturk/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,ULKE TV
-https://www.youtube.com/user/ulketv/live
+#https://www.youtube.com/@cnnturk/live
+#http://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live
+#https://livestream.zazerconer.workers.dev/channel/CV6zcRug6Hqp1UX_FdyUeBg.m3u8
+http://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,24 TV
-https://www.youtube.com/YirmidortTV/live
+#https://www.youtube.com/@yirmidorttv/live
+#http://www.youtube.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA/live
+#https://livestream.zazerconer.workers.dev/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
+http://new.cache-stream.workers.dev/stream/UCN7VYCsI4Lx1-J4_BtjoWUA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,HABERGLOBAL
-https://www.youtube.com/HaberGlobal/live
+#https://www.youtube.com/@haberglobal/live
+#http://www.youtube.com/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live
+#https://livestream.zazerconer.workers.dev/channel/Ctc-a9ZUIg0_5HpsPxEO7Qg.m3u8
+http://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,NTV
-https://www.youtube.com/NTV/live
+#https://www.youtube.com/@ntv/live
+#http://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live
+#https://livestream.zazerconer.workers.dev/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
+http://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,HALK TV
-https://www.youtube.com/Halktvkanali/live
+#https://www.youtube.com/@Halktvkanali/live
+#http://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCf_ResXZzE-o18zACUEmyvQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TV 100
-https://www.youtube.com/watch?v=sd94keSra6A
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TV 100 EKONOMI
-https://www.youtube.com/tv100/live
+#https://www.youtube.com/@tv100/live
+#http://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live
+#https://livestream.zazerconer.workers.dev/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
+http://new.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,ULKE TV
+#https://www.youtube.com/@ulketv/live
+#http://www.youtube.com/channel/UCT1GDGt-pNYZ4E0kanZHUKQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCT1GDGt-pNYZ4E0kanZHUKQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCT1GDGt-pNYZ4E0kanZHUKQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TGRT HABER
-https://www.youtube.com/tgrthaber/live
+#https://www.youtube.com/@tgrthaber/live
+#http://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCzgrZ-CndOoylh2_e72nSBQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,KRT TV
-https://www.youtube.com/KRTTVCanliYayin/live
+#https://www.youtube.com/@krttvcanliyayin/live
+#http://www.youtube.com/channel/UCVKWwHoLwUMMa80cu_1uapA/live
+#https://livestream.zazerconer.workers.dev/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
+http://new.cache-stream.workers.dev/stream/UCVKWwHoLwUMMa80cu_1uapA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TELE 1
-https://www.youtube.com/tele1comtr/live
+#https://www.youtube.com/@tele1comtr/live
+#http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
+#https://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw,m3u8
+http://new.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,SOZCU TV
-https://www.youtube.com/Sozcutelevizyonu/live
+#https://www.youtube.com/@Sozcutelevizyonu/live
+#http://www.youtube.com/channel/UCOulx_rep5O4i9y6AyDqVvw/live
+#https://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+http://new.cache-stream.workers.dev/stream/UCOulx_rep5O4i9y6AyDqVvw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,FLASH HABER
-https://www.youtube.com/FlashHaberTV/live
+#https://www.youtube.com/@flashhabertv/live
+#http://www.youtube.com/channel/UCNcjCb2RnA3eMMhTZSxZu3A/live
+#https://livestream.zazerconer.workers.dev/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
+http://new.cache-stream.workers.dev/stream/UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,BeinSportsHaber
-https://www.youtube.com/beinsportsturkiye/live
+#https://www.youtube.com/@beinsportsturkiye/live
+#http://www.youtube.com/channel/UCPe9vNjHF1kEExT5kHwc7aw/live
+#https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+http://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TJK TV
-https://www.youtube.com/TJKTVCANLIYAYIN/live
+#https://www.youtube.com/@TJKTVCANLIYAYIN/live
+#http://www.youtube.com/channel/UCNLO4lpteIloZ4IKb9L2DoA/live
+#https://livestream.zazerconer.workers.dev/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
+http://new.cache-stream.workers.dev/stream/UCNLO4lpteIloZ4IKb9L2DoA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TAY TV
-https://www.youtube.com/TayTvOfficial/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,A SPOR
-https://www.youtube.com/ASpor/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,A HABER
-https://www.youtube.com/ahaber/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,A PARA
-https://www.youtube.com/apara/live
+#https://www.youtube.com/@TayTvOfficial/live
+#http://www.youtube.com/channel/UCjkRA7KEdp7PDKDUs396XHg/live
+#https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
+http://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,BYHORSES TV
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCQgq6bnp3N_ZlyNq5dHmkNw/live
+#https://livestream.zazerconer.workers.dev/channel/UCQgq6bnp3N_ZlyNq5dHmkNw,m3u8
+http://new.cache-stream.workers.dev/stream/UCQgq6bnp3N_ZlyNq5dHmkNw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TV NET
-https://www.youtube.com/TVNET/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Bloomberg HT
-https://www.youtube.com/user/BloombergHT/live
+#https://www.youtube.com/@TVNET/live
+#http://www.youtube.com/channel/UC8rh34IlJTN0lDZlTwzWzjg/live
+#https://livestream.zazerconer.workers.dev/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
+http://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KANAL 5
+#https://www.youtube.com/@Kanal5tv/live
+#http://www.youtube.com/channel/UCVebw64Db0yhrPkVk-D8F6w/live
+#https://livestream.zazerconer.workers.dev/channel/UCVebw64Db0yhrPkVk-D8F6w.m3u8
+http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,KralPop
-https://www.youtube.com/kralmuzik/live
+#https://www.youtube.com/@kralmuzik/live
+#http://www.youtube.com/channel/UCEAW_kmPVjxTC50vuLyKOQA/live
+#https://livestream.zazerconer.workers.dev/channel/UCEAW_kmPVjxTC50vuLyKOQA.m3u8
+http://new.cache-stream.workers.dev/stream/UCEAW_kmPVjxTC50vuLyKOQA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,Semerkand TV
-https://www.youtube.com/semerkandtv/live
+#https://www.youtube.com/@semerkandtv/live
+#http://www.youtube.com/channel/UC1MAQqT5E93KPpMvxiVlhaw/live
+#https://livestream.zazerconer.workers.dev/channel/UC1MAQqT5E93KPpMvxiVlhaw.m3u8
+http://new.cache-stream.workers.dev/stream/UC1MAQqT5E93KPpMvxiVlhaw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,Diyanet TV
-https://www.youtube.com/DiyanetTv/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,VAV TV
-https://www.youtube.com/vavtv/live
+#https://www.youtube.com/@DiyanetTv/live
+#http://www.youtube.com/channel/UC3d1AdmvAP6Jq16-WpD086g/live
+#https://livestream.zazerconer.workers.dev/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8
+http://new.cache-stream.workers.dev/stream/UC3d1AdmvAP6Jq16-WpD086g/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TV 5
-https://www.youtube.com/TV5televizyon/live
+#https://www.youtube.com/@TV5televizyon/live
+#http://www.youtube.com/channel/UCP-0oW3M7DpjmPDutckOjiA/live
+#https://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+http://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,ANKA HABER AJANSI
-https://www.youtube.com/ankahaberajans/live
+#https://www.youtube.com/@ankahaberajans/live
+#http://www.youtube.com/channel/UCO9AQtN33IP53uiImJ_59OQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCO9AQtN33IP53uiImJ_59OQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCO9AQtN33IP53uiImJ_59OQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,BAKU TV
-https://www.youtube.com/bakutv/live
+#https://www.youtube.com/@bakutv/live
+#http://www.youtube.com/channel/UCINwqO8Scgq___xJAVjfn7g/live
+#https://livestream.zazerconer.workers.dev/channel/UCINwqO8Scgq___xJAVjfn7g.m3u8
+http://new.cache-stream.workers.dev/stream/UCINwqO8Scgq___xJAVjfn7g/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,REAL TV
-https://www.youtube.com/REALTVXEBERLE/live
+#https://www.youtube.com/@REALTVXEBERLE/live
+#http://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live
+#https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
+http://new.cache-stream.workers.dev/stream/UCjpoTfA8TXO6QfAWiAB67eA/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT Diyanet Cocuk
-https://www.youtube.com/DiyanetCocuk/live
+#https://www.youtube.com/@DiyanetCocuk/live
+#http://www.youtube.com/channel/UCCfTktnzWK__FUN4gj0zIpA/live
+#https://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+http://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SEMERKAND WAY
+#https://www.youtube.com/@semerkandway/live
+#http://www.youtube.com/channel/UCHk7qp3R2xHSkm51EFcTvLQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCHk7qp3R2xHSkm51EFcTvLQ,m3u8
+http://new.cache-stream.workers.dev/stream/UCHk7qp3R2xHSkm51EFcTvLQ/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KABE TV
+#https://www.youtube.com/@ /live
+#http://www.youtube.com/channel/UCSs5mehC-g9qDmIZWFe0a6Q/live
+#https://livestream.zazerconer.workers.dev/channel/UCSs5mehC-g9qDmIZWFe0a6Q.m3u8
+http://new.cache-stream.workers.dev/stream/UCSs5mehC-g9qDmIZWFe0a6Q/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,MEDINE TV
+#https://www.youtube.com/@ /live
+#http://www.youtube.com/channel/UCFrVnrQF6kTrkDdFZoT9CTQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCFrVnrQF6kTrkDdFZoT9CTQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCFrVnrQF6kTrkDdFZoT9CTQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,CARTON NETWORK
-https://www.youtube.com/cartoonnetworkturkiye/live
+#https://www.youtube.com/@cartoonnetworkturkiye/live
+#http://www.youtube.com/channel/UCehmwSZGPod7JFbHJspmxzQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCehmwSZGPod7JFbHJspmxzQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,EkoTurk
-https://www.youtube.com/EKOTURKTV/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT WORLD
-https://www.youtube.com/trtworld/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,A NEWS
-https://www.youtube.com/ANewsGlobal/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,AL JAZEERA
-https://www.youtube.com/aljazeeraenglish/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SKY NEWS
-https://www.youtube.com/SkyNews/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,DW
-https://www.youtube.com/dwnews/live
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,WELT
-https://www.youtube.com/WELTVideoTV/live
+#https://www.youtube.com/@EKOTURKTV/live
+#http://www.youtube.com/channel/UCAGVKxpAKwXMWdmcHbrvcwQ/live
+#https://livestream.zazerconer.workers.dev/channel/
+http://new.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8
 
-
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kanal 7 hz Yusuf
-https://www.youtube.com/watch?v=K1D1qNEzsqQ
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kemal Sunal
-https://www.youtube.com/watch?v=qpKqm8orqXM
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kemal Sunal 2
-https://www.youtube.com/watch?v=dJjZUq1MxoU
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Cennet Mahallesi
-https://www.youtube.com/watch?v=KF9lTDY17iA
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,Medya Haber
-https://www.youtube.com/watch?v=Qi6qHKk7aoA
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KARADENIZ AKUSTIK
-https://www.youtube.com/watch?v=400qSG7mDvE
+#https://www.youtube.com/@MedyaHaberTV1/live
+#http://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
+#https://livestream.zazerconer.workers.dev/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
+http://new.cache-stream.workers.dev/stream/UC_KlNwS1QQ9QMPRg9dGNHNw/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,ULUSAL TV
-https://www.youtube.com/watch?v=3eCTLsCPPqk
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UC6T0L26KS1NHMPbTwI1L4Eg/live
+#https://livestream.zazerconer.workers.dev/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+http://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT WORLD
+#https://www.youtube.com/@trtworld/live
+#http://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
+#https://livestream.zazerconer.workers.dev/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+http://new.cache-stream.workers.dev/stream/UC7fWeaHhqgM4Ry-RMpM2YYw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT ARABIC
+#https://www.youtube.com/@TRTArabi/live
+#http://www.youtube.com/channel/UC5GvVahlgulCyo4cshSmbcg/live
+#https://livestream.zazerconer.workers.dev/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
+http://new.cache-stream.workers.dev/stream/UC5GvVahlgulCyo4cshSmbcg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,AL JAZEERA Ara
+#https://www.youtube.com/@aljazeera/live
+#http://www.youtube.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw/live
+#https://livestream.zazerconer.workers.dev/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
+http://new.cache-stream.workers.dev/stream/UCfiwzLy-8yKzIbsmZTzxDgw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,AL JAZEERA Eng
+#https://www.youtube.com/@aljazeeraenglish/live
+#http://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
+#https://livestream.zazerconer.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+http://new.cache-stream.workers.dev/stream/UCNye-wNBqNL5ZzHSJj3l8Bg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,NAT GEO WILD
+#https://www.youtube.com/@ /live
+#http://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA/live
+#https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+http://new.cache-stream.workers.dev/stream/UCDPk9MG2RexnOMGTD-YnSnA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,SKY NEWS
+#https://www.youtube.com/@SkyNews/live
+#http://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCoMdktPbSTixAyNGwb-UYkQ/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,DW
+#https://www.youtube.com/@dwnews/live
+#http://www.youtube.com/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg/live
+#https://livestream.zazerconer.workers.dev/channel/UCMIgOXM2JEQ2Pv2d0_PVfcg.m3u8
+http://new.cache-stream.workers.dev/stream/UCMIgOXM2JEQ2Pv2d0_PVfcg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,WELT
+#https://www.youtube.com/@WELTVideoTV/live
+#http://www.youtube.com/channel/UCZMsvbAhhRblVGXmEXW8TSA/live
+#https://livestream.zazerconer.workers.dev/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
+http://new.cache-stream.workers.dev/stream/UCZMsvbAhhRblVGXmEXW8TSA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KARADENIZ AKUSTIK
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCFwOubbFrIGY1G6ik2tT2QA/live
+#https://livestream.zazerconer.workers.dev/channel/UCFwOubbFrIGY1G6ik2tT2QA.m3u8
+http://new.cache-stream.workers.dev/stream/UCFwOubbFrIGY1G6ik2tT2QA/live.m3u8
+
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,CIFTCI TV
-https://www.youtube.com/watch?v=EVEX7C2spn8
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TEVE 2
-https://www.youtube.com/teve2/live
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCtzcebnk0sLhCBtJy7GJaCg/live
+#https://livestream.zazerconer.workers.dev/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8
+http://new.cache-stream.workers.dev/stream/UCtzcebnk0sLhCBtJy7GJaCg/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,ON6
-https://www.youtube.com/watch?v=LgFSsih22sc
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KOZA TV
-https://www.youtube.com/watch?v=3hAK77Ci1H8
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCp-qGlC5XgBNmrA4fOAs88A/live
+#https://livestream.zazerconer.workers.dev/channel/UCp-qGlC5XgBNmrA4fOAs88A.m3u8
+http://new.cache-stream.workers.dev/stream/UCp-qGlC5XgBNmrA4fOAs88A/live.m3u8
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  ,MPL TV
-https://www.youtube.com/watch?v=NLa1Vzu_LmY
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg/live
+#https://livestream.zazerconer.workers.dev/channel/UCTr00Butm_gEZmbUz_KI9gg.m3u8
+http://new.cache-stream.workers.dev/stream/UCTr00Butm_gEZmbUz_KI9gg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,KRAL FM
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCEAW_kmPVjxTC50vuLyKOQA/live
+#https://livestream.zazerconer.workers.dev/channel/UCEAW_kmPVjxTC50vuLyKOQA.m3u8
+http://new.cache-stream.workers.dev/stream/UCEAW_kmPVjxTC50vuLyKOQA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kemal Sunal - [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCfoQxHKIWW_HrECGLaDrBEw/live
+#https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kemal Sunal2- [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
+#https://livestream.zazerconer.workers.dev/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Anne - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCR-xo2a2XVxlib346D-ASDA/live
+#https://livestream.zazerconer.workers.dev/channel/UCR-xo2a2XVxlib346D-ASDA.m3u8
+http://new.cache-stream.workers.dev/stream/UCR-xo2a2XVxlib346D-ASDA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Behzat C - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCH3WnhFSx9r850HJRRs16lQ/live
+#https://livestream.zazerconer.workers.dev/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+http://new.cache-stream.workers.dev/stream/UCH3WnhFSx9r850HJRRs16lQ/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Cennet Mahallesi - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCOqe-z52nnpVSAe8Ds0fxaA/live
+#https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+http://new.cache-stream.workers.dev/stream/UCOqe-z52nnpVSAe8Ds0fxaA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Cilek Kokusu - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UC3uB257qcHNt-Ri-iPx7uVA/live
+#https://livestream.zazerconer.workers.dev/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
+http://new.cache-stream.workers.dev/stream/UC3uB257qcHNt-Ri-iPx7uVA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Cocuklar Duymasin - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCtjNs0q_cz-RdHy-HW2q8Cw/live
+#https://livestream.zazerconer.workers.dev/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+http://new.cache-stream.workers.dev/stream/UCtjNs0q_cz-RdHy-HW2q8Cw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Dolunay - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCXygCN-u5CrdX4GJctowTVw/live
+#https://livestream.zazerconer.workers.dev/channel/UCXygCN-u5CrdX4GJctowTVw.m3u8
+http://new.cache-stream.workers.dev/stream/UCXygCN-u5CrdX4GJctowTVw/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Erkenci Kus - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UC64mzacdticc87zH870bQGA/live
+#https://livestream.zazerconer.workers.dev/channel/UC64mzacdticc87zH870bQGA.m3u8
+http://new.cache-stream.workers.dev/stream/UC64mzacdticc87zH870bQGA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Hz.Yusuf - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCOpKuda5Ld_oc0Gdr31knmA/live
+#https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
+http://new.cache-stream.workers.dev/stream/UCOpKuda5Ld_oc0Gdr31knmA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Istanbullu Gelin - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UC7xHX82HI2XR_yoL-ru6SmQ/live
+#https://livestream.zazerconer.workers.dev/channel/UC7xHX82HI2XR_yoL-ru6SmQ.m3u8
+http://new.cache-stream.workers.dev/stream/UC7xHX82HI2XR_yoL-ru6SmQ/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kiralik ASK - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCVKo-TGjnJPwq_vDzz8rcMg/live
+#https://livestream.zazerconer.workers.dev/channel/UCVKo-TGjnJPwq_vDzz8rcMg.m3u8
+http://new.cache-stream.workers.dev/stream/UCVKo-TGjnJPwq_vDzz8rcMg/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Kuzey Yildizi - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCCzteqZRzsr87Lfh2wUKw5Q/live
+#https://livestream.zazerconer.workers.dev/channel/UCCzteqZRzsr87Lfh2wUKw5Q.m3u8
+http://new.cache-stream.workers.dev/stream/UCCzteqZRzsr87Lfh2wUKw5Q/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Muhtesem Yuzyil - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCkRY4J8G__K8SEWZRLbke-Q/live
+#https://livestream.zazerconer.workers.dev/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
+http://new.cache-stream.workers.dev/stream/UCkRY4J8G__K8SEWZRLbke-Q/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Sihirli ANNEM - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCNjRKDlSvo1H38XTkbIrMsA/live
+#https://livestream.zazerconer.workers.dev/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
+http://new.cache-stream.workers.dev/stream/UCNjRKDlSvo1H38XTkbIrMsA/live.m3u8
+
+#EXTINF:-1 group-title="TR | YOUTUBECH"  ,Yeni Gelin - DIZI [7/24]
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCrPU2odAMEU8gUzuUE1IQXw/live
+#https://livestream.zazerconer.workers.dev/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
+http://new.cache-stream.workers.dev/stream/UCrPU2odAMEU8gUzuUE1IQXw/live.m3u8
 
 
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,ATV
-https://stream2.filbox.com.tr/live/0.../8/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,SHOW TV
-https://stream2.filbox.com.tr/live/0.../11/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,STAR TV
-https://stream2.filbox.com.tr/live/0.../14/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,KANAL D
-https://stream2.filbox.com.tr/live/0.../17/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,FOX
-https://stream2.filbox.com.tr/live/0.../20/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,BEYAZ
-https://stream2.filbox.com.tr/live/0.../31/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,TEVE 2
-https://stream2.filbox.com.tr/live/0.../34/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,360 TV
-https://stream2.filbox.com.tr/live/0.../37/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,A HABER
-https://stream2.filbox.com.tr/live/0.../51/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,HABERTURK
-https://stream2.filbox.com.tr/live/0.../54/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,BLOOMBERG
-https://stream2.filbox.com.tr/live/0.../58/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,N TV
-https://stream2.filbox.com.tr/live/0.../60/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,CNN TURK
-https://stream2.filbox.com.tr/live/0.../62/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,HALK TV
-https://stream2.filbox.com.tr/live/0.../68/index.m3u8
-#EXTINF:-1 group-title="TR | FILBOX CH"  ,TELE 1
-https://stream2.filbox.com.tr/live/0.../70/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="TR | YOUTUBECH"  ,TRT DENEME
-https://www.youtube.com/trt1/UCvFudBDDILdDljN4VIZ4Msw/live.m3u8
 
 
