@@ -69,8 +69,6 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="aktifturk.tr"           tvg-logo="https://www.aktif.be/wp-content/uploads/2020/09/yeni-logo-1.png"                         ,AKTIF TURK	
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
-http://palatv34.ozelip.com:22372/aktif/aktif/playlist.m3u8
-
 
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tiviturk.tr"            tvg-logo="http://tivitürk.de/wp-content/uploads/2019/01/logo.png"                                  ,TIVI TURK	
