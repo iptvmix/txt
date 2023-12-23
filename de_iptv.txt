@@ -41,6 +41,8 @@ https://s@s6.hopslan.com:443/zdff1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf1.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="DE | Deutsch " , ORF 1
 https://s6.hopslan.com/orf1/index.m3u8
 #EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="DE | Deutsch " , RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="DE | Deutsch " , RTL
 https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="RTL2.de"                        tvg-id="RTL2.de"                  tvg-chno="0022" tvg-logo="https://download.avm.de/tv/logos/rtl2.png"                                                group-title="DE | Deutsch " , RTL II
 https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
@@ -112,7 +114,8 @@ https://s6.hopslan.com/doku/index.m3u8
 #EXTINF:-1 channel-id="dmax.de"                        tvg-id="dmax.de"                  tvg-chno="0051" tvg-logo="https://download.avm.de/tv/logos/dmax.png"                                                group-title="DE | Deutsch " , DMAX
 https://s6.hopslan.com/dmaxb/index.m3u8
 #EXTINF:-1 channel-id="TLC.de"                         tvg-id="TLC.de"                   tvg-chno="0052" tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                 group-title="DE | Deutsch " , TLC
-https://s6.hopslan.com/tlc/index.m3u8
+#https://s6.hopslan.com/tlc/index.m3u8
+http://stream.suboroiptv.tv/tlc/playlist.m3u8
 #EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0053" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="DE | Deutsch " , SERVUS TV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0054" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="DE | Deutsch " , SERVUS TV
