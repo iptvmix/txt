@@ -758,20 +758,7 @@ https://embedlp.b-cdn.net/womantv.m3u8
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SHOW +
 ttps://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİL TV
-https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİLMAX
-https://umt02.videobulut.com/1/3811/wX1Zs5npRVfn/wX1Zs5npRVfn.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB
-https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB AKSİYON 
-https://umt02.videobulut.com/35/3811/dp7893us5bAh/dp7893us5bAh.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB KOMEDİ
-https://umt02.videobulut.com/1/3811/RXEsE1nTwVd5/RXEsE1nTwVd5.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM CLUB FAMILY
-https://umt02.videobulut.com/1/3811/9Edss8dRhbh9/9Edss8dRhbh9.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FİLODİ
-https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
+
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,OZBURUN TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/chunklist_w1163224813.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,CANSUYU TV
@@ -992,6 +979,8 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://i.imgur.com/eikZj19.png"                                                         ,KANAL HAYAT
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,VRT
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,AGRI KULTUR
