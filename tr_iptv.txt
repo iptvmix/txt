@@ -2062,7 +2062,7 @@ https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
 https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
@@ -3844,6 +3844,39 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/129/index.m3
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/130/index.m3u8
 #EXTINF:-1 group-title="TR | FILBOX CH"  ,TRT BELGESEL
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/159/index.m3u8
+
+
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FB TV
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/298/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 1
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1400/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 2
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1401/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 3
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1402/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 4
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1403/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 5
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1404/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLSpor 6
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1405/index.m3u8
+
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,DOCUBOX
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FASHION ONE
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1317/index.m3u8
+
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,FİLODİ
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1280/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,NR1 ASK
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1314/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,NR1 DANCE
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1316/index.m3u8
+#EXTINF:-1 group-title="TR | FILBOX CH"  ,NR1 DAMAR
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1315/index.m3u8
+
+
+
 
 
 
