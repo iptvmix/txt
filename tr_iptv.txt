@@ -1045,8 +1045,8 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
 
-
-
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 1
+https://due.ff79573515dc9.shop/q/www.selcuksportshd886.xyz/2/i.bd28cf5481e8c.shop/chunklist_hd.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 1
 https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 2
