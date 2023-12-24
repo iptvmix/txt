@@ -4254,6 +4254,13 @@ http://new.cache-stream.workers.dev/stream/UCp-qGlC5XgBNmrA4fOAs88A/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCTr00Butm_gEZmbUz_KI9gg/live.m3u8
 
 
+#EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,MILLI PIYANGO TV
+#https://www.youtube.com/@
+#http://www.youtube.com/channel/UCZ9GezBqs_pV63UTrylkciw/live
+#https://livestream.zazerconer.workers.dev/channel/UCZ9GezBqs_pV63UTrylkciw.m3u8
+http://new.cache-stream.workers.dev/stream/UCZ9GezBqs_pV63UTrylkciw/live.m3u8
+
+
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kemal Sunal - [7/24]
 #https://www.youtube.com/@
 #http://www.youtube.com/channel/UCfoQxHKIWW_HrECGLaDrBEw/live
@@ -4391,3 +4398,136 @@ http://new.cache-stream.workers.dev/stream/UCk-I0F9R6AqhPFg8hrgmX_A/live.m3u8
 #http://www.youtube.com/channel/UC0uWI6Z5gX-n9lRRk6y-H6w/live
 #https://livestream.zazerconer.workers.dev/channel/UC0uWI6Z5gX-n9lRRk6y-H6w.m3u8
 http://new.cache-stream.workers.dev/stream/UC0uWI6Z5gX-n9lRRk6y-H6w/live.m3u8
+
+
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport HABER
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/1?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 5
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/705?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/605?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4101?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4102?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4103?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4105?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,a spor
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/172?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,trtspor
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2889?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,trtspor 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2890?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,trtavaz
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2891?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,trt 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2888?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,NBA TV
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/112?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Eurosport 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/132?.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Eurosport 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/142?.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus1.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus2.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus3.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 4
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus4.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 5
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus5.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 6
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus6.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN IZ HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/12.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,National Geographic HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/56.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Nat Geo Wild HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/55.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Discovery Channel HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/32.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Discovery Science HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/33.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DMAX HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,BBC Earth HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/6.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,History HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/40.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Viasat History HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/64.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,ID HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/41.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES SCI-FI HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/22.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES COMEDY HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/20.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES DRAMA HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/21.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES VICE HD
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/23.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD1
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/7.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/8.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD3
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/9.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Action
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/13.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Action 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/14.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Family
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/15.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Premiere
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/16.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Premiere 2
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/17.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Star
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/18.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Turk
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/19.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Movie Smart Turk
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/44.m3u8
+#EXTINF:-1 group-title="TR | DIGITAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Movie Smart Classic
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/46.m3u8
