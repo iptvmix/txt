@@ -931,61 +931,16 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/strea
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="euronews.de"            tvg-logo="https://download.avm.de/tv/logos/euronews.png"                                           ,EURONEWS
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#https://rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,BBC Travel
+https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,BBC History
+https://bbceu-bbchistory-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,BBC Food
+https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,6+ CH
-https://s6.hopslan.com/6plus/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,3+ CH
-https://s6.hopslan.com/3plus/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,4+ CH
-https://s6.hopslan.com/4plus/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF INFO
-https://s6.hopslan.com/srfinfo/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF 1
-https://s6.hopslan.com/srf1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SRF 2
-https://s6.hopslan.com/srf2/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL
-https://s6.hopslan.com/rtlq1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL 2
-https://s6.hopslan.com/rtl2x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,RTL NITRO
-https://s6.hopslan.com/nitrox1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,VOX
-https://s6.hopslan.com/voxx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SUPER RTL
-https://s6.hopslan.com/superx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,NTV DE
-https://s6.hopslan.com/ntvx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,TLC DE
-https://s6.hopslan.com/tlcx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,DMAX DE
-https://s6.hopslan.com/dmax1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,PRO 7
-https://s6.hopslan.com/pro7x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KABEL 1
-https://s6.hopslan.com/kabel1x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SAT 1
-https://s6.hopslan.com/sat1x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SIXX
-https://s6.hopslan.com/sixx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,PRO 7MAXX
-https://s6.hopslan.com/pro7maxx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KABEL 1 DOKU
-https://s6.hopslan.com/dokux1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,SAT 1 GOLD
-https://s6.hopslan.com/goldx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,TELE 5
-https://s6.hopslan.com/tele5x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,DISNEY CH 
-https://s6.hopslan.com/disneyx1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,COMEDY CENTRAL
-https://s6.hopslan.com/vivax1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,WELD
-https://s6.hopslan.com/n24x1/index.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,NICK
-https://s6.hopslan.com/nick/index.m3u8
 
 
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=" "                      tvg-logo=""                                                                                        ,KASTAMONU TV
