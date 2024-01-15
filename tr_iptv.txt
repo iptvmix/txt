@@ -2579,9 +2579,9 @@ https://59c7ea6bec1c6.streamlock.net/filbox/ulusalkanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH" tvg-id="Ulusalkanal.tr" tvg-logo="https://www.canlitv.mobi/kanallar/ulusal-kanal.png" ,ULUSAL KANAL
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
+#EXTINF:-1 group-title="TR | YEDEK CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
+#EXTINF:-1 group-title="TR | YEDEK CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SOZCU TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/szctv.m3u8
 
 
