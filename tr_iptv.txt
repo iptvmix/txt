@@ -37,8 +37,8 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 http://new.cache-stream.workers.dev/stream/UC9JMe_We017gYrRc7kZHgmg/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
 #http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
-#https://cakal.click/yayinatv.m3u8
-http://116.202.238.88/ATV_TR/index.m3u8
+https://cakal.click/yayinatv.m3u8
+#http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 #https://edge02.odtv.az/o8/a2/playlist.m3u8
 http://116.202.238.88/A2_TR/index.m3u8
@@ -136,7 +136,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bbn-turk-tv.png"                                           ,BBN TÜRK TV
 https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+http://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT TV
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE1
