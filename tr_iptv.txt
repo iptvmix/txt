@@ -34,7 +34,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://i.imgur.com/xYMyD3M.png"                                                         ,SHOW MAX
 #https://livestream.zazerconer.workers.dev/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
-https://raw.githubusercontent.com/iptvmix/feed/main/showmax.m3u8
+http://new.cache-stream.workers.dev/stream/UC9JMe_We017gYrRc7kZHgmg/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
 #http://node01.nntv.az:8136/ch2/ch2.hi.m3u8
 https://cakal.click/yayinatv.m3u8
@@ -74,6 +74,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
 https://api-tv27.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
 #https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"   tvg-id="aktifturk.tr"           tvg-logo="https://www.aktif.be/wp-content/uploads/2020/09/yeni-logo-1.png"                         ,AKTIF TURK	
+http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="brukselturk.tr"         tvg-logo=""                                                                                        ,BRUKSELTURK
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="tiviturk.tr"            tvg-logo="http://tivitürk.de/wp-content/uploads/2019/01/logo.png"                                  ,TIVI TURK	
@@ -263,6 +265,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
 #EXTINF:-1 group-title="TR | DINI   CH"  tvg-id""                        tvg-logo=""                                                                                        ,DOST TV
 http://dost.stream.emsal.im/tv/live.m3u8
+#http://135.125.234.9:8081/dosttv/index.m3u8
 #EXTINF:-1 group-title="TR | DINI   CH"  tvg-id""                        tvg-logo=""                                                                                        ,LALEGUL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 group-title="TR | DINI   CH"  tvg-id""                        tvg-logo=""                                                                                        ,TV 5
@@ -708,6 +711,8 @@ https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/life-tv.png"                                             ,LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="TR | YEREL CH"   tvg-id""                        tvg-logo=""                                                                                        ,
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/vuslat-tv-izle.png"                                      ,VUSLAT TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/mavi-karadeniz-tv.png"                                   ,MAVI KARADENIZ
@@ -905,8 +910,7 @@ http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
 
 
-#EXTINF:-1 group-title="TR | YEREL CH"   tvg-id="aktifturk.tr"           tvg-logo="https://www.aktif.be/wp-content/uploads/2020/09/yeni-logo-1.png"                         ,AKTIF TURK	
-http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
+
 
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,BASKAN TV	
 http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
@@ -1170,7 +1174,8 @@ http://1985h.pw:80/live/sefa/123456/236540.ts
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Kadırga TV
 http://1985h.pw:80/live/sefa/123456/236549.ts
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,WOMAN TV	
-https://embedlp.b-cdn.net/womantv.m3u8
+#https://embedlp.b-cdn.net/womantv.m3u8
+https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/ucankus-tv.png"                                          ,UCANKUS TV	
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 group-title="TR | YEREL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,SHOW +
