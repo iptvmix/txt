@@ -1,5 +1,20 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,ISTASYON TV 
+http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8  
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,ARIM BALIM PETEGIM 
+http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8  
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,SATİN ALİNAN KOCA 
+http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8  
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,KUCUK SEVGILIM HD 
+http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8  
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,OYUN BITTI HD 
+http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8  
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,YADELLER HD 
+http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
+#EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo=""                                                                                                                    ,BATAN GÜNEŞ HD 
+https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
+
 #EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo="https://archive.org/download/DunyayiKurtaranAdam/DunyayiKurtaranAdam.thumbs/title00_000114.jpg"                      ,DUNYAYI KURTARAN ADAM
 https://archive.org/download/DunyayiKurtaranAdam/title00.mp4
 #EXTINF:-1 group-title="TR | FILMLER 1" tvg-logo="https://archive.org/services/img/korkusuzkorkakhdturkfilmikemalsunal/full/pct:200/0/default.jpg"                     ,KORKUSUZ KORKAK
