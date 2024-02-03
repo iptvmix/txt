@@ -4,11 +4,13 @@
 #######    ULUSAL YAYINLAR                                               ############################################################################################################################
 #####################################################################################################################################################################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
 http://stream.suboroiptv.tv/TRT2/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV HD
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
+#https://proxy.canlitvplayer.com/beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                                 ,CINE 5
@@ -19,8 +21,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8.tr"                 tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                         ,TV8 HD
 #http://node01.nntv.az:8136/ch1/ch1.hi.m3u8
-#https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-https://cakal.click/yayintv8.m3u8
+#https://cakal.click/yayintv8.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                         ,TV8,5 HD
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 https://cakal.click/yayintv85.m3u8
@@ -194,16 +196,24 @@ http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 https://raw.githubusercontent.com/iptvmix/feed/main/teleon.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="tvem.tr"                tvg-logo="https://canlitv.center/channels/tv-em.png"                                               ,TV EM
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="gulsahfilm"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 1
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV
+http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="gulsahfilm"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="gulsahfilm"          ,YESILCAM 1
 https://new.cache-stream.workers.dev/stream/UCHumSHRFQ8skiHTY75sxytQ/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 2
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="filmatolyesi"        ,YESILCAM 2
 http://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 3
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="turk filmleri tv"       tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="turk filmleri"       ,YESILCAM 3
 http://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 4
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="murat film"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Murat filmcilik"     ,YESILCAM 4
 http://new.cache-stream.workers.dev/stream/UChpw5ERAQlYT7-BV2F9iqTQ/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 5
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="arzu film"              tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Arzu filmcilik"      ,YESILCAM 5
 http://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="guney filmcilik"        tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="guney filmcilik"     ,YESILCAM 6
+http://new.cache-stream.workers.dev/stream/UCV9g7n7HsvCbkTOpChRqOLQ/live.m3u8
+
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 11
 http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 12
@@ -214,6 +224,8 @@ http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
 http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 15
 http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
@@ -226,12 +238,6 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV
-http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV
-http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV
-https://tivi191.ozelip.com:3463/stream/play.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ADA TV	
@@ -391,11 +397,13 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #####################################################################################################################################################################################################
 #######    SPORT KANALLARI                                               ############################################################################################################################
 ######################################################################################################################################################################################################EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,CBC SPORT
+#EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,CBC SPORT
 http://rpn.bozztv.com/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR
 http://gineu10.bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 2
-http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+#http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=64iav1ut6wdo&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&ce=2
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 3
 http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,FB TV
@@ -2146,6 +2154,8 @@ https://tv8-live.daioncdn.net:443/tv8/tv8_720p.m3u8
 https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+
+
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TV8.tr"                tvg-logo="https://i.imgur.com/DKNwiDm.png"                                                 ,TV 8
@@ -3825,6 +3835,8 @@ http://edge02.odtv.az/o1/ictimai/playlist.m3u8
 https://edge02.odtv.az/o7/idman/q_0/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IDMAN TV
 http://edge02.odtv.az/o7/idman/playlist.m3u8
+#EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IDMAN TV
+https://proxy.canlitvplayer.com/canlitvulusal2.xyz/live1/idmantv/index.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALVIN CH
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALVIN CH
