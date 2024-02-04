@@ -1789,28 +1789,31 @@ http://116.202.238.88/KANAL7_TR/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    ,BEYAZ TV
 http://116.202.238.88/BEYAZTV_TR/index.m3u8
 
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6147vccugirw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://59c7ea6bec1c6.streamlock.net/filbox/trt1.stream/playlist.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://trt1.persona.video/master.m3u8?hls=1
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,T R T 1
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/e1061f5a-007e-4b28-88f7-bee73fcce98a/0.m3u8
+
 
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://www.canlitv.me/poster/trt-2.png"                                                 ,T R T 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
@@ -5066,5 +5069,48 @@ http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru",Шансон-ТВ
 http://135.181.115.81/russia/shanson/playlist.m3u8
+
+
+
+#EXTINF:-1 ,BBC America
+http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,BBC earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 ,BBC earth
+https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,BBC earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,BBC earth
+http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
+#EXTINF:-1 ,BBC earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC Lifestyle
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#EXTINF:-1 ,BBC Lifestyle
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC Lifestyle
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,BBC Lifestyle
+http://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,BBC Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 ,BBC World News
+http://78.83.191.18:8000/play/a07a
+#EXTINF:-1 ,BBC World News
+http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
+#EXTINF:-1 ,BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,BBC World News
+http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
 
 
