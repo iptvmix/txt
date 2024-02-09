@@ -234,16 +234,17 @@ https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri.m3u8
 https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri1onmedya.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 11
-http://gineu8.bozztv.com/gin-36bay3/gt-sinevizyon2/tracks-v1a1/mono.m3u8
+http://gineu8.bozztv.com/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 12
-http://gineu10.bozztv.com/gin-36bay3/gt-sinevizyon3/tracks-v1a1/mono.m3u8
+http://gineu10.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 13
-http://gineu9.bozztv.com/gin-36bay3/gt-yesilcamtv1/tracks-v1a1/mono.m3u8
+http://gineu10.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 14
-http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv2/tracks-v1a1/mono.m3u8
+http://gineu8.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 15
-http://gineu10.bozztv.com/gin-36bay3/gt-yesilcamtv3/tracks-v1a1/mono.m3u8
-
+http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 16
+http://gineu8.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id""                        tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
