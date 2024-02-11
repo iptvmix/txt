@@ -33,7 +33,7 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://i.imgur.com/xYMyD3M.png"                                                         ,SHOW MAX
 https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+https://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 http://116.202.238.88/A2_TR/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2 HD
