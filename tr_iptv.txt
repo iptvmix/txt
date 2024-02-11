@@ -430,7 +430,7 @@ http://gineu10.bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 #http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=64iav1ut6wdo&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&ce=2
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 3
-http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor3/tracks-v1a1/mono.m3u8
+https://stream.tvcdn.net/spor/trt-3-spor.m3u8
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,FB TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/fbtv/fbtv.m3u8
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,GS TV
