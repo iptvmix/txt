@@ -175,38 +175,31 @@ http://stream.tvcdn.net/diger-eglence/teleon.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="tvem.tr"                tvg-logo="https://canlitv.center/channels/tv-em.png"                                               ,TV EM
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 1
-https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahneleri.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV 2
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV 1
 https://github.com/rideordie16/YouTube/raw/main/film/kemalsunaltv.m3u8
+#https://tivi44.ozelip.com:3463/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 2
+https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahneleri.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 3
-https://tivi44.ozelip.com:3463/stream/play.m3u8
+#https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+https://github.com/rideordie16/YouTube/raw/main/film/gulsahfilm.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 4
-https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 5
-https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+#https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+https://github.com/rideordie16/YouTube/raw/main/film/arzufilm.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="gulsahfilm"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="gulsahfilm"          ,YESILCAM 1
-#
-https://github.com/rideordie16/YouTube/raw/main/film/gulsahfilm.m3u8
+https://new.cache-stream.workers.dev/stream/UCUd3o920A_ijCRaTRRg8LSg/live.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="filmatolyesi"        ,YESILCAM 2
-#https://ythls.armelin.one/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 https://github.com/rideordie16/YouTube/raw/main/film/filmatolyesi.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="turk filmleri tv"       tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="turk filmleri"       ,YESILCAM 3
-#https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="turk filmleri tv"       tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="turk filmleri"       ,YESILCAM 3 Z&M
 https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="murat film"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Murat filmcilik"     ,YESILCAM 4
-#https://ythls.armelin.one/channel/UChpw5ERAQlYT7-BV2F9iqTQ.m3u8
 https://github.com/rideordie16/YouTube/raw/main/film/muratfilm.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="arzu film"              tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Arzu filmcilik"      ,YESILCAM 5
-#
-https://github.com/rideordie16/YouTube/raw/main/film/arzufilm.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="guney filmcilik"        tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="guney filmcilik"     ,YESILCAM 6
-#https://ythls.armelin.one/channel/UCV9g7n7HsvCbkTOpChRqOLQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCV9g7n7HsvCbkTOpChRqOLQ/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="guney filmcilik"        tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="guney filmcilik"     ,YESILCAM 7
-#
 https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri1onmedya.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="guney filmcilik"        tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="guney filmcilik"     ,YESILCAM 6
+http://new.cache-stream.workers.dev/stream/UCV9g7n7HsvCbkTOpChRqOLQ/live.m3u8
+
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 11
 http://gineu8.bozztv.com/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
