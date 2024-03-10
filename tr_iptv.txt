@@ -351,14 +351,29 @@ http://195.142.1.211:4022/udp/224.2.2.17:10001
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo=""                                                                                        ,BiZİM ÇOCUK TV
 http://tv56245.ozelip.com:2052/bilsem/bilsem/chunklist.m3u8
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo=""                                                                                        ,CARTOONNETWORK
-https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
-#EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo=""                                                                                        ,SIRINLER TV 
-https://new.cache-stream.workers.dev/stream/UCOTtx7aofPmgcwMp8cLQKHw/live.m3u8
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo=""                                                                                        ,BOOMERANG
-https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
+https://boomerang.blutv.com/blutv_boomerang/live.m3u8
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo=""                                                                                        ,DISNEY CH
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2085
+h        8
 
+
+
+
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,AKSU TV
+https://ythls.armelin.one/channel/UCcDfjR-MdfVEJRR7qyZDgaA.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KBSB TV
+https://ythls.armelin.one/channel/UCzgLT7wXgpe1cUrXO7hpBsg.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivi 46
+https://ythls.armelin.one/channel/UCxAiSeSw8t4t0ToweXmSVDw.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL MARAS
+https://ythls.armelin.one/channel/UC5Jvi8nSKyqIK13QjJAf5YA.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 46
+https://ythls.armelin.one/channel/UCJaEoT7t9KcLtDkCzsoMpIw.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,MARAS TV
+https://ythls.armelin.one/channel/UCumv0r5zlQh--GHOr6buRIw.m3u8
+#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,NAR TV
+https://ythls.armelin.one/channel/UCXBZq5LDyvIGcfkamKI4KGg.m3u8
 
 #####################################################################################################################################################################################################
 #######    MUZIK KANALLARI                                               ############################################################################################################################
@@ -367,6 +382,8 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2085
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | MUZIK  CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRAL POP	
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="TR | MUZIK  CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKUSTIK TV
+https://ythls.armelin.one/channel/UCFwOubbFrIGY1G6ik2tT2QA.m3u8
 #EXTINF:-1 group-title="TR | MUZIK  CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM TURK	
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 #EXTINF:-1 group-title="TR | MUZIK  CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
