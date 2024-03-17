@@ -274,13 +274,21 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR_TV/playlist.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/playlist.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_tv/chunklist_w32207099.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER-_6_TV/chunklist_w1080346695.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 4
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_ON_TV/playlist.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_ON/chunklist_w409133111.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 5
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_TEZENE/chunklist_w1233569335.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 6
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/HCRT_SAFARI_TV/chunklist_w104338443.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 6
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1246576528.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA TV	
 https://raw.githubusercontent.com/iptvmix/feed/main/yansimatv1.m3u8
