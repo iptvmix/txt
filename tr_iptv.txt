@@ -4,7 +4,7 @@
 #######    ULUSAL YAYINLAR                                               ############################################################################
 #####################################################################################################################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b320997236de6d2f9/TRT-1/master.m3u8
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV HD
@@ -23,17 +23,17 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                         ,TV8,5 HD
 https://cakal.click/yayintv85.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,NOW HD
-https://foxtv.blutv.com/blutv_foxtv_live_canli/live.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,STAR TV HD
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D HD
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-https://showtv.blutv.com/blutv_showtv_live_canli/live.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://i.imgur.com/xYMyD3M.png"                                                         ,SHOW MAX
 https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-http://66.160.192.245/atvturk/index.m3u8
+http://66.160.192.241/atvturk/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2 HD
@@ -51,9 +51,9 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTTURK.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV EUROPA
-https://bozztv.com/inim05/live1/atvavrupa/playlist.m3u8
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
-https://showturk.blutv.com/blutv_showturk5/live_720p2000000kbps/index.m3u8
+https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,TGRT EU
@@ -1741,7 +1741,185 @@ https://m.egm.gov.tr:8093/stream/1/
 
 
 ########## ############################# ############################### ################################################################################################## #################
-                    ,Yaban TV
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT 1 HD
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,atv
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Fox TV
+http://stream.tvcdn.net/ulusal/fox-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Turk
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,RT Avaz
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,ATV Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TGRT EU
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Show Turk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Kanal 7 Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TV8 Int
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Euro Star
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Haber
+http://stream.tvcdn.net/haber/trt-haber.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,A Haber
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,CNN Turk
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TGRT Haber
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Haberturk
+http://stream.tvcdn.net/haber/haberturk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Haber Global
+http://stream.tvcdn.net/haber/haber-global.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Ulke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Halk TV
+http://stream.tvcdn.net/haber/halk-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,NTV
+http://stream.tvcdn.net/haber/ntv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,24 TV
+http://stream.tvcdn.net/haber/24-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,KRT TV
+http://stream.tvcdn.net/haber/krt-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Akit TV
+http://stream.tvcdn.net/haber/akit-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Sozcu TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Tele 1
+http://stream.tvcdn.net/haber/tele-1.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TVNET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Flash Haber
+http://stream.tvcdn.net/haber/flash-haber.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Ulusal Kanal
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Benguturk TV
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Yol TV
+http://stream.tvcdn.net/haber/yol-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,DHA Canli 1
+http://stream.tvcdn.net/haber/dha-canli-1.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,DHA Canli 2
+http://stream.tvcdn.net/haber/dha-canli-2.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,A Para
+http://stream.tvcdn.net/ekonomi/a-para.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Bloomberg HT
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Ekoturk
+http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Finans Turk
+http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Expo Vizyon
+http://stream.tvcdn.net/ekonomi/expo-vizyon.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Business Channel Turk
+http://stream.tvcdn.net/ekonomi/business-channel-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Show Max
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT 3 Spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Sports TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,beIN Sports Haber
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,GS TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TJK TV
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TJK TV 2
+http://stream.tvcdn.net/spor/tjk-tv-2.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Tay TV
+http://stream.tvcdn.net/spor/tay-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,ByHorses TV
+http://stream.tvcdn.net/spor/byhorses-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Bric ve Satranc TV
+http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Muzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Dream Turk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Powerturk TV
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Kral Pop TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Number One TV
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Number One Turk
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Milyon TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Tatlises TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TMB
+http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Power Dance
+http://stream.tvcdn.net/muzik/power-dance.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Powerturk Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Powerturk Slow
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Powerturk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Agro TV
 http://stream.tvcdn.net/belgesel/agro-tv.m3u8
@@ -2426,27 +2604,27 @@ http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://tv-trt1.live.canli.trt.com.tr/master.m3u8
+https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://tv-trt1.medya.canli.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://tv-trtbir-dai.medya.trt.com.tr/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://tv-trtbir-dai.medya.trt.com.tr:443/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr:443/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://trt.daioncdn.net/trt-bir/master.m3u8?&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
+https://trt.daioncdn.net/trt-1/master.m3u8?&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-http://stream.suboroiptv.tv/TRTone/playlist.m3u8
+http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://trt1.persona.video/master.m3u8?hls=5
+https://trt1.persona.video/master.m3u8?hls=1
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://trt1.blutv.com/blutv_trt1_live_canli/live.m3u8
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://d1u68oyraspme.cloudfront.net/master.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://ddc75c8aakqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://30ddd2342de45a38005ed1515f8b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318abb8067b32095ba497236de6d2f9/TRT-1/e1061f5a-007e-4b28-88f7-bee73fcce8a/0.m3u8
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/e1061f5a-007e-4b28-88f7-bee73fcce98a/0.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
@@ -2606,13 +2784,13 @@ https://trkvz-dev.daioncdn.net/atv/atv.m3u8?app=8672c3cb-70f1-4686-9158-cc03a23c
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
 https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-http://gine8.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
+http://gineu8.bozztv.com/gin-36bay2/gin-atvv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-https://live.cache-stream.workers.dev/stream/UCVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+https://live.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-http://66.160.192.41/atvturk/index.m3u8
+http://66.160.192.241/atvturk/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-http://hw1.cemtv.com/app/ATVHD/playlist.m3u8
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="A2.tr"                  tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,A2 HD
@@ -2897,11 +3075,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.cnnturk.com/canli-y
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,NOW HD
-http://135.125.234.9:8080/foxtv/index.m3u8
+http://135.125.234.9:8081/foxtv/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,NOW HD
-https://foxtv.blutv.com/blutv_foxtv_live_canli/live.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Fox.tr"                 tvg-logo="https://www.canlitv.me/poster/fox.png"                                                   ,NOW HD
-https://live.cache-stream.workers.dev/stream/UJe13zu6MyE6Oueac41KAqg/live.m3u8
+https://live.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
@@ -2971,24 +3149,24 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-https://ensonhaber-live.ercdn.com/showtv/index.m3u8
+https://ensonhaber-live.ercdn.net/showtv/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-https://showtv.blutv.com/blutv_showtv_live_canli/live.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin&m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-https://edge02.odtv.az/o7/showtv/playlist.m3u8
+https://edge02.odtv.az/o8/showtv/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-http://canli.haber365.net.tr/tr/showtv/index.m3u8
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-https://cinerholding-live.daioncdn.net/showtv/showtv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
 https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-http://66.160.192.41/showtv/index.m3u8
+http://66.160.192.241/showtv/index.m3u8
 
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
-https://mn-nl.mncdn.com/blutv_showturk5/live.m3u8
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk&m3u8
 
@@ -5305,7 +5483,618 @@ http://135.181.115.81/russia/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru",Шансон-ТВ
 http://135.181.115.81/russia/shanson/playlist.m3u8
 
+#EXTM3U
 
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TRT 1
+https://oha.to/play/113951898/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TRT 2
+https://oha.to/play/710817665/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Beyaz TV
+https://oha.to/play/1955156757/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 4
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TRT 4K
+https://oha.to/play/416826877/index.m3u8
+#https://oha.to/play/1478418519/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NOW
+https://oha.to/play/2035725574/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kanal 7
+https://oha.to/play/1943484866/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 8
+https://oha.to/play/68996024/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 8 bucuk
+https://oha.to/play/3649557693/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STAR TV
+https://oha.to/play/2830067400/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SHOW TV
+https://oha.to/play/3416241790/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SHOWMAX
+https://oha.to/play/2032246655/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,A TV
+https://oha.to/play/3517994667/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,A2 HD
+https://oha.to/play/331129541/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL D
+https://oha.to/play/3136931538/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Teve 2
+https://oha.to/play/660065353/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,360
+https://oha.to/play/1114188303/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tarih TV
+https://oha.to/play/3319947436/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IDMAN TV
+https://oha.to/play/1575186328/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILBOX SPOR
+https://oha.to/play/128575122/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Haber
+https://oha.to/play/1578612716/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2239707133/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/4092279694/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/2954410045/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/2163294724/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 5 TR
+https://oha.to/play/1280965847/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/3633249487/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 2
+https://oha.to/play/3173603355/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 1
+https://oha.to/play/3085299930/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 2
+https://oha.to/play/4031089162/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 3
+https://oha.to/play/3075198984/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 1
+https://oha.to/play/2822240809/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/1829547791/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 3
+https://oha.to/play/1349289663/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 4
+https://oha.to/play/3796654767/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series Comedy
+https://oha.to/play/3062801999/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Action
+https://oha.to/play/4285228968/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere
+https://oha.to/play/1532930946/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere 2
+https://oha.to/play/1031895906/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Star
+https://oha.to/play/2354756128/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Türk
+https://oha.to/play/2252952454/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Family
+https://oha.to/play/2603409444/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN IZ
+https://oha.to/play/223700819/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Gurme
+https://oha.to/play/515998390/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo TR
+https://oha.to/play/127527075/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo Wild TR
+https://oha.to/play/688078726/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/1602093659/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/2240202202/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC Earth
+https://oha.to/play/450994880/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,History TR
+https://oha.to/play/1258442222/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/1607288164/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/2709926861/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TLC
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DMAX
+https://oha.to/play/1206163733/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1684061712/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1808542160/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2239707133/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2603371800/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/2873939440/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/3334958679/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/4274013276/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/3127623424/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 1 TR
+https://oha.to/play/1614862949/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/2092087459/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/2807188734/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/4092279694/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 2 TR
+https://oha.to/play/4269351111/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/2586993998/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/2954410045/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3273197943/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3641264741/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 3 TR
+https://oha.to/play/3834654669/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/1899615591/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/2163294724/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 4 TR
+https://oha.to/play/3553379196/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 5 TR
+https://oha.to/play/1280965847/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport 5 TR
+https://oha.to/play/3250376724/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/1367712343/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/2225366238/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 1
+https://oha.to/play/3633249487/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Sport Max 2
+https://oha.to/play/3173603355/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 1
+https://oha.to/play/3085299930/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 2
+https://oha.to/play/4031089162/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 2
+https://oha.to/play/2318137784/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 3
+https://oha.to/play/3075198984/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Box Office 3
+https://oha.to/play/424121431/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 1
+https://oha.to/play/2822240809/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/1829547791/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/1714417218/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 2
+https://oha.to/play/2824642873/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 3
+https://oha.to/play/1349289663/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series 4
+https://oha.to/play/3796654767/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Series Comedy
+https://oha.to/play/3062801999/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Action
+https://oha.to/play/1621541095/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Action
+https://oha.to/play/4285228968/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere
+https://oha.to/play/1532930946/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Premiere 2
+https://oha.to/play/1031895906/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Star
+https://oha.to/play/2354756128/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Star
+https://oha.to/play/4130654610/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Türk
+https://oha.to/play/2252952454/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Türk
+https://oha.to/play/3967568090/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Family
+https://oha.to/play/2603409444/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Movies Family
+https://oha.to/play/2799699841/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Home & Entertainment
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN IZ
+https://oha.to/play/223700819/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,beIN Gurme
+https://oha.to/play/515998390/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Eurospot 1
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Eurospot 2
+https://oha.to/play/959271439/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo TR
+https://oha.to/play/127527075/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nat Geo Wild TR
+https://oha.to/play/688078726/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/1602093659/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/1701632307/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Discovery Channel TR
+https://oha.to/play/883795423/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/2240202202/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/3246943788/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Investigation Discovery
+https://oha.to/play/3725072262/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nickelodeon TR
+https://oha.to/play/69561833/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NickToons TR
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Nick Jr TR
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Disney Junior 
+https://oha.to/play/1338535223/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 1
+https://oha.to/play/2751990660/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 2
+https://oha.to/play/3752455997/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,COCUK TV 3
+https://oha.to/play/3861712121/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Da Vinci
+https://oha.to/play/3366165283/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Baby TV
+https://oha.to/play/2318245250/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Baby TV NILOYA
+https://oha.to/play/958058940/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cartoon Network
+https://oha.to/play/861224173/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC Earth
+https://oha.to/play/450994880/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BBC Earth
+https://oha.to/play/968430568/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,History TR
+https://oha.to/play/1258442222/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/1607288164/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/2445146308/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat Explorer
+https://oha.to/play/3593994454/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/2709926861/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/3326219093/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/3859008479/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Viasat History
+https://oha.to/play/609376501/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DMAX
+https://oha.to/play/1206163733/index.m3u8
+
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NBA TV
+https://oha.to/play/3471183343/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NBA TV
+https://oha.to/play/2359946685/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor
+https://oha.to/play/4288708303/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor
+https://oha.to/play/4025358434/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Smart spor 2
+https://oha.to/play/1808436490/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor
+https://oha.to/play/1628503511/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 1
+https://oha.to/play/4119397610/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 1
+https://oha.to/play/3943866950/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 2
+https://oha.to/play/2003557447/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 2
+https://oha.to/play/1704830373/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/1242297847/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/1040575362/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 3
+https://oha.to/play/3051587346/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 4
+https://oha.to/play/2034861964/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor 4
+https://oha.to/play/4163578343/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sports TV
+https://oha.to/play/1257759003/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/1288007607/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/2666527925/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/4108728197/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/464154069/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport
+https://oha.to/play/896754509/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/3153880238/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/4226047772/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,S Sport 2
+https://oha.to/play/3446344512/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1	
+https://oha.to/play/1248681511/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1591623760/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1673423328/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2520698656/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2875123344/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3516839408/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3700348801/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2963099947/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1507245276/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/1616609305/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2010580875/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2403844922/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2498689480/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2900836470/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/2988960394/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/3370629610/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/4119302234/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/427702912/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/605950768/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/324283219/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EXXEN SPORT 1
+https://oha.to/play/577259413/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Premium
+https://oha.to/play/1577754508/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Premium
+https://oha.to/play/4207699382/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Max
+https://oha.to/play/1333588042/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizismart Max
+https://oha.to/play/3981022826/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Classic
+https://oha.to/play/2104856524/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/1625078434/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/2619432596/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/4031764702/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Moviesmart Türk
+https://oha.to/play/4264678241/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cocuk smart
+https://oha.to/play/3634173845/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Love Natura
+https://oha.to/play/1427404307/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FX
+https://oha.to/play/3215880988/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema TV
+https://oha.to/play/2963562101/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema TV
+https://oha.to/play/449591453/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aile
+https://oha.to/play/3486283754/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aile 2
+https://oha.to/play/2288782650/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Aksiyon
+https://oha.to/play/2788324814/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Komedi 
+https://oha.to/play/1033468021/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema 1001
+https://oha.to/play/2679131706/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema 1002
+https://oha.to/play/3624940778/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Yerli
+https://oha.to/play/676291199/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sinema Yerli 2
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIBERBOX TURK
+https://oha.to/play/22772494/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIBERBOX Aksiyon
+https://oha.to/play/1399735915/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX
+https://oha.to/play/3541588802/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX COMEDY
+https://oha.to/play/3235404565/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX YERLI 1
+https://oha.to/play/3448660647/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX YERLI 2
+https://oha.to/play/460018773/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX FANTASTIK
+https://oha.to/play/68345135/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 1
+https://oha.to/play/1419684831/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 2
+https://oha.to/play/1983799676/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 3
+https://oha.to/play/2987765375/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 4
+https://oha.to/play/3856463647/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 5
+https://oha.to/play/663720492/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIX CINEMA 10
+https://oha.to/play/2656115568/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 1
+https://oha.to/play/1126617746/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 2
+https://oha.to/play/2302049942/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 3
+https://oha.to/play/2648545018/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 4
+https://oha.to/play/2679936109/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 5
+https://oha.to/play/3182693022/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 6
+https://oha.to/play/4181279976/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 7
+https://oha.to/play/2050728799/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 8
+https://oha.to/play/255754213/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 9
+https://oha.to/play/662074059/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GLOBAL BOX 10
+https://oha.to/play/910076670/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TOM & JERRY
+https://oha.to/play/615248587/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MAX VIZYON
+https://oha.to/play/4168448802/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MOOVIE HD MARVEL
+https://oha.to/play/279021853/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MOOVIE HD SMART
+https://oha.to/play/2619432596/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MOOVIE HD SMART
+https://oha.to/play/2690904465/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MOOVIE HD SMART
+https://oha.to/play/4264678241/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NEVIZYON
+https://oha.to/play/39650599/index.m3u8
+
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YESILCAM
+https://oha.to/play/3001859073/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ENO AKSIYO		
+https://oha.to/play/1353176418/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ENO VIZYON 1	
+https://oha.to/play/1561112550/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ENO VIZYON 2	
+https://oha.to/play/1836901415/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ENO VIZYON 3	
+https://oha.to/play/3747362871/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ENO VIZYON 4	
+https://oha.to/play/3795587463/index.m3u8
+#EXTINF:-1 group-title="TR | DIGITURK CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SINEMAX TURK
+https://oha.to/play/3810822293/index.m3u8
+
+#EXTINF:-1 group-title="TR | OHA TO CH"    ,SINEVIZYON		
+https://oha.to/play/1732360525/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FOX
+https://oha.to/play/3978897418/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FOX
+https://oha.to/play/1285461805/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SIXX HD
+https://oha.to/play/2269475738/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KABEL 1
+https://oha.to/play/2590019376/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KABEL 1 CLASSICS
+https://oha.to/play/1936417892/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KABEL 1 DOKU
+https://oha.to/play/3100213148/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KINOWELT
+https://oha.to/play/3081767198/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SAT 1
+https://oha.to/play/1745903168/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SAT 1 EMOTION
+https://oha.to/play/2036798394/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SAT 1 GOLD
+https://oha.to/play/1185387240/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PRO 7
+https://oha.to/play/3081311548/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PRO 7 FUN
+https://oha.to/play/1393264386/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PRO 7 MAXX
+https://oha.to/play/3208059145/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL
+https://oha.to/play/1495857435/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL II
+https://oha.to/play/3237251278/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL up
+https://oha.to/play/2718002992/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL NITRO
+https://oha.to/play/3866235575/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL CRIME
+https://oha.to/play/1143253106/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL LIVING
+https://oha.to/play/1380588502/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL PASSION
+https://oha.to/play/2029077092/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPER RTL
+https://oha.to/play/1988094206/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/1261680660/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/1600293660/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/1985188260/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/2211657572/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/2541880428/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/2866949596/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/3199409876/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/3378720709/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/3918700309/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/3980547852/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RTL+ SPORT
+https://oha.to/play/4093838965/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VOX
+https://oha.to/play/2331489476/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VOX up
+https://oha.to/play/3953206846/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TLC
+https://oha.to/play/3272896439/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PLUS 4
+https://oha.to/play/3823628587/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ATV II
+https://oha.to/play/1317324203/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ACHT HD
+https://oha.to/play/3683513624/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AMAZON PRIME
+https://oha.to/play/1068833184/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AMAZON PRIME
+https://oha.to/play/2014667632/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANIMAL PLANET
+https://oha.to/play/3198653999/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANIMAL PLANET
+https://oha.to/play/3308107442/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANIXE SERIE
+https://oha.to/play/2441921866/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANIXE+
+https://oha.to/play/3689600080/index.m3u8
+#EXTINF:-1 group-title="DE | DEUTSH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BON GUSTO
+https://oha.to/play/1519699521/index.m3u8
 
 
 
