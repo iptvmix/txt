@@ -53,7 +53,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV EUROPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
-https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,TGRT EU
@@ -78,6 +78,7 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #######    BELGESEL YAYINLARI                                            ############################################################################
 #####################################################################################################################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
+#https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
@@ -145,7 +146,7 @@ https://github.com/rideordie16/YouTube/raw/main/haber/apara.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100 EKONOMI
 http://livestream.zazerconer.workers.dev/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bloomberght.png"                                           ,BLOOMBERG HT
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://tr.canlitvizle.mobi/kanallar/kucuk/ekoturk-tv.png"                               ,EKOTÜRK HD
 https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo=""                                                                                        ,BUSINES CH
@@ -366,6 +367,7 @@ https://tv-e-okul00.live.trt.com.tr/master.m3u8
 https://tv-e-okul01.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/eba-tv-lise.png"                                         ,TRT eba lise
 https://tv-e-okul02.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id"trtcocuk.tr"             tvg-logo="https://canlitv.center/channels/trt-cocuk.png"                                           ,TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | COCUK  CH"  tvg-id"trtcocuk.tr"             tvg-logo="https://canlitv.center/channels/trt-cocuk.png"                                           ,TRT DIYANET COCUK
@@ -385,21 +387,6 @@ h        8
 
 
 
-
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,AKSU TV
-https://ythls.armelin.one/channel/UCcDfjR-MdfVEJRR7qyZDgaA.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KBSB TV
-https://ythls.armelin.one/channel/UCzgLT7wXgpe1cUrXO7hpBsg.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivi 46
-https://ythls.armelin.one/channel/UCxAiSeSw8t4t0ToweXmSVDw.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL MARAS
-https://ythls.armelin.one/channel/UC5Jvi8nSKyqIK13QjJAf5YA.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,KANAL 46
-https://ythls.armelin.one/channel/UCJaEoT7t9KcLtDkCzsoMpIw.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,MARAS TV
-https://ythls.armelin.one/channel/UCumv0r5zlQh--GHOr6buRIw.m3u8
-#EXTINF:-1 group-title="TR | MARAS  CH"  tvg-id""                        tvg-logo=""                                                                                        ,NAR TV
-https://ythls.armelin.one/channel/UCXBZq5LDyvIGcfkamKI4KGg.m3u8
 
 #####################################################################################################################################################################################################
 #######    MUZIK KANALLARI                                               ############################################################################################################################
@@ -1688,7 +1675,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Fox TV
-http://stream.tvcdn.net/ulusal/fox-tv.m3u8
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Beyaz TV
