@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 ,M A C 0
-https://g.trgoals517.xyz/yayin1.m3u8
