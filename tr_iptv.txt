@@ -147,7 +147,9 @@ http://stream.tvcdn.net/yerel/turk-haber.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="haber61.tr"             tvg-logo="https://haber61net.teimg.com/haber61-net/uploads/2022/09/haber61-siyah-logo-145x50.png"  ,HABER 61	
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://s.cnbce.com/dist/images/logo.png"                                                ,CNBC e
-https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/a-para.png"                                              ,A PARA
 https://github.com/rideordie16/YouTube/raw/main/haber/apara.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV 100 EKONOMI
