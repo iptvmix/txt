@@ -4,10 +4,11 @@
 #######    ULUSAL YAYINLAR                                               ############################################################################
 #####################################################################################################################################################
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
-https://trt2.blutv.com/blutv_trt2/live.m3u8
+#https://trt2.blutv.com/blutv_trt2/live.m3u8
+http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://i.imgur.com/uykIdML.png"                                                         ,BEYAZ TV HD
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
@@ -25,7 +26,7 @@ http://116.202.238.88/TV8_TR/index.m3u8
 
 #https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://i.imgur.com/QuelSsc.png"                                                         ,TV8,5 HD
-https://cakal.click/yayintv85.m3u8
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,NOW HD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,STAR TV HD
@@ -64,7 +65,8 @@ http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://www.canlitv.me/poster/euro-star.png"                                             ,EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TGRTEU.tr"              tvg-logo="https://www.canlitv.me/poster/tgrt-eu.png"                                               ,TGRT EU
-https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+#https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KANAL7int.tr"           tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 EU
 https://github.com/rideordie16/YouTube/raw/main/ch/kanal7eu.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8int.tr"              tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 INT
@@ -100,8 +102,10 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
-https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
-
+#https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #####################################################################################################################################################
 #######    HABER KANALLARI                                               ############################################################################
 #####################################################################################################################################################
@@ -110,16 +114,16 @@ http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
-#http://66.160.192.241/ahbr/index.m3u8
+http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
 https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
@@ -169,102 +173,118 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #######    CINEMA KANALLARI                                              ############################################################################
 #####################################################################################################################################################
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 1
-#http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 2
-#http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+#http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kültür Sanat TV
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sağlıklı Günler TV
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cennet Mahallesi
+http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Behzat Ç.
+http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kurtlar Vadisi
+http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Güldür Güldür
+http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Emret Komutanım
+http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kiralık Aşk
+http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kızılcık Şerbeti
+http://stream.tvcdn.net/dizi-youtube/kizilcik-serbeti.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Avlu
+http://stream.tvcdn.net/dizi-youtube/avlu.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dila Hanım
+http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kurt Seyit ve Şura
+http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Arıza
+http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Fazilet Hanım ve Kızları
+http://stream.tvcdn.net/dizi-youtube/fazilet-hanim-ve-kizlari.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Göç Zamanı
+http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Hanım Köylü
+http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Hayat Bazen Tatlıdır
+http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kalbimin Sultanı
+http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kuzey Yıldızı: İlk Aşk
+http://stream.tvcdn.net/dizi-youtube/kuzey-yildizi-ilk-ask.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sihirli Annem
+http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yeni Gelin
+http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Zemheri
+http://stream.tvcdn.net/dizi-youtube/zemheri.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Zalim İstanbul
+http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Siyah Beyaz Aşk
+http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tatlı İntikam
+http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELEON
 http://stream.tvcdn.net/diger-eglence/teleon.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="tvem.tr"                tvg-logo="https://canlitv.center/channels/tv-em.png"                                               ,TV EM
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban2.jpg"                                    ,SABAN TV 1
-https://github.com/rideordie16/YouTube/raw/main/film/kemalsunaltv.m3u8
-#https://tivi44.ozelip.com:3463/stream/play.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 2
-https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahneleri.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 3
-#https://ythls.armelin.one/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
-https://github.com/rideordie16/YouTube/raw/main/film/gulsahfilm.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo="https://github.com/iptvmix/logo/blob/main/saban1.jpg"                                    ,SABAN TV 4
-#https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-https://github.com/rideordie16/YouTube/raw/main/film/arzufilm.m3u8
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="gulsahfilm"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="gulsahfilm"          ,YESILCAM 1
-https://new.cache-stream.workers.dev/stream/UCUd3o920A_ijCRaTRRg8LSg/live.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="film atolyesi"          tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="filmatolyesi"        ,YESILCAM 2
-https://github.com/rideordie16/YouTube/raw/main/film/filmatolyesi.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="turk filmleri tv"       tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="turk filmleri"       ,YESILCAM 3 Z&M
-https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="murat film"             tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Murat filmcilik"     ,YESILCAM 4
-https://github.com/rideordie16/YouTube/raw/main/film/muratfilm.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="arzu film"              tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="Arzu filmcilik"      ,YESILCAM 5
-https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri1onmedya.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="guney filmcilik"        tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png" tvg-info="guney filmcilik"     ,YESILCAM 6
-http://new.cache-stream.workers.dev/stream/UCV9g7n7HsvCbkTOpChRqOLQ/live.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tele play Sinema
+http://nntv.eu.org/play/mSbuK-s4FeJGKBVzbt86EAjijqMQViz_Lw3OIfb3mSs/m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,kanal 65
+https://tivi44.ozelip.com:3669/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ŞuŞa tv
+https://tivi44.ozelip.com:3432/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ismayilli
+https://tivi44.ozelip.com:3436/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,qebele tv
+https://tivi44.ozelip.com:3918/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ctv
+https://tivi44.ozelip.com:3923/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,kanal 13
+https://tivi44.ozelip.com:3423/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,gozlerin
+https://tivi44.ozelip.com:3091/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YTV Spor
+https://tivi44.ozelip.com:3513/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Azad Söz TV
+#EXTGRP:Azərbaycan
+http://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FTV
+#EXTGRP:Azərbaycan
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Show Plus TV
+#EXTGRP:Azərbaycan
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Könül TV
+#EXTGRP:Azərbaycan
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 11
-http://gineu8.bozztv.com/gin-trn09/gt-sinevizyon-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 12
-http://gineu10.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 13
-http://gineu10.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 14
-http://gineu8.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 15
-http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="elahmed"                tvg-logo="https://github.com/iptvmix/logo/edit/main/yesilcamtv.png"                                ,YESILCAM 16
-http://gineu8.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="BluTV Play 1"           tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 1
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id="BluTV Play 2"           tvg-logo="https://blutv-objects.mncdn.com/static/assets/svg/blutv-icon.svg"                        ,BLUTV PLAY 2
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] ANNE
-https://ythls.armelin.one/channel/UCR-xo2a2XVxlib346D-ASDA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] BEHZAT C
-https://ythls.armelin.one/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] CENNET MAHALLESI
-https://ythls.armelin.one/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] CILEK KOKUSU
-https://ythls.armelin.one/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] COCUKLAR DUYMASIN
-https://ythls.armelin.one/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] CHB TV
-https://ythls.armelin.one/channel/UCJhEfZoLs5P_idxX--yhWOA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] DOLUNAY
-https://ythls.armelin.one/channel/UCXygCN-u5CrdX4GJctowTVw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] ENSON BABALAR DUYAR
-https://ythls.armelin.one/channel/UC-vSQU6Ak0kyleh6OEcJSKw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] EERKENCI KUS
-https://ythls.armelin.one/channel/UC64mzacdticc87zH870bQGA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] GULDUR GULDUR
-https://ythls.armelin.one/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] Hz.YUSUF
-https://ythls.armelin.one/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] ISTANBULLU GELIN
-https://ythls.armelin.one/channel/UC7xHX82HI2XR_yoL-ru6SmQ.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] KIRALIK ASK
-https://ythls.armelin.one/channel/UCVKo-TGjnJPwq_vDzz8rcMg.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] KIZILCIK SERBETI
-https://ythls.armelin.one/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] KURTLAR VADISI
-https://ythls.armelin.one/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] KUZEY YILDIZI
-https://ythls.armelin.one/channel/UCCzteqZRzsr87Lfh2wUKw5Q.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] MUHTESEM YUZYIL
-https://ythls.armelin.one/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] SIHIRLI ANNEM
-https://ythls.armelin.one/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] UFAK TEFEK CINAYETLER
-https://ythls.armelin.one/channel/UCYpbJJdypj-c8uqUqKg3euw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] YENI GELIN
-https://ythls.armelin.one/channel/UCrPU2odAMEU8gUzuUE1IQXw.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI [7/24] TOLG SHOW
-https://ythls.armelin.one/channel/UCfyPw7vYwIVb6OuDIf7qeOQ.m3u8
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
@@ -277,33 +297,55 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 
 
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT1
+https://ssh101.bozztv.com/ssh101/TBRT1/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT1  EURO
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT2
+https://ssh101.bozztv.com/ssh101/TBRT2/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT2  EURO
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT3
+https://ssh101.bozztv.com/ssh101/TBRT3/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT3 EURO
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT4 
+https://ssh101.bozztv.com/ssh101/TBRT4/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TBRT4 EURO
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA SİNEMA TV
+https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA SİNEMA TV
+https://fl1002.bozztv.com/ssh101/yansinemaatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,birtv
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CANKIRI TV
+http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
+
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Torba TV
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
 
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 1
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR/chunklist_w1373314934.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TeberStar_2/playlist.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 3
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_STAR3/chunklist_w722466183.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 4
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_TEZENE_TV/playlist.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 5
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT5/chunklist_w759740941.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 6
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT6/playlist.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 7
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_tv/chunklist_w32207099.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 8
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_EHLIBEYT_TV/chunklist_w1246576528.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 9
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT9/chunklist_w1553460276.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TeBeR 10
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_ON/chunklist_w273134753.m3u8
 
 
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,HBB 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_HBB/chunklist_w1569476193.m3u8
+
+
+
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELE ON
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,bha
@@ -582,6 +624,13 @@ http://gineu10.bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
 https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=64iav1ut6wdo&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&ce=2
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo=""                                                                                        ,TRT SPOR 3
 http://gineu9.bozztv.com/gin-dvrfl05/gin-trtspor3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR
+https://tabii-spor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id""                        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 2
+https://d26euji4x5ccrm.cloudfront.net/out/v1/8a6ebf5cc87a40baa0a0ab76fa1f8f08/trt-tabiispor2.m3u8
+
+
 
 #EXTINF:-1 group-title="TR | SPORTS CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
