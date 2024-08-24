@@ -2692,13 +2692,25 @@ http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id=""                      tvg-logo=""                                                                                        ,Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-
-
-
-
-
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT4K.tr"               tvg-logo="https://www.ecanlitvizle.live/logo/trt-4k-izle.png"                                      ,TRT 4K
+https://tv-trt4k.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT4K.tr"               tvg-logo="https://www.ecanlitvizle.live/logo/trt-4k-izle.png"                                      ,TRT 4K
+https://tv-trt4k.medya.trt.com.tr/master.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TBMM.tr"                tvg-logo="https://www.kolaytv.com/tbmm-tv.png"                                                     ,TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_576p.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
@@ -2723,6 +2735,14 @@ https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/e1061f5a-007e-4b28-88f7-bee73fcce98a/0.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
 https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2 HD
@@ -2735,138 +2755,241 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT4K.tr"               tvg-logo="https://www.ecanlitvizle.live/logo/trt-4k-izle.png"                                      ,TRT 4K
-https://tv-trt4k.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT4K.tr"               tvg-logo="https://www.ecanlitvizle.live/logo/trt-4k-izle.png"                                      ,TRT 4K
-https://tv-trt4k.medya.trt.com.tr/master.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,TRT AVAZ
-https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
-https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
-https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
-http://213.115.248.46:9000/TR_-_TRT_TURK_HD_PLUS/video.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI
-https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI
-https://mn-nl.mncdn.com/blutv_trtkurdi2/live.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
-https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD
-https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
-https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER
-https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TBMM.tr"                tvg-logo="https://www.kolaytv.com/tbmm-tv.png"                                                     ,TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_576p.m3u8
-
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://www.canlitv.me/poster/trt-muzik.png"                                             ,TRT MUZIK
-https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://www.canlitv.me/poster/trt-muzik.png"                                             ,TRT MUZIK
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTHaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT MUZIK HD
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://www.canlitv.me/poster/trt-muzik.png"                                             ,TRT MUZIK
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT MUZIK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT MUZIK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT MUZIK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://www.canlitv.me/poster/trt-muzik.png"                                             ,TRT MUZIK HD
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTMuzik.tr"            tvg-logo="https://www.canlitv.me/poster/trt-muzik.png"                                             ,TRT MUZIK HD
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTCocuk.tr"            tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT COCUK HD
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTDiyanetCocuk.tr"     tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT DIYANET COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTDiyanetCocuk.tr"     tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT DIYANET COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTDiyanetCocuk.tr"     tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT DIYANET COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTDiyanetCocuk.tr"     tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT DIYANET COCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT1.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT EBA HD
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK HD
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK HD
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTturk.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK HD
+http://213.115.248.46:9000/TR_-_TRT_TURK_HD_PLUS/video.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAVAZ.tr"             tvg-logo="https://www.canlitv.me/poster/trt-avaz.png"                                              ,TRT AVAZ HD
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT KURDI HD
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT KURDI HD
+https://tv-trtkurdi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT KURDI HD
+https://tv-trtkurdi.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT KURDI HD
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI HD
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTKurdi.tr"            tvg-logo="https://www.canlitv.me/poster/trt-kurdi.png"                                             ,TRT KURDI HD
+https://mn-nl.mncdn.com/blutv_trtkurdi2/live.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT ARABIC HD
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT ARABIC HD
+https://tv-trtarabi.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT ARABIC HD
+https://tv-trtarabi.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT ARABIC HD
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT ARABIC HD
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC HD
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC HD
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT WORLD HD
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTWorld.tr"            tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR HD
 https://trt.daioncdn.net/trtspor/master.m3u8?&app=71ff325a-50b6-48f4-8a67-3daa89386c24
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
 https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
 https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
 https://live-01.tvjetapp.com/ch-23/live.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR.tr"             tvg-logo="https://www.canlitv.me/poster/trt-spor.png"                                              ,TRT SPOR HD
 http://213.115.248.46:9000/TR_-_TRT_SPOR_HD_PLUS/video.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ
-https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR YILDIZ HD
+https://tv-trtspor2.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR YILDIZ HD
+https://tv-trtspor2.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR YILDIZ HD
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR YILDIZ HD
+https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=6o4zsvm3h07n&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ HD
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ HD
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTSPOR2.tr"            tvg-logo="https://canlitv.center/channels/trt-spor-yildiz.png"                                     ,TRT SPOR YILDIZ HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://canlitv.center/channels/trt-3-spor.png"                                          ,TRT SPOR 3
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR 3 HD
+https://tv-trtspor3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR 3 HD
+https://tv-trtspor3.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR 3 HD
+https://tv-trtspor3.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TRT SPOR 3 HD
+https://tv-trtspor3.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://canlitv.center/channels/trt-3-spor.png"                                          ,TRT SPOR 3 HD
 https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://canlitv.center/channels/trt-3-spor.png"                                          ,TRT SPOR 3
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRT3.tr"                tvg-logo="https://canlitv.center/channels/trt-3-spor.png"                                          ,TRT SPOR 3 HD
 https://tv-trt3.medya.trt.com.tr/master.m3u8
 
-########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TRTCocuk.tr"           tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT COCUK
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TRTCocuk.tr"           tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT COCUK
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TRTCocuk.tr"           tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT COCUK
-https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
-
-#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="TRTCocuk.tr"           tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png"                                             ,TRT DIYANET COCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 group-title="TR | YEDEK CH"    tvg-id="DIYANET.tr"            tvg-logo="https://canlitv.center/channels/diyanet-tv.png"                                          ,DIYANET TV
-https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTebao.tr"             tvg-logo="https://www.canlitv.me/poster/eba-tv-ortaokul.png"                                       ,TRT eba
-https://tv-e-okul01.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTebao.tr"             tvg-logo="https://www.canlitv.me/poster/eba-tv-ortaokul.png"                                       ,TRT eba
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="TRTebao.tr"             tvg-logo="https://www.canlitv.me/poster/eba-tv-ortaokul.png"                                       ,TRT eba
-https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Tabiispor1.tr"          tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 1
+https://tabii-spor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Tabiispor1.tr"          tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 1
+https://tabii-spor.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Tabiispor1.tr"          tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 1
+https://tabii-spor.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Tabiispor1.tr"          tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 1
+https://tabii-spor.medya.trt.com.tr/master_720.m3u8
+
+########## ############################# ############################### ################################################################################################## #################
+#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Tabiispor2.tr"          tvg-logo="https://cms-tabii-public-static.tabii.com/assets/tabii.svg"                              ,TABII SPOR 2
+https://d26euji4x5ccrm.cloudfront.net/out/v1/8a6ebf5cc87a40baa0a0ab76fa1f8f08/trt-tabiispor2.m3u8
+
+
+
+
+
+
+
+
+
+
 
 ########## ############################# ############################### ################################################################################################## #################
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
@@ -3534,87 +3657,87 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 ########## ############################# ############################### ################################################################################################## #################
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1 HD
-#https://www.youtube.com/@trt1/live
+https://www.youtube.com/@trt1/live
 #http://www.youtube.com/channel/UCvFudBDDILdDljN4VIZ4Msw/live
 #https://livestream.zazerconer.workers.dev/channel/UCvFudBDDILdDljN4VIZ4Msw.m3u8
 #https://ythls.armelin.one/channel/UCvFudBDDILdDljN4VIZ4Msw.m3u8
 #https://ythlsgo.onrender.com/channel/UCvFudBDDILdDljN4VIZ4Msw.m3u8
 #https://ythls-v2.onrender.com/video/UCvFudBDDILdDljN4VIZ4Msw.m3u8
-http://new.cache-stream.workers.dev/stream/UCvFudBDDILdDljN4VIZ4Msw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCvFudBDDILdDljN4VIZ4Msw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-#https://www.youtube.com/@atvturkiye/live
+https://www.youtube.com/@atvturkiye/live
 #http://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live
 #https://livestream.zazerconer.workers.dev/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
 #https://ythlsgo.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-http://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 
 
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
-#https://www.youtube.com/@a2/live
+https://www.youtube.com/@a2/live
 #http://www.youtube.com/channel/UCHqu50_C2U2h_rpzhygs4aA/live
 #https://livestream.zazerconer.workers.dev/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
 #https://ythls.armelin.one/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
 #https://ythlsgo.onrender.com/channel/UCHqu50_C2U2h_rpzhygs4aA.m3u8
-http://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCHqu50_C2U2h_rpzhygs4aA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/a-para.png"                                              ,A PARA
-#https://www.youtube.com/@apara/live
+https://www.youtube.com/@apara/live
 #http://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA/live
 #https://livestream.zazerconer.workers.dev/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 #https://ythls.armelin.one/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
 #https://ythlsgo.onrender.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA.m3u8
-http://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,a SPOR
-#https://www.youtube.com/@aspor/live
+https://www.youtube.com/@aspor/live
 #http://www.youtube.com/channel/UCJElRTCNEmLemgirqvsW63Q/live
 #https://livestream.zazerconer.workers.dev/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #https://ythlsgo.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
-#https://www.youtube.com/@ahaber/live
+https://www.youtube.com/@ahaber/live
 #http://www.youtube.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA/live
 #https://livestream.zazerconer.workers.dev/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="anews.tr"               tvg-logo=""                                                                                        ,A NEWS
-#https://www.youtube.com/@anewsglobal/live
+https://www.youtube.com/@anewsglobal/live
 #http://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live
 #https://livestream.zazerconer.workers.dev/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 #https://ythlsgo.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
-http://new.cache-stream.workers.dev/stream/UC-LRBEUet4xX2fRB3JitFxg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC-LRBEUet4xX2fRB3JitFxg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,VAV TV
-#https://www.youtube.com/@vavtv/live
+https://www.youtube.com/@vavtv/live
 #http://www.youtube.com/channel/UCmMPdW0rtbEI_XyIsMlMnqg/live
 #https://livestream.zazerconer.workers.dev/channel/UCmMPdW0rtbEI_XyIsMlMnqg.m3u8
 #https://ythls.armelin.one/channel/UCmMPdW0rtbEI_XyIsMlMnqg.m3u8
 #https://ythlsgo.onrender.com/channel/UCmMPdW0rtbEI_XyIsMlMnqg.m3u8
-http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,FOX
-#https://www.youtube.com/@FOXTurkiye
+https://www.youtube.com/@FOXTurkiye
 #http://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live
 #https://livestream.zazerconer.workers.dev/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 #https://ythls.armelin.one/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
 #https://ythlsgo.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8
-http://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="ShowTV.tr"              tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOW TV HD
-#https://www.youtube.com/@showtv/live
+https://www.youtube.com/@showtv/live
 #http://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live
 #https://livestream.zazerconer.workers.dev/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
 #https://ythls.armelin.one/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
 #https://ythlsgo.onrender.com/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
-http://new.cache-stream.workers.dev/stream/UC9JMe_We017gYrRc7kZHgmg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC9JMe_We017gYrRc7kZHgmg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
 #https://www.youtube.com/@
@@ -3635,12 +3758,12 @@ https://new.cache-stream.workers.dev/stream/XnvS-RZa4Qw/live.m3u8
 https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
-#https://www.youtube.com/@haberturktv/live
+https://www.youtube.com/@haberturktv/live
 #http://www.youtube.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA/live
 #https://livestream.zazerconer.workers.dev/channel/UCn6dNfiRE_Xunu7iMyvD7AA.m3u8
 #https://ythls.armelin.one/channel/UCn6dNfiRE_Xunu7iMyvD7AA.m3u8
 #https://ythlsgo.onrender.com/channel/UCn6dNfiRE_Xunu7iMyvD7AA.m3u8
-http://new.cache-stream.workers.dev/stream/UCn6dNfiRE_Xunu7iMyvD7AA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCn6dNfiRE_Xunu7iMyvD7AA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/bloomberght.png"                                           ,BLOOMBERG HT
 #https://www.youtube.com/@bloomberght/live
@@ -3651,23 +3774,23 @@ http://new.cache-stream.workers.dev/stream/UCn6dNfiRE_Xunu7iMyvD7AA/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCApLxl6oYQafxvykuoC2uxQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,STAR TV HD
-#https://www.youtube.com/@startvresmi/live
+https://www.youtube.com/@startvresmi/live
 #http://www.youtube.com/channel/UCsFINj3y7SjBaeUxiSdRjlA/live
 #https://livestream.zazerconer.workers.dev/channel/UCsFINj3y7SjBaeUxiSdRjlA.m3u8
 #https://ythls.armelin.one/channel/UCsFINj3y7SjBaeUxiSdRjlA.m3u8
 #https://ythlsgo.onrender.com/channel/UCsFINj3y7SjBaeUxiSdRjlA.m3u8
-http://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCsFINj3y7SjBaeUxiSdRjlA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
 #https://www.youtube.com/@
-#http://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
+http://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
 #https://livestream.zazerconer.workers.dev/channel/UCBgTP2LOFVPmq15W-RH-WXA.m3u8
 #https://ythls.armelin.one/channel/UCBgTP2LOFVPmq15W-RH-WXA.m3u8
 #https://ythlsgo.onrender.com/channel/UCBgTP2LOFVPmq15W-RH-WXA.m3u8
-http://new.cache-stream.workers.dev/stream/UCBgTP2LOFVPmq15W-RH-WXA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCBgTP2LOFVPmq15W-RH-WXA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
-#https://www.youtube.com/@cnnturk/live
+https://www.youtube.com/@cnnturk/live
 #http://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live
 #https://livestream.zazerconer.workers.dev/channel/CV6zcRug6Hqp1UX_FdyUeBg.m3u8
 #https://ythls.armelin.one/channel/CV6zcRug6Hqp1UX_FdyUeBg.m3u8
@@ -3675,28 +3798,28 @@ http://new.cache-stream.workers.dev/stream/UCBgTP2LOFVPmq15W-RH-WXA/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
-#https://www.youtube.com/@yirmidorttv/live
+https://www.youtube.com/@yirmidorttv/live
 #http://www.youtube.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA/live
 #https://livestream.zazerconer.workers.dev/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
 #https://ythls.armelin.one/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
 #https://ythlsgo.onrender.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA.m3u8
-http://new.cache-stream.workers.dev/stream/UCN7VYCsI4Lx1-J4_BtjoWUA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCN7VYCsI4Lx1-J4_BtjoWUA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
-#https://www.youtube.com/@haberglobal/live
+https://www.youtube.com/@haberglobal/live
 #http://www.youtube.com/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg/live
 #https://livestream.zazerconer.workers.dev/channel/Ctc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #https://ythls.armelin.one/channel/Ctc-a9ZUIg0_5HpsPxEO7Qg.m3u8
 #https://ythlsgo.onrender.com/channel/Ctc-a9ZUIg0_5HpsPxEO7Qg.m3u8
-http://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
-#https://www.youtube.com/@ntv/live
+https://www.youtube.com/@ntv/live
 #http://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live
 #https://livestream.zazerconer.workers.dev/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 #https://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
 #https://ythlsgo.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
-http://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/halk-tv-euro.png"                                          ,HALK TV
 #https://www.youtube.com/@Halktvkanali/live
@@ -3707,76 +3830,76 @@ http://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCf_ResXZzE-o18zACUEmyvQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV100
-#https://www.youtube.com/@tv100/live
+https://www.youtube.com/@tv100/live
 #http://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live
 #https://livestream.zazerconer.workers.dev/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
 #https://ythls.armelin.one/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
 #https://ythlsgo.onrender.com/channel/UCndsdUW_oPLqpQJY9J8oIRg.m3u8
-http://new.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCndsdUW_oPLqpQJY9J8oIRg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGÜTÜRK
-#https://www.youtube.com/@tvbenguturk/live
+https://www.youtube.com/@tvbenguturk/live
 #http://www.youtube.com/channel/UChNgvcVZ_ggDdZ0zCcuuzFw/live
 #https://livestream.zazerconer.workers.dev/channel/UChNgvcVZ_ggDdZ0zCcuuzFw.m3u8
 #https://ythls.armelin.one/channel/UChNgvcVZ_ggDdZ0zCcuuzFw.m3u8
 #https://ythlsgo.onrender.com/channel/UChNgvcVZ_ggDdZ0zCcuuzFw.m3u8
-http://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ÜLKE TV HD
-#https://www.youtube.com/@ulketv/live
+https://www.youtube.com/@ulketv/live
 #http://www.youtube.com/channel/UCT1GDGt-pNYZ4E0kanZHUKQ/live
 #https://livestream.zazerconer.workers.dev/channel/UCT1GDGt-pNYZ4E0kanZHUKQ.m3u8
 #https://ythls.armelin.one/channel/UCT1GDGt-pNYZ4E0kanZHUKQ.m3u8
 #https://ythlsgo.onrender.com/channel/UCT1GDGt-pNYZ4E0kanZHUKQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCT1GDGt-pNYZ4E0kanZHUKQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCT1GDGt-pNYZ4E0kanZHUKQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
-#https://www.youtube.com/@tgrthaber/live
+https://www.youtube.com/@tgrthaber/live
 #http://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live
 #https://livestream.zazerconer.workers.dev/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
 #https://ythls.armelin.one/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
 #https://ythlsgo.onrender.com/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCzgrZ-CndOoylh2_e72nSBQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCzgrZ-CndOoylh2_e72nSBQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT TV
-#https://www.youtube.com/@krttvcanliyayin/live
+https://www.youtube.com/@krttvcanliyayin/live
 #http://www.youtube.com/channel/UCVKWwHoLwUMMa80cu_1uapA/live
 #https://livestream.zazerconer.workers.dev/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #https://ythls.armelin.one/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
 #https://ythlsgo.onrender.com/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
-http://new.cache-stream.workers.dev/stream/UCVKWwHoLwUMMa80cu_1uapA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCVKWwHoLwUMMa80cu_1uapA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE1
-#https://www.youtube.com/@tele1comtr/live
+https://www.youtube.com/@tele1comtr/live
 #http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
 #https://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw,m3u8
 #https://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #https://ythlsgo.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-http://new.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SÖZCÜ TV
-#https://www.youtube.com/@Sozcutelevizyonu/live
+https://www.youtube.com/@Sozcutelevizyonu/live
 #http://www.youtube.com/channel/UCOulx_rep5O4i9y6AyDqVvw/live
 #https://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #https://ythlsgo.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-http://new.cache-stream.workers.dev/stream/UCOulx_rep5O4i9y6AyDqVvw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCOulx_rep5O4i9y6AyDqVvw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-#https://www.youtube.com/@flashhabertv/live
+https://www.youtube.com/@flashhabertv/live
 #http://www.youtube.com/channel/UCNcjCb2RnA3eMMhTZSxZu3A/live
 #https://livestream.zazerconer.workers.dev/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
 #https://ythls.armelin.one/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
 #https://ythlsgo.onrender.com/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
-http://new.cache-stream.workers.dev/stream/UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCNcjCb2RnA3eMMhTZSxZu3A/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,BeinSportsHaber
-#https://www.youtube.com/@beinsportsturkiye/live
+https://www.youtube.com/@beinsportsturkiye/live
 #http://www.youtube.com/channel/UCPe9vNjHF1kEExT5kHwc7aw/live
 #https://livestream.zazerconer.workers.dev/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #https://ythls.armelin.one/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 #https://ythlsgo.onrender.com/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
-http://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TJK TV
 #https://www.youtube.com/@TJKTVCANLIYAYIN/live
@@ -3803,20 +3926,20 @@ http://new.cache-stream.workers.dev/stream/UCjkRA7KEdp7PDKDUs396XHg/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCQgq6bnp3N_ZlyNq5dHmkNw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tvnet-izle.png"                                          ,TVNET HD
-#https://www.youtube.com/@TVNET/live
+https://www.youtube.com/@TVNET/live
 #http://www.youtube.com/channel/UC8rh34IlJTN0lDZlTwzWzjg/live
 #https://livestream.zazerconer.workers.dev/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
 #https://ythls.armelin.one/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
 #https://ythlsgo.onrender.com/channel/UC8rh34IlJTN0lDZlTwzWzjg.m3u8
-http://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL 5
-#https://www.youtube.com/@Kanal5tv/live
+https://www.youtube.com/@Kanal5tv/live
 #http://www.youtube.com/channel/UCVebw64Db0yhrPkVk-D8F6w/live
 #https://livestream.zazerconer.workers.dev/channel/UCVebw64Db0yhrPkVk-D8F6w.m3u8
 #https://ythls.armelin.one/channel/UCVebw64Db0yhrPkVk-D8F6w.m3u8
 #https://ythlsgo.onrender.com/channel/UCVebw64Db0yhrPkVk-D8F6w.m3u8
-http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,KralPop
 #https://www.youtube.com/@kralmuzik/live
@@ -3827,28 +3950,28 @@ http://new.cache-stream.workers.dev/stream/UCVebw64Db0yhrPkVk-D8F6w/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCEAW_kmPVjxTC50vuLyKOQA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"                                                                                                                                    ,Semerkand TV
-#https://www.youtube.com/@semerkandtv/live
+https://www.youtube.com/@semerkandtv/live
 #http://www.youtube.com/channel/UC1MAQqT5E93KPpMvxiVlhaw/live
 #https://livestream.zazerconer.workers.dev/channel/UC1MAQqT5E93KPpMvxiVlhaw.m3u8
 #https://ythls.armelin.one/channel/UC1MAQqT5E93KPpMvxiVlhaw.m3u8
 #https://ythlsgo.onrender.com/channel/UC1MAQqT5E93KPpMvxiVlhaw.m3u8
-http://new.cache-stream.workers.dev/stream/UC1MAQqT5E93KPpMvxiVlhaw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC1MAQqT5E93KPpMvxiVlhaw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,Diyanet TV
-#https://www.youtube.com/@DiyanetTv/live
+https://www.youtube.com/@DiyanetTv/live
 #http://www.youtube.com/channel/UC3d1AdmvAP6Jq16-WpD086g/live
 #https://livestream.zazerconer.workers.dev/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8
 #https://ythls.armelin.one/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8
 #https://ythlsgo.onrender.com/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8
-http://new.cache-stream.workers.dev/stream/UC3d1AdmvAP6Jq16-WpD086g/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC3d1AdmvAP6Jq16-WpD086g/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV 5
-#https://www.youtube.com/@TV5televizyon/live
+https://www.youtube.com/@TV5televizyon/live
 #http://www.youtube.com/channel/UCP-0oW3M7DpjmPDutckOjiA/live
 #https://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 #https://ythls.armelin.one/channel/UCP-0oW3M7DpjmPDutckOjiA..m3u8
 #https://ythlsgo.onrender.com/channel/UCP-0oW3M7DpjmPDutckOjiA..m3u8
-http://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,ANKA HABER AJANSI
 #https://www.youtube.com/@ankahaberajans/live
@@ -3859,36 +3982,36 @@ http://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCO9AQtN33IP53uiImJ_59OQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,BAKU TV
-#https://www.youtube.com/@bakutv/live
+https://www.youtube.com/@bakutv/live
 #http://www.youtube.com/channel/UCINwqO8Scgq___xJAVjfn7g/live
 #https://livestream.zazerconer.workers.dev/channel/UCINwqO8Scgq___xJAVjfn7g.m3u8
 #https://ythls.armelin.one/channel/UCINwqO8Scgq___xJAVjfn7g.m3u8
 #https://ythlsgo.onrender.com/channel/UCINwqO8Scgq___xJAVjfn7g.m3u8
-http://new.cache-stream.workers.dev/stream/UCINwqO8Scgq___xJAVjfn7g/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCINwqO8Scgq___xJAVjfn7g/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,REAL TV
-#https://www.youtube.com/@REALTVXEBERLE/live
+https://www.youtube.com/@REALTVXEBERLE/live
 #http://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live
 #https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
 #https://ythls.armelin.one/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
 #https://ythlsgo.onrender.com/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
-http://new.cache-stream.workers.dev/stream/UCjpoTfA8TXO6QfAWiAB67eA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCjpoTfA8TXO6QfAWiAB67eA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TRT Diyanet Cocuk
-#https://www.youtube.com/@DiyanetCocuk/live
+https://www.youtube.com/@DiyanetCocuk/live
 #http://www.youtube.com/channel/UCCfTktnzWK__FUN4gj0zIpA/live
 #https://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 #https://ythls.armelin.one/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
 #https://ythlsgo.onrender.com/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
-http://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCCfTktnzWK__FUN4gj0zIpA/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,SEMERKAND WAY
-#https://www.youtube.com/@semerkandway/live
+https://www.youtube.com/@semerkandway/live
 #http://www.youtube.com/channel/UCHk7qp3R2xHSkm51EFcTvLQ/live
 #https://livestream.zazerconer.workers.dev/channel/UCHk7qp3R2xHSkm51EFcTvLQ,m3u8
 #https://ythls.armelin.one/channel/UCHk7qp3R2xHSkm51EFcTvLQ.m3u8
 #https://ythlsgo.onrender.com/channel/UCHk7qp3R2xHSkm51EFcTvLQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCHk7qp3R2xHSkm51EFcTvLQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCHk7qp3R2xHSkm51EFcTvLQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,KABE TV
 #https://www.youtube.com/@ /live
@@ -3907,20 +4030,20 @@ http://new.cache-stream.workers.dev/stream/UCSs5mehC-g9qDmIZWFe0a6Q/live.m3u8
 http://new.cache-stream.workers.dev/stream/UCFrVnrQF6kTrkDdFZoT9CTQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,CARTON NETWORK
-#https://www.youtube.com/@cartoonnetworkturkiye/live
+https://www.youtube.com/@cartoonnetworkturkiye/live
 #http://www.youtube.com/channel/UCehmwSZGPod7JFbHJspmxzQ/live
 #https://livestream.zazerconer.workers.dev/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 #https://ythls.armelin.one/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 #https://ythlsgo.onrender.com/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCehmwSZGPod7JFbHJspmxzQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCehmwSZGPod7JFbHJspmxzQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://tr.canlitvizle.mobi/kanallar/kucuk/ekoturk-tv.png"                               ,EKOTÜRK HD
-#https://www.youtube.com/@EKOTURKTV/live
+https://www.youtube.com/@EKOTURKTV/live
 #http://www.youtube.com/channel/UCAGVKxpAKwXMWdmcHbrvcwQ/live
 #https://livestream.zazerconer.workers.dev/channel/UCAGVKxpAKwXMWdmcHbrvcwQ/live
 #https://ythls.armelin.one/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
 #https://ythlsgo.onrender.com/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
-http://new.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCAGVKxpAKwXMWdmcHbrvcwQ/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"                                                                                                                                     ,Medya Haber
 #https://www.youtube.com/@MedyaHaberTV1/live
@@ -3932,19 +4055,19 @@ http://new.cache-stream.workers.dev/stream/UC_KlNwS1QQ9QMPRg9dGNHNw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
 #https://www.youtube.com/@
-#http://www.youtube.com/channel/UC6T0L26KS1NHMPbTwI1L4Eg/live
+http://www.youtube.com/channel/UC6T0L26KS1NHMPbTwI1L4Eg/live
 #https://livestream.zazerconer.workers.dev/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 #https://ythls.armelin.one/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 #https://ythlsgo.onrender.com/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
-http://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC6T0L26KS1NHMPbTwI1L4Eg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="TRTWorldHD.tr"          tvg-logo="https://www.canlitv.me/poster/trt-world.png"                                             ,TRT WORLD
-#https://www.youtube.com/@trtworld/live
+https://www.youtube.com/@trtworld/live
 #http://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
 #https://livestream.zazerconer.workers.dev/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
 #https://ythlsgo.onrender.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-http://new.cache-stream.workers.dev/stream/UC7fWeaHhqgM4Ry-RMpM2YYw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UC7fWeaHhqgM4Ry-RMpM2YYw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id="TRTAlArabiya.tr"        tvg-logo="https://www.canlitv.me/poster/trt-arapca.png"                                            ,TRT ARABIC
 #https://www.youtube.com/@TRTArabi/live
@@ -4037,44 +4160,44 @@ http://new.cache-stream.workers.dev/stream/UCTr00Butm_gEZmbUz_KI9gg/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kemal Sunal - [7/24]
 #https://www.youtube.com/@
-#http://www.youtube.com/channel/UCfoQxHKIWW_HrECGLaDrBEw/live
+http://www.youtube.com/channel/UCfoQxHKIWW_HrECGLaDrBEw/live
 #https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 #https://ythls.armelin.one/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 #https://ythlsgo.onrender.com/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
-http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kemal Sunal2- [7/24]
 #https://www.youtube.com/@KemalSunalFilmleriveSahneleri
-#http://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
+http://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
 #https://livestream.zazerconer.workers.dev/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #https://ythls.armelin.one/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #https://ythlsgo.onrender.com/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURK FILMLERI [7/24]
 #https://www.youtube.com/@TurkFilmleri-TV
-#http://www.youtube.com/channel/UCmw7e_6j2TSWCKeaZALjyuA/live
+http://www.youtube.com/channel/UCmw7e_6j2TSWCKeaZALjyuA/live
 #https://livestream.zazerconer.workers.dev/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 #https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
 #https://ythlsgo.onrender.com/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
-http://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCmw7e_6j2TSWCKeaZALjyuA/live.m3u8
 
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURK FILMLERI [7/24]
 #https://www.youtube.com/@arzufilm1964
-#http://www.youtube.com/channel/UCUALYmnkEmx8vlxIbpr2gmw/live
+http://www.youtube.com/channel/UCUALYmnkEmx8vlxIbpr2gmw/live
 #https://livestream.zazerconer.workers.dev/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 #https://ythlsgo.onrender.com/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-http://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UCUALYmnkEmx8vlxIbpr2gmw/live.m3u8
 
 #EXTINF:-1 group-title="TR | YOUTUBECH"  tvg-id=""                       tvg-logo=""                                                                                        ,TURK FILMLERI [7/24]
 #https://www.youtube.com/@MuratFilm
-#http://www.youtube.com/channel/UChpw5ERAQlYT7-BV2F9iqTQ/live
+http://www.youtube.com/channel/UChpw5ERAQlYT7-BV2F9iqTQ/live
 #https://livestream.zazerconer.workers.dev/channel/UChpw5ERAQlYT7-BV2F9iqTQ.m3u8
 #https://ythls.armelin.one/channel/UChpw5ERAQlYT7-BV2F9iqTQ.m3u8
 #https://ythlsgo.onrender.com/channel/UChpw5ERAQlYT7-BV2F9iqTQ.m3u8
-http://new.cache-stream.workers.dev/stream/UChpw5ERAQlYT7-BV2F9iqTQ/live.m3u8
+#http://new.cache-stream.workers.dev/stream/UChpw5ERAQlYT7-BV2F9iqTQ/live.m3u8
 
 
 
@@ -4255,143 +4378,6 @@ http://new.cache-stream.workers.dev/stream/UC0uWI6Z5gX-n9lRRk6y-H6w/live.m3u8
 ###################### #### ### ## ### #### ##### ### ## ###  ## ####################### 
 ###################### #####   ####   ##### ######   ###     ###      ################## 
 ########## ############################# ############################### ################################################################################################## #################
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport HABER
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/1?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 3
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 4
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport 5
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/705?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beiN Sport Max 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/605?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 3
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Tivibu Sport 4
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Smart Spor 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4101?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4102?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 3
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4103?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Exxen Sport 4
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/4105?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,a spor
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/172?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,trtspor
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2889?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,trtspor 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2890?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,trtavaz
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2891?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,trt 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2888?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,NBA TV
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/112?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Eurosport 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/132?.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Eurosport 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/142?.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus1.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus2.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 3
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus3.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 4
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus4.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 5
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus5.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,S Sport Plus 6
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/ssportplus6.m3u8
-
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN IZ HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/12.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,National Geographic HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/56.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Nat Geo Wild HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/55.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Discovery Channel HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/32.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Discovery Science HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/33.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,DMAX HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,BBC Earth HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/6.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,History HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/40.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Viasat History HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/64.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,ID HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/41.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES SCI-FI HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/22.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES COMEDY HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/20.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES DRAMA HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/21.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN SERIES VICE HD
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/23.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD1
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/7.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/8.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Office HD3
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/9.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Action
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/13.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Action 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/14.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Family
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/15.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Premiere
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/16.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Premiere 2
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/17.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Star
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/18.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,beIN Movies Turk
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/19.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Movie Smart Turk
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/44.m3u8
-#EXTINF:-1 group-title="TR | DIGITAL CH" tvg-id""                        tvg-logo=""                                                                                        ,Movie Smart Classic
-https://anym3u8player.com/tv/p.php?url=https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/46.m3u8
-
-
-
-
-########## ############################# ############################### ################################################################################################## #################
-
-
 
 
 #EXTINF:-1 group-title="AZ | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Мир 24
