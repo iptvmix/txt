@@ -104,8 +104,6 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
 #https://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tarih TV
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #####################################################################################################################################################
 #######    HABER KANALLARI                                               ############################################################################
 #####################################################################################################################################################
