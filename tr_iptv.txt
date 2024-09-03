@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 #https://canli.haber365.com.tr/tr/tgrteu/index.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="KANAL7int.tr"           tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 EU
-https://github.com/rideordie16/YouTube/raw/main/ch/kanal7eu.m3u8
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="TV8int.tr"              tvg-logo="https://www.canlitv.me/poster/tv8-int.png"                                               ,TV 8 INT
 http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,EURO D
@@ -83,6 +83,8 @@ http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV	
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR | ULUSAL CH"  tvg-id=""                       tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,ALMANYA TV
+https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 #####################################################################################################################################################
 #######    BELGESEL YAYINLARI                                            ############################################################################
 #####################################################################################################################################################
@@ -176,7 +178,11 @@ http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 2
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ART Amasya
+http://stream.tvcdn.net/yerel/art-amasya.m3u8
 
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Anadolu Dost TV
+http://stream.tvcdn.net/yerel/anadolu-dost-tv.m3u8
 
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi Film TV
@@ -187,60 +193,6 @@ http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sağlıklı Günler TV
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
-
-
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cennet Mahallesi
-http://stream.tvcdn.net/dizi-youtube/cennet-mahallesi.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Behzat Ç.
-http://stream.tvcdn.net/dizi-youtube/behzat-c.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kurtlar Vadisi
-http://stream.tvcdn.net/dizi-youtube/kurtlar-vadisi.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Güldür Güldür
-http://stream.tvcdn.net/dizi-youtube/guldur-guldur.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Emret Komutanım
-http://stream.tvcdn.net/dizi-youtube/emret-komutanim.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kiralık Aşk
-http://stream.tvcdn.net/dizi-youtube/kiralik-ask.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kızılcık Şerbeti
-http://stream.tvcdn.net/dizi-youtube/kizilcik-serbeti.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Avlu
-http://stream.tvcdn.net/dizi-youtube/avlu.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dila Hanım
-http://stream.tvcdn.net/dizi-youtube/dila-hanim.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kurt Seyit ve Şura
-http://stream.tvcdn.net/dizi-youtube/kurt-seyit-ve-sura.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Arıza
-http://stream.tvcdn.net/dizi-youtube/ariza.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Fazilet Hanım ve Kızları
-http://stream.tvcdn.net/dizi-youtube/fazilet-hanim-ve-kizlari.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Göç Zamanı
-http://stream.tvcdn.net/dizi-youtube/goc-zamani.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Hanım Köylü
-http://stream.tvcdn.net/dizi-youtube/hanim-koylu.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Hayat Bazen Tatlıdır
-http://stream.tvcdn.net/dizi-youtube/hayat-bazen-tatlidir.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kalbimin Sultanı
-http://stream.tvcdn.net/dizi-youtube/kalbimin-sultani.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kuzey Yıldızı: İlk Aşk
-http://stream.tvcdn.net/dizi-youtube/kuzey-yildizi-ilk-ask.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sihirli Annem
-http://stream.tvcdn.net/dizi-youtube/sihirli-annem.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yeni Gelin
-http://stream.tvcdn.net/dizi-youtube/yeni-gelin.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Zemheri
-http://stream.tvcdn.net/dizi-youtube/zemheri.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Zalim İstanbul
-http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Siyah Beyaz Aşk
-http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
-#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tatlı İntikam
-http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELEON
@@ -279,6 +231,28 @@ https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 #EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Könül TV
 #EXTGRP:Azərbaycan
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SÖNMEZ TV
+#EXTGRP:Azərbaycan
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ESMA TV
+#EXTGRP:Azərbaycan
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ESMA TV2
+#EXTGRP:Azərbaycan
+https://esmatv2.interweb.com.tr:3870/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,İSMAYILLI TV
+#EXTGRP:Azərbaycan
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TTV TV
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BABƏK-TV
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:-1 group-title="TR | CINEMA CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL 65 TV
+#EXTGRP:Azərbaycan
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+
 
 
 
