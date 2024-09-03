@@ -12033,7 +12033,36 @@ https://vavoo.to/play/1467834090/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Deneme", TRT1
+https://yayin2.canlitv.fun/livetv/trt1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT1
+https://yayin2.canlitv.fun/livetv/trt2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT haber
+https://yayin2.canlitv.fun/livetv/trthaber.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT belgesel
+https://yayin2.canlitv.fun/livetv/trtbelgesel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT muzik
+https://yayin2.canlitv.fun/livetv/trtmuzik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT turk
+https://yayin2.canlitv.fun/livetv/trtturk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT avaz
+https://yayin2.canlitv.fun/livetv/trtavaz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT cocuk
+https://yayin2.canlitv.fun/livetv/trtcocuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT spor
+https://yayin2.canlitv.fun/livetv/trtspor.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", TRT spor yildiz
+https://yayin2.canlitv.fun/livetv/trtsporyildiz.stream/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Deneme", atv
+https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", kanal d
+https://yayin2.canlitv.fun/livetv/kanald.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", star tv
+https://yayin2.canlitv.fun/livetv/startv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", now
+https://yayin2.canlitv.fun/livetv/now.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deneme", show tv
+https://yayin2.canlitv.fun/livetv/showtv.stream/playlist.m3u8
 
 
