@@ -122,8 +122,8 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
 https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
-#https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-http://stream.tvcdn.net/haber/ntv.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 group-title="TR | HABER  CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
