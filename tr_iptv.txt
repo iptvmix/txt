@@ -3450,8 +3450,7 @@ https://media.finest.tv/dash/live.mpd
 
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="tiviturk.tr"            tvg-logo="https://assets.streamtest.in/logo/3512/218_tivi-turk.jpg"                                ,TIVITURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="tiviturk.tr"            tvg-logo="https://assets.streamtest.in/logo/3512/218_tivi-turk.jpg"                                ,TIVITURK
-https://ch.iptvmate.net/5e9352dbce61e7703b19fe7c.m3u8
+
 
 #EXTINF:-1 group-title="TR | YEDEK CH"   tvg-id="Yabantv.tr"             tvg-logo="https://www.canlitv.me/poster/yaban-tv.png"                                              ,YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
