@@ -1,3 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 1
+
+https://zjdmi53knyt.a.trbcdn.net/dazn1/index.m3u8
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 2
+
+https://zjdmi53knyt.a.trbcdn.net/dazn2/index.m3u8
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 3
+
+https://zjdmi53knyt.a.trbcdn.net/dazn3/index.m3u8
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 4
+
+https://zjdmi53knyt.a.trbcdn.net/dazn4/index.m3u8
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 5
+
+
+https://zjdmi53knyt.a.trbcdn.net/dazn5/index.m3u8
+
+#EXTINF:-1 group-title="💎 | Germany ",DAZN 6
+
+https://zjdmi53knyt.a.trbcdn.net/dazn6/index.m3u8
+
+
+
 #EXTINF:-1 group-title="💎 | Germany ",1.2.3 TV 	
 https://vavoo.to/play/51258455/index.m3u8
 #EXTINF:-1 group-title="💎 | Germany ",123 TV 	
