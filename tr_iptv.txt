@@ -3721,6 +3721,13 @@ https://m.egm.gov.tr:8093/stream/1/
 #####################################################################################################################################################################################################
 #######    ALMAN KANALLARI                                               ############################################################################################################################
 #####################################################################################################################################################################################################
+
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
+https://vk.com/video_ext.php?oid=-216411858&id=456239037&hash=e7e27350ecdc17a1
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
+https://vk.com/video_ext.php?oid=-216411858&id=456239037
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
