@@ -3099,6 +3099,21 @@ http://116.202.238.88/BEYAZTV_TR/index.m3u8
 https://proxy.canlitvplayer.com/beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 
 
+#EXTINF:-1 group-title="🇹🇷 | YEDEK CH"   tvg-id=""                       tvg-logo=""                                                                                        ,ATV HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57543&extension=ts
+
+#EXTINF:-1 group-title="🇹🇷 | YEDEK CH"   tvg-id=""                       tvg-logo=""                                                                                        ,ATV AVRUPA
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57545&extension=ts
+
+#EXTINF:-1 group-title="🇹🇷 | YEDEK CH"   tvg-id=""                       tvg-logo=""                                                                                        ,A2 TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57546&extension=ts
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | TURKEY CH", TRT1
 https://yayin2.canlitv.fun/livetv/trt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | TURKEY CH", TRT2
@@ -3131,6 +3146,9 @@ https://yayin2.canlitv.fun/livetv/now.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | TURKEY CH", show tv
 https://yayin2.canlitv.fun/livetv/showtv.stream/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🇹🇷 | TURKEY CH", HABERTURK
+https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TRT_1_logo_%282012-2021%29.png/800px-TRT_1_logo_%282012-2021%29.png" tvg-name="TRT 1" group-title="🇹🇷 | TURKEY CH",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -3724,9 +3742,7 @@ https://m.egm.gov.tr:8093/stream/1/
 
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
-https://vk.com/video_ext.php?oid=-216411858&id=456239037&hash=e7e27350ecdc17a1
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
-https://vk.com/video_ext.php?oid=-216411858&id=456239037
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
@@ -3903,6 +3919,9 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 
 
+
+#EXTINF:-1 channel-id="mittelrheintv.de"                tvg-id="mittelrheintv.de"        tvg-chno="0049" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" ,TV MITTELRHEIN
+https://58de7a369a9c4.streamlock.net/esm/tvmr_720p/playlist.m3u8
 
 #EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABELeins DOKU
 https://s6.hopslan.com/doku/index.m3u8
@@ -5447,6 +5466,70 @@ https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
 
 
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ULDUZ
+https://ulduztv.interweb.com.tr/broadcaster/ulduztv/stream/player
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKASİYA DURAĞI LİNK 1
+
+https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKASİYA DURAĞI LİNK 2
+
+https://akasiyaduragi.efir.com.tr:3280/stream/play.m3u8
+
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DALGA TV SINEMA
+https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RETRO TV
+https://retrotvaz.efir.com.tr:3523/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,UMİD TV
+https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,UMİD TV SHOW
+https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,UTV NEWS
+https://utvnewsaz.efir.com.tr:3948/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DOGRU TV
+https://dogrutv.efir.com.tr:3449/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEGA TV
+https://MegatvAz.efir.com.tr:3532/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEGA TV MUSİC
+https://MegatvmusicAz.efir.com.tr:3883/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,HTV SİNEMA
+https://hesentv1987.efir.com.tr:3711/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ŞİRVAN TV
+https://sirvantv.efir.com.tr:3369/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,İSMAYILLI TV
+https://ismayillitv.efir.com.tr:3281/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TTV BELGESEL
+https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,STV AZ
+https://stvaz.efir.com.tr:3815/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARAZ TV
+https://araztv.efir.com.tr:3354/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ALIGOSHGAR TV
+https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
+
+#EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKASIYA DURAGI
+https://akasiyaduragi.efir.com.tr:3280/hybrid/play.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Мир 24
 https://sc.id-tv.kz:443/Mir24.m3u8
 #EXTINF:-1 group-title="🇦🇿 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,НТВ-Мир
@@ -6802,6 +6885,19 @@ https://user85481.clients-cdnnow.ru/hls/user85481_1/index.m3u8
 https://user85481.clients-cdnnow.ru/hls/user85481_2/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.postimg.cc/hPqDKrcb/image-processing20210911-12028-qkcrx1.jpg" tvg-language="Azerbaijani" group-title="🇦🇿 | ULUSAL CH",Şahdağ Camera 3
 https://user85481.clients-cdnnow.ru/hls/user85481_3/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
