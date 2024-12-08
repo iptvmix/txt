@@ -259,7 +259,7 @@ http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
-https://haberglobal.blutv.com/blutv_haberglobal_live/live.m3u8
+#https://haberglobal.blutv.com/blutv_haberglobal_live/live.m3u8
 
 http://stream.tvcdn.net/haber/haber-global.m3u8
 
