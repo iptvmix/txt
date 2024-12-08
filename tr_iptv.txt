@@ -248,6 +248,8 @@ https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 #####################################################################################################################################################
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV100
 http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
+#https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
@@ -257,7 +259,10 @@ http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
-https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
+https://haberglobal.blutv.com/blutv_haberglobal_live/live.m3u8
+
+http://stream.tvcdn.net/haber/haber-global.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
 #https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 http://stream.tvcdn.net/haber/ntv.m3u8
@@ -267,6 +272,8 @@ http://stream.tvcdn.net/haber/ntv.m3u8
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tgrt-haber.png"                                            ,TGRT HABER HD
 https://canli.haber365.com.tr/tr/tgrthaber/index.m3u8
+#https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/tvnet-izle.png"                                          ,TVNET HD
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/akit-tv.png"                                               ,AKİT TV HD
@@ -348,7 +355,8 @@ https://ctvusaq.efir.com.tr:3052/stream/play.m3u8
 
 
 
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MAX Tv 
+https://tv208.radyotelekom.com.tr:3817/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YILDIZ TV TV
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
@@ -381,31 +389,59 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,birtv
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Üreten Türkiye tv
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Hür tv 
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Sen1ordusun tv 
+https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Balkan ON6 tv 
+https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FASHION TV 
+https://live.euromediacenter.com/fashionworld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SÜRMANŞET TV
+https://live.euromediacenter.com/surmansethabertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SAĞLIK TV
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kanal 34
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Balkan türk tv 
+https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BİRLİK HABER TV 
+https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Bultürk tv 
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Bürüksel tv 
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Euro Medya tv 
+https://live.euromediacenter.com/tvmor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Gurme tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TELE ON
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,bha
 https://live.euromediacenter.com/bha/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,filistintv
 https://live.euromediacenter.com/filistintv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,uretenturkiye
-https://tv.digitalbox.xyz:19360/uretenturkiye/uretenturkiye.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,hurtv
-https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,bizimocaktv
 https://live.euromediacenter.com/bizimocaktv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,sen1ordusun
-https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,bulturktv
-https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,aktueltv
 https://live.euromediacenter.com/aktueltv/tracks-v1a1/mono.m3u8
@@ -440,11 +476,6 @@ https://live.euromediacenter.com/muglatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,nehabertv
 https://live.euromediacenter.com/nehabertv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,gurmetv
-https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,balkanturktv
-https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL TV 
 https://live.filbox.com.tr/filtv/index.m3u8
