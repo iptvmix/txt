@@ -33,7 +33,8 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://i.imgur.com/homSiDa.png"                                                         ,NOW HD
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#http://stream.tvcdn.net/ulusal/now-tv.m3u8
+http://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Start.tr"               tvg-logo="https://i.imgur.com/9O3DHRB.png"                                                         ,STAR TV HD
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
@@ -119,7 +120,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRTTURK.tr"             tvg-logo="https://www.canlitv.me/poster/trt-turk.png"                                              ,TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://www.canlitv.me/poster/atv.png"                                                   ,ATV EUROPA
-https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+http://new.cache-stream.workers.dev/stream/UCUVZ7T_kwkxDOGFcDlFI-hg/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ShowTurk.tr"            tvg-logo="https://i.imgur.com/1l7SCCu.png"                                                         ,SHOWTURK
 #https://showturk.blutv.com/blutv_showturk2/live.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
@@ -253,9 +254,11 @@ http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://www.canlitv.me/poster/trt-haber.png"                                             ,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
-http://stream.tvcdn.net/haber/a-haber.m3u8
+#http://stream.tvcdn.net/haber/a-haber.m3u8
+http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
-http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#http://stream.tvcdn.net/haber/cnn-turk.m3u8
+http://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
@@ -265,8 +268,8 @@ http://stream.tvcdn.net/haber/haber-global.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="NTV.tr"                 tvg-logo="https://cdn.ntv.com.tr/img/logo.svg"                                                     ,NTV HD
 #https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-http://stream.tvcdn.net/haber/ntv.m3u8
-#https://ythls-v3.onrender.com/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8
+#http://stream.tvcdn.net/haber/ntv.m3u8
+http://new.cache-stream.workers.dev/stream/UC9TDTjbOjFB9jADmPhSAPsw/live.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
@@ -477,20 +480,7 @@ https://live.euromediacenter.com/muglatv/tracks-v1a1/mono.m3u8
 https://live.euromediacenter.com/nehabertv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL TV 
-https://live.filbox.com.tr/filtv/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL KOMEDI TV 
-https://live.filbox.com.tr/filmclubkomedi/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL MAX TV
-https://live.filbox.com.tr/filmax/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL AKSIYON TV
-https://live.filbox.com.tr/filmclubaksiyon/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FIL FALMILY TV
-https://live.filbox.com.tr/filmclubfamily/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILODI TV 
-https://live.filbox.com.tr/filodi/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DOCU MAX TV
-https://live.filbox.com.tr/documax/index.m3u8
+
 
 
 
@@ -748,7 +738,9 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/diyar-tv.png"                                            ,DIYAR TV
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | YEREL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,EKOL TV
-https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/playlist.m3u8
+#https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/playlist.m3u8
+http://new.cache-stream.workers.dev/stream/UCccxXUKSuqOrlWQxweZBAQw/live.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/ertv.png"                                                ,ERTV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | YEREL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/es-tv.png"                                               ,ESTV
@@ -3582,16 +3574,161 @@ http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-name="BabyTV" group-title="🇹🇷 | TURKEY CH",Baby TV
 http://195.189.62.140:8002/play/a00e
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 | TURKEY CH" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT1 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 | TURKEY CH" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT2
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 | TURKEY CH" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", TBRT3 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT3/chunklist_w59012189.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 | TURKEY CH" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT4 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_4/chunklist_w586494279.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="🇹🇷 | TURKEY CH" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TBRT AVRASİA
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_AVRASIA/chunklist_w519862134.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="🇩🇪 | MUZIK CH",POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="" group-title="🇩🇪 | MUZIK CH",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="" group-title="🇩🇪 | MUZIK CH",NR1
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TÜRK" tvg-logo="" group-title="🇩🇪 | MUZIK CH",NR1 TÜRK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KRAL TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİLYON TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",MİLYON TV
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI MÜZİK @@@" tvg-logo="" group-title="🇩🇪 | MUZIK CH",@@@ YABANCI MÜZİK @@@
+https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="1 HD MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",1 HD MUSİC
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STRANA FM" tvg-logo="" group-title="🇩🇪 | MUZIK CH",STRANA FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THT MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",THT MUSİC
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHANSON TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",SHANSON TV
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOYUZ TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",SOYUZ TV
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUGA TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",DUGA TV
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="" group-title="🇩🇪 | MUZIK CH",SKY FOLK
+https://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANOVİNA TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",BANOVİNA TV
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PMC MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",PMC MUSİC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PMC ROYALE" tvg-logo="" group-title="🇩🇪 | MUZIK CH",PMC ROYALE
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO JAVAN" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RADİO JAVAN
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBC TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",EBC TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSİAN MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",PERSİAN MUSİC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",AFN MUSİC
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAYHAN TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KAYHAN TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABİCA TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",ARABİCA TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTİ TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",MASTİ TV
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DESİ CHANNEL" tvg-logo="" group-title="🇩🇪 | MUZIK CH",DESİ CHANNEL
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARTUM MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",MARTUM MUSİC
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="🇩🇪 | MUZIK CH",BOOGLE BOLLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",OCKO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO GOLD" tvg-logo="" group-title="🇩🇪 | MUZIK CH",OCKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO EXPRES" tvg-logo="" group-title="🇩🇪 | MUZIK CH",OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RETRO TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1154875891_b750000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 FUN" tvg-logo="" group-title="🇩🇪 | MUZIK CH",4 FUN
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X LİTE" tvg-logo="" group-title="🇩🇪 | MUZIK CH",X LİTE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V2 BEAT" tvg-logo="" group-title="🇩🇪 | MUZIK CH",V2 BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEROUNO TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",ZEROUNO TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSİC PLUS" tvg-logo="" group-title="🇩🇪 | MUZIK CH",MUSİC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",COMPANY TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XALASTRA TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="" group-title="🇩🇪 | MUZIK CH",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAROLİNE TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",CAROLİNE TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KROENİT TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KROENİT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M1 TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",M1 TV
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO M20" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RADİO M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPRİNT TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",SPRİNT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KİSS KİSS TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KİSS KİSS TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30 A TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",30 A TV
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 MUZ TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",1 MUZ TV
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARİBENA TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",KARİBENA TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRAİSE HİM MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",PRAİSE HİM MUSİC
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO İTALİA" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RADİO İTALİA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NG RADİO" tvg-logo="" group-title="🇩🇪 | MUZIK CH",NG RADİO
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="RADİO CAPİTAL" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RADİO CAPİTAL
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİREBİRD TV" tvg-logo="" group-title="🇩🇪 | MUZIK CH",FİREBİRD TV
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RELOAD MUSİC" tvg-logo="" group-title="🇩🇪 | MUZIK CH",RELOAD MUSİC
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="🇩🇪 | MUZIK CH",MEZZO
+https://sc.id-tv.kz/mezzo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="🇩🇪 | MUZIK CH",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -7744,7 +7881,214 @@ https://cdn.dzeninfra.com/vod/converted-video/vod-content/74/89/25/20/64/90/43/1
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Türbülans 3" tvg-logo="" group-title="VOD",Türbülans 3
+https://archive.org/download/tr3_20230812/tr3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Adına Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Adına Leon
+https://archive.org/download/ln_20220923/ln.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geçmişin Günahları" tvg-logo="" group-title="VOD",Geçmişin Günahları
+https://archive.org/download/cb_20221217/cb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="" group-title="VOD",Zorro
+https://archive.org/download/z1_20221106/z1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yeşil Yol" tvg-logo="" group-title="VOD",Yeşil Yol
+https://archive.org/download/te_20220923/te.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esaretin Bedeli" tvg-logo="" group-title="VOD",Esaretin Bedeli
+https://archive.org/download/sn_20220926/sn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg" tvg-logo="" group-title="VOD",Cyborg
+https://archive.org/download/cg_20220923/cg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gözlerim Tamamen Kapalı" tvg-logo="" group-title="VOD",Gözlerim Tamamen Kapalı
+https://archive.org/download/et_20220926/et.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dönüş Yok " tvg-logo="" group-title="VOD",Dönüş Yok 
+https://archive.org/download/di_20230108/di.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V For Vendetta" tvg-logo="" group-title="VOD",V For Vendetta
+https://archive.org/download/va_20220923/va.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predator 1" tvg-logo="" group-title="VOD",Predator 1
+https://archive.org/download/pr1_20220923/pr1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predator 2" tvg-logo="" group-title="VOD",Predator 2
+https://archive.org/download/pr1_20220923/pr2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill Volume 1" tvg-logo="" group-title="VOD",Kill Bill Volume 1
+https://archive.org/download/kl1_20220923/kl1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill Volume 2" tvg-logo="" group-title="VOD",Kill Bill Volume 2
+https://archive.org/download/kl1_20220923/kl2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Otomatik Portakal" tvg-logo="" group-title="VOD",Otomatik Portakal
+https://archive.org/download/ae_20220923/ae.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İyi Kötü Ve Çirkin" tvg-logo="" group-title="VOD",İyi Kötü Ve Çirkin
+https://archive.org/download/ty_20221016_202210/ty.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gerçeğe Çağrı" tvg-logo="" group-title="VOD",Gerçeğe Çağrı
+https://archive.org/download/tl_20221016/tl.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guguk Kuşu" tvg-logo="" group-title="VOD",Guguk Kuşu
+https://archive.org/download/ot_20220923/ot.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kuzuların Sessizliği" tvg-logo="" group-title="VOD",Kuzuların Sessizliği
+https://archive.org/download/ts_20220923/ts.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angel-A" tvg-logo="" group-title="VOD",Angel-A
+https://archive.org/download/aa_20221013/aa.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 1" tvg-logo="" group-title="VOD",Rambo 1
+https://archive.org/download/ro_20221013/ro1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 2" tvg-logo="" group-title="VOD",Rambo 2
+https://archive.org/download/ro_20221013/ro2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 3" tvg-logo="" group-title="VOD",Rambo 3
+https://archive.org/download/ro_20221013/ro3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 4" tvg-logo="" group-title="VOD",Rambo 4
+https://archive.org/download/ro_20221013/ro4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 5" tvg-logo="" group-title="VOD",Rambo 5
+https://archive.org/download/ro_20221013/ro5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 1" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 1
+https://archive.org/download/mi1_20221017/mi1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 2 Dönüş" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 2 Dönüş
+https://archive.org/download/mi2_20221017/mi2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 3 Kaçış" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 3 Kaçış
+https://archive.org/download/mi3_20221017/mi3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 4 İsyan" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 4 İsyan
+https://archive.org/download/mi4_20221017/mi4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 5 Savaş" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 5 Savaş
+https://archive.org/download/mi5_20221017/mi5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 1 Yokedici" tvg-logo="" group-title="VOD",Terminatör 1 Yokedici
+https://archive.org/download/tr1_20221017/tr1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 1" tvg-logo="" group-title="VOD",RoboCop 1
+https://archive.org/download/rp_20221016/rp1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2" tvg-logo="" group-title="VOD",RoboCop 2
+https://archive.org/download/rp_20221016/rp2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 3" tvg-logo="" group-title="VOD",RoboCop 3
+https://archive.org/download/rp_20221016/rp3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 4" tvg-logo="" group-title="VOD",RoboCop 4
+https://archive.org/download/rp_20221016/rp4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer Uzay Yolunda" tvg-logo="" group-title="VOD",Turist Ömer Uzay Yolunda
+https://archive.org/download/uu_20221016/tuy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 1 Uzay Macerası" tvg-logo="" group-title="VOD",Uzay Yolu 1 Uzay Macerası
+https://archive.org/download/uu_20221016/uu1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 2 Khan'ın Gazabı" tvg-logo="" group-title="VOD",Uzay Yolu 2 Khan'ın Gazabı
+https://archive.org/download/uu_20221016/uu2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 3 Spock'un Peşinde" tvg-logo="" group-title="VOD",Uzay Yolu 3 Spock'un Peşinde
+https://archive.org/download/uu_20221016/uu3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 4 Eve Yolculuk" tvg-logo="" group-title="VOD",Uzay Yolu 4 Eve Yolculuk
+https://archive.org/download/uu_20221016/uu4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 5 Son Sınır" tvg-logo="" group-title="VOD",Uzay Yolu 5 Son Sınır
+https://archive.org/download/uu_20221016/uu5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 6 Keşfedilmemiş Ülke" tvg-logo="" group-title="VOD",Uzay Yolu 6 Keşfedilmemiş Ülke
+https://archive.org/download/uu_20221016/uu6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 7 Yeni Nesil" tvg-logo="" group-title="VOD",Uzay Yolu 7 Yeni Nesil
+https://archive.org/download/uu_20221016/uu7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 8 İlk Temas" tvg-logo="" group-title="VOD",Uzay Yolu 8 İlk Temas
+https://archive.org/download/uu_20221016/uu8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 9 İsyan" tvg-logo="" group-title="VOD",Uzay Yolu 9 İsyan
+https://archive.org/download/uu_20221016/uu9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 10 Nemesis" tvg-logo="" group-title="VOD",Uzay Yolu 10 Nemesis
+https://archive.org/download/uu_20221016/uu10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 11 Gelecek Başlıyor" tvg-logo="" group-title="VOD",Uzay Yolu 11 Gelecek Başlıyor
+https://archive.org/download/uu_20221016/uu11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 12 Bilinmeze Doğru" tvg-logo="" group-title="VOD",Uzay Yolu 12 Bilinmeze Doğru
+https://archive.org/download/uu_20221016/uu12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Durak 1" tvg-logo="" group-title="VOD",Son Durak 1
+https://archive.org/download/dsd_20221117/fn1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Durak 2" tvg-logo="" group-title="VOD",Son Durak 2
+https://archive.org/download/dsd_20221117/fn2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Durak 3" tvg-logo="" group-title="VOD",Son Durak 3
+https://archive.org/download/dsd_20221117/fn3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Durak 4" tvg-logo="" group-title="VOD",Son Durak 4
+https://archive.org/download/dsd_20221117/fn4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Durak 5" tvg-logo="" group-title="VOD",Son Durak 5
+https://archive.org/download/dsd_20221117/fn5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",Cadıca Sevmek
+https://archive.org/download/dsd_20221117/ue.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manken" tvg-logo="" group-title="VOD",Manken
+https://archive.org/download/dsd_20221117/mn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şirket" tvg-logo="" group-title="VOD",Şirket
+https://archive.org/download/dsd_20221117/tm.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Sky" tvg-logo="" group-title="VOD",Vanilla Sky
+https://archive.org/download/dsd_20221117/vy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gece Ve Gündüz" tvg-logo="" group-title="VOD",Gece Ve Gündüz
+https://archive.org/download/dsd_20221117/ky.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yağmur Adam" tvg-logo="" group-title="VOD",Yağmur Adam
+https://archive.org/download/dsd_20221117/rn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yıldırım Günleri" tvg-logo="" group-title="VOD",Yıldırım Günleri
+https://archive.org/download/dsd_20221117/dr.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Konuklar" tvg-logo="" group-title="VOD",Çılgın Konuklar
+https://archive.org/download/dsd_20221117/jg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Müfreze" tvg-logo="" group-title="VOD",Müfreze
+https://archive.org/download/pn_20221118/pn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çöl Kaplanı" tvg-logo="" group-title="VOD",Çöl Kaplanı
+https://archive.org/download/le_20221118/le.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aslan Yürek" tvg-logo="" group-title="VOD",Aslan Yürek
+https://archive.org/download/lt_20221118/lt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babil M.S" tvg-logo="" group-title="VOD",Babil M.S
+https://archive.org/download/bs_20221124/bs.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun" tvg-logo="" group-title="VOD",Top Gun
+https://archive.org/download/hyd_20221124/tn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dağcı" tvg-logo="" group-title="VOD",Dağcı
+https://archive.org/download/hyd_20221124/cr.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suikast Çemberi" tvg-logo="" group-title="VOD",Suikast Çemberi
+https://archive.org/download/hyd_20221124/as.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hız Tuzağı" tvg-logo="" group-title="VOD",Hız Tuzağı
+https://archive.org/download/hyd_20221124/sd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hür Kan" tvg-logo="" group-title="VOD",Hür Kan
+https://archive.org/download/hyd_20221124/lp.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altıncı Gün" tvg-logo="" group-title="VOD",Altıncı Gün
+https://archive.org/download/hyd_20221124/6y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silici" tvg-logo="" group-title="VOD",Silici
+https://archive.org/download/hyd_20221124/er.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ucuz Roman" tvg-logo="" group-title="VOD",Ucuz Roman
+https://archive.org/download/hyd_20221124/pn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yüz Yüze" tvg-logo="" group-title="VOD",Yüz Yüze
+https://archive.org/download/hyd_20221124/ff.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaya" tvg-logo="" group-title="VOD",Kaya
+https://archive.org/download/hyd_20221124/tk.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Saniye" tvg-logo="" group-title="VOD",60 Saniye
+https://archive.org/download/hyd_20221124/6d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Con Air" tvg-logo="" group-title="VOD",Con Air
+https://archive.org/download/hyd_20221124/cor.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kırık Ok" tvg-logo="" group-title="VOD",Kırık Ok
+https://archive.org/download/hyd_20221124/bw.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaçak" tvg-logo="" group-title="VOD",Kaçak
+https://archive.org/download/hyd_20221124/teve.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gösteri Kızları" tvg-logo="" group-title="VOD",Gösteri Kızları
+https://archive.org/download/hyd_20221124/ss.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cezalandırıcı" tvg-logo="" group-title="VOD",Cezalandırıcı
+https://archive.org/download/hyd_20221124/dn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uzman" tvg-logo="" group-title="VOD",Uzman
+https://archive.org/download/hyd_20221124/tt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gerçek Yalanlar" tvg-logo="" group-title="VOD",Gerçek Yalanlar
+https://archive.org/download/hyd_20221124/te.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kızıl Ateş" tvg-logo="" group-title="VOD",Kızıl Ateş
+https://archive.org/download/hyd_20221124/rt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Durdurulamaz" tvg-logo="" group-title="VOD",Durdurulamaz
+https://archive.org/download/ue_20221124/ue.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 1" tvg-logo="" group-title="VOD",Geleceğe Dönüş 1
+https://archive.org/download/gd_20221201/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 2" tvg-logo="" group-title="VOD",Geleceğe Dönüş 2
+https://archive.org/download/gd_20221201/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 3" tvg-logo="" group-title="VOD",Geleceğe Dönüş 3
+https://archive.org/download/gd_20221201/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harikasın Melanie" tvg-logo="" group-title="VOD",Harikasın Melanie 
+https://archive.org/download/he_20221210/he.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herkesin Kadını" tvg-logo="" group-title="VOD",Herkesin Kadını
+https://archive.org/download/ui_20221210/ui.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 1" tvg-logo="" group-title="VOD",Testere 1
+https://archive.org/download/sw_20221220/sw/sw1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 2" tvg-logo="" group-title="VOD",Testere 2
+https://archive.org/download/sw_20221220/sw/sw2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 3" tvg-logo="" group-title="VOD",Testere 3
+https://archive.org/download/sw_20221220/sw/sw3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 4" tvg-logo="" group-title="VOD",Testere 4
+https://archive.org/download/sw_20221220/sw/sw4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 5" tvg-logo="" group-title="VOD",Testere 5
+https://archive.org/download/sw_20221220/sw/sw5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 6" tvg-logo="" group-title="VOD",Testere 6
+https://archive.org/download/sw_20221220/sw/sw6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 7" tvg-logo="" group-title="VOD",Testere 7
+https://archive.org/download/sw_20221220/sw/sw7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 8" tvg-logo="" group-title="VOD",Testere 8
+https://archive.org/download/sw_20221220/sw/sw8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testere 9" tvg-logo="" group-title="VOD",Testere 9
+https://archive.org/download/sw_20221220/sw/sw9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cehennem Silahı 1" tvg-logo="" group-title="VOD",Cehennem Silahı 1
+https://archive.org/download/cs_20221221/cs/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cehennem Silahı 2" tvg-logo="" group-title="VOD",Cehennem Silahı 2
+https://archive.org/download/cs_20221221/cs/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cehennem Silahı 3" tvg-logo="" group-title="VOD",Cehennem Silahı 3
+https://archive.org/download/cs_20221221/cs/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cehennem Silahı 4" tvg-logo="" group-title="VOD",Cehennem Silahı 4
+https://archive.org/download/cs_20221221/cs/4.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOST" tvg-logo="" group-title="VOD",LOST
+https://tv.yilmaztv.com/dizipal/film.php?HLS=https://dizipal732.com/dizi/lost/sezon-1/bolum-1
 
 
 
