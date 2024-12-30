@@ -17,12 +17,15 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://i.imgur.com/UpsQsbd.png"                                                         ,TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:0 group-title="🇹🇷 | ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                         tvg-copyright="@aligoshgartv"        ,CINE 5
+#EXTINF:0 tvg-copyright="@aligoshgartv"  group-title="🇹🇷 | ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                   ,CINE 5 BES
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
 
-#EXTINF:0 tvg-copyright="@aligoshgartv" group-title="🇹🇷 | ULUSAL CH" tvg-id="tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" tvg-name="Tivi 6" ,TivI 6 HD
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:0 tvg-copyright="stream" group-title="🇹🇷 | ULUSAL CH" tvg-id="tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" tvg-name="Tivi 6" ,TivI 6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
