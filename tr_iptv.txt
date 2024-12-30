@@ -20,7 +20,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="CINE5.tr"               tvg-logo="https://www.canlitv.me/poster/cine5.png"                                         tvg-copyright="@aligoshgartv"        ,CINE 5
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
 
-#EXTINF:1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="tivi6.tr"               tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_133.png"     tvg-copyright="@aligoshgartv"        ,TIVI 6
+
+#EXTINF:1 tvg-copyright="@aligoshgartv" group-title="🇹🇷 | ULUSAL CH" tvg-id="tivi6.tr" tvg-logo="http://assets.tvcdn.net/9c64876c-5e36-402c-86eb-e3b179072d21.png" tvg-name="Tivi 6" ,Tivi 6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7 HD
