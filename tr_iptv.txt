@@ -48,7 +48,8 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 http://stream.tvcdn.net/eglence/show-max.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV HD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+#http://stream.tvcdn.net/ulusal/atv.m3u8
+https://c.fulltvizle.com/aytv/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -183,6 +184,25 @@ https://tv208.radyotelekom.com.tr:3326/hybrid/play.m3u8
 https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEGA TV Music
 https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MEGA TV KORKU
+https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHDTV MOVIES
+https://live.yayingold.com.tr/chdtvseriallive/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHDTV INDIA
+https://live.yayingold.com.tr/chdmovieslive/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHDTV KORKU
+https://live.yayingold.com.tr/chdkorku/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHDTV H.SAHIN
+https://live.yayingold.com.tr/chdtvhacisahin/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHDTV H.RAMIL
+https://live.yayingold.com.tr/haciramillive/index.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ISMAILLI
+https://ismayillitv7.interweb.com.tr:3436/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,BEBEK
+https://babektv7.interweb.com.tr:3954/stream/play.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KEDER TV
 https://tv208.radyotelekom.com.tr:3694/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DUGUN TV
