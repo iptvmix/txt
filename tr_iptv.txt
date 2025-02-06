@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="http://epg.tvcdn.net/guide/tr-guide.xml" refresh="3600"
 #       x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/rideordie16/t/main/bin/guide.xml"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 
 #####################################################################################################################################################################################################
 #######    ULUSAL YAYINLAR                     🔊 Radyo                          ############################################################################################################################
@@ -27,7 +28,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivi 6
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7
@@ -75,7 +76,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
-https://trn03.tulix.tv/gt-atva2/index.m3u8
+https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2
