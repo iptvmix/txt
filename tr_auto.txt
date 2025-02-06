@@ -27,6 +27,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Tivi 6
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Kanal7.tr"              tvg-logo="https://i.imgur.com/pxpLpnH.png"                                                         ,KANAL 7
@@ -136,8 +137,6 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"bbcearth.tr"             tvg-logo=""                                                                                        ,EGE TV
-https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/egetv.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
@@ -150,6 +149,11 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 #https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI CHANNEL
+https://vavoo.to/play/3216602537/index.m3u8
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,KANAL 10
@@ -15955,8 +15959,8 @@ https://vavoo.to/play/1110052705/index.m3u8
 https://vavoo.to/play/3197244632/index.m3u8
 #EXTINF:-1 group-title="Albania ",DRITA TV (6) 	
 https://vavoo.to/play/1754126945/index.m3u8
-#EXTINF:-1 group-title="Albania ",DIZI CHANNEL (6) 	
-https://vavoo.to/play/3216602537/index.m3u8
+
+
 #EXTINF:-1 group-title="Albania ",MELODY TV (6) 	
 https://vavoo.to/play/1069700240/index.m3u8
 #EXTINF:-1 group-title="Albania ",TRING SPORT NEWS (7) 	
