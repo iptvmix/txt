@@ -61,9 +61,10 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://i.imgur.com/xYMyD3M.png"                                                         ,SHOW MAX
-http://stream.tvcdn.net/eglence/show-max.m3u8
+#http://stream.tvcdn.net/eglence/show-max.m3u8
 #https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
-#https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/shmax.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://i.imgur.com/HyVUwFC.png"                                                         ,ATV
 #http://stream.tvcdn.net/ulusal/atv.m3u8
