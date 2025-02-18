@@ -13550,1460 +13550,1464 @@ https://vavoo.to/play/1799700824/index.m3u8
 
 
 
+
+
+
+
 #EXTM3U
-#EXTINF:-1 group-title="Albania" ,21 POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,21 POPULLORE
 https://vavoo.to/play/2346570201/index.m3u8
-#EXTINF:-1 group-title="Albania" ,24 KITCHEN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,24 KITCHEN
 https://vavoo.to/play/1629878879/index.m3u8
-#EXTINF:-1 group-title="Albania" ,24 KITCHEN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,24 KITCHEN
 https://vavoo.to/play/1845492017/index.m3u8
-#EXTINF:-1 group-title="Albania" ,3 PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,3 PLUS
 https://vavoo.to/play/3601055712/index.m3u8
-#EXTINF:-1 group-title="Albania" ,7 NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,7 NEWS
 https://vavoo.to/play/2714068534/index.m3u8
-#EXTINF:-1 group-title="Albania" ,A2 CNN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,A2 CNN
 https://vavoo.to/play/3267133133/index.m3u8
-#EXTINF:-1 group-title="Albania" ,A2 CNN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,A2 CNN
 https://vavoo.to/play/3630529072/index.m3u8
-#EXTINF:-1 group-title="Albania" ,AA NEW YORK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,AA NEW YORK
 https://vavoo.to/play/748035920/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ABC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ABC
 https://vavoo.to/play/4170672753/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ABC NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ABC NEWS
 https://vavoo.to/play/571231321/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ABC NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ABC NEWS
 https://vavoo.to/play/2914513038/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ABC STORY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ABC STORY
 https://vavoo.to/play/413654390/index.m3u8
-#EXTINF:-1 group-title="Albania" ,AHWAZ
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,AHWAZ
 https://vavoo.to/play/2746351095/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALAM (360P) [NOT 24/7]
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALAM (360P) [NOT 24/7]
 https://vavoo.to/play/2249421712/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALB ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALB ISLAM
 https://vavoo.to/play/1779579735/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALB SWISS HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALB SWISS HD
 https://vavoo.to/play/4095618145/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALBAANIA TV CHICAGO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALBAANIA TV CHICAGO
 https://vavoo.to/play/2575540295/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALBKANALE MUZIK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALBKANALE MUZIK
 https://vavoo.to/play/245423842/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALBSE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALBSE
 https://vavoo.to/play/980260065/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALBUK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALBUK
 https://vavoo.to/play/1392822685/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALBUK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALBUK
 https://vavoo.to/play/1053313118/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALSAT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALSAT
 https://vavoo.to/play/2241241082/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALSAT M
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALSAT M
 https://vavoo.to/play/3779788688/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALSAT M
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALSAT M
 https://vavoo.to/play/1537136940/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ALSAT M HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ALSAT M HD
 https://vavoo.to/play/4043346710/index.m3u8
-#EXTINF:-1 group-title="Albania" ,AMOL TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,AMOL TV
 https://vavoo.to/play/4194896858/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ANIMAL PLANET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ANIMAL PLANET
 https://vavoo.to/play/967928593/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ANIMAL PLANET HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ANIMAL PLANET HD
 https://vavoo.to/play/3225026685/index.m3u8
-#EXTINF:-1 group-title="Albania" ,APOLLON TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,APOLLON TV
 https://vavoo.to/play/901526619/index.m3u8
-#EXTINF:-1 group-title="Albania" ,APOLLON TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,APOLLON TV
 https://vavoo.to/play/963000117/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARABIYA (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARABIYA (FHD)
 https://vavoo.to/play/3983844347/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARABIYA AL HADATH (FHD) [NOT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARABIYA AL HADATH (FHD) [NOT
 https://vavoo.to/play/618341186/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARENA SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARENA SPORT 1
 https://vavoo.to/play/172273754/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARENA SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARENA SPORT 2
 https://vavoo.to/play/1306839690/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARENA SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARENA SPORT 4
 https://vavoo.to/play/3265543978/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARENA SPORT 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARENA SPORT 5
 https://vavoo.to/play/4291040922/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART DOKU 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART DOKU 1
 https://vavoo.to/play/548969189/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART DOKU 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART DOKU 2
 https://vavoo.to/play/1729683509/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART KINO 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART KINO 1
 https://vavoo.to/play/703034630/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART KINO 1 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART KINO 1 HD
 https://vavoo.to/play/2600890787/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART KINO 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART KINO 2
 https://vavoo.to/play/1850150870/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART KINO 2 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART KINO 2 HD
 https://vavoo.to/play/361330240/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART KINO 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART KINO 3
 https://vavoo.to/play/1395074662/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 1
 https://vavoo.to/play/3586832779/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 1
 https://vavoo.to/play/1729459361/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 1 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 1 HD
 https://vavoo.to/play/1144238417/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 2
 https://vavoo.to/play/548736625/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 2
 https://vavoo.to/play/2456470363/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 2 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 2 HD
 https://vavoo.to/play/3401365170/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 3
 https://vavoo.to/play/2936728299/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 3
 https://vavoo.to/play/500508609/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 3 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 3 HD
 https://vavoo.to/play/102151724/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 4
 https://vavoo.to/play/489305851/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ART SPORT 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ART SPORT 5
 https://vavoo.to/play/541728587/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARTA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARTA
 https://vavoo.to/play/188403960/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ARTI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ARTI TV
 https://vavoo.to/play/1255736183/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ASHKALI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ASHKALI TV
 https://vavoo.to/play/532224411/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ASHKALI TV 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ASHKALI TV 1
 https://vavoo.to/play/2788763044/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ASHKALI TV 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ASHKALI TV 3
 https://vavoo.to/play/3707336388/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ATD TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ATD TV
 https://vavoo.to/play/3946743705/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ATV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ATV
 https://vavoo.to/play/4162907038/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ATV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ATV
 https://vavoo.to/play/2232980229/index.m3u8
-#EXTINF:-1 group-title="Albania" ,AYAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,AYAM
 https://vavoo.to/play/1371293854/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BABY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BABY TV
 https://vavoo.to/play/3166917965/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BABY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BABY TV
 https://vavoo.to/play/102200305/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BABY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BABY TV
 https://vavoo.to/play/1728862622/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BALKANIKA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BALKANIKA
 https://vavoo.to/play/1479796180/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BANG BANG
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BANG BANG
 https://vavoo.to/play/2690199992/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BANG BANG
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BANG BANG
 https://vavoo.to/play/3937801799/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BANG BANG
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BANG BANG
 https://vavoo.to/play/2724030116/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BBF MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BBF MUSIC
 https://vavoo.to/play/2645121114/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BBF MUSIC TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BBF MUSIC TV
 https://vavoo.to/play/3246587993/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BBF MUSIC TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BBF MUSIC TV
 https://vavoo.to/play/2409719353/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BESA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BESA
 https://vavoo.to/play/4104386390/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BESA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BESA TV
 https://vavoo.to/play/2714601883/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BESA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BESA TV
 https://vavoo.to/play/2046985544/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER
 https://vavoo.to/play/2550632094/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 1
 https://vavoo.to/play/2757997483/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 1
 https://vavoo.to/play/2744217815/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 1
 https://vavoo.to/play/2290673161/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 2
 https://vavoo.to/play/3828419079/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 2
 https://vavoo.to/play/3475545305/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BIG BROTHER 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BIG BROTHER 2
 https://vavoo.to/play/3821259131/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BLUE SKY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BLUE SKY TV
 https://vavoo.to/play/722381466/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BLUE SKY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BLUE SKY TV
 https://vavoo.to/play/2580637616/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BOOMERANG
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BOOMERANG
 https://vavoo.to/play/4153347955/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BOOMERANG
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BOOMERANG
 https://vavoo.to/play/4119550063/index.m3u8
-#EXTINF:-1 group-title="Albania" ,BUBBLE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,BUBBLE
 https://vavoo.to/play/99684662/index.m3u8
-#EXTINF:-1 group-title="Albania" ,C1 CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,C1 CHANNEL
 https://vavoo.to/play/921954015/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CARTOONITO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CARTOONITO
 https://vavoo.to/play/2951873181/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CIFTELI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CIFTELI TV
 https://vavoo.to/play/2908446371/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINEMAX 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINEMAX 2
 https://vavoo.to/play/2937823354/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV 1
 https://vavoo.to/play/538638939/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV 2
 https://vavoo.to/play/1740275851/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV ACTION
 https://vavoo.to/play/4074461940/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV COMEDY
 https://vavoo.to/play/206144248/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV PREMIERE 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV PREMIERE 1
 https://vavoo.to/play/2665403346/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CINESTAR TV PREMIERE 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CINESTAR TV PREMIERE 2
 https://vavoo.to/play/3648956674/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CITY NEWS ALBANIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CITY NEWS ALBANIA
 https://vavoo.to/play/648671223/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CITY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CITY TV
 https://vavoo.to/play/1787821393/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CITY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CITY TV
 https://vavoo.to/play/2973823362/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CLICK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CLICK
 https://vavoo.to/play/2860143719/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CLUB TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CLUB TV
 https://vavoo.to/play/1640170488/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CUFO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CUFO
 https://vavoo.to/play/2107045114/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CUFO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CUFO
 https://vavoo.to/play/49274168/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CUFO TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CUFO TV
 https://vavoo.to/play/249881603/index.m3u8
-#EXTINF:-1 group-title="Albania" ,CUFO2 TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,CUFO2 TV
 https://vavoo.to/play/1074568444/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK ASHKALI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK ASHKALI
 https://vavoo.to/play/1509148643/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK CKA KA SHPIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK CKA KA SHPIA
 https://vavoo.to/play/407320667/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK FARA E FLLIQT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK FARA E FLLIQT
 https://vavoo.to/play/1683028149/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK GEZUAR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK GEZUAR
 https://vavoo.to/play/1519381746/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK HINDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK HINDI
 https://vavoo.to/play/4031277768/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK INSTRUMENTALE INT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK INSTRUMENTALE INT
 https://vavoo.to/play/3603187173/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK KAFENEJA JONE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK KAFENEJA JONE
 https://vavoo.to/play/3037097418/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK POPULLORE
 https://vavoo.to/play/1989300721/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK STUPCAT SKEÇE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK STUPCAT SKEÇE
 https://vavoo.to/play/3944958227/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DARK TALLAVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DARK TALLAVA
 https://vavoo.to/play/1612565654/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DASMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DASMA
 https://vavoo.to/play/2345015277/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DASMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DASMA
 https://vavoo.to/play/3859453486/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DASMA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DASMA TV
 https://vavoo.to/play/3876927075/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DIELLI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DIELLI
 https://vavoo.to/play/3351792556/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DISCOVERY CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DISCOVERY CHANNEL
 https://vavoo.to/play/2575402282/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DISCOVERY CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DISCOVERY CHANNEL
 https://vavoo.to/play/3240821492/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DISCOVERY CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DISCOVERY CHANNEL
 https://vavoo.to/play/1131363710/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DISCOVERY SCIENCE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DISCOVERY SCIENCE
 https://vavoo.to/play/4067198260/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DISNEY JR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DISNEY JR
 https://vavoo.to/play/3065171646/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DIVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DIVA
 https://vavoo.to/play/1808512931/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DOCUBOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DOCUBOX
 https://vavoo.to/play/3227762500/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DRITA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DRITA
 https://vavoo.to/play/2659561974/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DRITA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DRITA TV
 https://vavoo.to/play/1754126945/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DUCK TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DUCK TV
 https://vavoo.to/play/1406573705/index.m3u8
-#EXTINF:-1 group-title="Albania" ,DUCK TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,DUCK TV
 https://vavoo.to/play/2283376730/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EB FESTIVE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EB FESTIVE
 https://vavoo.to/play/1673851489/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EB HITS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EB HITS
 https://vavoo.to/play/1787159836/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EHSAAN TV (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EHSAAN TV (720P)
 https://vavoo.to/play/1487806223/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EKHBARIYA (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EKHBARIYA (FHD)
 https://vavoo.to/play/3272334314/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ELKALEM TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ELKALEM TV
 https://vavoo.to/play/3712244746/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ELRODI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ELRODI
 https://vavoo.to/play/3378038047/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ELRODI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ELRODI
 https://vavoo.to/play/112491378/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ELRODI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ELRODI TV
 https://vavoo.to/play/2018730890/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EPISODE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EPISODE
 https://vavoo.to/play/392821704/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ERA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ERA TV
 https://vavoo.to/play/3287700720/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ERA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ERA TV
 https://vavoo.to/play/3643756557/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EURO AL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EURO AL
 https://vavoo.to/play/3571582858/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EURO AL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EURO AL
 https://vavoo.to/play/254610265/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EURO FILM 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EURO FILM 1
 https://vavoo.to/play/3617247605/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROFILM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROFILM
 https://vavoo.to/play/1341499575/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROFILM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROFILM
 https://vavoo.to/play/3348497268/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EURONEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EURONEWS
 https://vavoo.to/play/1695721742/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 1
 https://vavoo.to/play/3227015820/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 1
 https://vavoo.to/play/1921488806/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 1
 https://vavoo.to/play/932736266/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 2
 https://vavoo.to/play/891809142/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 2
 https://vavoo.to/play/2281185372/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EUROSPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EUROSPORT 2
 https://vavoo.to/play/1882724314/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER HISTORI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER HISTORI
 https://vavoo.to/play/4241397723/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER HISTORI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER HISTORI
 https://vavoo.to/play/255647294/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER HISTORI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER HISTORI
 https://vavoo.to/play/4011875202/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER NATYRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER NATYRA
 https://vavoo.to/play/4260907450/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER NATYRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER NATYRA
 https://vavoo.to/play/167372315/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER NATYRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER NATYRA
 https://vavoo.to/play/2928231878/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER SHKENCE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER SHKENCE
 https://vavoo.to/play/1630343384/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER SHKENCE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER SHKENCE
 https://vavoo.to/play/2167510372/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXPLORER SHKENCE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXPLORER SHKENCE
 https://vavoo.to/play/2464110909/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXTRA POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXTRA POPULLORE
 https://vavoo.to/play/1211815531/index.m3u8
-#EXTINF:-1 group-title="Albania" ,EXTREAM SPORTS CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,EXTREAM SPORTS CHANNEL
 https://vavoo.to/play/3465441758/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FAMILY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FAMILY
 https://vavoo.to/play/2581109273/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FAMILY HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FAMILY HD
 https://vavoo.to/play/2325392178/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FASHION TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FASHION TV
 https://vavoo.to/play/1792604689/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FAST&FUNBOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FAST&FUNBOX
 https://vavoo.to/play/3499553063/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FAX NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FAX NEWS
 https://vavoo.to/play/2556105227/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FERMA 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FERMA 1
 https://vavoo.to/play/3349174478/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FERMA 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FERMA 2
 https://vavoo.to/play/2147492382/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FIGHT BOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FIGHT BOX
 https://vavoo.to/play/3408901292/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM ACTION
 https://vavoo.to/play/2260301635/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AKSION
 https://vavoo.to/play/933551170/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AKSION
 https://vavoo.to/play/2239435112/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AKSION HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AKSION HD
 https://vavoo.to/play/892299779/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AUTOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AUTOR
 https://vavoo.to/play/1938656552/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AUTOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AUTOR
 https://vavoo.to/play/2136444486/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM AUTOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM AUTOR
 https://vavoo.to/play/202528438/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM BOX ARTHOUSE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM BOX ARTHOUSE
 https://vavoo.to/play/3709985633/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM BOX PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM BOX PLUS
 https://vavoo.to/play/985970962/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM DRAME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM DRAME
 https://vavoo.to/play/2515246048/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM DRAME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM DRAME
 https://vavoo.to/play/2570164366/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM DRAME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM DRAME
 https://vavoo.to/play/3870180112/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM DY FHD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM DY FHD
 https://vavoo.to/play/3499733874/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM DY HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM DY HD
 https://vavoo.to/play/4222132244/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM FAMILY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM FAMILY
 https://vavoo.to/play/3488389802/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD
 https://vavoo.to/play/991275578/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD
 https://vavoo.to/play/957480230/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD 1
 https://vavoo.to/play/1680183155/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD 2
 https://vavoo.to/play/595981731/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD 3
 https://vavoo.to/play/518380563/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM GOLD 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM GOLD 4
 https://vavoo.to/play/2898591747/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM HITS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM HITS
 https://vavoo.to/play/3164620488/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM HITS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM HITS
 https://vavoo.to/play/3198423508/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM HITS HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM HITS HD
 https://vavoo.to/play/2996800511/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM KOMEDI
 https://vavoo.to/play/1308852885/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM KOMEDI
 https://vavoo.to/play/186415161/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM KOMEDI
 https://vavoo.to/play/3116610835/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM MAX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM MAX
 https://vavoo.to/play/4112554070/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM NJE HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM NJE HD
 https://vavoo.to/play/1736732835/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM STINET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM STINET
 https://vavoo.to/play/1984852533/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM THRILLER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM THRILLER
 https://vavoo.to/play/696506922/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM THRILLER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM THRILLER
 https://vavoo.to/play/779163990/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILM THRILLER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILM THRILLER
 https://vavoo.to/play/43666676/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 ACTION
 https://vavoo.to/play/1348783835/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 ADVENTURE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 ADVENTURE
 https://vavoo.to/play/2274414477/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 ANIMATION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 ANIMATION
 https://vavoo.to/play/4095823402/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 ANIMUAR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 ANIMUAR
 https://vavoo.to/play/40260334/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 AVENTURE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 AVENTURE
 https://vavoo.to/play/4030451580/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 AZIATIK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 AZIATIK
 https://vavoo.to/play/1549277721/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 BIOGRAFI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 BIOGRAFI
 https://vavoo.to/play/157489093/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 DOKUMENTAR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 DOKUMENTAR
 https://vavoo.to/play/1213025632/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 DRAME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 DRAME
 https://vavoo.to/play/4231522809/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 FAMILY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 FAMILY
 https://vavoo.to/play/2884562456/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 FANTAZI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 FANTAZI
 https://vavoo.to/play/812889919/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 HINDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 HINDI
 https://vavoo.to/play/795212720/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 HISTORY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 HISTORY
 https://vavoo.to/play/4040234841/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 HITS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 HITS
 https://vavoo.to/play/1679095367/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 HORROR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 HORROR
 https://vavoo.to/play/1289989429/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 KOMEDI
 https://vavoo.to/play/3720462753/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 KRIM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 KRIM
 https://vavoo.to/play/4024041782/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 MISTER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 MISTER
 https://vavoo.to/play/3610315065/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 PREMIERE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 PREMIERE
 https://vavoo.to/play/1857198492/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 PREMIUM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 PREMIUM
 https://vavoo.to/play/1815178739/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 ROMANCE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 ROMANCE
 https://vavoo.to/play/706936308/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 SCI-FI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 SCI-FI
 https://vavoo.to/play/2119655130/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 TURK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 TURK
 https://vavoo.to/play/1773607879/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FILMA24 WESTERN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FILMA24 WESTERN
 https://vavoo.to/play/2706625286/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FIRST CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FIRST CHANNEL
 https://vavoo.to/play/3534066607/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FIRST TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FIRST TV
 https://vavoo.to/play/242648107/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FLUTRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FLUTRA
 https://vavoo.to/play/2991919499/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLK
 https://vavoo.to/play/1823018509/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLK PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLK PLUS
 https://vavoo.to/play/1756972531/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLK+
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLK+
 https://vavoo.to/play/620187023/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLK+
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLK+
 https://vavoo.to/play/1228655692/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLKLORIT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLKLORIT
 https://vavoo.to/play/2225388219/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOLKLORIT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOLKLORIT
 https://vavoo.to/play/2258693543/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX
 https://vavoo.to/play/2526994866/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX
 https://vavoo.to/play/3953563945/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX CRIME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX CRIME
 https://vavoo.to/play/709327442/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX CRIME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX CRIME
 https://vavoo.to/play/675491150/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX LIFE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX LIFE
 https://vavoo.to/play/1753409304/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX LIFE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX LIFE
 https://vavoo.to/play/1868230668/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX LIFE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX LIFE
 https://vavoo.to/play/3772861659/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX MOVIES
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX MOVIES
 https://vavoo.to/play/3008034894/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX MOVIES
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX MOVIES
 https://vavoo.to/play/3213949728/index.m3u8
-#EXTINF:-1 group-title="Albania" ,FOX NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,FOX NEWS
 https://vavoo.to/play/3455397401/index.m3u8
-#EXTINF:-1 group-title="Albania" ,GLOBI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,GLOBI TV
 https://vavoo.to/play/3803363157/index.m3u8
-#EXTINF:-1 group-title="Albania" ,GOLD 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,GOLD 4
 https://vavoo.to/play/221329206/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HAYAT TV (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HAYAT TV (720P)
 https://vavoo.to/play/1022337640/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HAYAT TV (720P) (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HAYAT TV (720P) (BACKUP)
 https://vavoo.to/play/4205048814/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HBO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HBO
 https://vavoo.to/play/2835333795/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HBO 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HBO 2
 https://vavoo.to/play/618074872/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HBO 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HBO 3
 https://vavoo.to/play/431438664/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HETUESIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HETUESIA
 https://vavoo.to/play/455329320/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HISTORI SHQIPTARE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HISTORI SHQIPTARE
 https://vavoo.to/play/1171291550/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HISTORY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HISTORY
 https://vavoo.to/play/1156728350/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HORREYA TV (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HORREYA TV (720P)
 https://vavoo.to/play/200875109/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HS HORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HS HORE
 https://vavoo.to/play/861206216/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HS TALLAVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HS TALLAVA
 https://vavoo.to/play/1486253964/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HS TALLAVA CLASSICS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HS TALLAVA CLASSICS
 https://vavoo.to/play/1849941777/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HUMOR TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HUMOR TV
 https://vavoo.to/play/429220798/index.m3u8
-#EXTINF:-1 group-title="Albania" ,HUMOR TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,HUMOR TV
 https://vavoo.to/play/2448869501/index.m3u8
-#EXTINF:-1 group-title="Albania" ,INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,INVESTIGATION DISCOVERY
 https://vavoo.to/play/1343767757/index.m3u8
-#EXTINF:-1 group-title="Albania" ,IRAQIA (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,IRAQIA (720P)
 https://vavoo.to/play/2240654295/index.m3u8
-#EXTINF:-1 group-title="Albania" ,IRAQIA NEWS (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,IRAQIA NEWS (720P)
 https://vavoo.to/play/2405636391/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ISTIQAMA TV (576P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ISTIQAMA TV (576P)
 https://vavoo.to/play/3031879705/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ISTOGU CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ISTOGU CHANNEL
 https://vavoo.to/play/3537563130/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ISTOGU CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ISTOGU CHANNEL
 https://vavoo.to/play/2873315529/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ITTIHAD (552P) [NOT 24/7]
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ITTIHAD (552P) [NOT 24/7]
 https://vavoo.to/play/955004834/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JAZEERA DOCUMENTARY (270P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JAZEERA DOCUMENTARY (270P)
 https://vavoo.to/play/3957914671/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JAZEERA DOCUMENTARY (270P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JAZEERA DOCUMENTARY (270P)
 https://vavoo.to/play/3395317453/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JAZEERA MUBASHER (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JAZEERA MUBASHER (FHD)
 https://vavoo.to/play/314704738/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JAZEERA MUBASHER (FHD) (BACK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JAZEERA MUBASHER (FHD) (BACK
 https://vavoo.to/play/2594611832/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JOLLY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JOLLY
 https://vavoo.to/play/1557413260/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JOLLY HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JOLLY HD
 https://vavoo.to/play/1558588609/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JUG TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JUG TV
 https://vavoo.to/play/1595921758/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JUNIOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JUNIOR
 https://vavoo.to/play/400173387/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JUNIOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JUNIOR
 https://vavoo.to/play/218312118/index.m3u8
-#EXTINF:-1 group-title="Albania" ,JUNIOR TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,JUNIOR TV
 https://vavoo.to/play/2349827290/index.m3u8
-#EXTINF:-1 group-title="Albania" ,K SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,K SPORT 1
 https://vavoo.to/play/3133194008/index.m3u8
-#EXTINF:-1 group-title="Albania" ,K SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,K SPORT 2
 https://vavoo.to/play/4250977736/index.m3u8
-#EXTINF:-1 group-title="Albania" ,K SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,K SPORT 3
 https://vavoo.to/play/3221286008/index.m3u8
-#EXTINF:-1 group-title="Albania" ,K SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,K SPORT 4
 https://vavoo.to/play/1914712168/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANAL 10
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANAL 10
 https://vavoo.to/play/4212188508/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANAL 10
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANAL 10
 https://vavoo.to/play/4241027656/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANAL D DRAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANAL D DRAMA
 https://vavoo.to/play/3007582774/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANAL D DRAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANAL D DRAMA
 https://vavoo.to/play/2556265704/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANALI 7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANALI 7
 https://vavoo.to/play/271539603/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANALI 7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANALI 7
 https://vavoo.to/play/2555180624/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANALI 7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANALI 7
 https://vavoo.to/play/2677334340/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KANALI 7 NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KANALI 7 NEWS
 https://vavoo.to/play/1851824282/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KHALIJ (720P) [NOT 24/7]
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KHALIJ (720P) [NOT 24/7]
 https://vavoo.to/play/914147524/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KIDS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KIDS
 https://vavoo.to/play/3872768637/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KIDS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KIDS
 https://vavoo.to/play/683634888/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KINEMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KINEMA
 https://vavoo.to/play/532993341/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN
 https://vavoo.to/play/2085629786/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN KOSOVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN KOSOVA
 https://vavoo.to/play/4029432528/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN KOSOVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN KOSOVA
 https://vavoo.to/play/3040065660/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN KOSOVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN KOSOVA
 https://vavoo.to/play/1123258362/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN KOSOVA HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN KOSOVA HD
 https://vavoo.to/play/3340348124/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN MACEDONIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN MACEDONIA
 https://vavoo.to/play/1797959203/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN MUSIC
 https://vavoo.to/play/2055584340/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN MUSIC
 https://vavoo.to/play/1985984826/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN NEWS
 https://vavoo.to/play/3335774691/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN NEWS
 https://vavoo.to/play/3302471423/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN PLUS
 https://vavoo.to/play/1974890814/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN PLUS
 https://vavoo.to/play/2008163874/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN PLUS HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN PLUS HD
 https://vavoo.to/play/1728418097/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN TV
 https://vavoo.to/play/3344417331/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KLAN TV HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KLAN TV HD
 https://vavoo.to/play/600855662/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KOHA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KOHA TV
 https://vavoo.to/play/3812096891/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KOMEDI
 https://vavoo.to/play/4025988512/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KORCA PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KORCA PLUS
 https://vavoo.to/play/701897229/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS ACTION
 https://vavoo.to/play/3771639848/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS CIFTELIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS CIFTELIA
 https://vavoo.to/play/3058788491/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS COMEDY
 https://vavoo.to/play/509374500/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS EPIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS EPIC
 https://vavoo.to/play/1182035655/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS FESTIVE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS FESTIVE
 https://vavoo.to/play/3251558590/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS HOME ALONE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS HOME ALONE
 https://vavoo.to/play/434945168/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS ISLAM
 https://vavoo.to/play/355114739/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS ISLAM FILM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS ISLAM FILM
 https://vavoo.to/play/1719232329/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS KIDS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS KIDS
 https://vavoo.to/play/3339847432/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS POPULLORE
 https://vavoo.to/play/2695419137/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIER 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIER 1
 https://vavoo.to/play/58627140/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIER 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIER 2
 https://vavoo.to/play/1155460756/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIER 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIER 3
 https://vavoo.to/play/2042545956/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIER 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIER 4
 https://vavoo.to/play/3416136500/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIERE 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIERE 1
 https://vavoo.to/play/2148590865/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIERE 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIERE 2
 https://vavoo.to/play/3350241217/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIERE 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIERE 3
 https://vavoo.to/play/4207982193/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS PREMIERE 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS PREMIERE 4
 https://vavoo.to/play/1223715425/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KS THRILLER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KS THRILLER
 https://vavoo.to/play/861405582/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KSPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KSPORT 1
 https://vavoo.to/play/4150813159/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KSPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KSPORT 2
 https://vavoo.to/play/2965904183/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KTV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KTV
 https://vavoo.to/play/3896482836/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KTV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KTV
 https://vavoo.to/play/1548793040/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KTV HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KTV HD
 https://vavoo.to/play/2038668692/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KTV KOHAVISION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KTV KOHAVISION
 https://vavoo.to/play/3488142072/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 1
 https://vavoo.to/play/87812266/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 1 [LIVE DURING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 1 [LIVE DURING
 https://vavoo.to/play/158095501/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 2
 https://vavoo.to/play/1117491834/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 2 [LIVE DURING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 2 [LIVE DURING
 https://vavoo.to/play/440689150/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 3
 https://vavoo.to/play/2147204042/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 3 [LIVE DURING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 3 [LIVE DURING
 https://vavoo.to/play/346261807/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 4
 https://vavoo.to/play/3453708250/index.m3u8
-#EXTINF:-1 group-title="Albania" ,KUJTESA SPORT 4 [LIVE DURING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,KUJTESA SPORT 4 [LIVE DURING
 https://vavoo.to/play/1007948568/index.m3u8
-#EXTINF:-1 group-title="Albania" ,LIRIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,LIRIA
 https://vavoo.to/play/3726501858/index.m3u8
-#EXTINF:-1 group-title="Albania" ,LIRIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,LIRIA
 https://vavoo.to/play/3016844833/index.m3u8
-#EXTINF:-1 group-title="Albania" ,LIVING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,LIVING
 https://vavoo.to/play/2263551325/index.m3u8
-#EXTINF:-1 group-title="Albania" ,LIVING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,LIVING
 https://vavoo.to/play/2620524960/index.m3u8
-#EXTINF:-1 group-title="Albania" ,LUGINA ISLAM 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,LUGINA ISLAM 2
 https://vavoo.to/play/2414744747/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MAALI TV (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MAALI TV (FHD)
 https://vavoo.to/play/138464088/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MAAREF (350P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MAAREF (350P)
 https://vavoo.to/play/4227869646/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MAHDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MAHDI
 https://vavoo.to/play/3167847694/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MALISHEVA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MALISHEVA TV
 https://vavoo.to/play/1563592198/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MAMLAKA TV (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MAMLAKA TV (FHD)
 https://vavoo.to/play/2479289845/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MANAR (576P) [NOT 24/7]
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MANAR (576P) [NOT 24/7]
 https://vavoo.to/play/2623142807/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MASAR TV (576P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MASAR TV (576P)
 https://vavoo.to/play/393557921/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MASIRAH MUBACHER (642P) [NOT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MASIRAH MUBACHER (642P) [NOT
 https://vavoo.to/play/356539331/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MAYADEEN (576P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MAYADEEN (576P)
 https://vavoo.to/play/674932316/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MCN 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MCN 24
 https://vavoo.to/play/2503777293/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MCN TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MCN TV
 https://vavoo.to/play/2998554778/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MCN TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MCN TV
 https://vavoo.to/play/2825081959/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MEKKA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MEKKA
 https://vavoo.to/play/3361040509/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MELODY TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MELODY TV
 https://vavoo.to/play/1069700240/index.m3u8
-#EXTINF:-1 group-title="Albania" ,METITV EPIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,METITV EPIC
 https://vavoo.to/play/490981341/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MFM MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MFM MUSIC
 https://vavoo.to/play/2566547016/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MIMI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MIMI TV
 https://vavoo.to/play/624572729/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MRT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MRT 2
 https://vavoo.to/play/451817323/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MTV KOSOVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MTV KOSOVA
 https://vavoo.to/play/4290901514/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MTV KOSOVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MTV KOSOVA
 https://vavoo.to/play/4078695780/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MUSE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MUSE TV
 https://vavoo.to/play/2446455375/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MUSE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MUSE TV
 https://vavoo.to/play/1243545244/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MUSIC HITS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MUSIC HITS
 https://vavoo.to/play/344556301/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MY MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MY MUSIC
 https://vavoo.to/play/3463796704/index.m3u8
-#EXTINF:-1 group-title="Albania" ,MY MUSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,MY MUSIC
 https://vavoo.to/play/3383574772/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NAEEM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NAEEM
 https://vavoo.to/play/3663179118/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NAT GEO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NAT GEO
 https://vavoo.to/play/829890668/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NAT GEO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NAT GEO
 https://vavoo.to/play/3937938623/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NAT GEO WILD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NAT GEO WILD
 https://vavoo.to/play/1793673705/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NATIONAL GEOGRAPHIC
 https://vavoo.to/play/312370955/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NEWS 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NEWS 24
 https://vavoo.to/play/775272639/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NEWS 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NEWS 24
 https://vavoo.to/play/4126848108/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NEWS 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NEWS 24
 https://vavoo.to/play/1328452304/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NOJABA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NOJABA
 https://vavoo.to/play/3734062431/index.m3u8
-#EXTINF:-1 group-title="Albania" ,NTV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,NTV
 https://vavoo.to/play/1934681068/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ON TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ON TV
 https://vavoo.to/play/4213852651/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY AKSION
 https://vavoo.to/play/1522986774/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY CLASSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY CLASSIC
 https://vavoo.to/play/3430711911/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY COLLECTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY COLLECTION
 https://vavoo.to/play/2010190234/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY EXTRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY EXTRA
 https://vavoo.to/play/4238838560/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY FAMILY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY FAMILY
 https://vavoo.to/play/273769684/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY NETFLIX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY NETFLIX
 https://vavoo.to/play/2941752943/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY PREMIUM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY PREMIUM
 https://vavoo.to/play/4267203810/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY PRIME 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY PRIME 1
 https://vavoo.to/play/3087094846/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY PRIME 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY PRIME 2
 https://vavoo.to/play/4288753390/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY PRIME 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY PRIME 3
 https://vavoo.to/play/3267430238/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ONEPLAY PRIME 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ONEPLAY PRIME 4
 https://vavoo.to/play/1893849934/index.m3u8
-#EXTINF:-1 group-title="Albania" ,OPINIONI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,OPINIONI
 https://vavoo.to/play/504930965/index.m3u8
-#EXTINF:-1 group-title="Albania" ,OPOJA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,OPOJA TV
 https://vavoo.to/play/2685175241/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ORA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ORA
 https://vavoo.to/play/3518906583/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ORA NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ORA NEWS
 https://vavoo.to/play/3915194482/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ORA NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ORA NEWS
 https://vavoo.to/play/1631488945/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ORA NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ORA NEWS
 https://vavoo.to/play/4001707878/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PANORAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PANORAMA
 https://vavoo.to/play/3002734513/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PANORAMA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PANORAMA TV
 https://vavoo.to/play/2428038388/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PEACE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PEACE TV
 https://vavoo.to/play/922818527/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PEACE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PEACE TV
 https://vavoo.to/play/3210918940/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PEACE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PEACE TV
 https://vavoo.to/play/3099241224/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PENDIMI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PENDIMI
 https://vavoo.to/play/1102055734/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PLANET FHD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PLANET FHD
 https://vavoo.to/play/3226642061/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PODUJEVA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PODUJEVA TV
 https://vavoo.to/play/3021505431/index.m3u8
-#EXTINF:-1 group-title="Albania" ,POLLOGU
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,POLLOGU
 https://vavoo.to/play/3436889619/index.m3u8
-#EXTINF:-1 group-title="Albania" ,POLLOGU
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,POLLOGU
 https://vavoo.to/play/387304128/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PORTOKALLI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PORTOKALLI
 https://vavoo.to/play/4193652427/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PREMIER SPORTS 2 [LIVE DURIN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PREMIER SPORTS 2 [LIVE DURIN
 https://vavoo.to/play/2346606368/index.m3u8
-#EXTINF:-1 group-title="Albania" ,PREMIUM CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,PREMIUM CHANNEL
 https://vavoo.to/play/1686084066/index.m3u8
-#EXTINF:-1 group-title="Albania" ,QANAT 9 (720P)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,QANAT 9 (720P)
 https://vavoo.to/play/917032674/index.m3u8
-#EXTINF:-1 group-title="Albania" ,QURAN AL KAREEM TV (MECCA)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,QURAN AL KAREEM TV (MECCA)
 https://vavoo.to/play/3705639504/index.m3u8
-#EXTINF:-1 group-title="Albania" ,QURAN TV MAKKAH
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,QURAN TV MAKKAH
 https://vavoo.to/play/3353185568/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RASHEED (408P) [NOT 24/7] (1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RASHEED (408P) [NOT 24/7] (1
 https://vavoo.to/play/3461777583/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RAYYAN (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RAYYAN (FHD)
 https://vavoo.to/play/602542137/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RAYYAN AL QADEEM (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RAYYAN AL QADEEM (FHD)
 https://vavoo.to/play/2877898180/index.m3u8
-#EXTINF:-1 group-title="Albania" ,REPORT TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,REPORT TV
 https://vavoo.to/play/1283874649/index.m3u8
-#EXTINF:-1 group-title="Albania" ,REPORT TV HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,REPORT TV HD
 https://vavoo.to/play/1830423484/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ROZAFA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ROZAFA
 https://vavoo.to/play/3508333972/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RROKUM TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RROKUM TV
 https://vavoo.to/play/1335753847/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RROKUM TV HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RROKUM TV HD
 https://vavoo.to/play/1849114921/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 1
 https://vavoo.to/play/335723640/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 1
 https://vavoo.to/play/2430389054/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 1
 https://vavoo.to/play/2043559355/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 2
 https://vavoo.to/play/3615273454/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 2
 https://vavoo.to/play/1047414635/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 2
 https://vavoo.to/play/1403176616/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 3
 https://vavoo.to/play/51277531/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 3
 https://vavoo.to/play/1858268952/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 3
 https://vavoo.to/play/3927742558/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 4
 https://vavoo.to/play/1480344654/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 4
 https://vavoo.to/play/3705811720/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK 4
 https://vavoo.to/play/2972627659/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTK HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTK HD
 https://vavoo.to/play/1166414668/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 1
 https://vavoo.to/play/1224239029/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 1
 https://vavoo.to/play/1377919816/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 2
 https://vavoo.to/play/360782232/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 2
 https://vavoo.to/play/257432933/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 24
 https://vavoo.to/play/1049131028/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 24
 https://vavoo.to/play/3846665415/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 3
 https://vavoo.to/play/685846568/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH 3
 https://vavoo.to/play/842544341/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH AGRO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH AGRO
 https://vavoo.to/play/3216192299/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH FEMIJE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH FEMIJE
 https://vavoo.to/play/34330458/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH FEMIJE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH FEMIJE
 https://vavoo.to/play/4123779292/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH FEMIJE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH FEMIJE
 https://vavoo.to/play/1192504822/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH FILM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH FILM
 https://vavoo.to/play/2790617572/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH FILM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH FILM
 https://vavoo.to/play/2756781816/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH GJIROKASTRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH GJIROKASTRA
 https://vavoo.to/play/1779753158/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH GJIROKASTRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH GJIROKASTRA
 https://vavoo.to/play/2315806074/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH KORCA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH KORCA
 https://vavoo.to/play/3082721844/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH KORCA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH KORCA
 https://vavoo.to/play/3143932250/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH KUKESI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH KUKESI
 https://vavoo.to/play/1276376252/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH KUVEND
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH KUVEND
 https://vavoo.to/play/3967092146/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH KUVEND
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH KUVEND
 https://vavoo.to/play/1588250776/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH MUZIKE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH MUZIKE
 https://vavoo.to/play/2920710119/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH MUZIKE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH MUZIKE
 https://vavoo.to/play/482980557/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH MUZIKE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH MUZIKE
 https://vavoo.to/play/3943269707/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH PLUS
 https://vavoo.to/play/3082046275/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH PLUS
 https://vavoo.to/play/3048217695/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SAT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SAT
 https://vavoo.to/play/4138157493/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SATELIT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SATELIT
 https://vavoo.to/play/2561675309/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SHKODRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SHKODRA
 https://vavoo.to/play/1960971842/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SHKOLLE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SHKOLLE
 https://vavoo.to/play/2337375502/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SHQIP
 https://vavoo.to/play/1800075235/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SHQIP
 https://vavoo.to/play/1737553037/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SPORT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SPORT
 https://vavoo.to/play/1673424152/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTSH SPORT
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTSH SPORT
 https://vavoo.to/play/1868852854/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21
 https://vavoo.to/play/968062638/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21
 https://vavoo.to/play/4133472451/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21
 https://vavoo.to/play/3968257086/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 HD
 https://vavoo.to/play/4057281262/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 JUNIOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 JUNIOR
 https://vavoo.to/play/4215996741/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 JUNIOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 JUNIOR
 https://vavoo.to/play/4240032313/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 JUNIOR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 JUNIOR
 https://vavoo.to/play/3495073691/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 MACEDONIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 MACEDONIA
 https://vavoo.to/play/2216491777/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 MIX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 MIX
 https://vavoo.to/play/2762986130/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 MIX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 MIX
 https://vavoo.to/play/3622439522/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 MIX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 MIX
 https://vavoo.to/play/3677358348/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 PLUS
 https://vavoo.to/play/1831305358/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 PLUS
 https://vavoo.to/play/2598876936/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 PLUS
 https://vavoo.to/play/674789922/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 POPULLORE
 https://vavoo.to/play/1929346731/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 POPULLORE
 https://vavoo.to/play/2165126990/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV 21 POPULLORE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV 21 POPULLORE
 https://vavoo.to/play/1628549874/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ALDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ALDI
 https://vavoo.to/play/3045536987/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ARBERIA 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ARBERIA 1
 https://vavoo.to/play/191420408/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ARBERIA 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ARBERIA 2
 https://vavoo.to/play/1288219944/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ARBERIA 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ARBERIA 4
 https://vavoo.to/play/3280492680/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ARBERIA 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ARBERIA 5
 https://vavoo.to/play/4276646200/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV DUKAGJINI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV DUKAGJINI
 https://vavoo.to/play/2633616807/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV DUKAGJINI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV DUKAGJINI
 https://vavoo.to/play/2601193179/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV DUKAGJINI HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV DUKAGJINI HD
 https://vavoo.to/play/1866257977/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV FONTANA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV FONTANA
 https://vavoo.to/play/1049698532/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV FONTANA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV FONTANA
 https://vavoo.to/play/3377534818/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ILIRIDA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ILIRIDA
 https://vavoo.to/play/1982097006/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ISLAM
 https://vavoo.to/play/2011487496/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ISLAM
 https://vavoo.to/play/1057992171/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV ISLAM
 https://vavoo.to/play/1024195319/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV PENDIMI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV PENDIMI
 https://vavoo.to/play/2520840326/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV PENDIMI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV PENDIMI
 https://vavoo.to/play/614413740/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV PENDIMI HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV PENDIMI HD
 https://vavoo.to/play/2833528379/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV PRESHEVA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV PRESHEVA
 https://vavoo.to/play/3667032618/index.m3u8
-#EXTINF:-1 group-title="Albania" ,RTV SHARRI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,RTV SHARRI
 https://vavoo.to/play/2144127034/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SCAN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SCAN
 https://vavoo.to/play/1514101999/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SCAN TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SCAN TV
 https://vavoo.to/play/1131583071/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHALLAL TV (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHALLAL TV (FHD)
 https://vavoo.to/play/1912454772/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHARQIYA (FHD) [NOT 24/7] (1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHARQIYA (FHD) [NOT 24/7] (1
 https://vavoo.to/play/1099657208/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHARQIYA MIN KABLA (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHARQIYA MIN KABLA (FHD)
 https://vavoo.to/play/4204184262/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHARQIYA NEWS (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHARQIYA NEWS (FHD)
 https://vavoo.to/play/3248572671/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHENJA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHENJA TV
 https://vavoo.to/play/480205731/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHOTA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHOTA TV
 https://vavoo.to/play/1452418318/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHOTA TV 4K UHD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHOTA TV 4K UHD
 https://vavoo.to/play/1687535907/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHQIP TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHQIP TV
 https://vavoo.to/play/2243106770/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SHQIPTV ISLAM
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SHQIPTV ISLAM
 https://vavoo.to/play/2857646144/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SIRAT TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SIRAT TV
 https://vavoo.to/play/419132464/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY ACTION
 https://vavoo.to/play/4274270452/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY AKSION
 https://vavoo.to/play/1016873733/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY AKSION
 https://vavoo.to/play/809910379/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY COMEDY
 https://vavoo.to/play/1930637320/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY COMEDY
 https://vavoo.to/play/2143892326/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY DRAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY DRAMA
 https://vavoo.to/play/3790428502/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY DRAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY DRAMA
 https://vavoo.to/play/3823701578/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY KOMEDI
 https://vavoo.to/play/1935753102/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY KOMEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY KOMEDI
 https://vavoo.to/play/218031120/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY MAX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY MAX
 https://vavoo.to/play/1599703284/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY MAX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY MAX
 https://vavoo.to/play/3851267656/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY NOVELA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY NOVELA
 https://vavoo.to/play/469747947/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY SHQIP
 https://vavoo.to/play/1710767079/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SKY STAR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SKY STAR
 https://vavoo.to/play/3480600811/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SOFIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SOFIA
 https://vavoo.to/play/2505464539/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SOFIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SOFIA
 https://vavoo.to/play/4170898200/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SOLE TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SOLE TV
 https://vavoo.to/play/2490410943/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SPORT KOSOVA 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SPORT KOSOVA 1
 https://vavoo.to/play/962373430/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SPORT KOSOVA 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SPORT KOSOVA 2
 https://vavoo.to/play/2130501094/index.m3u8
-#EXTINF:-1 group-title="Albania" ,STAR PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,STAR PLUS
 https://vavoo.to/play/2922424817/index.m3u8
-#EXTINF:-1 group-title="Albania" ,STATION BOX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,STATION BOX
 https://vavoo.to/play/1173665378/index.m3u8
-#EXTINF:-1 group-title="Albania" ,STINET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,STINET
 https://vavoo.to/play/4019637483/index.m3u8
-#EXTINF:-1 group-title="Albania" ,STINET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,STINET
 https://vavoo.to/play/544895622/index.m3u8
-#EXTINF:-1 group-title="Albania" ,STV FOLK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,STV FOLK
 https://vavoo.to/play/2208086589/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUNNAH AL NABAWIYAH TV (MEDI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUNNAH AL NABAWIYAH TV (MEDI
 https://vavoo.to/play/3910366290/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SONIC TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SONIC TV
 https://vavoo.to/play/4066508938/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 1
 https://vavoo.to/play/785975158/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 1
 https://vavoo.to/play/36852436/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 1 (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 1 (BACKUP)
 https://vavoo.to/play/1610403957/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 2
 https://vavoo.to/play/1769569702/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 2
 https://vavoo.to/play/1167206404/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 2 (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 2 (BACKUP)
 https://vavoo.to/play/597554606/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 2 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 2 HD
 https://vavoo.to/play/1298893472/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 3
 https://vavoo.to/play/1410946070/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 3
 https://vavoo.to/play/2029126068/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 3 (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 3 (BACKUP)
 https://vavoo.to/play/3197244632/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 3 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 3 HD
 https://vavoo.to/play/2176944702/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 4
 https://vavoo.to/play/3402816932/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 4
 https://vavoo.to/play/3862530054/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 4 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 4 HD
 https://vavoo.to/play/2332328743/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 5
 https://vavoo.to/play/4155700244/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 5 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 5 HD
 https://vavoo.to/play/1202619321/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT 6 [LIVE DURING E
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT 6 [LIVE DURING E
 https://vavoo.to/play/1254469653/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORT NEWS HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORT NEWS HD
 https://vavoo.to/play/230379861/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORTS 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORTS 5
 https://vavoo.to/play/2457701096/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPER SPORTS NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPER SPORTS NEWS
 https://vavoo.to/play/2432288079/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 1
 https://vavoo.to/play/3330308820/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 2
 https://vavoo.to/play/2166358020/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 3
 https://vavoo.to/play/3158321588/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 4
 https://vavoo.to/play/241235364/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 5
 https://vavoo.to/play/855694356/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 6
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 6
 https://vavoo.to/play/1956685508/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT 7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT 7
 https://vavoo.to/play/1237356404/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SUPERSPORT NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SUPERSPORT NEWS
 https://vavoo.to/play/3389628664/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SYRI NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SYRI NEWS
 https://vavoo.to/play/1772402443/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SYRI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SYRI TV
 https://vavoo.to/play/934935552/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SYRI VISION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SYRI VISION
 https://vavoo.to/play/2156978920/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SYRI VISION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SYRI VISION
 https://vavoo.to/play/3314489412/index.m3u8
-#EXTINF:-1 group-title="Albania" ,SYRI VIZION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,SYRI VIZION
 https://vavoo.to/play/754988265/index.m3u8
-#EXTINF:-1 group-title="Albania" ,T CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,T CHANNEL
 https://vavoo.to/play/3359578333/index.m3u8
-#EXTINF:-1 group-title="Albania" ,T HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,T HD
 https://vavoo.to/play/906547600/index.m3u8
-#EXTINF:-1 group-title="Albania" ,T7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,T7
 https://vavoo.to/play/3082060898/index.m3u8
-#EXTINF:-1 group-title="Albania" ,T7
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,T7
 https://vavoo.to/play/3863916346/index.m3u8
-#EXTINF:-1 group-title="Albania" ,T7 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,T7 HD
 https://vavoo.to/play/3783716731/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TALEEA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TALEEA
 https://vavoo.to/play/167416512/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TDC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TDC
 https://vavoo.to/play/455621125/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TDC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TDC
 https://vavoo.to/play/1712341662/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 1
 https://vavoo.to/play/3615031230/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 1 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 1 HD
 https://vavoo.to/play/4053213409/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 2
 https://vavoo.to/play/2430109038/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 2 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 2 HD
 https://vavoo.to/play/2132289282/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 3
 https://vavoo.to/play/2914561246/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 3 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 3 HD
 https://vavoo.to/play/3014797212/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 4
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 4
 https://vavoo.to/play/530084046/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 4 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 4 HD
 https://vavoo.to/play/3111595653/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 5
 https://vavoo.to/play/586701182/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 5 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 5 HD
 https://vavoo.to/play/1977429531/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 6
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 6
 https://vavoo.to/play/1700275118/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE 6 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE 6 HD
 https://vavoo.to/play/4216465912/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE AKSION
 https://vavoo.to/play/2223120732/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE CRIME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE CRIME
 https://vavoo.to/play/3760491023/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE DRAMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE DRAMA
 https://vavoo.to/play/1110052705/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE EPIK
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE EPIK
 https://vavoo.to/play/2065426600/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE FANTAZI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE FANTAZI
 https://vavoo.to/play/885877358/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELE ONE GOLD COLLECTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELE ONE GOLD COLLECTION
 https://vavoo.to/play/1154744575/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TELEVIZIJA 5
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TELEVIZIJA 5
 https://vavoo.to/play/1996734955/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEMA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEMA TV
 https://vavoo.to/play/2206998256/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TERRA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TERRA
 https://vavoo.to/play/2591514975/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TETOVA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TETOVA TV
 https://vavoo.to/play/2112286118/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE 1
 https://vavoo.to/play/3451071129/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE AKSION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE AKSION
 https://vavoo.to/play/3409844377/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE COMEDY
 https://vavoo.to/play/2226219924/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE DRAME
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE DRAME
 https://vavoo.to/play/3563142658/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE FANTASY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE FANTASY
 https://vavoo.to/play/2556634658/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TEVE SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TEVE SHQIP
 https://vavoo.to/play/2784295539/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIP TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIP TV
 https://vavoo.to/play/2501792575/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIP TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIP TV
 https://vavoo.to/play/2412206018/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIP TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIP TV
 https://vavoo.to/play/1525869906/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIRANA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIRANA
 https://vavoo.to/play/2427354497/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIRANA 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIRANA 1
 https://vavoo.to/play/2562961232/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TIRANA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TIRANA TV
 https://vavoo.to/play/2575874750/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TLC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TLC
 https://vavoo.to/play/4152080488/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOM & JERRY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOM & JERRY
 https://vavoo.to/play/2304301922/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOM & JERRY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOM & JERRY
 https://vavoo.to/play/2123951332/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP CHANNEL
 https://vavoo.to/play/2811365982/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP CHANNEL
 https://vavoo.to/play/1347567064/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP CHANNEL FHD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP CHANNEL FHD
 https://vavoo.to/play/2084613340/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP CHANNEL HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP CHANNEL HD
 https://vavoo.to/play/2347919108/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP ESTRADA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP ESTRADA
 https://vavoo.to/play/1869531427/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP NEWS
 https://vavoo.to/play/2981798233/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TOP NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TOP NEWS
 https://vavoo.to/play/970525338/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRAVEL CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRAVEL CHANNEL
 https://vavoo.to/play/4108760701/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRAVEL CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRAVEL CHANNEL
 https://vavoo.to/play/2373913422/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING 3
 https://vavoo.to/play/2525826707/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING 3 PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING 3 PLUS
 https://vavoo.to/play/2835189450/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING ACTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING ACTION
 https://vavoo.to/play/3554686365/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING ACTION HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING ACTION HD
 https://vavoo.to/play/3553986754/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING CLASSIC
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING CLASSIC
 https://vavoo.to/play/3656419422/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING COLLECTION
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING COLLECTION
 https://vavoo.to/play/1727131872/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING COMEDY
 https://vavoo.to/play/2692794012/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING COMEDY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING COMEDY
 https://vavoo.to/play/762506641/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING FANTASY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING FANTASY
 https://vavoo.to/play/4034480733/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING FANTASY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING FANTASY
 https://vavoo.to/play/3700563967/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING HISTORY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING HISTORY
 https://vavoo.to/play/1999907953/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING HISTORY
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING HISTORY
 https://vavoo.to/play/1541372371/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING INTERNACIONAL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING INTERNACIONAL
 https://vavoo.to/play/4129036039/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING INTERNATIONAL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING INTERNATIONAL
 https://vavoo.to/play/928361076/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING KIDS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING KIDS
 https://vavoo.to/play/3865243659/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING LIFE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING LIFE
 https://vavoo.to/play/1322203707/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING LIFE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING LIFE
 https://vavoo.to/play/827384229/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING MAX
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING MAX
 https://vavoo.to/play/1687804579/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING PLANET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING PLANET
 https://vavoo.to/play/871405075/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING PLANET
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING PLANET
 https://vavoo.to/play/3187850526/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SHQIP
 https://vavoo.to/play/3032526152/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SHQIP
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SHQIP
 https://vavoo.to/play/4057946084/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SMILE
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SMILE
 https://vavoo.to/play/1356658884/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 1
 https://vavoo.to/play/665986380/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 1
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 1
 https://vavoo.to/play/190410990/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 1 (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 1 (BACKUP)
 https://vavoo.to/play/4044273349/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 1 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 1 HD
 https://vavoo.to/play/2546603004/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 2
 https://vavoo.to/play/1291389502/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 2
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 2
 https://vavoo.to/play/1611816860/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 2 (BACKUP)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 2 (BACKUP)
 https://vavoo.to/play/2372899614/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 3
 https://vavoo.to/play/1567782444/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT 3
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT 3
 https://vavoo.to/play/1905861518/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SPORT NEWS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SPORT NEWS
 https://vavoo.to/play/3901112763/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SUPER
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SUPER
 https://vavoo.to/play/4161474845/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SUPER HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SUPER HD
 https://vavoo.to/play/1794249787/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING SUPER HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING SUPER HD
 https://vavoo.to/play/13756062/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING TRING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING TRING
 https://vavoo.to/play/3811688013/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING TRING
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING TRING
 https://vavoo.to/play/2788050145/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING WORLD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING WORLD
 https://vavoo.to/play/1387509149/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TRING WORLD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TRING WORLD
 https://vavoo.to/play/397168433/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TROPOJA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TROPOJA
 https://vavoo.to/play/1325107495/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TROPOJA TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TROPOJA TV
 https://vavoo.to/play/1805478397/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TURBO CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TURBO CHANNEL
 https://vavoo.to/play/4173247264/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TURBO CHANNEL
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TURBO CHANNEL
 https://vavoo.to/play/3550946814/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV 21 MACEDONIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV 21 MACEDONIA
 https://vavoo.to/play/3087469928/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV 7 ALBANIA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV 7 ALBANIA
 https://vavoo.to/play/256261399/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV ASHKALI ILAHI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV ASHKALI ILAHI
 https://vavoo.to/play/857530317/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV DIASPORA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV DIASPORA
 https://vavoo.to/play/3164541569/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV DIELLI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV DIELLI
 https://vavoo.to/play/1317035425/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV DUKAGJINI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV DUKAGJINI
 https://vavoo.to/play/2671728910/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV FESTINA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV FESTINA
 https://vavoo.to/play/4139959553/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV KLAN
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV KLAN
 https://vavoo.to/play/1013200858/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV KOHA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV KOHA
 https://vavoo.to/play/302501346/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV KOHA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV KOHA
 https://vavoo.to/play/1931274125/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV KOPLIKU
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV KOPLIKU
 https://vavoo.to/play/2030743141/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV MITROVICA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV MITROVICA
 https://vavoo.to/play/1071475315/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV MITROVICA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV MITROVICA
 https://vavoo.to/play/1912540179/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV MITROVICA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV MITROVICA
 https://vavoo.to/play/4228720414/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV OPOJA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV OPOJA
 https://vavoo.to/play/4057502409/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV SHARRI
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV SHARRI
 https://vavoo.to/play/385767921/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV SHENJA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV SHENJA
 https://vavoo.to/play/4013637018/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV TEMA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV TEMA
 https://vavoo.to/play/1126244504/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV TEMA FERIZAJ
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV TEMA FERIZAJ
 https://vavoo.to/play/2333935208/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV USKANA
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV USKANA
 https://vavoo.to/play/3068651168/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TV2 GOSTIVAR
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TV2 GOSTIVAR
 https://vavoo.to/play/183143528/index.m3u8
-#EXTINF:-1 group-title="Albania" ,TVSH
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,TVSH
 https://vavoo.to/play/357641176/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ULQINI TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ULQINI TV
 https://vavoo.to/play/3448134024/index.m3u8
-#EXTINF:-1 group-title="Albania" ,VIZION PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,VIZION PLUS
 https://vavoo.to/play/732333913/index.m3u8
-#EXTINF:-1 group-title="Albania" ,VIZION PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,VIZION PLUS
 https://vavoo.to/play/1857650165/index.m3u8
-#EXTINF:-1 group-title="Albania" ,VIZION PLUS
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,VIZION PLUS
 https://vavoo.to/play/3697717471/index.m3u8
-#EXTINF:-1 group-title="Albania" ,WOUSTA TV (FHD)
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,WOUSTA TV (FHD)
 https://vavoo.to/play/533175316/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X ACTION HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X ACTION HD
 https://vavoo.to/play/4191770497/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X COMEDY HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X COMEDY HD
 https://vavoo.to/play/2804093796/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X DARK HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X DARK HD
 https://vavoo.to/play/1166733563/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X DRAMA HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X DRAMA HD
 https://vavoo.to/play/3644697654/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X FAMILY HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X FAMILY HD
 https://vavoo.to/play/4074320383/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X FILMA 24
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X FILMA 24
 https://vavoo.to/play/1641803616/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X PREMIUM 1 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X PREMIUM 1 HD
 https://vavoo.to/play/672540565/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X PREMIUM 2 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X PREMIUM 2 HD
 https://vavoo.to/play/2795053174/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X PREMIUM 3 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X PREMIUM 3 HD
 https://vavoo.to/play/1781735656/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X PREMIUM 4 HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X PREMIUM 4 HD
 https://vavoo.to/play/1626745329/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X SCI-FI HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X SCI-FI HD
 https://vavoo.to/play/915068564/index.m3u8
-#EXTINF:-1 group-title="Albania" ,X THRILER HD
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,X THRILER HD
 https://vavoo.to/play/2423643468/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ZICO
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ZICO
 https://vavoo.to/play/4006722035/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ZICO TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ZICO TV
 https://vavoo.to/play/378412248/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ZJARR TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ZJARR TV
 https://vavoo.to/play/191418043/index.m3u8
-#EXTINF:-1 group-title="Albania" ,ZJARR TV
+#EXTINF:-1 group-title="🇦🇱 | Albania" ,ZJARR TV
 https://vavoo.to/play/2198562168/index.m3u8
 
 
