@@ -88,6 +88,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #https://tv.ensonhaber.com/tv360/tv360_720p.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"tytturk.tr"              tvg-logo=""                                                                                        ,TYT TURK
+http://cdn4.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="trt4k.tr"               tvg-logo="https://www.canlitv.me/poster/trt4k.png"                                                 ,TRT 4K
 http://vavoo.to/play/1478418519/index.m3u8
 
@@ -107,7 +110,7 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"tgrtbelgesel.tr"         tvg-logo="https://www.canlitv.me/poster/tgrt-belgesel.png"                                         ,TGRT BELGESEL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"bbcearth.tr"             tvg-logo=""                                                                                        ,CGTN TR
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"cgtnturk.tr"             tvg-logo=""                                                                                        ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 
 #####################################################################################################################################################################################################
