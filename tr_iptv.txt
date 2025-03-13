@@ -157,6 +157,8 @@ https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Türkmeneli_TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Kemal Sunal TV
+https://a8.radyotelekom.com.tr:3417/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="viyanatv.tr"            tvg-logo="https://www.viyana.tv/uploads/logo/viyanatvbu.png"                                       ,VIYANA TV	
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV	
