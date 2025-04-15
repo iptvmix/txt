@@ -74,16 +74,18 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#https://trkvz-live.daioncdn.net/atv/atv.m3u8
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="A2.tr"                  tvg-logo="https://www.canlitv.me/poster/a2-tv.png"                                                 ,A2 HD
 #http://stream.tvcdn.net/eglence/a2.m3u8
 #https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
+https://c.fulltvizle.com/a2/index.m3u8
 #https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #https://canlitvulusal.xyz/live/a2tv/index.m3u8
-https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758
+#https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758
 
 
 
