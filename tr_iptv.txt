@@ -1,5 +1,13 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="http://epg.tvcdn.net/guide/tr-guide.xml" refresh="3600"
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
 #http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -73,6 +81,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #https://tgn.bozztv.com/trn03/gt-atv-tv/index.m3u8
 #https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 #https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8
 #http://116.202.238.88/ATV_TR/index.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
@@ -120,6 +129,8 @@ https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"cgtnturk.tr"             tvg-logo=""                                                                                        ,CGTN TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+
+
 
 #####################################################################################################################################################################################################
 #######    AVRUPA VE INTERNATIONAL YAYINLAR                              ############################################################################################################################
@@ -184,9 +195,9 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 1
-http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPERTURK 2
-http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="tiviturk.tr"            tvg-logo="http://tivitürk.de/wp-content/uploads/2019/01/logo.png"                                  ,TIVI TURK	
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
@@ -228,12 +239,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,™️WAV MUKABELE TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Zalim İstanbul
-http://stream.tvcdn.net/dizi-youtube/zalim-istanbul.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Siyah Beyaz Aşk
-http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Tatlı İntikam
-http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizikolik
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/650b064ad1f20c000856a5a4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yüksek Sosyete
@@ -242,13 +247,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66338ce79
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66338e3e23e24f000847f4ae/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi TV
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="dizitv.tr"              tvg-logo=""                                                                                        ,DIZI TV
 https://vavoo.to/play/3216602537/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI TV
 https://fe.tring.al/hls/CH_TurkishStories_ios/master.m3u8
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI TV
+https://fe.tring.al/hls/CH_JollyHD_ios/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
 https://fe.tring.al/hls/CH_KanalDDrama_ios/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
@@ -280,15 +285,16 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://canlitv.center/channels/a-haber.png"                                             ,A HABER HD
 #RADYO https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #http://stream.tvcdn.net/haber/a-haber.m3u8
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+#https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+http://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
 #RADYO https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
 #http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #http://dvrfl05.tulix.tv/gin-cnnturk/index.m3u8
 #https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&TOKEN
-https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/SFLxHcyET1iYltuMmQjILAjDgc9l0JulgLfV6PN5t1LS1FkQHV4ytky4rEvkNDKgVuOcgvLl39gM1zuHlFunACRcvAVk6fys_9_UQUrJfmJtj8WGI181G_N0ymTVw66kZBCN6RiQ6RpLIKkXSifO1RFFWqZl-80k97SEtHjvaSo/hls/index.m3u8
+#https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://i.tv100.com/assets/web/images/logo.png"                                          ,TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
@@ -296,11 +302,13 @@ https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
 #https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberturk.tr"           tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png"                                          ,HABERTÜRK HD
-http://stream.tvcdn.net/haber/haberturk.m3u8
+#http://stream.tvcdn.net/haber/haberturk.m3u8
 #https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="haberglobal.tr"         tvg-logo="https://canlitv.center/channels/haber-global.png"                                        ,HABER GLOBAL HD
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/dmotion/py/hglobal/hglobal.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EKOL TV
@@ -314,8 +322,9 @@ http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/ntv.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
+https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"gzttv.tr"                tvg-logo="https://assets.gzt.com/gzt/wwwroot/images/gzt-logo.png"                                  ,GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
@@ -331,8 +340,8 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulke-tv.png"                                             ,ÜLKE TV HD
-http://stream.tvcdn.net/haber/ulke-tv.m3u8
-#https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#http://stream.tvcdn.net/haber/ulke-tv.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #ttps://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/dmotion/py/ulke/ulke.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png"                                          ,BENGÜTÜRK
@@ -342,7 +351,7 @@ https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/krt-tv.png"                                              ,KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
+https://trn03.tulix.tv/gt-krt-tv/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/tele1.png"                                                 ,TELE1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
@@ -351,7 +360,8 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="flash.tr"               tvg-logo="https://www.canlitv.me/poster/flash-tv.png"                                              ,FLASH TV
-https://internettv.guventechnology.com:19360/flashhabertv/720p.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.szctv.com.tr/lib/clientappv2/assets/images/logo.png"                         ,SÖZCÜ TV
 #http://stream.tvcdn.net/haber/sozcu-tv.m3u8
@@ -418,7 +428,10 @@ https://217.30.11.74/e/500.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"NatGeoHD.tr"             tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC HD
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"NatGeoHD.tr"             tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC HD
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"NatGeoWild.tr"           tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC WILD HD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"NatGeoWild.tr"           tvg-logo=""                                                                                        ,NATIONAL GEOGRAPHIC WILD HD
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
@@ -916,12 +929,13 @@ http://mugla.tvizlehd.com/live/tjktv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,D TAY TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport Tv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport 1 Tv
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport
+https://bayzan.tv/saranspor/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport 2
+https://bayzan.tv/saranspor2/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Ssport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
 
@@ -4387,6 +4401,8 @@ https://vavoo.to/play/1467834090/index.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 
@@ -4397,7 +4413,10 @@ https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SuperRTL.de"            tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                          ,SUPER RTL
 #https://raw.githubusercontent.com/FORSIZERO/forsizero.github.io/refs/heads/main/iptv/m3u/superrtlhd.m3u
 #https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8
+#https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+
+
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="bild.de"                tvg-logo=""                                                                                        ,BILD 
 https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/2e945f88-b702-4632-a324-b8149683f3db/2.m3u8
@@ -4463,8 +4482,8 @@ https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARD ONE
 https://mcdn-one.ard.de/ardone/dash/manifest.mpd
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARD
@@ -4487,9 +4506,9 @@ https://cachehsi2b.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 channel-id="ARD.de"                         tvg-id="ARD.de"                   tvg-chno="0001" tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                           group-title="🇩🇪 | DEUTSCH CH" , ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#https://cachehsi1a.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-
+#https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://cachehsi1a.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#https://strm.hdtvizlecanli.com/live/zdf.m3u8
 
 #EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , WDR
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
@@ -4540,45 +4559,70 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
 http://185.189.225.150:85/RTL/index.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+
+
+
+
+
 
 
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
 #EXTINF:-1 channel-id="RTL2.de"                        tvg-id="RTL2.de"                  tvg-chno="0022" tvg-logo="https://download.avm.de/tv/logos/rtl2.png"                                                group-title="🇩🇪 | DEUTSCH CH" , RTL II
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+
 #EXTINF:-1 channel-id="RTLplus.de"                     tvg-id="RTLplus.de"               tvg-chno="0023" tvg-logo="https://download.avm.de/tv/logos/rtlplus.png"                                             group-title="🇩🇪 | DEUTSCH CH" , RTL+
 h    8
 #EXTINF:-1 channel-id="RTLup.de"                       tvg-id="RTLup.de"                 tvg-chno="0024" tvg-logo="https://download.avm.de/tv/logos/rtlup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , RTL UP
 h    8
 #EXTINF:-1 channel-id="RTLNitro.de"                    tvg-id="RTLNitro.de"              tvg-chno="0025" tvg-logo="https://download.avm.de/tv/logos/rtlnitro.png"                                            group-title="🇩🇪 | DEUTSCH CH" , RTL NITRO
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#https://strm.hdtvizlecanli.com/live/nitro.m3u8
+
 #EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SUPER RTL
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 channel-id="Vox.de"                         tvg-id="Vox.de"                   tvg-chno="0027" tvg-logo="https://download.avm.de/tv/logos/vox.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#https://strm.hdtvizlecanli.com/live/vox.m3u8
 #EXTINF:-1 channel-id="VOXup.de"                       tvg-id="VOXup.de"                 tvg-chno="0028" tvg-logo="https://download.avm.de/tv/logos/voxup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , VOX UP
 
 #EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE TV
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE SERIE
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+
 #EXTINF:-1 channel-id="Kabeleins.de"                   tvg-id="Kabeleins.de"             tvg-chno="0030" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABEL eins
-https://cachehsi1b.netplus.ch/live/eds/kabel1/browser-dash-VMX/kabel1.mpd
+#https://cachehsi1b.netplus.ch/live/eds/kabel1/browser-dash-VMX/kabel1.mpd
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+
 #EXTINF:-1 channel-id="Sat1.de"                        tvg-id="Sat1.de"                  tvg-chno="0031" tvg-logo="https://download.avm.de/tv/logos/sat1.png"                                                group-title="🇩🇪 | DEUTSCH CH" , SAT 1
-https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
+#https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+
 #EXTINF:-1 channel-id="Sat1Gold.de"                    tvg-id="Sat1Gold.de"              tvg-chno="0032" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SAT 1 GOLD
-https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
+#https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+
 #EXTINF:-1 channel-id="bibeltv.de"                     tvg-id="bibeltv.de"               tvg-chno="0033" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , BIBEL TV
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 channel-id="bibel2tv.de"                    tvg-id="bibel2tv.de"              tvg-chno="0034" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , BIBEL 2 TV
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
 #EXTINF:-1 channel-id="Tele5.de"                       tvg-id="Tele5.de"                 tvg-chno="0035" tvg-logo="https://download.avm.de/tv/logos/tele5.png"                                               group-title="🇩🇪 | DEUTSCH CH" , TELE 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#https://strm.hdtvizlecanli.com/live/tele5.m3u8
 #EXTINF:-1 channel-id="Sixx.de"                        tvg-id="sixx.de"                  tvg-chno="0036" tvg-logo="https://download.avm.de/tv/logos/sixx.png"                                                group-title="🇩🇪 | DEUTSCH CH" , SIXX
 https://cachehsi1b.netplus.ch/live/eds/sixx/browser-dash-VMX/sixx.mpd
 #EXTINF:-1 channel-id="Pro7.de"                        tvg-id="Pro7.de"                  tvg-chno="0037" tvg-logo="https://download.avm.de/tv/logos/pro7.png"                                                group-title="🇩🇪 | DEUTSCH CH" , PRO 7
-https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
+#https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#http://85.187.13.40:18000/ProSieben
+
 #EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="🇩🇪 | DEUTSCH CH" , PRO 7 MAXX
-https://cachehsi1b.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
+#https://cachehsi1b.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
+https://strm.hdtvizlecanli.com/live/pro7max.m3u8
 
 #EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="🇩🇪 | DEUTSCH CH" , Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -4612,12 +4656,21 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_d
 https://58de7a369a9c4.streamlock.net/esm/tvmr_720p/playlist.m3u8
 
 #EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABELeins DOKU
-https://s6.hopslan.com/doku/index.m3u8
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
 #EXTINF:-1 channel-id="dmax.de"                        tvg-id="dmax.de"                  tvg-chno="0051" tvg-logo="https://download.avm.de/tv/logos/dmax.png"                                                group-title="🇩🇪 | DEUTSCH CH" , DMAX
-https://s6.hopslan.com/dmaxb/index.m3u8
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
 #EXTINF:-1 channel-id="TLC.de"                         tvg-id="TLC.de"                   tvg-chno="0052" tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , TLC
 #https://s6.hopslan.com/tlc/index.m3u8
-http://stream.suboroiptv.tv/tlc/playlist.m3u8
+#http://stream.suboroiptv.tv/tlc/playlist.m3u8
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0053" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="🇩🇪 | DEUTSCH CH" , SERVUS TV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 channel-id="ServusHD.de"                    tvg-id="ServusHD.de"              tvg-chno="0054" tvg-logo="https://download.avm.de/tv/logos/servus.png"                                              group-title="🇩🇪 | DEUTSCH CH" , SERVUS TV
@@ -4629,7 +4682,7 @@ https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #EXTINF:-1 channel-id="kika.de"                        tvg-id="kika.de"                  tvg-chno="0056" tvg-logo="https://download.avm.de/tv/logos/kika.png"                                                group-title="🇩🇪 | DEUTSCH CH" , KIKA
 https://s4.hopslan.com/kika/index.m3u8
 #EXTINF:-1 channel-id="disneychannel.de"               tvg-id="disneychannel.de"         tvg-chno="0057" tvg-logo="https://download.avm.de/tv/logos/disney_channel.png"                                      group-title="🇩🇪 | DEUTSCH CH" , DISNEY CH
-https://s6.hopslan.com/disneyc/index.m3u8
+https://strm.hdtvizlecanli.com/live/disney.m3u8
 #EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SUPER RTL
 https://s6.hopslan.com/superc/index.m3u8
 #EXTINF:-1 channel-id="Nick.de"                        tvg-id="Nick.de"                  tvg-chno="0058" tvg-logo="https://download.avm.de/tv/logos/nickelodeon.png"                                         group-title="🇩🇪 | DEUTSCH CH" , NICK
