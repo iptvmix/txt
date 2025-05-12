@@ -183,7 +183,10 @@ http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,cine 6
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,cine max
-https://canli.cinemax6.com:3220/stream/play.m3u8
+#https://canli.cinemax6.com:3220/stream/play.m3u8
+https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,ISMAILLI TV
+https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,Türkmeneli_TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="viyanatv.tr"            tvg-logo="https://www.viyana.tv/uploads/logo/viyanatvbu.png"                                       ,VIYANA TV	
@@ -212,9 +215,10 @@ http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RIHAT TV
+https://s.catcast.tv/content/48076/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM Müzik
@@ -8527,4 +8531,224 @@ https://vavoo.to/play/3560060644/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"tvg-id""                      tvg-logo=""                                        ,ZDF NEO 	
 https://vavoo.to/play/268253751/index.m3u8
 
+
+
+
+#EXTM3U
+#
+#
+#  https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
+
+
+
+
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" group-title="RAKUTENTV" ,Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" group-title="RAKUTENTV" ,Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" group-title="RAKUTENTV" ,Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" group-title="RAKUTENTV" ,Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" group-title="RAKUTENTV" ,Film Top - Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
+
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Azione - Rakuten TV" group-title="RAKUTENTV" ,Azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Azione - Rakuten TV" group-title="RAKUTENTV" ,Azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Azione - Rakuten TV" group-title="RAKUTENTV" ,Azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Azione - Rakuten TV" group-title="RAKUTENTV" ,Azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+#EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Azione - Rakuten TV" group-title="RAKUTENTV" ,Azione - Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+
+#EXTINF:-1 tvg-chno=2 tvg-id="comedy-rakuten-tv" tvg-name="Commedia - Rakuten TV" group-title="RAKUTENTV" ,Commedia - Rakuten TV
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-chno=3 tvg-id="drama-rakuten-tv" tvg-name="Dramma - Rakuten TV" group-title="RAKUTENTV" ,Dramma - Rakuten TV
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 tvg-chno=4 tvg-id="romance-rakuten-tv" tvg-name="Romance - Rakuten TV" group-title="RAKUTENTV" ,Romance - Rakuten TV
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 tvg-chno=5 tvg-id="asian-cinema-rakuten-tv" tvg-name="Film Asiatici - Rakuten TV" group-title="RAKUTENTV" ,Film Asiatici - Rakuten TV
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+
+#EXTINF:-1 tvg-chno=6 tvg-id="sci-fi-rakuten-tv" tvg-name="Fantascienza - Rakuten TV" group-title="RAKUTENTV" ,Fantascienza - Rakuten TV
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 tvg-chno=8 tvg-id="trailers" tvg-name="Trailers" group-title="RAKUTENTV" ,Trailers
+https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4548/master.m3u8
+
+#EXTINF:-1 tvg-chno=38 tvg-id="bizzarro-movies" tvg-name="Cine Aliens" group-title="RAKUTENTV" ,Cine Aliens
+https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=39 tvg-id="comicita-piccante-movies" tvg-name="Comicità Piccante Movies" group-title="RAKUTENTV" ,Comicità Piccante Movies
+https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=50 tvg-id="western-e-peplum" tvg-name="CineWestern" group-title="RAKUTENTV" ,CineWestern
+https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=53 tvg-id="dark-matter-it-new" tvg-name="Dark Matter - Halloween 2024" group-title="RAKUTENTV" ,Dark Matter - Halloween 2024
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=58 tvg-id="cg-cinema-d-autore" tvg-name="CG Grandi Film" group-title="RAKUTENTV" ,CG Grandi Film
+https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8
+#EXTINF:-1 tvg-chno=60 tvg-id="brividy-cinema-ita" tvg-name="Brividy Cinema" group-title="RAKUTENTV" ,Brividy Cinema
+https://136d462a71e843a886633ffc9d0f9bb2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Serially/playlist.m3u8
+#EXTINF:-1 tvg-chno=61 tvg-id="grjngo-it" tvg-name="Grjngo - Film Western" group-title="RAKUTENTV" ,Grjngo - Film Western
+https://30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/playlist.m3u8
+#EXTINF:-1 tvg-chno=71 tvg-id="risate-all-italiana" tvg-name="Alberto Sordi & Co" group-title="RAKUTENTV" ,Alberto Sordi & Co
+https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-chno=100 tvg-id="crime-rakuten-tv" tvg-name="Serie Crime - Rakuten TV" group-title="RAKUTENTV" ,Serie Crime - Rakuten TV
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
+
+#EXTINF:-1 tvg-chno=106 tvg-id="filmrise-sci-fi-it" tvg-name="FilmRise Sci-Fi" group-title="RAKUTENTV" ,FilmRise Sci-Fi
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=110 tvg-id="filmrise-relic-hunter-ita" tvg-name="Relic Hunter" group-title="RAKUTENTV" ,Relic Hunter
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-chno=111 tvg-id="serially-crime-ita" tvg-name="Serially Crime" group-title="RAKUTENTV" ,Serially Crime
+https://bb0eae10f3324ced912bfb79fff13245.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SeriallyCrime/playlist.m3u8
+#EXTINF:-1 tvg-chno=112 tvg-id="andromeda-it" tvg-name="Andromeda" group-title="RAKUTENTV" ,Andromeda
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=118 tvg-id="soap-latino-it" tvg-name="Soap Latino" group-title="RAKUTENTV" ,Soap Latino
+https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
+#EXTINF:-1 tvg-chno=119 tvg-id="soap-turco-it" tvg-name="Soap Turco" group-title="RAKUTENTV" ,Soap Turco
+https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
+#EXTINF:-1 tvg-chno=121 tvg-id="risate-dal-sud-ita" tvg-name="Risate dal Sud" group-title="RAKUTENTV" ,Risate dal Sud
+https://ea65571e3aa748d1a0c2a15a8ab8b07a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RisatealSud/playlist.m3u8
+#EXTINF:-1 tvg-chno=122 tvg-id="bbc-doctor-who-it" tvg-name="Doctor Who" group-title="RAKUTENTV" ,Doctor Who
+https://amg00793-amg00793c17-rakuten-it-5361.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhoitaly-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=125 tvg-id="bbc-drama-it" tvg-name="BBC Drama" group-title="RAKUTENTV" ,BBC Drama
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=128 tvg-id="filmrise-highway-to-heaven-it" tvg-name="Autostop per il Cielo" group-title="RAKUTENTV" ,Autostop per il Cielo
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=131 tvg-id="rakuten-viki-new" tvg-name="Rakuten VIKI" group-title="RAKUTENTV" ,Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=138 tvg-id="bbc-top-gear-it" tvg-name="Top Gear" group-title="RAKUTENTV" ,Top Gear
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=139 tvg-id="inazuma-eleven-go" tvg-name="Inazuma Eleven Go" group-title="RAKUTENTV" ,Inazuma Eleven Go
+https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8
+#EXTINF:-1 tvg-chno=142 tvg-id="yu-gi-oh-new-ita" tvg-name="Yu-Gi-Oh!" group-title="RAKUTENTV" ,Yu-Gi-Oh!
+https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-it" tvg-name="Mr. Bean" group-title="RAKUTENTV" ,Mr. Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="RAKUTENTV" ,Mr. Bean - Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="RAKUTENTV" ,The Pet Collective
+https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=197 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" group-title="RAKUTENTV" ,People Are Awesome
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=199 tvg-id="afv-family" tvg-name="AFV Family" group-title="RAKUTENTV" ,AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8
+#EXTINF:-1 tvg-chno=206 tvg-id="revry" tvg-name="Revry" group-title="RAKUTENTV" ,Revry
+https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=209 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" group-title="RAKUTENTV" ,Fail Army
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="RAKUTENTV" ,TOP Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=328 tvg-id="fifa-plus-it-new" tvg-name="FIFA+" group-title="RAKUTENTV" ,FIFA+
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=336 tvg-id="fuel-tv-new" tvg-name="FUEL TV" group-title="RAKUTENTV" ,FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=338 tvg-id="billiards-tv" tvg-name="World Billiards TV" group-title="RAKUTENTV" ,World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-chno=339 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="RAKUTENTV" ,Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=341 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" group-title="RAKUTENTV" ,GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=342 tvg-id="world-poker-tour" tvg-name="World Poker Tour" group-title="RAKUTENTV" ,World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8
+#EXTINF:-1 tvg-chno=347 tvg-id="sport-italia" tvg-name="Sport Italia" group-title="RAKUTENTV" ,Sport Italia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=349 tvg-id="squashtv" tvg-name="SquashTV" group-title="RAKUTENTV" ,SquashTV
+https://amg12058-amg12058c5-rakuten-gb-7997.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-squashtvcc-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-chno=360 tvg-id="pfl-mma" tvg-name="PFL MMA" group-title="RAKUTENTV" ,PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=364 tvg-id="motorsport-tv-en" tvg-name="Motorsport.tv" group-title="RAKUTENTV" ,Motorsport.tv
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=365 tvg-id="racer-international" tvg-name="RACER International" group-title="RAKUTENTV" ,RACER International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=369 tvg-id="red-bull-tv-en" tvg-name="Red Bull TV" group-title="RAKUTENTV" ,Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=370 tvg-id="motorvision-tv" tvg-name="MOTORVISION.TV" group-title="RAKUTENTV" ,MOTORVISION.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv.m3u8
+#EXTINF:-1 tvg-chno=397 tvg-id="fashion-tv" tvg-name="Fashion TV" group-title="RAKUTENTV" ,Fashion TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+#EXTINF:-1 tvg-chno=399 tvg-id="the-design-network-new" tvg-name="The Design Network" group-title="RAKUTENTV" ,The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=408 tvg-id="brindiamo" tvg-name="Brindiamo!" group-title="RAKUTENTV" ,Brindiamo!
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=409 tvg-id="travelxp-eng" tvg-name="Travelxp" group-title="RAKUTENTV" ,Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-chno=424 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="RAKUTENTV" ,Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=470 tvg-id="gusto-tv-new" tvg-name="Gusto TV" group-title="RAKUTENTV" ,Gusto TV
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=537 tvg-id="clubbing-tv" tvg-name="CLUBBING TV" group-title="RAKUTENTV" ,CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=538 tvg-id="qwest-tv" tvg-name="Qwest TV" group-title="RAKUTENTV" ,Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=540 tvg-id="radio-italia-trend" tvg-name="Radio Italia Trend" group-title="RAKUTENTV" ,Radio Italia Trend
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=541 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="RAKUTENTV" ,Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=542 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" group-title="RAKUTENTV" ,Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=543 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" group-title="RAKUTENTV" ,Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=544 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="RAKUTENTV" ,Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=545 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" group-title="RAKUTENTV" ,Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8
+#EXTINF:-1 tvg-chno=550 tvg-id="now-70s" tvg-name="NOW 70s" group-title="RAKUTENTV" ,NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=551 tvg-id="now-80s" tvg-name="NOW 80s" group-title="RAKUTENTV" ,NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=552 tvg-id="now-rock" tvg-name="NOW Rock" group-title="RAKUTENTV" ,NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-chno=553 tvg-id="trace-urban" tvg-name="Trace Urban" group-title="RAKUTENTV" ,Trace Urban
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-it" tvg-name="Vevo Pop" group-title="RAKUTENTV" ,Vevo Pop
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=558 tvg-id="vevo-pop-90-00-it" tvg-name="Vevo '90s & '00s" group-title="RAKUTENTV" ,Vevo '90s & '00s
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=604 tvg-id="family-rakuten-tv" tvg-name="Family - Rakuten TV" group-title="RAKUTENTV" ,Family - Rakuten TV
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-chno=610 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" group-title="RAKUTENTV" ,Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-chno=613 tvg-id="car-city-adventures-it" tvg-name="Car City Adventures" group-title="RAKUTENTV" ,Car City Adventures
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=680 tvg-id="hell-s-kitchen-it-itv" tvg-name="Hell's Kitchen" group-title="RAKUTENTV" ,Hell's Kitchen
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=758 tvg-id="filmrise-forensic-files-ita" tvg-name="Forensic Files" group-title="RAKUTENTV" ,Forensic Files
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-chno=820 tvg-id="weather-spy-new" tvg-name="Weather Spy" group-title="RAKUTENTV" ,Weather Spy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno=827 tvg-id="wedo-big-stories" tvg-name="WeDo Big Stories" group-title="RAKUTENTV" ,WeDo Big Stories
+https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-chno=831 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" group-title="RAKUTENTV" ,CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-ita" tvg-name="Euronews IN DIRETTA" group-title="RAKUTENTV" ,Euronews IN DIRETTA
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDFlYzc5ZDctYWY0YS00OGZjLTkxNmQtZWY0NTdiYTI0ZGE0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+#EXTINF:-1 tvg-chno=881 tvg-id="reuters-new" tvg-name="The Reuters 60" group-title="RAKUTENTV" ,The Reuters 60
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=885 tvg-id="revry-news" tvg-name="Revry News" group-title="RAKUTENTV" ,Revry News
+https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-chno=887 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" group-title="RAKUTENTV" ,Bloomberg Originals
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
+#EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-new" tvg-name="Bloomberg Television" group-title="RAKUTENTV" ,Bloomberg Television
+https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
+#EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" group-title="RAKUTENTV" ,Africanews
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiM2QzYzhlMzItZmY4ZC00OWU0LTg3OWEtODE4N2U5YWE3ZjZhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+#EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" group-title="RAKUTENTV" ,CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-chno=894 tvg-id="newsworld" tvg-name="NewsWorld" group-title="RAKUTENTV" ,NewsWorld
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-chno=910 tvg-id="france-24-en" tvg-name="France 24 FAST English" group-title="RAKUTENTV" ,France 24 FAST English
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=911 tvg-id="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" tvg-name="The Guardian" group-title="RAKUTENTV" ,The Guardian
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
 
