@@ -217,6 +217,12 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RIHAT TV
 https://s.catcast.tv/content/48076/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,90 Plus
+https://euw12-0.playlist.ttvnw.net/v1/playlist/CoAGHiRxg7rVtIGntl4cYy9R-rDvWHCTrWMknGgCCgfoieWOkXSnQRV7GPXrwK4R0-nZtXl2Lj9XybmkwlIH3eRcU2faeO2kR7J4Q2F5VoE-z6kdD7JY9Cw0UHE6VoLk14GbGfqF1VDZYKq8NWXfrhxK8eS_I4vkkkOT-9Vu3XAPxRmGtsBYMBPJjaT81v-CjFIzbvMRzIW-1GFfjE-EdyumweaRcxReQzmWDvFYJVVGlrcbGzbiu2z63XMasVfwhbeJE2r-pOClx_JcLYlpdoO0wwiMYhheWA9ur89YY94A1l9H982YhzvOMzuaV3RJlCgh-hAKddHvK1S-oGMRYcQRd4sPUg_FInB4IimW362NIBGYrLB9YReLvrvuw7FKz57RXkUPx1wb0a6jMmT4EMeFJihWlavfAUqyrDAS2IDnqOwJUhM_DJvo1dqcCFCFyuYEh7yK5dOaqch4WLgKmKJKde2lonrLlhf2o29Z_Wx2PpU1UEeCO1XripUTimqBXGL7pL5L0Z57lBJbf0oNuFeH70B4F3d2YIxw3lBior7MxSvK5qLl2vcDUy72ACKls50xt2RCnYDpdqkSEHncGCDYsEwS5umN1lgdq2_Qewf4vS3oeIbSvh0IMkC97NMTsPKLkPWszejxiLnFRn6cSxG2EN57rg1Qw20MREUlVexyLVzhYHLjznqUBqU5R-0bQmzO8TtHN0mXiyH-PVLpxv5Re0rZnL4D-2nnYnt6KUYbKf_5zc9opTlD3g5SZcpHIHtAHBiw9GEdOmMD6Quv9f2THFg6j2qW2CDu56BiXz-qvAqbov5nlvpgxq7Rf6WMFVs6nr6g4WPiMf652M8FkXqeh5U5esWtTyo_ySqbDeCLr0SlYjqV5xW2QD5coEpcbdWC-JdRBpcGYmbpTLBC-x-JvAmlXRB5p6R6XuqPBI1NzNFm6El3qSmw0EidSbOj5fo9iKUCHyzejnfg49geqTIrCohlBqJoUqiPLiFDN8-xIBqtfUMSaZ5bU2oCeWKM4Ra_GgxhNKwvynBZbQErKYQgASoJZXUtd2VzdC0yMKMM.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EURO 90 
+https://euc12-0.playlist.ttvnw.net/v1/playlist/CpwGHIw9wxs0PyxgDh5DW_Enq_OslCLy7tMeasGbretYQa1jfffzP_dSPKEPStwYow-4lHhMFaLyXl3rgYPg6BF99s88R0Rosw0-BZP0NxcCQefo5eA8Mq39eYeZrukNeXkOfXAz1YuxRcpS08AXsa8acC-0ywD8GtEQLIPk-59c05g4a_PGG7fCoxjb8rKOzY86DmI1755UcqRsnXyLmB3_wf65T4tk8aAB0MuhzTcf-lLKbgKsZ41n2BY9z3QolFN-c2fB2GmwC6aGJKFGoySNmSlaWMCkyvbL0HuUxdhJxuXZk1MinWlKLT8hbbC5sNyS07Jgdyse-fvu6lMgkNnr1aZBqFQyzopHhkDd_u1DOvfu7lODePuOpSuPYpNb9CyoXNRelh3Yxv4ZiQqvEXQwS9vLD0_qjFHM7GPmQcyCdCTTlt0v0Iao0Ozc4F0XCqE93WxPx4uBVBzvsqspS6q-a3nJ80svzb-pwsP0SquomQZ9-EkuyMIYwHCWmPSQxVByW4o9wQS0Uha-rTh1PzuV8t1u0IJS_wkIA_zxKUW8mivZCSqgTXk5xzOBc5DSsS21X9jsUUeDWdCmLVVM7ceHY6QzqYU2CNS7g6Z2Cjej6G-aCwBmQGmVyA6cZ546MrdXX-2SyC5FYDrn8HyIuTF1M1_NKbHsZqiyQYJ_SWcWCCTvZM50WVdkyG_pceeKNY5mxiUSDAdJIWXEYygkNShYOEVumen9v_kCvd7HAhqywZvKuODYPI_oY7YIcygvtRqOQJhbW7bZ7Ez77vwszHhyvIK5VP15nbEctI5hsKj5JaXrJcUXFexFUTAizhktCL0HQK4nF6Rkyqwz-OmT8sJPWLqtowkkkcO9a3lYNKXKXrxH-8pJSq3fCXKi6hweDzIobdoeEnyZVaQWJyknkxw9I2YdHo2tqDVIgNAVUbpsjWQS7bM2vT2m0g804dFXsPQVu7TLNybCeQAJKwQzgWshnl17t1n88Mj5IRSGEOXlBD5T_-Xy3-86w1iQWq1c8mWhqaVKhendZHfttggcvTJL9AlDs5wYaNLoBCvNNhoMsyO6o1Ft3iUXKYPtIAEqCWV1LXdlc3QtMjCjDA.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -8752,3 +8758,10 @@ https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-chno=911 tvg-id="the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a" tvg-name="The Guardian" group-title="RAKUTENTV" ,The Guardian
 https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
 
+
+
+#EXTINF:-1 group-title="RAKUTENTV" ,FEBALLA
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/37dee76f-f69e-428f-a588-84c177e5f763/0.m3u8
+#EXTINF:-1 group-title="RAKUTENTV" ,FEBALLA
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/37dee76f-f69e-428f-a588-84c177e5f763/0/master.m3u8
+#EXTINF:-1 group-title="RAKUTENTV" ,FEBALLA
