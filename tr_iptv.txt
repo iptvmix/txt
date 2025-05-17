@@ -224,7 +224,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,90 Plus
-https://raw.githubusercontent.com/iptvmix/feed/main/90plus.txt
+https://raw.githubusercontent.com/iptvmix/feed/main/90plus.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EURO 90 
 https://raw.githubusercontent.com/iptvmix/feed/main/euro90.txt
 
