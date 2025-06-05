@@ -194,6 +194,9 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #https://canli.cinemax6.com:3220/stream/play.m3u8
 https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,KEMAL SUNAL TV
+https://v2.catcast.tv/content/48695/index.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,RIZE Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="viyanatv.tr"            tvg-logo="https://www.viyana.tv/uploads/logo/viyanatvbu.png"                                       ,VIYANA TV	
@@ -220,11 +223,11 @@ https://live.euromediacenter.com/kanal19/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Torba TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,PAZARCIK TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="http://www.pazarciktv.com.tr/uploads/site/logo.png"                                      ,PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,90 Plus
-https://raw.githubusercontent.com/iptvmix/feed/main/90plus.m3u8
+https://raw.githubusercontent.com/iptvmix/feed/main/90plus.txt
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,EURO 90 
 https://raw.githubusercontent.com/iptvmix/feed/main/euro90.txt
 
