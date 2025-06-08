@@ -2,7 +2,7 @@
 
 
 
-
+#https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/300113394/index.m3u8
 
 
 
@@ -240,29 +240,6 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/life-tv.png"                                           ,LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 2
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 3
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 4
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 5
-https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 6
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 7
-https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 8
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 9
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 10
-https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-
-
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM Müzik
@@ -291,9 +268,13 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NOW Tv cinema
 https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FLUX TV
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI CH
 https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI CH
+https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizikolik
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/650b064ad1f20c000856a5a4/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yüksek Sosyete
@@ -308,6 +289,8 @@ https://vavoo.to/play/3216602537/index.m3u8
 https://fe.tring.al/hls/CH_TurkishStories_ios/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI TV
 https://fe.tring.al/hls/CH_JollyHD_ios/master.m3u8
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
 https://fe.tring.al/hls/CH_KanalDDrama_ios/master.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.al"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D DRAMA
@@ -484,6 +467,31 @@ https://vavoo.to/play/2593800839/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"bbcearth.tr"             tvg-logo=""                                                                                        ,BBC EARTH
 https://vavoo.to/play/2618455562/index.m3u8
 
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 1
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 2
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 3
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 4
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 5
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 6
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 7
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 8
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 9
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TEBER STAR 10
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
+
+
+
 #####################################################################################################################################################################################################
 #######    YEREL KANALLAR                                                                                                ############################################################################
 #####################################################################################################################################################################################################
@@ -601,6 +609,8 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4turkpop
 http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4Rusmusic
+https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GENCE TV
