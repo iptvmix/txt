@@ -1,9 +1,10 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="https://www.bevy.be/bevyfiles/turkey.xml" url-tvg="http://epg.tvcdn.net/guide/tr-guide.xml" refresh="3600"
-
-
-
-#https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/300113394/index.m3u8
-
+#EXTM3U 
+#x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"                           refresh="3600"
+#x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"                           refresh="3600"
+#x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"                            refresh="3600"
+#x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz"                              refresh="3600"
+#x-tvg-url="https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"  refresh="3600"
+#x-tvg-url="https://raw.githubusercontent.com/rideordie16/t/main/bin/guide.xml" refresh="3600"
 
 
 
@@ -605,12 +606,6 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4turkpop
-https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4turkpop
-http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4Rusmusic
-https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,GENCE TV
@@ -627,13 +622,206 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/now_cinema_a
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NOW MUSIC
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/now_music_az.m3u8
 
+#####################################################################################################################################################################################################
+#######    MUZIK KANALLARI                                               ############################################################################################################################
+#####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK	
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRAL POP	
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://static.dreamtv.com.tr/assets/dist/images/dream-tv-logo.png"                      ,DREAM TURK	
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,PT POWER TURK	
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2542.png"  ,PT AKUSTIK	
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2536.png"  ,PT EN YENILER	
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2577.png"  ,PT SLOW	
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2534.png"  ,PT TAP TAZE	
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/logo_2601.png"          ,PT PLUS +	
+http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/200x200/powerapp/channels/v3/inverse/logo_44.png"    ,POWER TV	
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/200x200/powerapp/channels/v3/inverse/logo_2559.png"  ,POWER LOVE	
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/200x200/powerapp/channels/v3/inverse/logo_2556.png"  ,POWER DANCE	
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/nr1-tv-logo.jpg"                 ,NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/turk-tv-logo.jpg"                ,NR1 TURK	
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg"                  ,NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/damar-tv-web.jpg"                ,NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2021/10/yeni-logonr1.png"                ,NR1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/tatlises-tv.png"                                         ,TATLISES TV	
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MILYON TV	
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4turkpop
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4turkpop
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,4Rusmusic
+https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AYAZ TV
-http://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+http://janya-ayaztv.vgcdn.net/ptnr-Vipo TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SLOW KARADENIZ TV HD
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX SCHLAGER
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png"       ,DLX RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | 4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | MIX TV
+https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Biz Music
+https://st.biztv.uz/hls/m_hi/index.m3u8
+
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,1 MUZ TV
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,1 HD MUSIC
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,STRANA FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,THT MUSIC
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SHANSON TV
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SOYUZ TV
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,DUGA TV
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SKY FOLK
+https://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,BANOVINA TV
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,PMC MUSIC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,PMC ROYALE
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RADIO JAVAN
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,EBC TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,PERSIAN MUSIC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,AFN MUSIC
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,KAYHAN TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,ARABICA TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,MASTI TV
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,ESI CHANNEL
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,MARTUM MUSIC
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,BOOGLE BOLLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,OCKO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,OCKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RETRO TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1154875891_b750000.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,X LITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,V2 BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,ZEROUNO TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,MUSIC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,COMPANY TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,NRG 91
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,CAROLINE TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,KROENIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,M1 TV
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RADIO M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SPRINT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,KISS KISS TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,30 A TV
+https://30a-tv.com/music.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,KARIBENA TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,PRAISE HIM MUSIC
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RADİO ITALIA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,NG RADIO
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RADIO CAPITAL
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,FIREBIRD TV
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RELOAD MUSIC
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,MEZZO
+https://sc.id-tv.kz/mezzo.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RTV PLUS
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,BHOJPURI
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SAGA MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,RADIO ITALIA
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SKY FOLK
+http://skyfolk.mk/live.m3u8
+
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+#####################################################################################################################################################################################################
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DUGUN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
@@ -841,67 +1029,8 @@ http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
 
 
 
-#####################################################################################################################################################################################################
-#######    MUZIK KANALLARI                                               ############################################################################################################################
-#####################################################################################################################################################################################################
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/trt-muzik-2.png"                                         ,TRT MUZIK	
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/kral-pop-tv.png"                                         ,KRAL POP	
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,AKUSTIK TV
-https://ythls.armelin.one/channel/UCFwOubbFrIGY1G6ik2tT2QA.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DREAM TURK	
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RADYO CLUB
-http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_35.png"    ,PT POWER TURK	
-https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2542.png"  ,PT AKUSTIK	
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2536.png"  ,PT EN YENILER	
-https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2577.png"  ,PT SLOW	
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2534.png"  ,PT TAP TAZE	
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/logo_2601.png"          ,PT PLUS +	
-http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,POWER TV	
-https://mn-nl.mncdn.com/blutv_power2/live.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,POWER LOVE	
-http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,POWER DANCE	
-http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://canlitv.center/channels/tatlises-tv.png"                                         ,TATLISES TV	
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 TURK	
-https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 ASK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 DAMAR
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1 DANCE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,NR1
-https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MILYON TV	
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SLOW KARADENIZ TV HD
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,RIZE TURK HD
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SUPER TV
-http://90.84.231.143:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,YANSIMA MUZIK
-https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | 4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MZ | MIX TV
-https://strm.mixlive.eu/mixfm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Biz Music
-https://st.biztv.uz/hls/m_hi/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
 
 #####################################################################################################################################################################################################
 #######    SPORT KANALLARI                                               ############################################################################################################################
@@ -1610,131 +1739,6 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 
 
 
-
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,POWER TURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,TRT MÜZİK
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,NR1
-https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,NR1 TÜRK
-https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KRAL TV
-https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,MİLYON TV
-https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
-
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,1 HD MUSİC
-https://sc.id-tv.kz/1hd_34_35.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,STRANA FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,THT MUSİC
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SHANSON TV
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SOYUZ TV
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,DUGA TV
-http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SKY FOLK
-https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,BANOVİNA TV
-https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,PMC MUSİC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,PMC ROYALE
-http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RADİO JAVAN
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,EBC TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,PERSİAN MUSİC
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,AFN MUSİC
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KAYHAN TV
-http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,ARABİCA TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,MASTİ TV
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,ESİ CHANNEL
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,MARTUM MUSİC
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,BOOGLE BOLLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,OCKO TV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,OCKO GOLD
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,OCKO EXPRES
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RETRO TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1154875891_b750000.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,4 FUN
-https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,X LİTE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,V2 BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,ZEROUNO TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,MUSİC PLUS
-http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,COMPANY TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,XALASTRA TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,NRG 91
-http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,CAROLİNE TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,DEEJAY TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KROENİT TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,M1 TV
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RADİO M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SPRİNT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KİSS KİSS TV
-https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,30 A TV
-https://30a-tv.com/music.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,1 MUZ TV
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,KARİBENA TV
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,PRAİSE HİM MUSİC
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RADİO İTALİA
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,NG RADİO
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RADİO CAPİTAL
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,FİREBİRD TV
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RELOAD MUSİC
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,MEZZO
-https://sc.id-tv.kz/mezzo.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,RTV PLUS
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,BHOJPURI
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                        ,SAGA MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 
 
 #####################################################################################################################################################################################################
@@ -4938,47 +4942,7 @@ https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , Antenne Tv
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX SCHLAGER
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX ROCK
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX FLASHBACK
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX DANCE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , DLX RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , RADIO ITALIA
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , MUXX TV
-http://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/master.m3u8
-
-
-
-
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , MusicTOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , 1Music TV
-http://1music.hu/1music.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , FoX MiX
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , Radio Contac
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , SWR Dasding Studio
-https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , 21 TV
-http://player-api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , ROCK TV
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , SONUS FM
-https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , SKY FOLK
-http://skyfolk.mk/live.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 #EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo=""         group-title="🇩🇪 | DEUTSCH CH" , u tv
