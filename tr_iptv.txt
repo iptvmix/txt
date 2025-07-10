@@ -164,10 +164,6 @@ https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.ts.m3u8
 http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Bi KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine 5
 #https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
@@ -197,9 +193,16 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="tiviturk.tr"            tvg-logo="http://tivitürk.de/wp-content/uploads/2019/01/logo.png"                                  ,TIVI TURK	
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Kanal 10 TV
-https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yansıma Sinema TV
+https://hls.goodgame.ru/hls/215961.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Yansıma Muzik TV
+https://hls.goodgame.ru/hls/215959.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,TV36
+http://cdn4.yayin.com.tr/tv36/video.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ESpiye TV
+https://cdn-espiyetv.yayin.com.tr/espiyetv/espiyetv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,IPTv 100
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="kanal19.tr"             tvg-logo="https://canlitv.center/channels/kanal-19.png"                                            ,KANAL 19	
 https://live.euromediacenter.com/kanal19/index.m3u8
 
