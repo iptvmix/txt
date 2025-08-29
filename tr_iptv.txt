@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
 
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+https://tv-trt1.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2
@@ -405,6 +405,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="meteoroloji.tr"         tvg-logo="http://radyo.mgm.gov.tr/img/logos/mgm-logo.svg"                                          ,METEOROLOJI	
 http://radyo.yayin.com.tr:6227/stream
+
 
 
 
