@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://github.com/ekiptv/Logo/blob/main/TRT1.png"                                       ,TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
